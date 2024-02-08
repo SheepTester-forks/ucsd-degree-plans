@@ -1,0 +1,24 @@
+Curriculum,Linguistics (Specialization in Speech and Language Sciences)
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+9,LANGUAGE REQUIREMENT 1,,,,,,5,,
+10,LANGUAGE REQUIREMENT 2,,,,,,5,,
+11,LANGUAGE REQUIREMENT 3,,,,,,5,,
+1,COGS 14B / PSYC 60 (STATS REQUIREMENT),COGS,14B,,,,4,,
+12,LANGUAGE REQUIREMENT 4,,,,,,5,,
+2,LIGN 101,LIGN,101,,,,4,,
+3,LIGN 112 / 113,LIGN,112,,,,4,,
+13,NEURO LING ELECTIVE,,,,,,4,,
+14,LANGUAGE DEVELOPMENT ELECTIVE,,,,,,4,,
+4,LIGN 110,LIGN,110,2,,,4,,
+5,LIGN 111,LIGN,111,4,,,4,,
+15,LING ELECTIVE 1,,,,,,4,,
+6,LIGN 120,LIGN,120,2,,,4,,
+16,LING ELECTIVE 2,,,,,,4,,
+17,LING ELECTIVE 3,,,,,,4,,
+7,LIGN 121,LIGN,121,2,,,4,,
+8,LIGN 130,LIGN,130,2,,,4,,

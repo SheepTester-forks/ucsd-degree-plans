@@ -1,0 +1,58 @@
+Curriculum,Microbiology
+Degree Plan,Microbiology/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.0502
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BILD 4,BILD,4,,,,2,,,1
+4,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+6,BILD 1,BILD,1,,,,4,,,2
+7,MATH 11,MATH,11,4,,,5,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+9,CHEM 7L,CHEM,7L,5,,,4,,,3
+10,PHYS 1A,PHYS,1A,1,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,1,,,2,,,4
+12,CHEM 40A,CHEM,40A,5,,,4,,,4
+13,BILD 3,BILD,3,,,,4,,,4
+17,BICD 100,BICD,100,6;13,,,4,,,5
+16,CHEM 40B,CHEM,40B,12,,,4,,,5
+14,PHYS 1B,PHYS,1B,4;10,,,3,,,5
+15,PHYS 1BL,PHYS,1BL,4;10;11,,,2,,,5
+18,PHYS 1C,PHYS,1C,4;14,,,3,,,6
+19,PHYS 1CL,PHYS,1CL,4;14;15,,,2,,,6
+20,BIMM 100,BIMM,100,6;3;12;16,,,4,,,6
+21,CHEM 43A,CHEM,43A,9;12,,,4,,,7
+22,BIBC 100 / 102,BIBC,100,12;16,,,4,,,7
+23,BIMM 120,BIMM,120,13;22;20,,,4,,,8
+29,UD MICRO CORE 1,,,,,,4,,,8
+24,BIMM 121,BIMM,121,6,,,4,,,9
+30,UD MICRO CORE 2,,,,,,4,,,9
+25,BIMM 122,BIMM,122,20,,,4,,,10
+31,UD MICRO CORE 3,,,,,,4,,,10
+32,UD BIOLOGY ELECTIVE 1,,,,,,4,,,11
+33,UD BIOLOGY LAB,,,,,,4,,,11
+34,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+35,ALTERNATIVE 1,,,,,,4,,,1
+26,SYN 1,SYN,1,,,,4,,,2
+36,ALTERNATIVE 2,,,,,,4,,,3
+27,SYN 2,SYN,2,26,,,4,,,4
+37,ALTERNATIVE 3,,,,,,4,,,5
+38,DEI,,,,,,4,,,6
+39,ALTERNATIVE 4,,,,,,4,,,6
+40,ALTERNATIVE 5,,,,,,4,,,7
+41,ELECTIVE 1,,,,,,4,,,7
+42,ALTERNATIVE 6,,,,,,4,,,8
+43,ELECTIVE 2,,,,,,4,,,8
+28,SYN 100,SYN,100,26;27,,,4,,,9
+44,ELECTIVE 3,,,,,,4,,,10
+45,HIGH - IMPACT,,,,,,2,,,10
+46,UD ELECTIVE 1,,,,,,4,,,11
+47,UD ELECTIVE 2,,,,,,4,,,12
+48,ELECTIVE 4,,,,,,4,,,12

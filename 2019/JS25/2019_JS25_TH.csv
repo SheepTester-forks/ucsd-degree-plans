@@ -1,0 +1,54 @@
+Curriculum,Jewish Studies
+Degree Plan,Jewish Studies/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JWSP 1,JWSP,1,,,,4,,,1
+2,JWSP 2,JWSP,2,,,,4,,,2
+3,JWSP 3,JWSP,3,,,,4,,,3
+4,JWSP 101,JWSP,101,3,,,4,,,4
+5,JWSP 102,JWSP,102,,,,4,,,5
+6,SOCI 188I,SOCI,188I,,,,4,,,5
+7,JWSP 103,JWSP,103,5,,,4,,,6
+8,LTRU 110C,LTRU,110C,,,,4,,,6
+9,HINE 100,HINE,100,,,,4,,,7
+10,ANAR 103,ANAR,103,,,,4,,,8
+11,HINE 115,HINE,115,,,,4,,,9
+12,HIEU 145,HIEU,145,16,,,4,,,10
+13,HINE 104,HINE,104,,,,4,,,10
+14,LTWL 148,LTWL,148,,,,4,,,11
+15,ANAR 143,ANAR,143,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,DOC 1 / DEI,DOC,1,,,,4,,,1
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+17,DOC 2,DOC,2,16,,,6,,,2
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,2
+18,DOC 3,DOC,3,,,,6,,,3
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,GE 7,,,,,,4,,,4
+26,GE 8,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,4
+28,GE 9,,,,,,4,,,5
+29,ELECTIVE 2,,,,,,4,,,5
+30,GE 10,,,,,,4,,,6
+31,ELECTIVE 3,,,,,,4,,,6
+32,UD GE 1,,,,,,4,,,7
+33,ELECTIVE 4,,,,,,4,,,7
+34,ELECTIVE 5,,,,,,4,,,7
+35,UD GE 2,,,,,,4,,,8
+36,ELECTIVE 6,,,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+38,UD ELECTIVE,,,,,,4,,,9
+39,ELECTIVE 8,,,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

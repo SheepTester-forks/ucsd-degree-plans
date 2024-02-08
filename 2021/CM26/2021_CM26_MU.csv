@@ -1,0 +1,55 @@
+Curriculum,Communication
+Degree Plan,Communication/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10,COMM,10,,,,4,,,4
+2,COMM 100B,COMM,100B,1,,,4,,,5
+6,COMM INTERMEDIATE ELECTIVE,,,,,,4,,,5
+3,COMM 100C,COMM,100C,1,,,4,,,6
+7,COMM INTERMEDIATE / ADVANCED ELECTIVE 1,,,,,,4,,,6
+4,COMM 100A,COMM,100A,1,,,4,,,7
+8,COMM INTERMEDIATE / ADVANCED ELECTIVE 2,,,,,,4,,,7
+5,COMM 190,COMM,190,1;2,,,4,,,8
+9,COMM INTERMEDIATE / ADVANCED ELECTIVE 3,,,,,,4,,,8
+10,COMM INTERMEDIATE / ADVANCED ELECTIVE 4,,,,,,4,,,9
+11,COMM INTERMEDIATE / ADVANCED ELECTIVE 5,,,,,,4,,,9
+12,COMM INTERMEDIATE / ADVANCED ELECTIVE 6,,,,,,4,,,10
+13,COMM INTERMEDIATE / ADVANCED ELECTIVE 7,,,,,,4,,,10
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,GE / MUIR WRITING 1,,,,,,4,,,1
+15,GE 1,,,,,,4,,,1
+16,GE 2,,,,,,4,,,1
+17,GE / MUIR WRITING 2,,,,,,4,,,2
+18,GE 3,,,,,,4,,,2
+19,GE 4,,,,,,4,,,2
+20,ELECTIVE 1,,,,,,4,,,2
+21,GE 5,,,,,,4,,,3
+22,GE 6,,,,,,4,,,3
+23,ELECTIVE 2,,,,,,4,,,3
+24,ELECTIVE 3,,,,,,4,,,3
+25,GE 7,,,,,,4,,,4
+26,GE 8,,,,,,4,,,4
+27,DEI,,,,,,4,,,4
+28,GE 9,,,,,,4,,,5
+29,GE 10,,,,,,4,,,5
+30,GE 11,,,,,,4,,,6
+31,GE 12,,,,,,4,,,6
+32,ELECTIVE 4,,,,,,4,,,7
+33,ELECTIVE 5,,,,,,4,,,7
+34,ELECTIVE 6,,,,,,4,,,8
+35,ELECTIVE 7,,,,,,4,,,8
+36,ELECTIVE 8,,,,,,4,,,9
+37,MUIR UD ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 9,,,,,,4,,,11
+39,ELECTIVE 10,,,,,,4,,,11
+40,MUIR UD ELECTIVE 2,,,,,,4,,,11
+41,ELECTIVE 11,,,,,,4,,,11
+42,ELECTIVE 12,,,,,,4,,,12
+43,ELECTIVE 13,,,,,,4,,,12
+44,MUIR UD ELECTIVE 3,,,,,,4,,,12
+45,ELECTIVE 14,,,,,,4,,,12

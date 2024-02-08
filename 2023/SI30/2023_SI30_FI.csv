@@ -1,0 +1,55 @@
+Curriculum,Oceanic and Atmospheric Sciences
+Degree Plan,Oceanic and Atmospheric Sciences/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0499
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+5,PHYS 2A,PHYS,2A,1;1,,,4,,,2
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+8,PHYS 2B,PHYS,2B,5;3,,,4,,,3
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+9,PHYS 2BL,PHYS,2BL,5,,,2,,,3
+13,SIO 60,SIO,60,,,,4,,,4
+10,MATH 20D,MATH,20D,6,,,4,,,4
+12,PHYS 2CL,PHYS,2CL,5;8,,,2,,,4
+11,PHYS 2C,PHYS,2C,5;6,,,4,,,4
+16,SIO 172,SIO,172,6;11,,,4,,,5
+14,MATH 20E,MATH,20E,6,,,4,,,5
+15,CHEM 7L,CHEM,7L,4,,,4,,,5
+17,MATH 18,MATH,18,,,,4,,,6
+18,SIO 174,SIO,174,7;6,,,4,,,6
+19,SIO 171,SIO,171,6;11,,,4,,,7
+25,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+26,UD MAJOR ELECTIVE 2,,,,,,4,,,8
+27,UD MAJOR ELECTIVE 3,,,,,,4,,,8
+28,UD MAJOR ELECTIVE 4,,,,,,4,,,9
+29,UD MAJOR ELECTIVE 5,,,,,,4,,,10
+30,UD MAJOR ELECTIVE 6,,,,,,4,,,10
+31,UD MAJOR ELECTIVE 7,,,,,,4,,,11
+32,UD MAJOR ELECTIVE 8,,,,,,4,,,11
+33,UD MAJOR ELECTIVE 9,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,MMW 11,MMW,11,,,,4,,,1
+34,GE 1,,,,,,4,,,1
+21,MMW 12,MMW,12,,,,6,,,2
+22,MMW 13,MMW,13,21,,,6,,,3
+23,MMW 14 / GE,MMW,14,21;22,,,4,,,4
+35,MMW14 / GE,MMW,14,21;22,,,4,,,5
+24,MMW15,MMW,15,21;22,,,4,,,6
+36,GE 2,,,,,,4,,,6
+37,GE 3,,,,,,4,,,7
+38,GE 4,,,,,,4,,,7
+39,GE 5,,,,,,4,,,8
+40,GE 6,,,,,,4,,,9
+41,GE / DEI,,,,,,4,,,9
+42,UD ELECTIVE,,,,,,4,,,10
+43,ELECTIVE 1,,,,,,4,,,11
+44,ELECTIVE 2,,,,,,4,,,12
+45,ELECTIVE 3,,,,,,4,,,12

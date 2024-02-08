@@ -1,0 +1,53 @@
+Curriculum,Literatures in English
+Degree Plan,Literatures in English/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,LD LANGUAGE 1,,,,,,5,,,1
+1,LTEN 21,LTEN,21,,,,4,,,1
+16,LD LANGUAGE 2,,,,,,5,,,2
+2,LTEN 22,LTEN,22,,,,4,,,2
+17,LD LANGUAGE 3,,,,,,5,,,3
+3,LTEN 23,LTEN,23,,,,4,,,3
+18,LD LANGUAGE 4,,,,,,5,,,4
+4,"LTEN 27, 28, / 29",LTEN,27,,,,4,,,4
+19,LD LANGUAGE 5,,,,,,5,,,5
+5,LTEN 25,LTEN,25,,,,4,,,5
+20,LD LANGUAGE 6,,,,,,5,,,6
+6,LTEN 26,LTEN,26,,,,4,,,6
+21,"UD LTEN (A, B, C, / D) 1",,,,,,4,,,7
+22,"UD LTEN (A, B, C, / D) 2",,,,,,4,,,7
+7,"LTCS 100, LTTH 110, / LTTH 115",LTCS,100,,,,4,,,8
+23,"UD LTEN (A, B, C, / D) 3",,,,,,4,,,8
+24,"UD LTEN (A, B, C, / D) 4",,,,,,4,,,9
+25,UD LTAM,,,,,,4,,,9
+26,UD LTEN 1,,,,,,4,,,10
+27,UD LTEU,,,,,,4,,,10
+28,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,11
+29,UD LTEN 2,,,,,,4,,,11
+30,UD LTEN 3,,,,,,4,,,12
+31,UD LTEN 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,MATH 10A,MATH,10A,,,,4,,,1
+32,FINE ARTS,,,,,,4,,,1
+9,MATH 10B,MATH,10B,8,,,4,,,2
+10,HUM 1,HUM,1,,,,6,,,2
+33,MATH GE,,,,,,4,,,3
+11,HUM 2,HUM,2,,,,6,,,3
+12,HUM 3,HUM,3,10,,,4,,,4
+34,CHEMISTRY GE,,,,,,4,,,4
+13,HUM 4,HUM,4,,,,4,,,5
+35,NATURAL SCIENCE GE 1,,,,,,4,,,5
+14,HUM 5,HUM,5,,,,4,,,6
+36,NATURAL SCIENCE GE 2,,,,,,4,,,6
+37,BIOLOGY GE,,,,,,4,,,7
+38,PHYSICS GE,,,,,,4,,,8
+39,UD ELECTIVE 1,,,,,,4,,,9
+40,DEI / SOCIAL SCIENCE,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,SOCIAL SCIENCE GE,,,,,,4,,,12
+43,UD AHI / UD ELECTIVE,,,,,,2,,,12

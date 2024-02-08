@@ -1,0 +1,55 @@
+Curriculum,Communication
+Degree Plan,Communication/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,ELECTIVE 1,,,,,,4,,,1
+11,ELECTIVE 2,,,,,,4,,,1
+12,ELECTIVE 3,,,,,,4,,,2
+13,ELECTIVE 4,,,,,,4,,,2
+14,ELECTIVE 5,,,,,,4,,,3
+15,ELECTIVE 6,,,,,,4,,,3
+1,COMM 10,COMM,10,,,,4,,,4
+16,ELECTIVE 7,,,,,,4,,,4
+2,COMM 100B,COMM,100B,1,,,4,,,5
+17,COMM INTERMEDIATE ELECTIVE,,,,,,4,,,5
+3,COMM 100C,COMM,100C,1,,,4,,,6
+18,COMM INTERMEDIATE / ADVANCED ELECTIVE 1,,,,,,4,,,6
+19,GE / DEI,,,,,,4,,,6
+20,ELECTIVE 8,,,,,,4,,,6
+4,COMM 100A,COMM,100A,1,,,4,,,7
+21,COMM INTERMEDIATE / ADVANCED ELECTIVE 2,,,,,,4,,,7
+22,ELECTIVE 9,,,,,,4,,,7
+5,COMM 190,COMM,190,1;2,,,4,,,8
+23,COMM INTERMEDIATE / ADVANCED ELECTIVE 3,,,,,,4,,,8
+24,ELECTIVE 10,,,,,,4,,,8
+25,COMM INTERMEDIATE / ADVANCED ELECTIVE 4,,,,,,4,,,9
+26,COMM INTERMEDIATE / ADVANCED ELECTIVE 5,,,,,,4,,,9
+27,ELECTIVE 11,,,,,,4,,,9
+28,COMM INTERMEDIATE / ADVANCED ELECTIVE 6,,,,,,4,,,10
+29,COMM INTERMEDIATE / ADVANCED ELECTIVE 7,,,,,,4,,,10
+30,ELECTIVE 12,,,,,,4,,,11
+31,ELECTIVE 13,,,,,,4,,,12
+32,ELECTIVE 14,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,WCWP 10A,WCWP,10A,,,,4,,,1
+33,GE 1,,,,,,4,,,1
+7,WCWP 10B,WCWP,10B,6,,,4,,,2
+34,GE 2,,,,,,4,,,2
+8,PHIL / POLI 27,POLI,27,6;7,,,4,,,3
+35,GE 3,,,,,,4,,,3
+9,PHIL / POLI 28,POLI,28,8,,,4,,,4
+36,GE 4,,,,,,4,,,4
+37,GE 5,,,,,,4,,,5
+38,GE 6,,,,,,4,,,5
+39,GE 7,,,,,,4,,,7
+40,GE 8,,,,,,4,,,8
+41,GE 9,,,,,,4,,,9
+42,GE 10,,,,,,4,,,10
+43,GE 11,,,,,,4,,,11
+44,GE 12,,,,,,4,,,11
+45,GE 13,,,,,,4,,,12

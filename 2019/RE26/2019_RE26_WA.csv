@@ -1,0 +1,55 @@
+Curriculum,Study of Religion
+Degree Plan,Study of Religion/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+5,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+6,UD MAJOR ELECTIVE 3,,,,,,4,,,8
+7,UD MAJOR ELECTIVE 4,,,,,,4,,,8
+2,RELI 101 TOOLS & METHODS,RELI,101,,,,4,,,9
+8,UD MAJOR ELECTIVE 5,,,,,,4,,,9
+9,UD MAJOR ELECTIVE 6,,,,,,4,,,10
+10,UD MAJOR ELECTIVE 7,,,,,,4,,,10
+11,UD MAJOR ELECTIVE 8,,,,,,4,,,11
+3,RELI 189 SEMINAR IN RELIGION,RELI,189,2,,,4,,,11
+12,UD MAJOR ELECTIVE 9,,,,,,4,,,12
+13,UD MAJOR ELECTIVE 10,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,GE 1,,,,,,4,,,1
+15,GE 2,,,,,,4,,,1
+16,ELECTIVE 1,,,,,,4,,,1
+17,ELECTIVE 2,,,,,,4,,,1
+18,GE 3,,,,,,4,,,2
+19,GE 4,,,,,,4,,,2
+20,ELECTIVE 3,,,,,,4,,,2
+21,ELECTIVE 4,,,,,,4,,,2
+22,GE 5,,,,,,4,,,3
+23,GE 6,,,,,,4,,,3
+24,ELECTIVE 5,,,,,,4,,,3
+25,ELECTIVE 6,,,,,,4,,,3
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
+28,ELECTIVE 7,,,,,,4,,,4
+29,ELECTIVE 8,,,,,,4,,,4
+30,GE 9,,,,,,4,,,5
+31,GE 10,,,,,,4,,,5
+32,ELECTIVE 9,,,,,,4,,,5
+33,ELECTIVE 10,,,,,,4,,,5
+34,GE 11,,,,,,4,,,6
+35,GE / DEI,,,,,,4,,,6
+36,ELECTIVE 11,,,,,,4,,,6
+37,ELECTIVE 12,,,,,,4,,,6
+38,GE 12,,,,,,4,,,7
+39,GE 13,,,,,,4,,,7
+40,GE 14,,,,,,4,,,8
+41,GE 15,,,,,,4,,,8
+42,GE 16,,,,,,4,,,9
+43,GE 17,,,,,,4,,,9
+44,ELECTIVE 13,,,,,,4,,,10
+45,ELECTIVE 14,,,,,,4,,,11
+46,ELECTIVE 15,,,,,,4,,,12

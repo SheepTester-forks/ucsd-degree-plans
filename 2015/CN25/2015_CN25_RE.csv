@@ -1,0 +1,55 @@
+Curriculum,Chinese Studies
+Degree Plan,Chinese Studies/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0123
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CHIN 10A (M / D / N),CHIN,10A,,,,5,,,1
+1,HIEA COURSE / HILD 10,HILD,10,,,,4,,,1
+4,CHIN 10B (M / D / N),CHIN,10B,,,,5,,,2
+3,HIEA COURSE / HILD 11,HILD,11,,,,4,,,2
+6,CHIN 10C (M / D / N),CHIN,10C,,,,5,,,3
+5,HIEA COURSE / HILD 12,HILD,12,,,,4,,,3
+23,CHINESE STUDIES UD ELECTIVE 1,,,,,,4,,,4
+7,CHIN 20A (M / D / N),CHIN,20A,,,,4,,,4
+24,CHINESE STUDIES UD ELECTIVE 2,,,,,,4,,,5
+8,CHIN 20B (M / D / N),CHIN,20B,,,,4,,,5
+9,CHIN 20C (M / D / N),CHIN,20C,,,,4,,,6
+25,CHINESE STUDIES UD ELECTIVE 3,,,,,,4,,,6
+26,CHINESE STUDIES UD ELECTIVE 4,,,,,,4,,,6
+27,CHINESE STUDIES UD ELECTIVE 5,,,,,,4,,,7
+28,CHINESE STUDIES UD ELECTIVE 6,,,,,,4,,,7
+29,CHINESE STUDIES COLLOQUIUM,,,,,,4,,,7
+30,CHINESE STUDIES UD ELECTIVE 7,,,,,,4,,,8
+31,CHINESE STUDIES UD ELECTIVE 8,,,,,,4,,,8
+32,CHINESE STUDIES UD ELECTIVE 9,,,,,,4,,,8
+33,CHINESE STUDIES UD ELECTIVE 10,,,,,,4,,,9
+34,CHINESE STUDIES UD ELECTIVE 11,,,,,,4,,,9
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MATH 10A,MATH,10A,,,,4,,,1
+35,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+11,MATH 10B,MATH,10B,10,,,4,,,2
+12,HUM 1,HUM,1,,,,6,,,2
+13,MATH 10C,MATH,10C,11,,,4,,,3
+14,HUM 2,HUM,2,,,,6,,,3
+15,CHEM 11,CHEM,11,,,,4,,,4
+16,HUM 3,HUM,3,,,,4,,,4
+17,CHEM 12,CHEM,12,,,,4,,,5
+18,HUM 4,HUM,4,,,,4,,,5
+19,CHEM 13,CHEM,13,17,,,4,,,6
+20,HUM 5,HUM,5,,,,4,,,6
+21,PHYS 10,PHYS,10,,,,4,,,8
+22,BILD 7 / 10,BILD,7,,,,4,,,9
+36,SOCIAL SCIENCE,,,,,,4,,,10
+37,ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 2,,,,,,4,,,10
+39,ELECTIVE 3,,,,,,1,,,10
+40,FINE ARTS,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,11
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,4,,,12
+45,ELECTIVE 8,,,,,,4,,,12

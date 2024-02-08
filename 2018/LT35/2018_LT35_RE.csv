@@ -1,0 +1,56 @@
+Curriculum,Italian Literature
+Degree Plan,Italian Literature/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0902
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LIIT 1A,LIIT,1A,,,,2.5,,,1
+2,LIIT 1AX,LIIT,1AX,,,,2.5,,,1
+4,LIIT 1BX,LIIT,1BX,1;2,,,2.5,,,2
+3,LIIT 1B,LIIT,1B,1;2,,,2.5,,,2
+6,LIIT 1CX,LIIT,1CX,3;4,,,2.5,,,3
+5,LIIT 1C,LIIT,1C,3;4,,,2.5,,,3
+20,LD LTEN,,,,,,4,,,4
+7,LTIT 2A,LTIT,2A,5;6,,,5,,,4
+8,LTIT 2B,LTIT,2B,7,,,5,,,5
+9,LTIT 50,LTIT,50,,,,4,,,6
+10,LTIT 100,LTIT,100,9,,,4,,,7
+21,UD LITERATURE ELECTIVE 1,,,,,,4,,,7
+11,LTIT 115,LTIT,115,,,,4,,,8
+22,UD LTIT 1,,,,,,4,,,8
+12,LTIT 161,LTIT,161,10,,,4,,,9
+23,UD LTIT 2,,,,,,4,,,9
+24,UD LTIT 3,,,,,,4,,,10
+25,UD LTIT 4,,,,,,4,,,10
+26,UD LTIT 5,,,,,,4,,,11
+27,UD LITERATURE ELECTIVE 2,,,,,,4,,,11
+28,UD LTIT 6,,,,,,4,,,12
+29,UD LITERATURE ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,MATH 10A,MATH,10A,,,,4,,,1
+30,CHEMISTRY GE,,,,,,4,,,1
+14,MATH 10B,MATH,10B,13,,,4,,,2
+15,HUM 1,HUM,1,,,,6,,,2
+31,MATH GE,,,,,,4,,,3
+16,HUM 2,HUM,2,,,,6,,,3
+17,HUM 3,HUM,3,15,,,4,,,4
+32,BIOLOGY GE,,,,,,4,,,4
+33,PHYSICS GE,,,,,,4,,,5
+18,HUM 4,HUM,4,,,,4,,,5
+34,SOCIAL SCIENCE,,,,,,4,,,5
+35,NATURAL SCIENCE GE 1,,,,,,4,,,6
+19,HUM 5,HUM,5,,,,4,,,6
+36,ELECTIVE 1,,,,,,4,,,6
+37,NATURAL SCIENCE GE 2,,,,,,4,,,7
+38,ELECTIVE 2,,,,,,4,,,7
+39,ELECTIVE 3,,,,,,3,,,8
+40,ELECTIVE 4,,,,,,4,,,8
+41,DEI / SOCIAL SCIENCE,,,,,,4,,,9
+42,ELECTIVE 5,,,,,,4,,,9
+43,UD ELECTIVE 1,,,,,,4,,,10
+44,FINE ARTS,,,,,,4,,,10
+45,UD ELECTIVE 2,,,,,,4,,,11
+46,UD ELECTIVE 3,,,,,,4,,,12

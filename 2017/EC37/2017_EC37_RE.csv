@@ -1,0 +1,59 @@
+Curriculum,Electrical Engineering & Society
+Degree Plan,Electrical Engineering & Society/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,14.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,ECE 15,ECE,15,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+6,ECE 25,ECE,25,,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,PHYS 2A,PHYS,2A,1,,,4,,,2
+9,ECE 35,ECE,35,1;4;5,,,4,,,3
+7,MATH 20C,MATH,20C,4,,,4,,,3
+8,PHYS 2B,PHYS,2B,5;1;4,,,4,,,3
+12,ECE 30,ECE,30,3;6,,,4,,,4
+10,MATH 20D,MATH,20D,7,,,4,,,4
+11,PHYS 2C,PHYS,2C,5;1;4;7,,,4,,,4
+15,ECE 45,ECE,45,9,,,4,,,5
+13,MATH 20E,MATH,20E,7,,,4,,,5
+14,PHYS 2D,PHYS,2D,5;8;10,,,4,,,5
+29,S / H ELECTIVE 1,,,,,,4,,,5
+17,ECE 65,ECE,65,9,,,4,,,6
+16,MATH 18,MATH,18,,,,4,,,6
+30,S / H ELECTIVE 2,,,,,,4,,,6
+19,ECE 101,ECE,101,15,,,4,,,7
+20,ECE 103,ECE,103,17;14;14,,,4,,,7
+18,ECE 100,ECE,100,15;17,,,4,,,7
+21,ECE 102,ECE,102,17;18,,,4,,,8
+22,ECE 107,ECE,107,5;8;11;15,,,4,,,8
+23,ECE 109,ECE,109,1;4;7;10;16,,,4,,,8
+31,ELECTIVE 1,,,,,,4,,,9
+32,DEPTH 1,,,,,,4,,,9
+33,DEPTH 2,,,,,,4,,,9
+34,ELECTIVE 2,,,,,,4,,,10
+35,DEPTH 3,,,,,,4,,,10
+36,DEPTH 4,,,,,,4,,,10
+37,ELECTIVE 3,,,,,,4,,,11
+38,DEPTH 5,,,,,,4,,,11
+39,DESIGN,,,,,,4,,,11
+40,ELECTIVE 4,,,,,,4,,,12
+41,DEPTH 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+42,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+24,HUM 1,HUM,1,,,,6,,,2
+25,HUM 2,HUM,2,,,,6,,,3
+26,HUM 3,HUM,3,24,,,4,,,4
+27,HUM 4,HUM,4,,,,4,,,5
+28,HUM 5,HUM,5,,,,4,,,6
+43,LANGUAGE 1,,,,,,5,,,7
+44,LANGUAGE 2,,,,,,5,,,8
+45,LANGUAGE 3,,,,,,5,,,9
+46,LANGUAGE 4,,,,,,5,,,10
+47,BIOLOGY GE,,,,,,4,,,11
+48,FINE ARTS,,,,,,4,,,12
+49,SOCIAL SCIENCE GE,,,,,,4,,,12

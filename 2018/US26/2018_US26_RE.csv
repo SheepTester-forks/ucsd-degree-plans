@@ -1,0 +1,52 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 1,USP,1,,,,4,,,4
+2,USP 2,USP,2,,,,4,,,5
+3,USP 3,USP,3,,,,4,,,6
+4,POLI 30,POLI,30,,,,4,,,6
+14,USP UD 1,,,,,,4,,,7
+15,USP FD 1,,,,,,4,,,7
+16,USP RM,,,,,,4,,,8
+17,USP UD 2,,,,,,4,,,8
+18,USP UD 3,,,,,,4,,,8
+19,USP FD 2,,,,,,4,,,9
+20,USP UD 4,,,,,,4,,,9
+21,USP UD 5,,,,,,4,,,10
+5,USP 186,USP,186,,,,6,,,10
+22,USP UD 6,,,,,,4,,,11
+6,USP 187,USP,187,5,,,6,,,11
+23,USP UD 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,MATH 10A,MATH,10A,,,,4,,,1
+24,CHEMISTRY GE,,,,,,4,,,1
+25,DEI,,,,,,4,,,1
+8,MATH 10B,MATH,10B,7,,,4,,,2
+26,PHYSICS GE,,,,,,4,,,2
+9,HUM 1,HUM,1,,,,6,,,2
+27,MATH GE,,,,,,4,,,3
+28,BIOLOGY GE,,,,,,4,,,3
+10,HUM 2,HUM,2,,,,6,,,3
+29,NATURAL SCIENCE GE 1,,,,,,4,,,4
+11,HUM 3,HUM,3,9,,,4,,,4
+30,LANGUAGE 1,,,,,,5,,,4
+31,NATURAL SCIENCE GE 2,,,,,,4,,,5
+12,HUM 4,HUM,4,,,,4,,,5
+32,LANGUAGE 2,,,,,,5,,,5
+13,HUM 5,HUM,5,,,,4,,,6
+33,LANGUAGE 3,,,,,,5,,,6
+34,FINE ARTS,,,,,,4,,,7
+35,LANGUAGE 4,,,,,,5,,,7
+36,ELECTIVE 1,,,,,,4,,,8
+37,UD ELECTIVE 1,,,,,,4,,,9
+38,ELECTIVE 2,,,,,,4,,,9
+39,UD ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 3,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,12
+42,ELECTIVE 5,,,,,,4,,,12

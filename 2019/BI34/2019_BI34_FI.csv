@@ -1,0 +1,55 @@
+Curriculum,Biology with Specialization in Bioinformatics
+Degree Plan,Biology with Specialization in Bioinformatics/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,BILD 4,BILD,4,,,,2,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+6,BILD 1,BILD,1,,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+8,BILD 3,BILD,3,,,,4,,,3
+7,MATH 20C,MATH,20C,4,,,4,,,3
+9,CSE 8A,CSE,8A,,,,4,,,3
+11,CHEM 40A,CHEM,40A,5,,,4,,,4
+10,PHYS 2A,PHYS,2A,1;1,,,4,,,4
+12,CSE 8B,CSE,8B,9,,,4,,,4
+13,PHYS 2B,PHYS,2B,10;4,,,4,,,5
+14,CHEM 40B,CHEM,40B,11,,,4,,,5
+15,CSE 12,CSE,12,12,,,4,,,5
+18,BICD 100,BICD,100,6,,,4,,,6
+16,PHYS 2C,PHYS,2C,10;7,,,4,,,6
+17,CSE 21,CSE,21,,,,4,,,6
+19,BIBC 100 / 102,BIBC,100,11;14,,,4,,,7
+20,CSE 100,CSE,100,17;15,,,4,,,7
+22,CSE 101,CSE,101,20,,,4,,,8
+21,MATH 18,MATH,18,,,,4,,,8
+23,BIMM 100,BIMM,100,6;3;11;14,,,4,,,9
+24,CSE 185,CSE,185,12;15;7;6;3,,,4,,,9
+25,BENG 183,BENG,183,23,,,4,,,10
+34,UD BIOLOGY ELECTIVE 1,,,,,,4,,,10
+26,MATH 186,MATH,186,7,,,4,,,11
+27,BIMM 181,BIMM,181,20;22;23,,,4,,,11
+35,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
+28,BIMM 182,BIMM,182,20,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,MMW 11,MMW,11,,,,4,,,1
+30,MMW 12,MMW,12,,,,6,,,2
+31,MMW 13,MMW,13,30,,,6,,,3
+32,MMW 14 / GE 1,MMW,14,30;31,,,4,,,4
+36,MMW 14 / GE 2,MMW,14,30;31,,,4,,,5
+33,MMW 15,MMW,15,30;31,,,4,,,6
+37,GE / DEI,,,,,,4,,,7
+38,GE 1,,,,,,4,,,8
+39,GE 2,,,,,,4,,,8
+40,GE 3,,,,,,4,,,9
+41,UD ELECTIVE,,,,,,4,,,9
+42,GE 4,,,,,,4,,,10
+43,ELECTIVE,,,,,,2,,,10
+44,GE 5,,,,,,4,,,11
+45,GE 6,,,,,,4,,,12

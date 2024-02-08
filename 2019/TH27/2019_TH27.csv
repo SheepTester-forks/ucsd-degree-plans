@@ -1,0 +1,28 @@
+Curriculum,Dance
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,TDDM 1,TDDM,1,,,,4,,
+2,TDTR 10,TDTR,10,,,,4,,
+3,TDHD 20,TDHD,20,2,,,4,,
+13,CORE MOVEMENT 1,,,,,,4,,
+4,TDHD 21,TDHD,21,2,,,4,,
+5,TDDM 5,TDDM,5,,,,4,,
+6,TDPR 6,TDPR,6,,,,4,,
+14,CORE MOVEMENT 2,,,,,,4,,
+7,TDTR 15,TDTR,15,,,,4,,
+8,TDDM 100,TDDM,100,1,,,4,,
+9,TDTR 20,TDTR,20,,,,4,,
+10,TDMV 20,TDMV,20,,,,4,,
+11,TDTR 104,TDTR,104,,,,4,,
+15,CORE MOVEMENT 3,,,,,,4,,
+16,TDHD XXX,,,2,,,4,,
+17,CORE MOVEMENT 4,,,,,,4,,
+12,TDDM 101,TDDM,101,1,,,4,,
+18,UD ELECTIVE MOVEMENT 1,,,,,,4,,
+19,UD ELECTIVE MOVEMENT 2,,,,,,4,,
+20,UD ELECTIVE MOVEMENT 3,,,,,,4,,
+21,UD ELECTIVE MOVEMENT 4,,,,,,4,,

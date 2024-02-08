@@ -1,0 +1,54 @@
+Curriculum,Linguistics (Specialization in Speech and Language Sciences)
+Degree Plan,Linguistics (Specialization in Speech and Language Sciences)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+14,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+15,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+1,COGS 14B / PSYC 60 (STATS REQUIREMENT),COGS,14B,,,,4,,,3
+16,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+2,LIGN 101,LIGN,101,,,,4,,,4
+3,LIGN 112 / 113,LIGN,112,,,,4,,,5
+17,NEURO LING ELECTIVE,,,,,,4,,,6
+18,GE / DEI,,,,,,4,,,6
+19,LANGUAGE DEVELOPMENT ELECTIVE,,,,,,4,,,7
+4,LIGN 110,LIGN,110,2,,,4,,,7
+5,LIGN 111,LIGN,111,4,,,4,,,8
+20,LING ELECTIVE 1,,,,,,4,,,8
+6,LIGN 120,LIGN,120,2,,,4,,,9
+21,LING ELECTIVE 2,,,,,,4,,,9
+22,LING ELECTIVE 3,,,,,,4,,,10
+7,LIGN 121,LIGN,121,2,,,4,,,11
+8,LIGN 130,LIGN,130,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,WCWP 10A,WCWP,10A,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,ELECTIVE 1,,,,,,4,,,1
+10,WCWP 10B,WCWP,10B,9,,,4,,,2
+25,GE 2,,,,,,4,,,2
+26,ELECTIVE 2,,,,,,4,,,2
+11,PHIL / POLI 27,POLI,27,9;10,,,4,,,3
+27,ELECTIVE 3,,,,,,4,,,3
+12,PHIL / POLI 28,POLI,28,11,,,4,,,4
+28,GE 3,,,,,,4,,,4
+29,GE 4,,,,,,4,,,5
+30,GE 5,,,,,,4,,,5
+31,ELECTIVE 4,,,,,,4,,,5
+32,GE 6,,,,,,4,,,6
+33,ELECTIVE 5,,,,,,4,,,6
+34,GE 7,,,,,,4,,,7
+35,ELECTIVE 6,,,,,,4,,,7
+36,GE 8,,,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+38,GE 9,,,,,,4,,,9
+39,GE 10,,,,,,4,,,10
+40,ELECTIVE 8,,,,,,4,,,10
+41,GE 11,,,,,,4,,,11
+42,ELECTIVE 9,,,,,,4,,,11
+43,GE 12,,,,,,4,,,12
+44,ELECTIVE 10,,,,,,4,,,12

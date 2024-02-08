@@ -1,0 +1,55 @@
+Curriculum,Sociology-American Studies
+Degree Plan,Sociology-American Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOCI 1,SOCI,1,,,,4,,,1
+2,SOCI 2,SOCI,2,,,,4,,,2
+3,SOCI 60,SOCI,60,,,,4,,,5
+4,"SOCI 10, 20, 30, 40, / 50",SOCI,10,,,,4,,,6
+5,SOCI 100,SOCI,100,,,,4,,,7
+8,SOC UD CONCENTRATION 1,,,,,,4,,,7
+9,SOCI - METHOD,,,,,,4,,,8
+10,SOC UD ELECTIVE 1,,,,,,4,,,8
+11,SOC UD ELECTIVE 2,,,,,,4,,,9
+12,SOC UD CONCENTRATION 2,,,,,,4,,,9
+13,SOC UD CONCENTRATION 3,,,,,,4,,,10
+14,SOC UD ELECTIVE 3,,,,,,4,,,10
+15,SOC UD CONCENTRATION 4,,,,,,4,,,11
+16,SOC UD ELECTIVE 4,,,,,,4,,,11
+17,SOC UD CONCENTRATION 5,,,,,,4,,,12
+18,SOC UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,GE 1,,,,,,4,,,1
+6,GE / MCWP 40,MCWP,40,,,,4,,,1
+20,ELECTIVE 1,,,,,,4,,,1
+21,ELECTIVE 2,,,,,,4,,,2
+22,GE 2,,,,,,4,,,2
+7,GE / MCWP 50,MCWP,50,6,,,4,,,2
+23,GE 3,,,,,,4,,,3
+24,DEI,,,,,,4,,,3
+25,ELECTIVE 3,,,,,,4,,,3
+26,GE 4,,,,,,4,,,3
+27,GE 5,,,,,,4,,,4
+28,ELECTIVE 4,,,,,,4,,,4
+29,GE 6,,,,,,4,,,4
+30,ELECTIVE 5,,,,,,4,,,4
+31,ELECTIVE 6,,,,,,4,,,5
+32,GE 7,,,,,,4,,,5
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 7,,,,,,4,,,6
+35,ELECTIVE 8,,,,,,4,,,6
+36,GE 9,,,,,,4,,,6
+37,MUIR UD ELECTIVE 1,,,,,,4,,,7
+38,ELECTIVE 9,,,,,,4,,,7
+39,MUIR UD ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 10,,,,,,4,,,8
+41,ELECTIVE 11,,,,,,4,,,9
+42,MUIR UD ELECTIVE 3,,,,,,4,,,9
+43,ELECTIVE 12,,,,,,4,,,10
+44,ELECTIVE 13,,,,,,4,,,11
+45,ELECTIVE 14,,,,,,4,,,12

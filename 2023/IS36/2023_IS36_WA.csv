@@ -1,0 +1,51 @@
+Curriculum,International Studies - Philosophy
+Degree Plan,International Studies - Philosophy/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LANGUAGE 1,,,,,,5,,,1
+9,LANGUAGE 2,,,,,,5,,,2
+10,LANGUAGE 3,,,,,,5,,,3
+11,LANGUAGE 4,,,,,,5,,,4
+1,PHIL 10,PHIL,10,,,,4,,,4
+2,INTL 101 / 102 1,INTL,101,4,,,4,,,5
+12,INTL 101 / 102 2,INTL,101,4,,,4,,,6
+13,GE / DEI,,,,,,4,,,6
+14,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+15,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,8
+16,DF - 1 - PHILOSOPHY,,,,,,4,,,8
+17,DF - 2 - PHILOSOPHY,,,,,,4,,,8
+18,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,9
+19,DF - 3 - PHILOSOPHY,,,,,,4,,,9
+20,DF - 4 - PHILOSOPHY,,,,,,4,,,9
+21,DF - 5 - PHILOSOPHY,,,,,,4,,,10
+3,INTL 190,INTL,190,2,,,4,,,10
+22,DF - 6 - PHILOSOPHY,,,,,,4,,,11
+23,DF - 7 - PHILOSOPHY,,,,,,4,,,11
+24,DF - 8 - PHILOSOPHY,,,,,,4,,,12
+25,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,WCWP 10A,WCWP,10A,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+5,WCWP 10B,WCWP,10B,4,,,4,,,2
+27,GE 2,,,,,,4,,,2
+6,PHIL 27 / POLI 27,PHIL,27,4;5,,,4,,,3
+28,GE 3,,,,,,4,,,3
+7,PHIL 28 / POLI 28,PHIL,28,6,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,5
+31,GE 5,,,,,,4,,,5
+32,GE 6,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,6
+34,GE 7,,,,,,4,,,6
+35,GE 8,,,,,,4,,,8
+36,GE 9,,,,,,4,,,9
+37,GE 10,,,,,,4,,,10
+38,GE 11,,,,,,4,,,10
+39,GE 12,,,,,,4,,,11
+40,ELECTIVE 3,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,12

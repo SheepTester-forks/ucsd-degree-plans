@@ -1,0 +1,19 @@
+Curriculum,Study of Religion
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+3,UD ARTS & HUMANITIES (MAJOR) 1,,,,,,4,,
+4,UD SOCIAL SCIENCE (MAJOR),,,,,,4,,
+5,UD ARTS & HUMANITIES (MAJOR) 2,,,,,,4,,
+6,UD SOCIAL SCIENCES (MAJOR),,,,,,4,,
+1,RELI 101,RELI,101,,,,4,,
+7,UD ELECTIVE - SINGLE TRADITION (MAJOR) 1,,,,,,4,,
+8,UD ELECTIVE - SINGLE TRADITION (MAJOR) 2,,,,,,4,,
+9,UD ELECTIVE (MAJOR) 1,,,,,,4,,
+10,UD ELECTIVE (MAJOR) 2,,,,,,4,,
+2,RELI 189,RELI,189,1,,,4,,
+11,UD ELECTIVE (MAJOR) 3,,,,,,4,,
+12,UD ELECTIVE (MAJOR) 4,,,,,,4,,

@@ -1,0 +1,27 @@
+Curriculum,Visual Arts (Media)
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,VIS 84,VIS,84,,,,4,,
+6,FOUNDATION LEVEL: ART MAKING 1,,,,,,4,,
+2,VIS 11,VIS,11,,,,4,,
+3,VIS 22,VIS,22,,,,4,,
+4,VIS 70N,VIS,70N,,,,6,,
+7,FOUNDATION LEVEL: HISTORY,,,,,,4,,
+8,FOUNDATION LEVEL: ART MAKING 2,,,,,,4,,
+5,VIS 174,VIS,174,4,,,4,,
+9,INTERMEDIATE LEVEL: ART MAKING 1,,,,,,4,,
+10,HISTORY & THEORY 1,,,,,,4,,
+11,INTERMEDIATE LEVEL: ART MAKING 2,,,,,,4,,
+12,HISTORY & THEORY 2,,,,,,4,,
+13,INTERMEDIATE LEVEL: ART MAKING 3,,,,,,4,,
+14,HISTORY & THEORY 3,,,,,,4,,
+15,INTERMEDIATE LEVEL: ART MAKING 4,,,,,,4,,
+16,INTERMEDIATE LEVEL: INTERDISCIPLINARY,,,,,,4,,
+17,ADVANCED LEVEL: ART MAKING 1,,,,,,4,,
+18,ADVANCED LEVEL: ART MAKING 2,,,,,,4,,
+19,ADVANCED LEVEL: ART MAKING 3,,,,,,4,,
+20,ADVANCED LEVEL: INTERDISCIPLINARY,,,,,,4,,

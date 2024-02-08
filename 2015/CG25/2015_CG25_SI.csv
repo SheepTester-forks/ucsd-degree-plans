@@ -1,0 +1,54 @@
+Curriculum,Cognitive Science
+Degree Plan,Cognitive Science/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+4,COGS 1,COGS,1,,,,4,,,4
+13,4TH MATH (BS),,,,,,4,,,4
+5,COGS 14A,COGS,14A,,,,4,,,5
+7,COGS 14B (BS),COGS,14B,5,,,4,,,6
+6,CSE 7,CSE,7,,,,4,,,6
+14,COGS CORE 1,,,,,,4,,,7
+15,COGS CORE 2,,,,,,4,,,7
+16,COGS CORE / 109 (BS),,,,,,4,,,7
+17,COGS CORE 3,,,,,,4,,,8
+18,COGS CORE 4,,,,,,4,,,8
+19,COGS CORE 5,,,,,,4,,,8
+20,COGS CORE 6,,,,,,4,,,9
+21,COGS CORE 7,,,,,,4,,,9
+22,COGS CORE 8,,,,,,4,,,9
+23,UD ELECTIVE (BS) 1,,,,,,4,,,10
+24,UD ELECTIVE 1,,,,,,4,,,10
+25,UD ELECTIVE 2,,,,,,4,,,11
+26,UD ELECTIVE (BS) 2,,,,,,4,,,11
+27,UD ELECTIVE 3,,,,,,4,,,12
+28,UD ELECTIVE (BS) 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,CAT 1,CAT,1,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+30,GE 2,,,,,,4,,,1
+9,CAT 2,CAT,2,8,,,6,,,2
+31,GE 3,,,,,,4,,,2
+10,CAT 3,CAT,3,9,,,6,,,3
+32,GE / DEI,,,,,,4,,,3
+33,GE 4,,,,,,4,,,4
+34,GE 5,,,,,,4,,,5
+35,GE 6,,,,,,4,,,5
+36,GENERAL ELECTIVE 1,,,,,,4,,,5
+37,GENERAL ELECTIVE 2,,,,,,4,,,6
+11,COGS CORE 107A,CORE,107A,,,,4,,,7
+38,GENERAL ELECTIVE 3,,,,,,4,,,8
+39,GENERAL ELECTIVE 4,,,,,,4,,,9
+12,CAT 125,CAT,125,,,,4,,,10
+40,GENERAL ELECTIVE 5,,,,,,4,,,10
+41,GENERAL ELECTIVE 6,,,,,,4,,,11
+42,GENERAL ELECTIVE 7,,,,,,4,,,11
+43,GENERAL ELECTIVE 8,,,,,,4,,,12
+44,GENERAL ELECTIVE 9,,,,,,4,,,12

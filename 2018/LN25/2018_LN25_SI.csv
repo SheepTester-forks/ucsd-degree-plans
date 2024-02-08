@@ -1,0 +1,53 @@
+Curriculum,Linguistics
+Degree Plan,Linguistics/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+12,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+13,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+14,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+1,LIGN 101,LIGN,101,,,,4,,,4
+15,LIGN ELECTIVE 1,,,,,,4,,,5
+16,LIGN ELECTIVE 2,,,,,,4,,,6
+17,LIGN ELECTIVE 3,,,,,,4,,,7
+2,LIGN 110,LIGN,110,1,,,4,,,7
+3,LIGN 111,LIGN,111,2,,,4,,,8
+4,LIGN 120,LIGN,120,,,,4,,,9
+18,LIGN ELECTIVE 4,,,,,,4,,,9
+19,LIGN ELECTIVE 5,,,,,,4,,,10
+5,LIGN 121,LIGN,121,1,,,4,,,11
+20,LIGN ELECTIVE / OTHER,,,,,,4,,,12
+6,LIGN 130,LIGN,130,1,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+8,CAT 2,CAT,2,7,,,6,,,2
+23,GE 3,,,,,,4,,,2
+9,CAT 3,CAT,3,8,,,6,,,3
+24,GE 4,,,,,,4,,,3
+25,GE / DEI,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,GE 5,,,,,,4,,,5
+28,ELECTIVE 2,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,GE 6,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,6
+33,UD ELECTIVE 1,,,,,,4,,,7
+34,UD ELECTIVE 2,,,,,,4,,,7
+35,ELECTIVE 6,,,,,,4,,,8
+36,UD ELECTIVE 3,,,,,,4,,,8
+37,UD ELECTIVE 4,,,,,,4,,,8
+10,CAT 125,CAT,125,,,,4,,,9
+38,UD ELECTIVE 5,,,,,,4,,,9
+39,UD ELECTIVE 6,,,,,,4,,,10
+40,UD ELECTIVE 7,,,,,,4,,,10
+41,UD ELECTIVE 8,,,,,,4,,,11
+42,GE 7,,,,,,4,,,11
+43,UD ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Cognitive and Behavioral Neuroscience
+Degree Plan,Cognitive and Behavioral Neuroscience/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,COGS 17,COGS,17,,,,4,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+12,NATURAL SCIENCE 1,,,,,,4,,,2
+4,MATH 10C / 20C,MATH,10C,3,,,4,,,3
+13,NATURAL SCIENCE 2,,,,,,4,,,3
+5,COGS 14A / PSYC 70,COGS,14A,,,,4,,,4
+6,COGS 14B / PSYC 60,COGS,14B,5,,,4,,,5
+14,COMPUTER PROGRAMMING,,,,,,4,,,6
+7,COGS 107A,COGS,107A,2,,,4,,,7
+15,CBN CORE 1,,,,,,4,,,7
+16,CBN ELECTIVE 1,,,,,,4,,,8
+17,CBN CORE 2,,,,,,4,,,8
+18,CBN ELECTIVE 2,,,,,,4,,,9
+19,CBN CORE 3,,,,,,4,,,9
+20,CBN RESEARCH 1,,,,,,4,,,9
+21,CBN ELECTIVE 3,,,,,,4,,,10
+22,CBN ELECTIVE 4,,,,,,4,,,10
+23,CBN RESEARCH 2,,,,,,4,,,10
+24,CBN ELECTIVE 5,,,,,,4,,,11
+25,ADDITIONAL ELECTIVE 1,,,,,,4,,,11
+26,CBN ELECTIVE 6,,,,,,4,,,12
+27,ADDITIONAL ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,CAT 1,CAT,1,,,,4,,,1
+9,CAT 2,CAT,2,8,,,6,,,2
+10,CAT 3,CAT,3,9,,,6,,,3
+28,GE 1,,,,,,4,,,4
+29,GE 2,,,,,,4,,,4
+30,GE 3,,,,,,4,,,4
+31,GE / DEI,,,,,,4,,,5
+32,GE 4,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,6
+35,ELECTIVE 3,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,6
+37,ELECTIVE 5,,,,,,4,,,7
+38,ELECTIVE 6,,,,,,4,,,7
+39,ELECTIVE 7,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,8
+41,ELECTIVE 9,,,,,,4,,,9
+42,ELECTIVE 10,,,,,,4,,,10
+11,CAT 125,CAT,125,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12

@@ -1,0 +1,35 @@
+Curriculum,"Ecology, Behavior and Evolution"
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1399
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,BILD 4,BILD,4,,,,2,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,MATH 10A / 20A,MATH,10A,,,,4,,
+4,BILD 3,BILD,3,,,,4,,
+5,CHEM 6B,CHEM,6B,2;3,,,4,,
+6,MATH 10B / 20B,MATH,10B,3,,,4,,
+7,BILD 1,BILD,1,,,,4,,
+8,CHEM 6C,CHEM,6C,5,,,4,,
+9,MATH 11,MATH,11,6,,,5,,
+10,PHYS 1A,PHYS,1A,3,,,3,,
+11,PHYS 1AL,PHYS,1AL,3,,,2,,
+12,BILD 2,BILD,2,7,,,4,,
+13,PHYS 1B,PHYS,1B,6;10,,,3,,
+14,PHYS 1BL,PHYS,1BL,6;10;11,,,2,,
+15,BIEB 102,BIEB,102,4,,,4,,
+16,PHYS 1C,PHYS,1C,6;13,,,3,,
+17,PHYS 1CL,PHYS,1CL,6;13;14,,,2,,
+18,BICD 100,BICD,100,7;4,,,4,,
+19,BIEB 150,BIEB,150,4;7,,,4,,
+20,UD EBE LAB,,,,,,4,,
+21,UD BIOLOGY LAB,,,,,,4,,
+22,UD EBE CORE 1,,,,,,4,,
+23,UD BIOLOGY ELECTIVE 1,,,,,,4,,
+24,UD EBE CORE 2,,,,,,4,,
+25,UD EBE CORE 3,,,,,,4,,
+26,UD EBE CORE 4,,,,,,4,,
+27,UD BIOLOGY ELECTIVE 2,,,,,,4,,
+28,UD BIOLOGY ELECTIVE 3,,,,,,4,,

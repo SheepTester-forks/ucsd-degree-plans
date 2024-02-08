@@ -1,0 +1,56 @@
+Curriculum,Molecular Synthesis
+Degree Plan,Molecular Synthesis/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,2,,,4,,,2
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+5,CHEM 6C,CHEM,6C,3,,,4,,,3
+7,CHEM 7LM / 7L,CHEM,7LM,3,,,4,,,3
+9,CHEM 40A,CHEM,40A,3,,,4,,,4
+10,MATH 20D,MATH,20D,6,,,4,,,4
+8,PHYS 2A,PHYS,2A,2;2,,,4,,,4
+12,CHEM 40B,CHEM,40B,9,,,4,,,5
+13,CHEM 43AM / 43A,CHEM,43AM,7;9,,,4,,,5
+11,PHYS 2B,PHYS,2B,8;4,,,4,,,5
+14,PHYS 2C / 2D,PHYS,2C,8;6,,,4,,,6
+15,CHEM 40C,CHEM,40C,12,,,4,,,6
+16,PHYS 2BL / 2CL / 2DL,PHYS,2BL,8,,,2,,,6
+17,CHEM 100A,CHEM,100A,5,,,4,,,7
+18,CHEM 114A,CHEM,114A,9,,,4,,,7
+19,CHEM 120A,CHEM,120A,5;9,,,4,,,7
+20,CHEM 126A,CHEM,126A,5;14;6,,,4,,,8
+21,CHEM 120B,CHEM,120B,19,,,4,,,8
+22,CHEM 143B,CHEM,143B,13;12,,,4,,,8
+23,CHEM 126B,CHEM,126B,20,,,4,,,9
+24,CHEM 105A,CHEM,105A,17;16;20,,,4,,,9
+26,CHEM 123 / 143C / 143D 1,CHEM,123,19;13;21,,,5,,,10
+25,CHEM 152,CHEM,152,15,,,4,,,10
+29,CHEM ELECTIVE,,,,,,4,,,11
+27,CHEM 154 / 156,CHEM,154,15,,,4,,,11
+30,CHEM 123 / 143C / 143D 2,CHEM,123,19;13;21,,,4,,,12
+28,CHEM 125 / 157,CHEM,125,18;19,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+31,GE / WRITING 1,,,,,,4,,,1
+32,GE 1,,,,,,4,,,1
+33,GE / WRITING 2,,,,,,4,,,2
+34,GE 2,,,,,,4,,,2
+35,GE 3,,,,,,4,,,3
+36,GE 4,,,,,,4,,,4
+37,GE 5,,,,,,4,,,5
+38,GE 6,,,,,,4,,,6
+39,GE 7,,,,,,4,,,7
+40,GE 8,,,,,,4,,,8
+41,DEI,,,,,,4,,,9
+42,GE 9,,,,,,4,,,9
+43,ELECTIVE 1,,,,,,1,,,10
+44,MUIR UD ELECTIVE,,,,,,4,,,10
+45,ELECTIVE 2,,,,,,4,,,11
+46,ELECTIVE 3,,,,,,4,,,12

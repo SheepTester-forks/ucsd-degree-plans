@@ -1,0 +1,58 @@
+Curriculum,Engineering Physics
+Degree Plan,Engineering Physics/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,ECE 15,ECE,15,,,,4,,,1
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,ECE 25,ECE,25,,,,4,,,2
+6,PHYS 2A,PHYS,2A,1,,,4,,,2
+7,MATH 20C,MATH,20C,4,,,4,,,3
+8,ECE 35,ECE,35,1;4;6,,,4,,,3
+9,PHYS 2B,PHYS,2B,6;4,,,4,,,3
+10,ECE 45,ECE,45,8,,,4,,,4
+11,MATH 20D,MATH,20D,7,,,4,,,4
+12,PHYS 2C,PHYS,2C,6;1;4;7,,,4,,,4
+13,ECE 65,ECE,65,8,,,4,,,5
+14,MATH 20E,MATH,20E,7,,,4,,,5
+15,PHYS 2D,PHYS,2D,6;9;11,,,4,,,5
+16,PHYS 2DL,PHYS,2DL,,,,2,,,5
+17,MATH 20F,MATH,20F,7,,,4,,,6
+18,ECE 30,ECE,30,2;5,,,4,,,6
+19,ECE 107,ECE,107,6;9;12;15;10,,,4,,,6
+20,ECE 101,ECE,101,10,,,4,,,7
+21,ECE 100,ECE,100,10;13,,,4,,,7
+22,PHYS 110A,PHYS,110A,6;9;12;12;1;4;7;11;14;17,,,4,,,7
+23,ECE 103,ECE,103,13;15;15,,,4,,,8
+24,ECE 102,ECE,102,13;21,,,4,,,8
+25,MATH 110A,MATH,110A,11;17,,,4,,,8
+26,ECE 109,ECE,109,1;4;7;11;17,,,4,,,9
+33,ELECTIVE 1,,,,,,4,,,9
+27,PHYS 130A,PHYS,130A,22,,,4,,,9
+34,ELECTIVE 2,,,,,,4,,,10
+28,PHYS 130B,PHYS,130B,27,,,4,,,10
+29,PHYS 140A,PHYS,140A,27,,,4,,,10
+35,ELECTIVE 3,,,,,,4,,,11
+36,ELECTIVE 4,,,,,,4,,,11
+37,ENG DESIGN,,,,,,4,,,11
+38,ELECTIVE 5,,,,,,4,,,12
+39,DEPTH 1,,,,,,4,,,12
+40,DEPTH 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,DOC 1 / DEI,DOC,1,,,,4,,,1
+31,DOC 2,DOC,2,30,,,6,,,2
+32,DOC 3,DOC,3,,,,6,,,3
+41,GE 1,,,,,,4,,,4
+42,GE 2,,,,,,4,,,6
+43,GE 3,,,,,,4,,,7
+44,GE 4,,,,,,4,,,8
+45,GE 5,,,,,,4,,,9
+46,GE 6,,,,,,4,,,10
+47,UD GE 1,,,,,,4,,,11
+48,UD GE 2,,,,,,4,,,12

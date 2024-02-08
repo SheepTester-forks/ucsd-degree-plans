@@ -1,0 +1,53 @@
+Curriculum,Communication
+Degree Plan,Communication/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10,COMM,10,,,,4,,,6
+2,COMM 100A,COMM,100A,1,,,4,,,7
+13,COMM INTERMEDIATE / ADV ELECTIVE 1,,,,,,4,,,7
+14,COMM INTERMEDIATE / ADV ELECTIVE 2,,,,,,4,,,7
+3,COMM 100B,COMM,100B,1,,,4,,,8
+15,COMM INTERMEDIATE / ADV ELECTIVE 3,,,,,,4,,,8
+16,COMM INTERMEDIATE / ADV ELECTIVE 4,,,,,,4,,,8
+4,COMM 100C,COMM,100C,1,,,4,,,9
+17,COMM INTERMEDIATE / ADV ELECTIVE 5,,,,,,4,,,9
+18,COMM INTERMEDIATE / ADV ELECTIVE 6,,,,,,4,,,9
+5,COMM 190,COMM,190,1;2,,,4,,,10
+19,COMM INTERMEDIATE / ADV ELECTIVE 7,,,,,,4,,,10
+20,COMM INTERMEDIATE / ADV ELECTIVE 8,,,,,,4,,,11
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,SOCIAL SCIENCE 1,,,,,,4,,,1
+6,MATH 10A,MATH,10A,,,,4,,,1
+22,LANGUAGE 1,,,,,,5,,,1
+7,HUM 1,HUM,1,,,,6,,,2
+8,MATH 10B,MATH,10B,6,,,4,,,2
+23,LANGUAGE 2,,,,,,5,,,2
+9,HUM 2,HUM,2,,,,6,,,3
+24,MATH GE,,,,,,4,,,3
+25,LANGUAGE 3,,,,,,5,,,3
+10,HUM 3,HUM,3,7,,,4,,,4
+26,SOCIAL SCIENCE 2,,,,,,4,,,4
+27,CHEMISTRY GE,,,,,,4,,,4
+28,LANGUAGE 4,,,,,,5,,,4
+11,HUM 4,HUM,4,,,,4,,,5
+29,FINE ARTS,,,,,,4,,,5
+30,PHYSICS GE,,,,,,4,,,5
+31,NATURAL SCIENCE GE 1,,,,,,4,,,5
+12,HUM 5,HUM,5,,,,4,,,6
+32,BIOLOGY GE,,,,,,4,,,6
+33,NATURAL SCIENCE GE 2,,,,,,4,,,6
+34,UD ELECTIVE 1,,,,,,4,,,7
+35,UD ELECTIVE 2,,,,,,4,,,8
+36,UD ELECTIVE 3,,,,,,4,,,9
+37,ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 2,,,,,,4,,,10
+39,COMM ELECTIVE 1,,,,,,4,,,11
+40,ELECTIVE 3,,,,,,4,,,11
+41,COMM ELECTIVE 2,,,,,,4,,,12
+42,ELECTIVE 4,,,,,,4,,,12
+43,ELECTIVE 5,,,,,,4,,,12

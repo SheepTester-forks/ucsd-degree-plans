@@ -1,0 +1,51 @@
+Curriculum,International Studies-Linguistics
+Degree Plan,International Studies-Linguistics/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LANGUAGE 1,,,,,,5,,,1
+9,LANGUAGE 2,,,,,,5,,,2
+10,LANGUAGE 3,,,,,,5,,,3
+11,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,4,,,4,,,5
+12,INTL 101 / 102 2,INTL,101,4,,,4,,,6
+13,GE / DEI,,,,,,4,,,6
+14,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+15,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+2,DF1 - LINGUISTICS (LIGN 101),LIGN,101,,,,4,,,8
+16,DF2 - LINGUISTICS,,,,,,4,,,8
+17,DF3 - LINGUISTICS (RR2),,,,,,4,,,9
+18,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+19,DF4 - LINGUISTICS,,,,,,4,,,9
+20,DF5 - LINGUISTICS (RR3),,,,,,4,,,10
+3,INTL 190,INTL,190,1,,,4,,,10
+21,IE3 - INTERDISC ELECTIVE,,,,,,4,,,11
+22,DF6 - LINGUISTICS,,,,,,4,,,11
+23,DF7 - LINGUISTICS,,,,,,4,,,12
+24,DF8 - LINGUISTICS,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+5,WCWP 10B,WCWP,10B,4,,,4,,,2
+26,GE 2,,,,,,4,,,2
+6,PHIL 27 / POLI 27,PHIL,27,4;5,,,4,,,3
+27,GE 3,,,,,,4,,,3
+7,PHIL 28 / POLI 28,PHIL,28,6,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,GE 5,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,5
+31,GE 6,,,,,,4,,,5
+32,GE 7,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,6
+34,GE 8,,,,,,4,,,6
+35,GE 9,,,,,,4,,,8
+36,GE 10,,,,,,4,,,9
+37,GE 11,,,,,,4,,,10
+38,GE 12,,,,,,4,,,10
+39,ELECTIVE 3,,,,,,4,,,11
+40,GE 13,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,12

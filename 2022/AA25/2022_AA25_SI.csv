@@ -1,0 +1,54 @@
+Curriculum,Black Diaspora & African American Studies
+Degree Plan,Black Diaspora & African American Studies/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD CORE COURSE,,,,,,4,,,1
+6,UD CORE COURSE 1,,,,,,4,,,7
+7,UD CONCENTRATION ELECTIVE 1,,,,,,4,,,7
+8,UD CORE COURSE 2,,,,,,4,,,8
+9,UD HUMAN RESEARCH METHODS COURSE,,,,,,4,,,8
+10,UD CORE COURSE 3,,,,,,4,,,9
+11,UD CONCENTRATION ELECTIVE 2,,,,,,4,,,9
+12,UD CONCENTRATION ELECTIVE 3,,,,,,4,,,10
+13,ADDITIONAL UD ELECTIVE,,,,,,4,,,10
+14,UD CONCENTRATION ELECTIVE 4,,,,,,4,,,11
+15,UD CONCENTRATION ELECTIVE 5,,,,,,4,,,11
+16,UD CORE COURSE - CAPSTONE,,,,,,4,,,12
+17,UD CONCENTRATION ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CAT 1,CAT,1,,,,4,,,1
+18,GE 1,,,,,,4,,,1
+2,CAT 2,CAT,2,1,,,6,,,2
+19,GE 2,,,,,,4,,,2
+20,GE 3,,,,,,4,,,2
+3,CAT 3,CAT,3,2,,,6,,,3
+21,GE 4,,,,,,4,,,3
+22,GE 5,,,,,,4,,,3
+23,GE 6,,,,,,4,,,4
+24,GE 7,,,,,,4,,,4
+25,GE 8,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,GE 9,,,,,,4,,,5
+28,ELECTIVE 2,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,ELECTIVE 4,,,,,,4,,,5
+31,GE / DEI,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,6
+33,ELECTIVE 6,,,,,,4,,,6
+34,ELECTIVE 7,,,,,,4,,,6
+4,CAT 125 / EXPERIENTIAL LEARNING,CAT,125,,,,4,,,7
+35,ELECTIVE 8,,,,,,4,,,7
+36,CAT 125 / EXPERIENTIAL LEARNING / PRACTICUM,CAT,125,,,,4,,,8
+37,ELECTIVE 9,,,,,,4,,,8
+38,UPPER DIVISION ELECTIVE,,,,,,4,,,9
+39,ELECTIVE 10,,,,,,4,,,9
+40,ELECTIVE 11,,,,,,4,,,10
+41,ELECTIVE 12,,,,,,4,,,10
+42,ELECTIVE 13,,,,,,4,,,11
+43,ELECTIVE 14,,,,,,4,,,11
+44,ELECTIVE 15,,,,,,4,,,12

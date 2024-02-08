@@ -1,0 +1,61 @@
+Curriculum,Aerospace Engineering
+Degree Plan,Aerospace Engineering/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MAE 2,MAE,2,,,,4,,,1
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+5,MATH 20B,MATH,20B,1,,,4,,,2
+4,PHYS 2A,PHYS,2A,1,,,4,,,2
+38,NEW MAE MATERIALS COURSE (PENDING),,,,,,3,,,3
+39,NEW MAE MATERIALS LAB (PENDING),,,,,,1,,,3
+6,MATH 20C,MATH,20C,5,,,4,,,3
+7,PHYS 2B,PHYS,2B,4;5,,,4,,,3
+8,MAE 3,MAE,3,4,,,4,,,4
+9,MATH 20D,MATH,20D,6,,,4,,,4
+10,PHYS 2C,PHYS,2C,4;1;5;6,,,4,,,4
+11,PHYS 2CL,PHYS,2CL,4;7,,,2,,,4
+12,MATH 18,MATH,18,,,,4,,,5
+14,MAE 8,MAE,8,1;5,,,4,,,5
+13,MAE 130A,MAE,130A,4;6,,,4,,,5
+15,MATH 20E,MATH,20E,12;6,,,4,,,6
+16,MAE 130B,MAE,130B,13,,,4,,,6
+17,MAE 131A,MAE,131A,13;9,,,4,,,6
+18,MAE 105,MAE,105,4;7;9,,,4,,,7
+19,MAE 110A,MAE,110A,,,,4,,,7
+20,MAE 107,MAE,107,14;12,,,4,,,7
+21,MAE 140,MAE,140,9;7,,,4,,,7
+23,MAE 130C,MAE,130C,16,,,4,,,8
+25,SE 160A,SE,160A,16;17,,,4,,,8
+22,MAE 101A,MAE,101A,4;9;15,,,4,,,8
+24,MAE 143A,MAE,143A,9;15;12;18,,,4,,,8
+26,MAE 170,MAE,170,11,,,4,,,9
+27,MAE 143B,MAE,143B,24,,,4,,,9
+28,MAE 101B,MAE,101B,22;19,,,4,,,9
+29,SE 160B,SE,160B,25;23,,,4,,,9
+30,MAE 150,MAE,150,8;20;13,,,4,,,10
+31,MAE 104,MAE,104,22;28,,,4,,,10
+32,MAE 101C,MAE,101C,22;18,,,4,,,10
+33,MAE 113,MAE,113,19;22;28,,,4,,,11
+34,MAE 142,MAE,142,31;27,,,4,,,11
+35,MAE 155A,MAE,155A,2;31;23;29,,,4,,,11
+36,MAE 175A,MAE,175A,32;27;26,,,4,,,11
+37,MAE 155B,MAE,155B,33;34;35;26,,,4,,,12
+40,MAE TE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+41,GE / WRITING 1,,,,,,4,,,1
+42,GE / WRITING 2,,,,,,4,,,2
+43,GE 1,,,,,,4,,,2
+44,GE 2,,,,,,4,,,3
+45,GE 3,,,,,,4,,,3
+46,GE 4,,,,,,4,,,4
+47,GE 5,,,,,,4,,,5
+48,GE 6,,,,,,4,,,6
+49,DEI / GE,,,,,,4,,,10
+50,GE 7,,,,,,4,,,12
+51,GE 8,,,,,,4,,,12

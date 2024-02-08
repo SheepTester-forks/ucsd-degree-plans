@@ -1,0 +1,53 @@
+Curriculum,Political Science/American Politics
+Degree Plan,Political Science/American Politics/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 10D,POLI,10D,,,,4,,,1
+10,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+11,LD POLI 2,,,,,,4,,,4
+12,UD POLI 1,,,,,,4,,,5
+13,UD POLI / AMERICAN POLITICS 1,,,,,,4,,,6
+14,UD POLI / AMERICAN POLITICS 2,,,,,,4,,,7
+15,UD POLI 2,,,,,,4,,,7
+16,UD POLI / AMERICAN POLITICS 3,,,,,,4,,,8
+17,UD POLI 3,,,,,,4,,,8
+18,UD POLI / AMERICAN POLITICS 4,,,,,,4,,,9
+19,UD POLI 4,,,,,,4,,,9
+20,UD POLI / AMERICAN POLITICS 5,,,,,,4,,,10
+21,UD POLI 5,,,,,,4,,,10
+22,UD POLI 6,,,,,,4,,,11
+23,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A,MATH,10A,,,,4,,,1
+24,FINE ARTS,,,,,,4,,,1
+4,MATH 10B,MATH,10B,3,,,4,,,2
+5,HUM 1,HUM,1,,,,6,,,2
+25,MATH GE,,,,,,4,,,3
+6,HUM 2,HUM,2,,,,6,,,3
+7,HUM 3,HUM,3,5,,,4,,,4
+26,CHEMISTRY GE,,,,,,4,,,4
+27,LANGUAGE 1,,,,,,5,,,4
+8,HUM 4,HUM,4,,,,4,,,5
+28,PHYSICS GE,,,,,,4,,,5
+29,LANGUAGE 2,,,,,,5,,,5
+9,HUM 5,HUM,5,,,,4,,,6
+30,BIOLOGY GE,,,,,,4,,,6
+31,LANGUAGE 3,,,,,,5,,,6
+32,DEI,,,,,,4,,,7
+33,LANGUAGE 4,,,,,,5,,,7
+34,NATURAL SCIENCE GE 1,,,,,,4,,,8
+35,ELECTIVE 1,,,,,,4,,,8
+36,NATURAL SCIENCE GE 2,,,,,,4,,,9
+37,ELECTIVE 2,,,,,,4,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,ELECTIVE 3,,,,,,4,,,10
+40,UD ELECTIVE 2,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,11
+42,UD ELECTIVE 3,,,,,,4,,,12
+43,ELECTIVE 5,,,,,,4,,,12

@@ -1,0 +1,33 @@
+Curriculum,
+Degree Plan,/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,ALTERNATIVE 1,,,,,,4,,,1
+4,ALTERNATIVE 2,,,,,,4,,,1
+5,DEI,,,,,,4,,,1
+6,ELECTIVE 1,,,,,,4,,,1
+7,ALTERNATIVE 3,,,,,,4,,,2
+8,ALTERNATIVE 4,,,,,,4,,,2
+1,SYN 1,SYN,1,,,,4,,,2
+9,ELECTIVE 2,,,,,,4,,,2
+10,ALTERNATIVE 5,,,,,,4,,,3
+11,ALTERNATIVE 6,,,,,,4,,,3
+12,ELECTIVE 3,,,,,,4,,,3
+13,ELECTIVE 4,,,,,,4,,,3
+14,ALTERNATIVE 7,,,,,,4,,,4
+15,ALTERNATIVE 8,,,,,,4,,,4
+2,SYN 2,SYN,2,1,,,4,,,4
+16,ELECTIVE 5,,,,,,4,,,4
+17,ALTERNATIVE 9,,,,,,4,,,5
+18,ELECTIVE 6,,,,,,4,,,5
+19,ELECTIVE 7,,,,,,2,,,5
+20,ELECTIVE 8,,,,,,4,,,5
+21,ALTERNATIVE 10,,,,,,4,,,6
+22,ELECTIVE 9,,,,,,4,,,6
+23,ELECTIVE 10,,,,,,4,,,6

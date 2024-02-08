@@ -1,0 +1,62 @@
+Curriculum,Computer Science
+Degree Plan,Computer Science/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,11.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+31,LOWER DIVISION ELECTIVE,,,,,,2,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CSE 8B,CSE,8B,2,,,4,,,2
+5,CSE 20,CSE,20,,,,4,,,2
+7,CSE 12,CSE,12,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+9,CSE 15L,CSE,15L,4,,,2,,,3
+8,CSE 21,CSE,21,5,,,4,,,3
+10,CSE 30 1,CSE,30,7;9,,,4,,,4
+32,CSE GENERAL SCIENCE 1,,,,,,4,,,4
+11,CSE 103 / MATH 183,CSE,103,1;3,,,4,,,4
+33,CSE GENERAL SCIENCE 2,,,,,,4,,,5
+12,CSE 100,CSE,100,8;7;9;10,,,4,,,5
+13,MATH 20F,MATH,20F,6,,,4,,,5
+30,CSE191 / BILD 4,CSE,191,,,,2,,,6
+14,CSE 140,CSE,140,5,,,4,,,6
+34,CSE ELECTIVE 1,,,,,,4,,,6
+15,CSE 140L,CSE,140L,5,,,2,,,6
+17,CSE 110,CSE,110,12,,,4,,,7
+35,CSE ELECTIVE 2,,,,,,4,,,7
+16,CSE 101,CSE,101,7;8;12,,,4,,,7
+18,CSE 141,CSE,141,14;15,,,4,,,8
+19,CSE 141L,CSE,141L,14;15;17,,,2,,,8
+36,CSE ELECTIVE 3,,,,,,4,,,8
+21,CSE 120,CSE,120,10;16;17,,,4,,,9
+20,CSE 105,CSE,105,7;9;8,,,4,,,9
+37,CSE ELECTIVE 4,,,,,,4,,,9
+38,CSE ELECTIVE 5,,,,,,4,,,10
+39,CSE TECHNICAL ELECTIVE 1,,,,,,4,,,10
+22,CSE 130,CSE,130,7;12;20,,,4,,,10
+40,CSE TECHNICAL ELECTIVE 2,,,,,,4,,,11
+23,CSE 131,CSE,131,22;12;20;17,,,4,,,11
+41,CSE ELECTIVE 6,,,,,,4,,,12
+42,CSE ELECTIVE 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,MMW 11,MMW,11,,,,4,,,1
+2,CSE 8A,CSE,8A,,,,2,,,1
+25,CSE 8AL,CSE,8AL,,,,2,,,1
+43,SDCC,,,,,,4,,,1
+26,MMW 12,MMW,12,,,,6,,,2
+27,MMW 13,MMW,13,,,,6,,,3
+44,CSE 30 2,CSE,30,7;9,,,4,,,4
+28,MMW 14,MMW,14,26,,,4,,,5
+29,MMW 15,MMW,15,26,,,4,,,6
+45,GE / DEI,,,,,,4,,,7
+46,GE 1,,,,,,4,,,8
+47,GE 2,,,,,,4,,,9
+48,GE 3,,,,,,4,,,10
+49,GE 4,,,,,,4,,,11
+50,GE 5,,,,,,4,,,11
+51,GE 6,,,,,,4,,,12
+52,GE 7,,,,,,4,,,12

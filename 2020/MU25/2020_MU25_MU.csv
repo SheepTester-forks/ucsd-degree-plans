@@ -1,0 +1,67 @@
+Curriculum,Music
+Degree Plan,Music/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 43 1,MUS,43,,,,1,,,1
+2,MUS 2AK,MUS,2AK,,,,2,,,1
+3,MUS 2A,MUS,2A,,,,4,,,1
+16,ENSEMBLE 1,,,,,,2,,,1
+17,MUS 43 2,MUS,43,,,,1,,,2
+4,MUS 2BK,MUS,2BK,3;2,,,2,,,2
+5,MUS 2B,MUS,2B,3,,,4,,,2
+18,ENSEMBLE 2,,,,,,2,,,2
+19,MUS 43 3,MUS,43,,,,1,,,3
+7,MUS 2CK,MUS,2CK,4,,,2,,,3
+6,MUS 2C,MUS,2C,5,,,4,,,3
+20,ENSEMBLE 3,,,,,,2,,,3
+21,MUS 43 4,MUS,43,,,,1,,,4
+8,MUS 120A,MUS,120A,6,,,4,,,4
+9,MUS 101A,MUS,101A,6;7,,,4,,,4
+22,MUS 43 5,MUS,43,,,,1,,,5
+10,MUS 120B,MUS,120B,8,,,4,,,5
+11,MUS 101B,MUS,101B,6,,,4,,,5
+23,MUS 43 6,MUS,43,,,,1,,,6
+12,MUS 120C,MUS,120C,10,,,4,,,6
+13,MUS 101C,MUS,101C,11,,,4,,,6
+24,MUS 43 7,MUS,43,,,,1,,,7
+25,MUS UD ELECTIVE 1,,,,,,4,,,7
+26,MUS 43 8,MUS,43,,,,1,,,8
+27,MUS UD ELECTIVE 2,,,,,,4,,,8
+28,MUS 43 9,MUS,43,,,,1,,,9
+29,MUS UD ELECTIVE 3,,,,,,4,,,9
+30,MUS 43 10,MUS,43,,,,1,,,10
+31,MUS UD EMPHASIS 1,,,,,,4,,,10
+32,MUS 43 11,MUS,43,,,,1,,,11
+33,MUS UD EMPHASIS 2,,,,,,4,,,11
+34,MUS 43 12,MUS,43,,,,1,,,12
+35,MUS UD EMPHASIS 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,GE / MCWP 40,MCWP,40,,,,4,,,1
+15,GE / MCWP 50,MCWP,50,14,,,4,,,2
+36,GE 1,,,,,,4,,,2
+37,GE 2,,,,,,4,,,3
+38,GE 3,,,,,,4,,,3
+39,GE 4,,,,,,4,,,4
+40,GE 5,,,,,,4,,,4
+41,GE 6,,,,,,4,,,5
+42,GE 7,,,,,,4,,,5
+43,GE 8,,,,,,4,,,6
+44,GE 9,,,,,,4,,,6
+45,ELECTIVE 1,,,,,,4,,,7
+46,ELECTIVE 2,,,,,,4,,,7
+47,DEI,,,,,,4,,,7
+48,ELECTIVE 3,,,,,,4,,,8
+49,ELECTIVE 4,,,,,,4,,,8
+50,ELECTIVE 5,,,,,,4,,,9
+51,ELECTIVE 6,,,,,,4,,,9
+52,MUIR UD ELECTIVE 1,,,,,,4,,,10
+53,ELECTIVE 7,,,,,,4,,,10
+54,MUIR UD ELECTIVE 2,,,,,,4,,,11
+55,ELECTIVE 8,,,,,,4,,,11
+56,MUIR UD ELECTIVE 3,,,,,,4,,,12
+57,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,40 @@
+Curriculum,Chemical Education
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,MATH 20B,MATH,20B,1,,,4,,
+4,CHEM 6B,CHEM,6B,2;1,,,4,,
+5,BILD 1,BILD,1,2,,,4,,
+6,MATH 20C,MATH,20C,3,,,4,,
+7,CHEM 6C,CHEM,6C,4,,,4,,
+8,CHEM 96,CHEM,96,,,,2,,
+9,CHEM 7LM,CHEM,7LM,4,,,4,,
+10,MATH 20D,MATH,20D,6,,,4,,
+11,PHYS 2A,PHYS,2A,1,,,4,,
+12,CHEM 140A,CHEM,140A,4,,,4,,
+13,CHEM 100A,CHEM,100A,7,,,4,,
+14,PHYS 2B,PHYS,2B,11;3,,,4,,
+15,CHEM 140B,CHEM,140B,12,,,4,,
+16,CHEM 143A,CHEM,143A,12,,,4,,
+17,PHYS 2C / 2D,PHYS,2C,11;14;6,,,4,,
+18,CHEM 127 / 126,CHEM,127,7;17;6,,,4,,
+19,PHYS 2CL,PHYS,2CL,11;14,,,2,,
+20,SIO 50,SIO,50,,,,4,,
+21,CHEM 126 / 127,CHEM,126,4;17;10,,,4,,
+22,CHEM 187,CHEM,187,8;7,,,4,,
+31,CHEM ELECTIVE 1,,,,,,4,,
+23,CHEM 105A,CHEM,105A,13;19;18,,,4,,
+24,CHEM 120A,CHEM,120A,7;12,,,4,,
+32,CHEM ELECTIVE 2,,,,,,4,,
+25,CHEM 195,CHEM,195,,,,4,,
+33,CHEM ELECTIVE 3,,,,,,4,,
+26,EDS 129A,EDS,129A,,,,4,,
+27,CHEM 196 / 199,CHEM,196,,,,4,,
+28,EDS 129B,EDS,129B,26,,,4,,
+29,CHEM 188,CHEM,188,22;7,,,4,,
+30,EDS 129C,EDS,129C,28,,,4,,

@@ -1,0 +1,53 @@
+Curriculum,Linguistics(Specialization in Cognition & Language)
+Degree Plan,Linguistics(Specialization in Cognition & Language)/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+12,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+13,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+1,LIGN 101,LIGN,101,,,,4,,,4
+14,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+15,LIGN ELECTIVE FROM LIST 1,,,,,,4,,,5
+16,LIGN ELECTIVE FROM LIST 2,,,,,,4,,,6
+17,LIGN ELECTIVE FROM LIST 3,,,,,,4,,,7
+2,LIGN 110,LIGN,110,1,,,4,,,7
+18,LIGN ELECTIVE 1,,,,,,4,,,8
+3,LIGN 111,LIGN,111,2,,,4,,,8
+19,LIGN ELECTIVE FROM LIST 4,,,,,,4,,,9
+4,LIGN 120,LIGN,120,1,,,4,,,9
+20,LIGN ELECTIVE 2,,,,,,4,,,10
+5,LIGN 121,LIGN,121,1,,,4,,,11
+6,LIGN 130,LIGN,130,1,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+8,CAT 2,CAT,2,7,,,6,,,2
+23,ELECTIVE 1,,,,,,4,,,2
+9,CAT 3,CAT,3,8,,,6,,,3
+24,GE 3,,,,,,4,,,3
+25,GE 4,,,,,,4,,,4
+26,GE / DEI,,,,,,4,,,4
+27,GE 5,,,,,,4,,,5
+28,ELECTIVE 2,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,GE 6,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,6
+33,UD ELECTIVE 1,,,,,,4,,,7
+34,ELECTIVE 6,,,,,,4,,,7
+35,UD ELECTIVE 2,,,,,,4,,,8
+36,ELECTIVE 7,,,,,,4,,,8
+10,CAT 125,CAT,125,,,,4,,,9
+37,ELECTIVE 8,,,,,,4,,,9
+38,GE 7,,,,,,4,,,10
+39,ELECTIVE 9,,,,,,4,,,10
+40,ELECTIVE 10,,,,,,4,,,11
+41,ELECTIVE 11,,,,,,4,,,11
+42,ELECTIVE 12,,,,,,4,,,12
+43,ELECTIVE 13,,,,,,4,,,12

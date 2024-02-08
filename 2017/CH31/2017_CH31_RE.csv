@@ -1,0 +1,53 @@
+Curriculum,Biochemistry/Chemistry
+Degree Plan,Biochemistry/Chemistry/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.0202
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+5,BILD 1,BILD,1,2,,,4,,,2
+6,MATH 20C,MATH,20C,3,,,4,,,3
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+8,CHEM 7LM / 7L,CHEM,7LM,4,,,4,,,3
+9,CHEM 40A,CHEM,40A,4,,,4,,,4
+12,MATH 20D,MATH,20D,6,,,4,,,4
+10,PHYS 2A,PHYS,2A,1,,,4,,,4
+11,CHEM 100A,CHEM,100A,7,,,4,,,4
+13,CHEM 40B,CHEM,40B,9,,,4,,,5
+15,CHEM 43AM / 43A,CHEM,43AM,8;9,,,4,,,5
+14,PHYS 2B,PHYS,2B,10;1;3,,,4,,,5
+16,CHEM 40C,CHEM,40C,13,,,4,,,6
+18,CHEM 143B,CHEM,143B,15;13,,,4,,,6
+17,PHYS 2C / 2D,PHYS,2C,10;1;3;6,,,4,,,6
+19,CHEM 114A,CHEM,114A,9,,,4,,,7
+20,CHEM 127 / 126,CHEM,127,,,,4,,,7
+21,PHYS 2CL,PHYS,2CL,10;14,,,2,,,7
+22,CHEM 114B,CHEM,114B,13,,,4,,,8
+23,CHEM 126 / 127,CHEM,126,4;17;12,,,4,,,8
+24,CHEM 114C,CHEM,114C,19,,,4,,,9
+25,CHEM 105A,CHEM,105A,11;21;20,,,4,,,9
+26,CHEM 120A,CHEM,120A,7;9,,,4,,,10
+32,BIOCHEM LAB,,,,,,6,,,10
+33,BIOCHEM ELECTIVE 1,,,,,,4,,,11
+34,CHEM ELECTIVE LAB,,,,,,4,,,11
+35,BIOCHEM ELECTIVE 2,,,,,,4,,,12
+36,CHEM OPEN ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+27,HUM 1,HUM,1,,,,6,,,2
+28,HUM 2,HUM,2,,,,6,,,3
+29,HUM 3,HUM,3,27,,,4,,,4
+30,HUM 4,HUM,4,,,,4,,,5
+31,HUM 5,HUM,5,,,,4,,,6
+38,LANGUAGE 1,,,,,,5,,,7
+39,LANGUAGE 2,,,,,,5,,,8
+40,LANGUAGE 3,,,,,,5,,,9
+41,LANGUAGE 4,,,,,,5,,,10
+42,UD SOCIAL SCIENCE,,,,,,4,,,11
+43,FINE ARTS,,,,,,4,,,12

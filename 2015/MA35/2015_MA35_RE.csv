@@ -1,0 +1,54 @@
+Curriculum,Probability & Statistics
+Degree Plan,Probability & Statistics/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20F,MATH,20F,,,,4,,,4
+4,CSE 11,CSE,11,,,,4,,,4
+6,MATH 20D,MATH,20D,3,,,4,,,5
+8,MATH 20E,MATH,20E,3,,,4,,,6
+7,MATH 109,MATH,109,5,,,4,,,6
+9,MATH 180A,MATH,180A,3,,,4,,,7
+25,UD MAJOR 1,,,,,,4,,,7
+26,UD MAJOR 2,,,,,,4,,,7
+10,MATH 180B,MATH,180B,6;5;7;9,,,4,,,8
+11,MATH 181A,MATH,181A,9;5;3,,,4,,,8
+27,UD MAJOR 3,,,,,,4,,,8
+13,MATH 181B,MATH,181B,11,,,4,,,9
+12,MATH 180C,MATH,180C,10,,,4,,,9
+14,MATH 181C / 181E,MATH,181C,13,,,4,,,10
+28,UD MAJOR 4,,,,,,4,,,10
+29,UD MAJOR 5,,,,,,4,,,11
+30,UD MAJOR 6,,,,,,4,,,11
+31,UD MAJOR 7,,,,,,4,,,12
+32,UD MAJOR 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+33,SOCIAL SCIENCE,,,,,,4,,,1
+34,LANGUAGE 1,,,,,,5,,,1
+15,HUM 1,HUM,1,,,,6,,,2
+35,LANGUAGE 2,,,,,,5,,,2
+16,HUM 2,HUM,2,,,,6,,,3
+36,LANGUAGE 3,,,,,,5,,,3
+17,HUM 3,HUM,3,,,,4,,,4
+37,LANGUAGE 4,,,,,,5,,,4
+18,HUM 4,HUM,4,,,,4,,,5
+19,PHYS 10,PHYS,10,,,,4,,,5
+20,HUM 5,HUM,5,,,,4,,,6
+21,BILD 7 / 10,BILD,7,,,,4,,,6
+22,CHEM 11,CHEM,11,,,,4,,,7
+23,CHEM 12,CHEM,12,,,,4,,,8
+24,CHEM 13,CHEM,13,23,,,4,,,9
+38,ELECTIVE 1,,,,,,4,,,9
+39,DEI / SOCIAL SCIENCE,,,,,,4,,,10
+40,ELECTIVE 2,,,,,,4,,,10
+41,ELECTIVE 3,,,,,,4,,,11
+42,ELECTIVE 4,,,,,,4,,,11
+43,FINE ARTS,,,,,,4,,,12
+44,ELECTIVE 5,,,,,,4,,,12

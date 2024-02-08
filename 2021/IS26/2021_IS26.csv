@@ -1,0 +1,32 @@
+Curriculum,International Studies-Economics
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 10A / 20A,MATH,10A,,,,4,,
+9,LANGUAGE 1,,,,,,5,,
+2,MATH 10B / 20B,MATH,10B,1,,,4,,
+10,LANGUAGE 2,,,,,,5,,
+3,MATH 10C / 20C,MATH,10C,2,,,4,,
+11,LANGUAGE 3,,,,,,5,,
+4,ECON 1,ECON,1,,,,4,,
+12,LANGUAGE 4,,,,,,5,,
+5,ECON 2,ECON,2,4,,,4,,
+6,INTL 101 / 102 1,INTL,101,,,,4,,
+7,ECON 3,ECON,3,4,,,4,,
+13,INTL 101 / 102 2,INTL,101,,,,4,,
+14,EAP / OAP (RECOMMENDED),,,,,,16,,
+15,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,
+16,DF1 - ECONOMICS,,,,,,4,,
+17,DF2 - ECONOMICS,,,,,,4,,
+18,DF3 - ECONOMICS,,,,,,4,,
+19,DF4 - ECONOMICS,,,,,,4,,
+20,IE2 - INTERDISC ELECTIVE (RR2),,,,,,4,,
+21,DF5 - ECONOMICS,,,,,,4,,
+8,INTL 190,INTL,190,6,,,4,,
+22,DF6 - ECONOMICS,,,,,,4,,
+23,DF7 - ECONOMICS,,,,,,4,,
+24,IE3 - INTERDISC ELECTIVE (RR3),,,,,,4,,
+25,DF8 - ECONOMICS,,,,,,4,,

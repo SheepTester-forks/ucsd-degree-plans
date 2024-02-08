@@ -1,0 +1,51 @@
+Curriculum,International Studies-Political Science
+Degree Plan,International Studies-Political Science/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,LANGUAGE 1,,,,,,5,,,1
+16,LANGUAGE 2,,,,,,5,,,2
+17,LANGUAGE 3,,,,,,5,,,3
+18,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,5,,,4,,,5
+19,INTL 101 / 102 2,INTL,101,5,,,4,,,6
+20,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+21,DF1 - POLI SCI,,,,,,4,,,8
+22,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+23,IE2 - INTERDISC ELECTIVE,,,,,,4,,,8
+24,IE3 - INTERDISC ELECTIVE,,,,,,4,,,9
+25,DF2 - POLI SCI (RR2),,,,,,4,,,9
+26,DF3 - POLI SCI,,,,,,4,,,9
+27,DF5 - POLI SCI (RR3),,,,,,4,,,10
+28,DF4 - POLI SCI,,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,11
+29,DF6 - POLI SCI,,,,,,4,,,11
+30,DF7 - POLI SCI,,,,,,4,,,12
+31,DF8 - POLI SCI,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A,MATH,10A,,,,4,,,1
+32,FINE ARTS,,,,,,4,,,1
+4,MATH 10B,MATH,10B,3,,,4,,,2
+5,HUM 1,HUM,1,,,,6,,,2
+6,MATH 10C,MATH,10C,4,,,4,,,3
+7,HUM 2,HUM,2,,,,6,,,3
+8,HUM 3,HUM,3,,,,4,,,4
+9,CHEM 11,CHEM,11,,,,4,,,4
+33,SOCIAL SCIENCE / DEI,,,,,,4,,,4
+10,HUM 4,HUM,4,,,,4,,,5
+11,CHEM 12,CHEM,12,,,,4,,,5
+34,SOCIAL SCIENCE,,,,,,4,,,5
+12,HUM 5,HUM,5,,,,4,,,6
+13,CHEM 13,CHEM,13,11,,,4,,,6
+35,ELECTIVE 1,,,,,,4,,,8
+14,BILD 7 / 10,BILD,7,,,,4,,,9
+36,ELECTIVE 2,,,,,,4,,,10
+37,ELECTIVE 3,,,,,,4,,,10
+38,PHYSICS 10,,,,,,4,,,11
+39,ELECTIVE 4,,,,,,4,,,11
+40,ELECTIVE 5,,,,,,4,,,12
+41,ELECTIVE 6,,,,,,4,,,12

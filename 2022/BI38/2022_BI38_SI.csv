@@ -1,0 +1,57 @@
+Curriculum,Neurobiology
+Degree Plan,Neurobiology/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BILD 4,BILD,4,,,,2,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+6,BILD 1,BILD,1,,,,4,,,2
+4,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+7,MATH 11,MATH,11,4,,,5,,,3
+8,CHEM 7L,CHEM,7L,5,,,4,,,3
+9,CHEM 6C,CHEM,6C,5,,,4,,,3
+12,CHEM 40A,CHEM,40A,5,,,4,,,4
+10,PHYS 1A,PHYS,1A,1,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,1,,,2,,,4
+13,BILD 2,BILD,2,6,,,4,,,4
+16,CHEM 40B,CHEM,40B,12,,,4,,,5
+14,PHYS 1B,PHYS,1B,4;10,,,3,,,5
+15,PHYS 1BL,PHYS,1BL,4;10;11,,,2,,,5
+17,BILD 3,BILD,3,,,,4,,,5
+20,BIPN 100,BIPN,100,6;13,,,4,,,6
+18,PHYS 1C,PHYS,1C,4;14,,,3,,,6
+19,PHYS 1CL,PHYS,1CL,4;14;15,,,2,,,6
+21,CHEM 43A,CHEM,43A,8;12,,,4,,,7
+22,BICD 100,BICD,100,6;17,,,4,,,7
+23,BIBC 102 / CHEM 114B,BIBC,102,12;16,,,4,,,8
+24,BIPN 140,BIPN,140,6;13,,,4,,,8
+25,BIMM 100,BIMM,100,6;3;12;16,,,4,,,9
+26,BIPN 145,BIPN,145,7;3;13,,,4,,,9
+31,UD BIOLOGY LAB,,,,,,4,,,10
+32,UD NEURO CORE 1,,,,,,4,,,10
+33,UD BIOLOGY ELECTIVE 1,,,,,,4,,,11
+34,UD NEURO CORE 2,,,,,,4,,,11
+35,UD NEURO CORE 3,,,,,,4,,,12
+36,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,CAT 1,CAT,1,,,,4,,,1
+28,CAT 2,CAT,2,27,,,6,,,2
+29,CAT 3,CAT,3,28,,,6,,,3
+37,GE / DEI,,,,,,4,,,4
+38,GE 1,,,,,,4,,,5
+39,GE 2,,,,,,4,,,6
+40,GE 3,,,,,,4,,,6
+41,GE 4,,,,,,4,,,7
+42,GE 5,,,,,,4,,,7
+43,GE 6,,,,,,4,,,8
+44,ELECTIVE 1,,,,,,2,,,8
+30,CAT 125,CAT,125,,,,4,,,9
+45,UD ELECTIVE 1,,,,,,4,,,10
+46,UD ELECTIVE 2,,,,,,4,,,11
+47,ELECTIVE 2,,,,,,4,,,12

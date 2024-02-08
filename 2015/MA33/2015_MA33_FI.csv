@@ -1,0 +1,54 @@
+Curriculum,Joint Major in Mathematics and Economics
+Degree Plan,Joint Major in Mathematics and Economics/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20F,MATH,20F,,,,4,,,4
+4,ECON 1,ECON,1,,,,4,,,4
+6,MATH 20D,MATH,20D,3,,,4,,,5
+7,ECON 3,ECON,3,4,,,4,,,5
+8,MATH 109,MATH,109,5,,,4,,,6
+14,UD MAJOR 1,,,,,,4,,,7
+15,UD MAJOR 2,,,,,,4,,,7
+16,UD MAJOR 3,,,,,,4,,,8
+17,UD MAJOR 4,,,,,,4,,,8
+18,UD MAJOR 5,,,,,,4,,,9
+19,UD MAJOR 6,,,,,,4,,,9
+20,UD MAJOR 7,,,,,,4,,,10
+21,UD MAJOR 8,,,,,,4,,,10
+22,UD MAJOR 9,,,,,,4,,,10
+23,UD MAJOR 10,,,,,,4,,,11
+24,UD MAJOR 11,,,,,,4,,,11
+25,UD MAJOR 12,,,,,,4,,,11
+26,UD MAJOR 13,,,,,,4,,,12
+27,UD MAJOR 14,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,MMW 11,MMW,11,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+29,GE 2,,,,,,4,,,1
+10,MMW 12,MMW,12,,,,6,,,2
+30,GE 3,,,,,,4,,,2
+11,MMW 13,MMW,13,,,,6,,,3
+31,GE 4,,,,,,4,,,3
+12,MMW 14 / GE 1,MMW,14,10,,,4,,,4
+32,GE / DEI,,,,,,4,,,4
+33,MMW 14 / GE 2,MMW,14,10,,,4,,,5
+34,GE 5,,,,,,4,,,5
+13,MMW 15,MMW,15,10,,,4,,,6
+35,ELECTIVE 1,,,,,,4,,,6
+36,GE 6,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,7
+38,GE 7,,,,,,4,,,7
+39,ELECTIVE 3,,,,,,4,,,8
+40,GE 8,,,,,,4,,,8
+41,ELECTIVE 4,,,,,,4,,,9
+42,ELECTIVE 5,,,,,,4,,,9
+43,ELECTIVE 6,,,,,,4,,,10
+44,ELECTIVE 7,,,,,,4,,,12

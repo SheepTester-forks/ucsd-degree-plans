@@ -1,0 +1,55 @@
+Curriculum,Sociology-Culture and Communication
+Degree Plan,Sociology-Culture and Communication/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOCI 1,SOCI,1,,,,4,,,1
+2,SOCI 2 (DEI),SOCI,2,,,,4,,,2
+3,SOCI 60,SOCI,60,,,,4,,,4
+4,"SOCI 10, 20, 30, 40, / 50",SOCI,10,,,,4,,,5
+5,SOCI 100,SOCI,100,,,,4,,,7
+9,SOCI - UD CONCENTRATION 1,,,,,,4,,,7
+10,SOCI - METHOD,,,,,,4,,,8
+11,SOCI UD ELECTIVE 1,,,,,,4,,,8
+12,SOCI UD ELECTIVE 2,,,,,,4,,,9
+13,SOCI - UD CONCENTRATION 2,,,,,,4,,,9
+14,SOCI - UD CONCENTRATION 3,,,,,,4,,,10
+15,SOCI UD ELECTIVE 3,,,,,,4,,,10
+16,SOCI - UD CONCENTRATION 4,,,,,,4,,,11
+17,SOCI UD ELECTIVE 4,,,,,,4,,,11
+18,SOC - UD CONCENTRATION,,,,,,4,,,12
+19,SOC UD ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,ALTERNATIVE 1,,,,,,4,,,1
+21,ALTERNATIVE 2,,,,,,4,,,1
+22,ELECTIVE 1,,,,,,4,,,1
+6,SYN 1,SYN,1,,,,4,,,2
+23,ALTERNATIVE 3,,,,,,4,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+25,ALTERNATIVE 4,,,,,,4,,,3
+26,ELECTIVE 3,,,,,,4,,,3
+27,ELECTIVE 4,,,,,,4,,,3
+28,ELECTIVE 5,,,,,,4,,,3
+7,SYN 2,SYN,2,6,,,4,,,4
+29,ALTERNATIVE 5,,,,,,4,,,4
+30,ELECTIVE 6,,,,,,4,,,4
+31,ALTERNATIVE 6,,,,,,4,,,5
+32,ELECTIVE 7,,,,,,4,,,5
+33,ELECTIVE 8,,,,,,4,,,5
+34,ALTERNATIVE 7,,,,,,4,,,6
+35,ELECTIVE 9,,,,,,4,,,6
+36,ELECTIVE 10,,,,,,4,,,6
+37,ELECTIVE 11,,,,,,4,,,6
+38,ALTERNATIVE 8,,,,,,4,,,7
+39,ELECTIVE 12,,,,,,4,,,7
+40,ELECTIVE 13,,,,,,4,,,8
+41,ELECTIVE 14,,,,,,4,,,8
+8,SYN 100,SYN,100,6;7,,,4,,,9
+42,ELECTIVE 15,,,,,,4,,,9
+43,HIGH - IMPACT,,,,,,4,,,10
+44,ELECTIVE 16,,,,,,4,,,11
+45,UD ELECTIVE,,,,,,4,,,12

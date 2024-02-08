@@ -1,0 +1,53 @@
+Curriculum,Anthropology (Concentration in Archaeology)
+Degree Plan,Anthropology (Concentration in Archaeology)/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANTH 101,ANTH,101,,,,4,,,7
+12,ANAR UD ELECTIVE 1,,,,,,4,,,7
+2,ANTH 102,ANTH,102,,,,4,,,8
+13,ANAR UD ELECTIVE 2,,,,,,4,,,8
+3,ANTH 103,ANTH,103,,,,4,,,9
+14,ANAR UD ELECTIVE 3,,,,,,4,,,9
+15,ANAR UD ELECTIVE 4,,,,,,4,,,10
+16,ANTHROPOLOGY UD ELECTIVE 1,,,,,,4,,,10
+17,ANTHROPOLOGY UD ELECTIVE 2,,,,,,4,,,11
+18,ANTHROPOLOGY UD ELECTIVE 3,,,,,,4,,,11
+19,ANTHROPOLOGY UD ELECTIVE 4,,,,,,4,,,12
+20,ANTHROPOLOGY UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,DEI,,,,,,4,,,1
+4,MATH 10A / 20A,MATH,10A,,,,4,,,1
+22,PHYSICS GE,,,,,,4,,,1
+5,HUM 1,HUM,1,,,,6,,,2
+6,MATH 10B / 20B,MATH,10B,4,,,4,,,2
+23,CHEMISTRY GE,,,,,,4,,,2
+7,HUM 2,HUM,2,,,,6,,,3
+24,MATH GE,,,,,,4,,,3
+25,BIOLOGY GE,,,,,,4,,,3
+8,HUM 3,HUM,3,5,,,4,,,4
+26,FINE ARTS GE,,,,,,4,,,4
+27,NATURAL SCIENCE GE 1,,,,,,4,,,4
+28,LANGUAGE 1,,,,,,5,,,4
+9,HUM 4,HUM,4,,,,4,,,5
+29,NATURAL SCIENCE GE 2,,,,,,4,,,5
+30,LANGUAGE 2,,,,,,5,,,5
+10,HUM 5,HUM,5,,,,4,,,6
+11,(ANTH 3) SOCIAL SCIENCE GE,ANTH,3,,,,4,,,6
+31,LANGUAGE 3,,,,,,5,,,6
+32,SOCIAL SCIENCE GE,,,,,,4,,,7
+33,LANGUAGE 4,,,,,,5,,,7
+34,UD ELECTIVE 1,,,,,,4,,,8
+35,ELECTIVE 1,,,,,,4,,,8
+36,ELECTIVE 2,,,,,,4,,,9
+37,ELECTIVE 3,,,,,,4,,,9
+38,UD ELECTIVE 2,,,,,,4,,,10
+39,ELECTIVE 4,,,,,,4,,,10
+40,UD ELECTIVE 3,,,,,,4,,,11
+41,ELECTIVE 5,,,,,,4,,,11
+42,AHI / ELECTIVE,,,,,,4,,,12
+43,ELECTIVE 6,,,,,,4,,,12

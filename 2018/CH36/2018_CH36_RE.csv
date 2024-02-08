@@ -1,0 +1,54 @@
+Curriculum,Molecular Synthesis
+Degree Plan,Molecular Synthesis/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+31,BILD 1,BILD,1,2,,,4,,,2
+6,MATH 20C,MATH,20C,3,,,4,,,3
+5,CHEM 6C,CHEM,6C,4,,,4,,,3
+7,CHEM 7LM / 7L,CHEM,7LM,4,,,4,,,3
+9,CHEM 40A,CHEM,40A,4,,,4,,,4
+10,PHYS 2A,PHYS,2A,1,,,4,,,4
+8,MATH 20D,MATH,20D,6,,,4,,,4
+11,CHEM 40B,CHEM,40B,9,,,4,,,5
+12,CHEM 43AM / 43A,CHEM,43AM,7;9,,,4,,,5
+13,PHYS 2B,PHYS,2B,10;1;3,,,4,,,5
+14,PHYS 2C / 2D,PHYS,2C,10;1;3;6,,,4,,,6
+15,PHYS 2CL,PHYS,2CL,10;13,,,2,,,6
+16,CHEM 40C,CHEM,40C,11,,,4,,,6
+17,CHEM 120A,CHEM,120A,5;9,,,4,,,7
+18,CHEM 126 / 127,CHEM,126,,,,4,,,7
+19,CHEM 100A,CHEM,100A,5,,,4,,,7
+20,CHEM 143B,CHEM,143B,12;11,,,4,,,8
+21,CHEM 120B,CHEM,120B,17,,,4,,,8
+22,CHEM 127 / 126,CHEM,127,,,,4,,,8
+23,CHEM 105A,CHEM,105A,19;15;18,,,4,,,9
+24,CHEM 143C / 143D,CHEM,143C,12;11,,,5,,,10
+25,CHEM 152,CHEM,152,16,,,4,,,10
+26,CHEM 154 / 156,CHEM,154,16,,,4,,,11
+27,CHEM 114A,CHEM,114A,9,,,4,,,11
+28,CHEM 125 / 157,CHEM,125,17,,,4,,,12
+36,CHEM RESTRICTED ELECTIVE,,,,,,4,,,12
+29,CHEM 123,CHEM,123,17;12;21,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+30,HUM 1,HUM,1,,,,6,,,2
+32,HUM 2,HUM,2,,,,6,,,3
+33,HUM 3,HUM,3,30,,,4,,,4
+34,HUM 4,HUM,4,,,,4,,,5
+35,HUM 5,HUM,5,,,,4,,,6
+38,LANGUAGE 1,,,,,,5,,,7
+39,LANGUAGE 2,,,,,,5,,,8
+40,SOCIAL SCIENCE,,,,,,4,,,9
+41,LANGUAGE 3,,,,,,5,,,9
+42,LANGUAGE 4,,,,,,5,,,10
+43,FINE ARTS,,,,,,2,,,11
+44,UD ELECTIVE,,,,,,3,,,11

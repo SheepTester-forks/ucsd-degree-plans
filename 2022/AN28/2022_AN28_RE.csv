@@ -1,0 +1,53 @@
+Curriculum,Anthropology (Concentration in Sociocultural Anthropology)
+Degree Plan,Anthropology (Concentration in Sociocultural Anthropology)/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANTH 101,ANTH,101,,,,4,,,7
+12,ANTHROPOLOGY ANSC CONCENTRATION COURSE 1,,,,,,4,,,7
+2,ANTH 102,ANTH,102,,,,4,,,8
+13,ANTHROPOLOGY ANSC CONCENTRATION COURSE 2,,,,,,4,,,8
+14,"ANTH REGIONAL, COUNTRY / RELIGIOUS FOCUS COURSE",,,,,,4,,,8
+3,ANTH 103,ANTH,103,,,,4,,,9
+15,ANTHROPOLOGY ANSC CONCENTRATION COURSE 3,,,,,,4,,,9
+16,ANTHROPOLOGY UD ELECTIVE COURSE 1,,,,,,4,,,10
+17,ANTHROPOLOGY UD ELECTIVE COURSE 2,,,,,,4,,,10
+18,ANTHROPOLOGY UD ELECTIVE COURSE 3,,,,,,4,,,11
+19,ANTHROPOLOGY UD ELECTIVE COURSE 4,,,,,,4,,,11
+20,ANTHROPOLOGY UD ELECTIVE COURSE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MATH 10A / 20A,MATH,10A,,,,4,,,1
+21,DEI,,,,,,4,,,1
+22,FINE ARTS GE,,,,,,4,,,1
+5,HUM 1,HUM,1,,,,6,,,2
+6,MATH 10B / 20B,MATH,10B,4,,,4,,,2
+23,CHEMISTRY GE,,,,,,4,,,2
+7,HUM 2,HUM,2,,,,6,,,3
+24,MATH GE,,,,,,4,,,3
+25,BIOLOGY GE,,,,,,4,,,3
+8,HUM 3,HUM,3,5,,,4,,,4
+9,(ANTH 1) SOCIAL SCIENCE GE,ANTH,1,,,,4,,,4
+26,LANGUAGE 1,,,,,,5,,,4
+10,HUM 4,HUM,4,,,,4,,,5
+27,NATURAL SCIENCE GE 1,,,,,,4,,,5
+28,LANGUAGE 2,,,,,,5,,,5
+11,HUM 5,HUM,5,,,,4,,,6
+29,PHYSICS GE,,,,,,4,,,6
+30,LANGUAGE 3,,,,,,5,,,6
+31,SOCIAL SCIENCE GE,,,,,,4,,,6
+32,NATURAL SCIENCE GE 2,,,,,,4,,,7
+33,LANGUAGE 4,,,,,,5,,,7
+34,ELECTIVE 1,,,,,,4,,,8
+35,ELECTIVE 2,,,,,,4,,,9
+36,ELECTIVE 3,,,,,,4,,,9
+37,UD ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 4,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,11
+40,ELECTIVE 5,,,,,,4,,,11
+41,UD ELECTIVE 3,,,,,,4,,,12
+42,AHI / ELECTIVE,,,,,,4,,,12
+43,ELECTIVE 6,,,,,,4,,,12

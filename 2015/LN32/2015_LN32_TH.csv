@@ -1,0 +1,53 @@
+Curriculum,Linguistics(Specialization in Cognition & Language)
+Degree Plan,Linguistics(Specialization in Cognition & Language)/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+11,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+12,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+1,LIGN 101,LIGN,101,,,,4,,,4
+13,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+14,LIGN ELECTIVE FROM LIST 1,,,,,,4,,,5
+15,LIGN ELECTIVE FROM LIST 2,,,,,,4,,,6
+16,LIGN ELECTIVE FROM LIST 3,,,,,,4,,,7
+2,LIGN 110,LIGN,110,1,,,4,,,7
+3,LIGN 111,LIGN,111,2,,,4,,,8
+17,LIGN ELECTIVE 1,,,,,,4,,,8
+18,LIGN ELECTIVE FROM LIST 4,,,,,,4,,,9
+4,LIGN 120,LIGN,120,,,,4,,,9
+19,LIGN ELECTIVE 2,,,,,,4,,,10
+5,LIGN 121,LIGN,121,,,,4,,,11
+6,LIGN 130,LIGN,130,1,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,DOC 1 / DEI,DOC,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,ELECTIVE 1,,,,,,4,,,1
+8,DOC 2,DOC,2,7,,,6,,,2
+22,GE 2,,,,,,4,,,2
+9,DOC 3,DOC,3,,,,6,,,3
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,4
+25,GE 5,,,,,,4,,,4
+26,GE 6,,,,,,4,,,5
+27,GE 7,,,,,,4,,,5
+28,ELECTIVE 2,,,,,,4,,,5
+29,GE 8,,,,,,4,,,6
+30,GE 9,,,,,,4,,,6
+31,ELECTIVE 3,,,,,,4,,,6
+32,GE 10,,,,,,4,,,7
+33,ELECTIVE 4,,,,,,4,,,7
+34,UD COLLEGE ELECTIVE,,,,,,4,,,8
+35,ELECTIVE 5,,,,,,4,,,8
+36,UD GE 1,,,,,,4,,,9
+37,ELECTIVE 6,,,,,,4,,,9
+38,UD GE 2,,,,,,4,,,10
+39,ELECTIVE 7,,,,,,4,,,10
+40,ELECTIVE 8,,,,,,4,,,11
+41,ELECTIVE 9,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,12
+43,ELECTIVE 11,,,,,,4,,,12

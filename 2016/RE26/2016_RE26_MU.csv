@@ -1,0 +1,55 @@
+Curriculum,Study of Religion
+Degree Plan,Study of Religion/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+4,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+5,UD MAJOR ELECTIVE 3,,,,,,4,,,8
+6,UD MAJOR ELECTIVE 4,,,,,,4,,,8
+1,RELI 101 TOOLS & METHODS,RELI,101,,,,4,,,9
+7,UD MAJOR ELECTIVE 5,,,,,,4,,,9
+8,UD MAJOR ELECTIVE 6,,,,,,4,,,10
+9,UD MAJOR ELECTIVE 7,,,,,,4,,,10
+10,UD MAJOR ELECTIVE 8,,,,,,4,,,11
+11,UD MAJOR ELECTIVE 9,,,,,,4,,,11
+2,RELI 189 SEMINAR IN RELIGION,RELI,189,1,,,4,,,12
+12,UD MAJOR ELECTIVE 10,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,GE 1,,,,,,4,,,1
+14,GE / WRITING 1,,,,,,4,,,1
+15,GE 2,,,,,,4,,,1
+16,GE 3,,,,,,4,,,1
+17,GE / WRITING 2,,,,,,4,,,2
+18,GE 4,,,,,,4,,,2
+19,GE 5,,,,,,4,,,2
+20,ELECTIVE 1,,,,,,4,,,2
+21,ELECTIVE 2,,,,,,4,,,3
+22,GE 6,,,,,,4,,,3
+23,ELECTIVE 3,,,,,,4,,,3
+24,GE 7,,,,,,4,,,3
+25,GE 8,,,,,,4,,,4
+26,GE 9,,,,,,4,,,4
+27,ELECTIVE 4,,,,,,4,,,4
+28,ELECTIVE 5,,,,,,4,,,4
+29,GE 10,,,,,,4,,,5
+30,ELECTIVE 6,,,,,,4,,,5
+31,GE 11,,,,,,4,,,5
+32,ELECTIVE 7,,,,,,4,,,5
+33,ELECTIVE 8,,,,,,4,,,6
+34,GE 12,,,,,,4,,,6
+35,DEI,,,,,,4,,,6
+36,ELECTIVE 9,,,,,,4,,,6
+37,ELECTIVE 10,,,,,,4,,,7
+38,MUIR UDE 1,,,,,,4,,,7
+39,MUIR UDE 2,,,,,,4,,,8
+40,ELECTIVE 11,,,,,,4,,,8
+41,ELECTIVE 12,,,,,,4,,,9
+42,ELECTIVE 13,,,,,,4,,,9
+43,ELECTIVE 14,,,,,,4,,,10
+44,MUIR UDE 3,,,,,,4,,,11
+45,ELECTIVE 15,,,,,,4,,,12

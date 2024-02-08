@@ -1,0 +1,54 @@
+Curriculum,Human Developmental Sciences
+Degree Plan,Human Developmental Sciences/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD MAJOR PREP 1,,,,,,4,,,1
+10,LD MAJOR PREP 2,,,,,,4,,,1
+11,LD MAJOR PREP 3,,,,,,4,,,2
+12,LD MAJOR PREP 4,,,,,,4,,,2
+13,LD MAJOR PREP 5,,,,,,4,,,3
+1,HDS 1,HDS,1,,,,4,,,4
+14,HDS CORE COURSE 1,,,,,,4,,,5
+15,HDS CORE COURSE 2,,,,,,4,,,5
+16,HDS CORE COURSE 3,,,,,,4,,,6
+17,HDS CORE COURSE 4,,,,,,4,,,6
+18,GE / DEI,,,,,,4,,,6
+19,HDS DEVELOPMENT COURSE 1,,,,,,4,,,7
+20,LD HDS STATISTICS,,,,,,4,,,7
+21,HDS DEVELOPMENT COURSE 2,,,,,,4,,,8
+22,HDS DEVELOPMENT COURSE 3,,,,,,4,,,8
+23,HDS DEVELOPMENT COURSE 4,,,,,,4,,,9
+2,HDS 181,HDS,181,1,,,6,,,9
+3,HDS 191,HDS,191,1;2,,,6,,,10
+24,HDS DEVELOPMENT COURSE 5,,,,,,4,,,11
+4,HDS 150,HDS,150,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+6,WCWP 10B,WCWP,10B,5,,,4,,,2
+26,GE 2,,,,,,4,,,2
+27,ELECTIVE 1,,,,,,4,,,3
+7,PHIL / POLI 27,POLI,27,5;6,,,4,,,3
+28,GE 3,,,,,,4,,,3
+8,PHIL / POLI 28,POLI,28,7,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,GE 5,,,,,,4,,,4
+31,GE 6,,,,,,4,,,5
+32,GE 7,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,6
+34,GE 8,,,,,,4,,,7
+35,GE 9,,,,,,4,,,7
+36,GE 10,,,,,,4,,,8
+37,GE 11,,,,,,4,,,8
+38,GE 12,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,11
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,12
+44,ELECTIVE 8,,,,,,4,,,12

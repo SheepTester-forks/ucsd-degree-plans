@@ -1,0 +1,29 @@
+Curriculum,Probability & Statistics
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,MATH 20B,MATH,20B,1,,,4,,
+3,MATH 20C,MATH,20C,2,,,4,,
+4,CSE 11,CSE,11,,,,4,,
+5,MATH 20F,MATH,20F,,,,4,,
+6,MATH 20D,MATH,20D,3,,,4,,
+7,MATH 109,MATH,109,5,,,4,,
+8,MATH 20E,MATH,20E,3,,,4,,
+9,MATH 180A,MATH,180A,3,,,4,,
+15,UD MAJOR 1,,,,,,4,,
+16,UD MAJOR 2,,,,,,4,,
+10,MATH 180B,MATH,180B,6;5;7;9,,,4,,
+11,MATH 181A,MATH,181A,9;5;3,,,4,,
+17,UD MAJOR 3,,,,,,4,,
+12,MATH 180C,MATH,180C,10,,,4,,
+13,MATH 181B,MATH,181B,11,,,4,,
+14,MATH 181C / 181E,MATH,181C,13,,,4,,
+18,UD MAJOR 4,,,,,,4,,
+19,UD MAJOR 5,,,,,,4,,
+20,UD MAJOR 6,,,,,,4,,
+21,UD MAJOR 7,,,,,,4,,
+22,UD MAJOR 8,,,,,,4,,

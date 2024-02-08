@@ -1,0 +1,55 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HILD 30,HILD,30,,,,4,,,4
+2,PSYC 60,PSYC,60,,,,4,,,5
+3,SOC 40,SOC,40,,,,4,,,6
+4,ANSC 148,ANSC,148,,,,4,,,7
+9,ELECTIVE 1,,,,,,4,,,7
+10,EPIDEMIOLOGY COURSE,,,,,,4,,,7
+11,ELECTIVE 2,,,,,,4,,,8
+12,POLICY ANALYSIS,,,,,,4,,,8
+5,MGT 173,MGT,173,,,,4,,,9
+6,GLBH 181,GLBH,181,,,,4,,,9
+13,ELECTIVE 3,,,,,,4,,,9
+14,ELECTIVE 4,,,,,,4,,,10
+15,ELECTIVE 5,,,,,,4,,,10
+16,ELECTIVE 6,,,,,,4,,,11
+7,GLBH 150A,GLBH,150A,,,,4,,,11
+8,GLBH 150B,GLBH,150B,7,,,4,,,12
+17,ELECTIVE 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,GE 1,,,,,,4,,,1
+19,GE 2,,,,,,4,,,1
+20,DEI,,,,,,4,,,1
+21,GE / WRITING 1,,,,,,4,,,1
+22,GE / WRITING 2,,,,,,4,,,2
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+25,ELECTIVE 1,,,,,,4,,,2
+26,ELECTIVE 2,,,,,,4,,,3
+27,GE 5,,,,,,4,,,3
+28,GE 6,,,,,,4,,,3
+29,ELECTIVE 3,,,,,,4,,,3
+30,GE 7,,,,,,4,,,4
+31,GE 8,,,,,,4,,,4
+32,ELECTIVE 4,,,,,,4,,,4
+33,ELECTIVE 5,,,,,,4,,,5
+34,GE 9,,,,,,4,,,5
+35,GE 10,,,,,,4,,,5
+36,GE 11,,,,,,4,,,6
+37,GE 12,,,,,,4,,,6
+38,ELECTIVE 6,,,,,,4,,,6
+39,ELECTIVE 7,,,,,,4,,,7
+40,ELECTIVE 8,,,,,,4,,,8
+41,MUIR UDE 1,,,,,,4,,,8
+42,ELECTIVE 9,,,,,,4,,,9
+43,MUIR UDE 2,,,,,,4,,,10
+44,MUIR UDE 3,,,,,,4,,,11
+45,MUIR UDE 4,,,,,,4,,,12

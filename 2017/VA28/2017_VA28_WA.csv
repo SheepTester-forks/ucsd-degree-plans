@@ -1,0 +1,55 @@
+Curriculum,Visual Arts (Studio)
+Degree Plan,Visual Arts (Studio)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0702
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 80,VIS,80,,,,4,,,1
+4,FOUNDATION LEVEL: HISTORY,,,,,,4,,,1
+5,FOUNDATION LEVEL: ART MAKING 1,,,,,,4,,,2
+2,VIS 11,VIS,11,,,,4,,,2
+3,VIS 22,VIS,22,,,,4,,,3
+6,FOUNDATION LEVEL: ART MAKING 2,,,,,,4,,,4
+7,INTERMEDIATE: GROUP A 1,,,,,,4,,,5
+8,HISTORY & THEORY 1,,,,,,4,,,6
+9,INTERMEDIATE: GROUP A 2,,,,,,4,,,6
+10,INTERMEDIATE: GROUP A 3,,,,,,4,,,7
+11,HISTORY & THEORY 2,,,,,,4,,,7
+12,HISTORY & THEORY 3,,,,,,4,,,8
+13,INTERMEDIATE: GROUP B 1,,,,,,4,,,8
+14,INTERMEDIATE: GROUP B 2,,,,,,4,,,9
+15,INTERMEDIATE: INTERDISCIPLINARY,,,,,,4,,,9
+16,ADVANCED LEVEL: ART MAKING,,,,,,4,,,10
+17,ADVANCED LEVEL: INTERDISCIPLINARY 1,,,,,,4,,,11
+18,ADVANCED LEVEL: INTERDISCIPLINARY 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,2
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,ELECTIVE 1,,,,,,4,,,3
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
+28,ELECTIVE 2,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,GE 10,,,,,,4,,,5
+31,ELECTIVE 3,,,,,,4,,,5
+32,GE 11,,,,,,4,,,6
+33,GE / DEI,,,,,,4,,,6
+34,GE 12,,,,,,4,,,7
+35,GE 13,,,,,,4,,,7
+36,GE 14,,,,,,4,,,8
+37,GE 15,,,,,,4,,,8
+38,GE 16,,,,,,4,,,9
+39,GE 17,,,,,,4,,,9
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,10
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12
+45,ELECTIVE 9,,,,,,4,,,12

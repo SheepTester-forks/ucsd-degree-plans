@@ -1,0 +1,53 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 1,USP,1,,,,4,,,4
+2,USP 2,USP,2,,,,4,,,5
+3,USP 3,USP,3,,,,4,,,6
+4,POLI 30,POLI,30,,,,4,,,6
+12,USP RM,,,,,,4,,,7
+13,USP UD 1,,,,,,4,,,7
+14,USP UD 2,,,,,,4,,,7
+15,USP FD 1,,,,,,4,,,8
+16,USP UD 3,,,,,,4,,,8
+17,USP UD 4,,,,,,4,,,9
+18,USP FD 2,,,,,,4,,,9
+5,USP 186,USP,186,,,,6,,,10
+19,USP UD 5,,,,,,4,,,10
+20,USP UD 6,,,,,,4,,,11
+6,USP 187,USP,187,5,,,6,,,11
+21,USP UD 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,MMW 11,MMW,11,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+8,MMW 12,MMW,12,,,,6,,,2
+24,GE 3,,,,,,4,,,2
+25,GE 4,,,,,,4,,,2
+9,MMW 13,MMW,13,,,,6,,,3
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+10,MMW 14 / GE 1,MMW,14,8,,,4,,,4
+28,GE / DEI,,,,,,4,,,4
+29,GE 7,,,,,,4,,,4
+30,MMW 14 / GE 2,MMW,14,8,,,4,,,5
+31,GE 8,,,,,,4,,,5
+32,ELECTIVE 1,,,,,,4,,,5
+11,MMW 15,MMW,15,8,,,4,,,6
+33,GE 9,,,,,,4,,,6
+34,GE 10,,,,,,4,,,7
+35,GE 11,,,,,,4,,,8
+36,ELECTIVE 2,,,,,,4,,,8
+37,ELECTIVE 3,,,,,,4,,,9
+38,ELECTIVE 4,,,,,,4,,,9
+39,ELECTIVE 5,,,,,,4,,,10
+40,ELECTIVE 6,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,12
+43,ELECTIVE 9,,,,,,4,,,12

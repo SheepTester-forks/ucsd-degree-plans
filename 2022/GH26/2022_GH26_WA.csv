@@ -1,0 +1,55 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A,MATH,10A,,,,4,,,1
+2,BILD 1,BILD,1,,,,4,,,1
+4,BILD 2,BILD,2,2,,,4,,,2
+3,MATH 10B,MATH,10B,1,,,4,,,2
+5,BILD 3,BILD,3,,,,4,,,3
+15,STATISTICS COURSE,,,,,,4,,,3
+6,CHEM 6A,CHEM,6A,,,,4,,,4
+16,LOWER DIVISION CORE 1,,,,,,4,,,4
+7,CHEM 6B,CHEM,6B,6;1,,,4,,,5
+17,LOWER DIVISION CORE 2,,,,,,4,,,5
+8,CHEM 6C,CHEM,6C,7,,,4,,,6
+9,CHEM 7L,CHEM,7L,7,,,4,,,6
+18,GE / DEI,,,,,,4,,,6
+10,UD GH CORE COURSE (EG GLBH 148),GLBH,148,,,,4,,,7
+19,UD GH CORE COURSE 1,,,,,,4,,,7
+20,UD GH CORE COURSE 2,,,,,,4,,,8
+21,UD GLOBAL HEALTH ELECTIVE 1,,,,,,4,,,8
+22,UD GH CORE COURSE 3,,,,,,4,,,9
+23,UD GLOBAL HEALTH ELECTIVE 2,,,,,,4,,,9
+24,UD GLOBAL HEALTH ELECTIVE 3,,,,,,4,,,10
+25,UD GLOBAL HEALTH ELECTIVE 4,,,,,,4,,,10
+26,UD GLOBAL HEALTH ELECTIVE 5,,,,,,4,,,11
+27,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,,11
+28,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,,12
+29,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,WCWP 10A,WCWP,10A,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+12,WCWP 10B,WCWP,10B,11,,,4,,,2
+31,GE 2,,,,,,4,,,2
+13,PHIL / POLI 27,POLI,27,11;12,,,4,,,3
+32,GE 3,,,,,,4,,,3
+14,PHIL / POLI 28,POLI,28,13,,,4,,,4
+33,GE 4,,,,,,4,,,4
+34,GE 5,,,,,,4,,,5
+35,GE 6,,,,,,4,,,5
+36,GE 7,,,,,,4,,,6
+37,GE 8,,,,,,4,,,7
+38,GE 9,,,,,,4,,,7
+39,GE 10,,,,,,4,,,8
+40,ELECTIVE 1,,,,,,4,,,8
+41,GE 11,,,,,,4,,,9
+42,ELECTIVE 2,,,,,,4,,,9
+43,ELECTIVE 3,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12

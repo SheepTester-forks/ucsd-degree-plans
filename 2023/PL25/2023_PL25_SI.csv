@@ -1,0 +1,54 @@
+Curriculum,Philosophy
+Degree Plan,Philosophy/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LD PHIL 1,,,,,,4,,,1
+11,LD PHIL 2,,,,,,4,,,2
+1,PHIL 10,PHIL,10,,,,4,,,3
+2,PHIL 120,PHIL,120,1,,,4,,,4
+12,UD PHIL 1,,,,,,4,,,5
+13,UD PHIL 2,,,,,,4,,,6
+14,UD PHIL 3,,,,,,4,,,7
+3,PHIL 110,PHIL,110,,,,4,,,7
+15,UD PHIL 4,,,,,,4,,,8
+4,PHIL 111,PHIL,111,3,,,4,,,8
+5,PHIL 112,PHIL,112,4,,,4,,,9
+16,UD PHIL 5,,,,,,4,,,9
+17,UD PHIL 6,,,,,,4,,,10
+18,UD PHIL 7,,,,,,4,,,11
+19,UD PHIL 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,CAT 1,CAT,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+7,CAT 2,CAT,2,6,,,6,,,2
+21,GE 2,,,,,,4,,,2
+8,CAT 3,CAT,3,7,,,6,,,3
+22,GE 3,,,,,,4,,,3
+23,GE 4,,,,,,4,,,4
+24,GE 5,,,,,,4,,,4
+25,ELECTIVE 1,,,,,,4,,,4
+26,GE 6,,,,,,4,,,5
+27,GE 7,,,,,,4,,,5
+28,ELECTIVE 2,,,,,,4,,,5
+29,GE / DEI,,,,,,4,,,6
+30,ELECTIVE 3,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,6
+32,UD ELECTIVE,,,,,,4,,,7
+33,ELECTIVE 5,,,,,,4,,,7
+34,ELECTIVE 6,,,,,,4,,,8
+35,ELECTIVE 7,,,,,,4,,,8
+36,ELECTIVE 8,,,,,,4,,,9
+37,ELECTIVE 9,,,,,,4,,,9
+9,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,10
+38,ELECTIVE 10,,,,,,4,,,10
+39,ELECTIVE 11,,,,,,4,,,10
+40,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,11
+41,ELECTIVE 12,,,,,,4,,,11
+42,ELECTIVE 13,,,,,,4,,,11
+43,ELECTIVE 14,,,,,,4,,,12
+44,ELECTIVE 15,,,,,,4,,,12

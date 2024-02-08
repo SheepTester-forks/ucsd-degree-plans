@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Studio)
+Degree Plan,Visual Arts (Studio)/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0702
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 1,VIS,1,,,,4,,,1
+2,VIS 2,VIS,2,,,,4,,,2
+3,VIS 22,VIS,22,,,,4,,,2
+4,VIS 3,VIS,3,,,,4,,,3
+9,LD VIS OPTION,,,,,,4,,,4
+5,VIS 111,VIS,111,,,,4,,,5
+10,GROUP II 1,,,,,,4,,,6
+11,GROUP II 2,,,,,,4,,,6
+12,GROUP II 3,,,,,,4,,,7
+13,GROUP III 1,,,,,,4,,,7
+14,GROUP II 4,,,,,,4,,,8
+15,GROUP III 2,,,,,,4,,,8
+16,GROUP IV / A 1,,,,,,4,,,9
+17,GROUP IV / A 2,,,,,,4,,,9
+18,GROUP IV / B 1,,,,,,4,,,10
+19,NON - STUDIO 1,,,,,,4,,,10
+20,GROUP IV / B 2,,,,,,4,,,11
+21,NON - STUDIO 2,,,,,,4,,,11
+22,GROUP IV / B 3,,,,,,4,,,12
+23,NON - STUDIO 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,DOC 1 / DEI,DOC,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+25,ELECTIVE 1,,,,,,4,,,1
+7,DOC 2,DOC,2,6,,,6,,,2
+26,GE 2,,,,,,4,,,2
+8,DOC 3,DOC,3,,,,6,,,3
+27,GE 3,,,,,,4,,,3
+28,ELECTIVE 2,,,,,,4,,,3
+29,GE 4,,,,,,4,,,4
+30,GE 5,,,,,,4,,,4
+31,ELECTIVE 3,,,,,,4,,,4
+32,GE 6,,,,,,4,,,5
+33,GE 7,,,,,,4,,,5
+34,ELECTIVE 4,,,,,,4,,,5
+35,GE 8,,,,,,4,,,6
+36,GE 9,,,,,,4,,,6
+37,UD GE 1,,,,,,4,,,7
+38,ELECTIVE 5,,,,,,4,,,7
+39,UD GE 2,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,8
+41,ELECTIVE 7,,,,,,4,,,9
+42,ELECTIVE 8,,,,,,4,,,10
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12

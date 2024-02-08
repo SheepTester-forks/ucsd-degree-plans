@@ -1,0 +1,55 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LD INTRO COURSE (GLBH 20),GLBH,20,,,,4,,,2
+4,STATISTICS COURSE,,,,,,4,,,3
+2,LD INTRO COURSE (SOCI 30),SOCI,30,,,,4,,,4
+5,UD GH CORE COURSE 1,,,,,,4,,,7
+3,UD GH CORE COURSE (EG GLBH 148),GLBH,148,,,,4,,,7
+6,UD GLOBAL HEALTH ELECTIVE 1,,,,,,4,,,8
+7,UD GLOBAL HEALTH ELECTIVE 2,,,,,,4,,,8
+8,UD GH CORE COURSE 2,,,,,,4,,,8
+9,UD GH CORE COURSE 3,,,,,,4,,,9
+10,UD GLOBAL HEALTH ELECTIVE 3,,,,,,4,,,9
+11,UD GLOBAL HEALTH ELECTIVE 4,,,,,,4,,,9
+12,UD GLOBAL HEALTH ELECTIVE 5,,,,,,4,,,10
+13,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,,10
+14,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,,11
+15,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,11
+16,UD GLOBAL HEALTH ELECTIVE 9,,,,,,4,,,12
+17,UD SIGNIFICANT WRITING COURSE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,GE / MUIR WRITING 1,,,,,,4,,,1
+19,ELECTIVE 1,,,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+22,GE / MUIR WRITING 2,,,,,,4,,,2
+23,ELECTIVE 2,,,,,,4,,,2
+24,GE 3,,,,,,4,,,2
+25,DEI,,,,,,4,,,3
+26,GE 4,,,,,,4,,,3
+27,GE 5,,,,,,4,,,3
+28,MUIR UD ELECTIVE,,,,,,4,,,4
+29,GE 6,,,,,,4,,,4
+30,GE 7,,,,,,4,,,4
+31,ELECTIVE 3,,,,,,4,,,5
+32,ELECTIVE 4,,,,,,4,,,5
+33,GE 8,,,,,,4,,,5
+34,GE 9,,,,,,4,,,5
+35,ELECTIVE 5,,,,,,4,,,6
+36,ELECTIVE 6,,,,,,4,,,6
+37,GE 10,,,,,,4,,,6
+38,GE 11,,,,,,4,,,6
+39,GE 12,,,,,,4,,,7
+40,ELECTIVE 7,,,,,,4,,,7
+41,ELECTIVE 8,,,,,,4,,,8
+42,ELECTIVE 9,,,,,,4,,,9
+43,ELECTIVE 10,,,,,,4,,,10
+44,ELECTIVE 11,,,,,,4,,,11
+45,ELECTIVE 12,,,,,,4,,,12

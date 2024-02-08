@@ -1,0 +1,55 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Biostatistics
+Degree Plan,Bachelor of Science in Public Health with Concentration in Biostatistics/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,SBE 1,,,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+21,SBE 2,,,,,,4,,,3
+7,MATH 11,MATH,11,2,,,5,,,4
+5,FMPH 40,FMPH,40,,,,4,,,4
+6,BILD 1,BILD,1,,,,4,,,4
+8,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
+9,BILD 2,BILD,2,6,,,4,,,5
+22,COMPUTER PROGRAMMING,,,,,,4,,,6
+23,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
+10,BILD 3,BILD,3,,,,4,,,6
+24,GE / DEI,,,,,,4,,,6
+11,FMPH 101 / FMPH 102 1,FMPH,101,5;7,,,4,,,7
+25,CONCENTRATION UDE 1,,,,,,4,,,7
+26,FMPH 101 / FMPH 102 2,FMPH,101,5;7,,,4,,,8
+12,USP 143,USP,143,,,,4,,,8
+13,FMPH 120 / FMPH 130 1,FMPH,120,5,,,4,,,9
+27,CONCENTRATION UDE 2,,,,,,4,,,9
+28,FMPH 120 / FMPH 130 2,FMPH,120,5,,,4,,,10
+29,FMPH UDE,,,,,,4,,,10
+14,FMPH 193,FMPH,193,,,,4,,,11
+30,UDE 1,,,,,,4,,,11
+15,FMPH 194,FMPH,194,14,,,4,,,12
+31,UDE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,WCWP 10A,WCWP,10A,,,,4,,,1
+32,GE 1,,,,,,4,,,1
+17,WCWP 10B,WCWP,10B,16,,,4,,,2
+33,GE 2,,,,,,4,,,2
+18,PHIL / POLI 27,POLI,27,16;17,,,4,,,3
+34,GE 3,,,,,,4,,,3
+19,PHIL / POLI 28,POLI,28,18,,,4,,,4
+35,GE 4,,,,,,4,,,5
+36,GE 5,,,,,,4,,,5
+37,GE 6,,,,,,4,,,7
+38,UD ELECTIVE 1,,,,,,4,,,7
+39,GE 7,,,,,,4,,,8
+40,UD ELECTIVE 2,,,,,,4,,,8
+41,GE 8,,,,,,4,,,9
+42,ELECTIVE,,,,,,4,,,9
+43,GE 9,,,,,,4,,,10
+44,GE 10,,,,,,4,,,11
+45,GE 11,,,,,,4,,,12

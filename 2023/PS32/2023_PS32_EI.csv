@@ -1,0 +1,55 @@
+Curriculum,Political Science/Data Analytics
+Degree Plan,Political Science/Data Analytics/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LD POLI 1,,,,,,4,,,1
+1,POLI 5(D),POLI,5,,,,4,,,2
+2,POLI 30(D),POLI,30,,,,4,,,3
+8,LD POLI 2,,,,,,4,,,4
+9,UD POLI 1,,,,,,4,,,5
+10,UD POLI / DATA ANALYTICS 1,,,,,,4,,,6
+11,UD POLI 2,,,,,,4,,,7
+12,UD POLI / DATA ANALYTICS 2,,,,,,4,,,7
+13,UD POLI 3,,,,,,4,,,8
+14,UD POLI / DATA ANALYTICS 3,,,,,,4,,,8
+15,UD POLI 4,,,,,,4,,,9
+16,UD POLI / DATA ANALYTICS 4,,,,,,4,,,9
+17,UD POLI 5,,,,,,4,,,10
+18,UD POLI / DATA ANALYTICS 5,,,,,,4,,,10
+19,UD POLI 6,,,,,,4,,,11
+20,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,BREADTH GE 1,,,,,,4,,,1
+22,DEI,,,,,,4,,,1
+3,CCE 1,CCE,1,,,,4,,,2
+23,BREADTH GE 2,,,,,,4,,,2
+24,ELECTIVE 1,,,,,,4,,,2
+25,BREADTH GE 3,,,,,,4,,,3
+26,BREADTH GE 4,,,,,,4,,,3
+27,ELECTIVE 2,,,,,,4,,,3
+4,CCE 2,CCE,2,,,,4,,,4
+28,BREADTH GE 5,,,,,,4,,,4
+29,ELECTIVE 3,,,,,,4,,,4
+30,BREADTH GE 6,,,,,,4,,,5
+31,BREADTH GE 7,,,,,,4,,,5
+32,ELECTIVE 4,,,,,,4,,,5
+5,CCE 3,CCE,3,,,,4,,,6
+33,ELECTIVE 5,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,6
+35,BREADTH GE 8,,,,,,4,,,7
+36,ELECTIVE 7,,,,,,4,,,7
+37,ELECTIVE 8,,,,,,4,,,8
+38,ELECTIVE 9,,,,,,4,,,8
+6,CCE 120,CCE,120,,,,4,,,9
+39,UD ELECTIVE 1,,,,,,4,,,10
+40,ELECTIVE 10,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,11
+44,ELECTIVE 13,,,,,,4,,,12
+45,ELECTIVE 14,,,,,,4,,,12

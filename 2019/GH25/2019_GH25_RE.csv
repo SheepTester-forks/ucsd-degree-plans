@@ -1,0 +1,53 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GLBH 20 / HILD 30 REQT,GLBH,20,,,,4,,,2
+16,STATISTICS COURSE,,,,,,4,,,3
+17,LOWER DIV SOC COURSE,,,,,,4,,,4
+2,GLBH 148 GLOBAL HEALTH & CULTURAL DIVERSITY,GLBH,148,,,,4,,,7
+18,UD GLOBAL HEALTH ELECTIVE 1,,,,,,4,,,7
+19,POLICY ANALYSIS ELECTIVE,,,,,,4,,,7
+3,MGT 173 PROJECT MANAGEMENT: HEALTH SERVICES,MGT,173,,,,4,,,8
+20,UD GLOBAL HEALTH ELECTIVE 2,,,,,,4,,,8
+21,UD GLOBAL HEALTH ELECTIVE 3,,,,,,4,,,9
+4,GLBH 181 ESSENTIALS OF GLOBAL HEALTH,GLBH,181,,,,4,,,9
+22,UD GLOBAL HEALTH ELECTIVE 4,,,,,,4,,,10
+23,UD GLOBAL HEALTH ELECTIVE 5,,,,,,4,,,10
+24,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,,11
+25,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,,11
+5,GLBH 150A SENIOR CAPSTONE I,GLBH,150A,,,,4,,,11
+26,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,12
+6,GLBH 150B SENIOR CAPSTONE II,GLBH,150B,5,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,MATH 10A,MATH,10A,,,,4,,,1
+8,CHEM 11,CHEM,11,,,,4,,,1
+27,DEI / SOCIAL SCIENCE,,,,,,4,,,1
+9,MATH 10B,MATH,10B,7,,,4,,,2
+10,PHYS 10,PHYS,10,,,,4,,,2
+11,HUM 1,HUM,1,,,,6,,,2
+28,MATH GE,,,,,,4,,,3
+12,HUM 2,HUM,2,,,,6,,,3
+13,HUM 3,HUM,3,11,,,4,,,4
+29,NATURAL SCIENCE GE 1,,,,,,4,,,4
+30,LANGUAGE 1,,,,,,5,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+31,FINE ARTS,,,,,,4,,,5
+32,LANGUAGE 2,,,,,,5,,,5
+33,NATURAL SCIENCE GE 2,,,,,,4,,,6
+15,HUM 5,HUM,5,,,,4,,,6
+34,LANGUAGE 3,,,,,,5,,,6
+35,LANGUAGE 4,,,,,,5,,,7
+36,ELECTIVE 1,,,,,,4,,,8
+37,ELECTIVE 2,,,,,,4,,,8
+38,BIOLOGY GE,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,4,,,9
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,10
+42,ELECTIVE 6,,,,,,4,,,11
+43,UD ELECTIVE,,,,,,4,,,12

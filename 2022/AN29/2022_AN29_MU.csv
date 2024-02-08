@@ -1,0 +1,55 @@
+Curriculum,Biological Anthropology
+Degree Plan,Biological Anthropology/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,45.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BILD 1,BILD,1,,,,4,,,1
+2,BILD 2,BILD,2,1,,,4,,,2
+3,MATH 10A,MATH,10A,,,,4,,,2
+4,MATH 10B,MATH,10B,3,,,4,,,3
+6,"ANTH 43 / 42, 5 / SOCI 70 / PSYC 1",ANTH,43,,,,4,,,4
+8,PSYCH 60 / MATH 11,MATH,11,4,,,4,,,5
+10,ANTH 2,ANTH,2,,,,4,,,6
+11,ANTH 101,ANTH,101,,,,4,,,7
+16,ANBI UPPER DIVISION COURSE 1,,,,,,4,,,7
+17,ANBI UPPER DIVISION COURSE 2,,,,,,4,,,8
+18,ANBI UPPER DIVISION COURSE 3,,,,,,4,,,8
+12,ANTH 102,ANTH,102,,,,4,,,8
+13,ANTH 103,ANTH,103,,,,4,,,9
+19,ANBI UPPER DIVISION COURSE 4,,,,,,4,,,9
+20,ANTHROPOLOGY UD ELECTIVE COURSE 1,,,,,,4,,,10
+21,ANTHROPOLOGY UD ELECTIVE COURSE 2,,,,,,4,,,10
+22,ANTHROPOLOGY UD ELECTIVE COURSE 3,,,,,,4,,,11
+23,ANTHROPOLOGY UD ELECTIVE COURSE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,MCWP 40 / GE,MCWP,40,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+15,MCWP 50 / GE,MCWP,50,14,,,4,,,2
+25,GE 2,,,,,,4,,,2
+26,GE 3,,,,,,4,,,3
+27,GE 4,,,,,,4,,,3
+28,DEI,,,,,,4,,,3
+29,GE 5,,,,,,4,,,4
+30,GE 6,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,GE 7,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,5
+34,ELECTIVE 3,,,,,,4,,,5
+35,GE 8,,,,,,4,,,6
+36,GE 9,,,,,,4,,,6
+37,ELECTIVE 4,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,7
+39,MUIR UD ELECTIVE 1,,,,,,4,,,7
+40,MUIR UD ELECTIVE 2,,,,,,4,,,8
+41,ELECTIVE 6,,,,,,4,,,9
+42,MUIR UD ELECTIVE 3,,,,,,4,,,9
+43,ELECTIVE 7,,,,,,4,,,10
+44,ELECTIVE 8,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,4,,,11
+46,ELECTIVE 10,,,,,,4,,,11
+47,ELECTIVE 11,,,,,,4,,,12
+48,ELECTIVE 12,,,,,,4,,,12

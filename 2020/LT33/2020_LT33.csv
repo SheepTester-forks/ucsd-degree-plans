@@ -1,0 +1,29 @@
+Curriculum,Spanish Literature
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0905
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LISP 1A,LISP,1A,,,,2.5,,
+2,LISP 1AX,LISP,1AX,,,,2.5,,
+3,LISP 1B,LISP,1B,1;2,,,2.5,,
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,
+5,LISP 1C,LISP,1C,3;4,,,2.5,,
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,
+10,LD LTEN,,,,,,4,,
+7,LTSP 2A,LTSP,2A,5;6,,,5,,
+8,LTSP 2B,LTSP,2B,7,,,5,,
+9,LTSP 2C,LTSP,2C,8,,,4,,
+11,UD LITERATURE ELECTIVE 1,,,,,,4,,
+12,UD LTSP 1,,,,,,4,,
+13,UD LITERATURE ELECTIVE 2,,,,,,4,,
+14,UD LTSP 2,,,,,,4,,
+15,UD LTSP 3,,,,,,4,,
+16,UD LITERATURE ELECTIVE 3,,,,,,4,,
+17,UD LTSP 4,,,,,,4,,
+18,UD LTSP - PRE - 1900,,,,,,4,,
+19,UD LTSP 5,,,,,,4,,
+20,UD LTSP 6,,,,,,4,,
+21,UD LTSP 7,,,,,,4,,
+22,UD LTSP 8,,,,,,4,,

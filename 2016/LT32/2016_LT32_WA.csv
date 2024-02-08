@@ -1,0 +1,54 @@
+Curriculum,Russian Literature
+Degree Plan,Russian Literature/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0402
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTRU 1A,LTRU,1A,,,,5,,,1
+2,LTRU 1B,LTRU,1B,,,,5,,,2
+3,LTRU 1C,LTRU,1C,,,,5,,,3
+4,LTRU 2A,LTRU,2A,,,,5,,,4
+5,LTRU 2B,LTRU,2B,,,,5,,,5
+12,LD LTEN 1,,,,,,4,,,5
+6,LTRU 104A,LTRU,104A,,,,4,,,6
+13,LD LTEN 2,,,,,,4,,,6
+7,LTRU 104B,LTRU,104B,,,,4,,,7
+14,UD LTEN,,,,,,4,,,7
+8,LTRU 104C,LTRU,104C,6,,,4,,,8
+15,UD LTRU 1,,,,,,4,,,8
+16,UD LTRU 2,,,,,,4,,,9
+9,LTRU 110C,LTRU,110C,,,,4,,,9
+10,LTRU 110A,LTRU,110A,,,,4,,,10
+17,UD LTRU 3,,,,,,4,,,10
+18,UD LTRU 4,,,,,,4,,,11
+11,LTRU 110B,LTRU,110B,,,,4,,,11
+19,UD LTRU 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+22,ELECTIVE 1,,,,,,4,,,1
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+25,ELECTIVE 2,,,,,,4,,,2
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,ELECTIVE 3,,,,,,4,,,3
+29,GE 7,,,,,,4,,,4
+30,GE 8,,,,,,4,,,4
+31,ELECTIVE 4,,,,,,3,,,4
+32,GE 9,,,,,,4,,,5
+33,GE 10,,,,,,4,,,5
+34,GE / DEI,,,,,,4,,,6
+35,GE 11,,,,,,4,,,6
+36,GE 12,,,,,,4,,,7
+37,GE 13,,,,,,4,,,7
+38,GE 14,,,,,,4,,,8
+39,GE 15,,,,,,4,,,8
+40,GE 16,,,,,,4,,,9
+41,GE 17,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,4,,,12

@@ -1,0 +1,60 @@
+Curriculum,Engineering Physics
+Degree Plan,Engineering Physics/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,ECE 15,ECE,15,,,,4,,,1
+5,MATH 18,MATH,18,,,,4,,,2
+3,ECE 25,ECE,25,,,,4,,,2
+4,CHEM 6A,CHEM,6A,,,,4,,,2
+6,MATH 20B,MATH,20B,1,,,4,,,3
+7,PHYS 2A,PHYS,2A,1;1,,,4,,,3
+8,ECE 30,ECE,30,2;3,,,4,,,3
+9,MATH 20C,MATH,20C,6,,,4,,,4
+10,PHYS 2B,PHYS,2B,7;6,,,4,,,4
+11,ECE 35,ECE,35,5;1;6;7,,,4,,,4
+12,MATH 20D,MATH,20D,9,,,4,,,5
+13,PHYS 2C,PHYS,2C,7;9,,,4,,,5
+14,ECE 45,ECE,45,11,,,4,,,5
+16,PHYS 2D,PHYS,2D,7;10;12,,,4,,,6
+15,MATH 20E,MATH,20E,5;9,,,4,,,6
+17,ECE 65,ECE,65,11,,,4,,,6
+18,PHYS 2DL,PHYS,2DL,,,,2,,,7
+19,ECE 100,ECE,100,14;17,,,4,,,7
+20,MATH 110,MATH,110,5;12;15,,,4,,,7
+21,PHYS 110A,PHYS,110A,1;6;9;12;15;5,,,4,,,7
+22,ECE 102,ECE,102,17;19,,,4,,,8
+23,ECE 107,ECE,107,7;10;13;14,,,4,,,8
+24,ECE 101,ECE,101,14,,,4,,,8
+25,ECE 103,ECE,103,17;16;16,,,4,,,9
+26,PHYS 130A,PHYS,130A,16;21,,,4,,,9
+27,ECE 109,ECE,109,1;6;9;12;5,,,4,,,9
+28,PHYS 140A,PHYS,140A,26,,,4,,,10
+35,DEPTH 1,,,,,,4,,,10
+29,PHYS 130B,PHYS,130B,26,,,4,,,10
+36,ENGINEERING DESIGN,,,,,,4,,,11
+37,DEPTH 2,,,,,,4,,,11
+38,TECHNICAL ELECTIVE 1,,,,,,4,,,11
+39,PROFESSIONAL ELECTIVE 1,,,,,,4,,,11
+40,TECHNICAL ELECTIVE 2,,,,,,4,,,12
+41,PROFESSIONAL ELECTIVE 2,,,,,,4,,,12
+42,PROFESSIONAL ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+43,BIOLOGY GE,,,,,,4,,,1
+44,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+30,HUM 1,HUM,1,,,,6,,,2
+31,HUM 2,HUM,2,,,,6,,,3
+32,HUM 3,HUM,3,30,,,4,,,4
+33,HUM 4,HUM,4,,,,4,,,5
+34,HUM 5,HUM,5,,,,4,,,6
+45,LANGUAGE 1,,,,,,5,,,7
+46,LANGUAGE 2,,,,,,5,,,8
+47,LANGUAGE 3,,,,,,5,,,9
+48,LANGUAGE 4,,,,,,5,,,10
+49,FINE ARTS,,,,,,4,,,11
+50,SOCIAL SCIENCE,,,,,,4,,,12

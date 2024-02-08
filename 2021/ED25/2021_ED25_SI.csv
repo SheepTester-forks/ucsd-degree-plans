@@ -1,0 +1,56 @@
+Curriculum,Education Sciences
+Degree Plan,Education Sciences/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,13.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,EDS LD,,,,,,2,,,4
+9,EDS UD ELECTIVE 1,,,,,,4,,,7
+10,EDS UD 1,,,,,,4,,,7
+1,EDS 103,EDS,103,,,,4,,,8
+11,EDS UD 2,,,,,,4,,,8
+2,EDS 102,EDS,102,,,,4,,,9
+12,EDS UD 3,,,,,,4,,,9
+13,EDS UD: INTRO TO LEARNING CONTEXTS,,,,,,4,,,10
+14,EDS UD ELECTIVE 2,,,,,,4,,,10
+3,EDS 139 1,EDS,139,,,,2,,,10
+15,EDS CAPSTONE 1,,,,,,4,,,11
+16,EDS UD ELECTIVE 3,,,,,,4,,,11
+17,EDS 139 2,EDS,139,,,,2,,,11
+18,EDS CAPSTONE 2,,,,,,4,,,12
+19,EDS 139 3,EDS,139,,,,2,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,CAT 1,CAT,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+22,GE 3,,,,,,4,,,1
+5,CAT 2,CAT,2,4,,,6,,,2
+23,GE 4,,,,,,4,,,2
+24,ELECTIVE 1,,,,,,4,,,2
+6,CAT 3,CAT,3,5,,,6,,,3
+25,GE 5,,,,,,4,,,3
+26,GE 6,,,,,,4,,,3
+27,GE 7,,,,,,4,,,4
+28,ELECTIVE 2,,,,,,4,,,4
+29,ELECTIVE 3,,,,,,4,,,4
+30,GE 8,,,,,,4,,,5
+31,ELECTIVE 4,,,,,,4,,,5
+32,ELECTIVE 5,,,,,,4,,,5
+33,ELECTIVE 6,,,,,,4,,,5
+34,GE / DEI,,,,,,4,,,6
+35,ELECTIVE 7,,,,,,4,,,6
+36,ELECTIVE 8,,,,,,4,,,6
+37,ELECTIVE 9,,,,,,4,,,6
+38,GE 9,,,,,,4,,,7
+39,ELECTIVE 10,,,,,,4,,,7
+40,UD ELECTIVE 1,,,,,,4,,,8
+41,ELECTIVE 11,,,,,,4,,,8
+7,CAT 125,CAT,125,,,,4,,,9
+42,ELECTIVE 12,,,,,,4,,,9
+43,ELECTIVE 13,,,,,,4,,,10
+44,ELECTIVE 14,,,,,,4,,,11
+45,UD ELECTIVE 2,,,,,,4,,,12
+46,ELECTIVE 15,,,,,,4,,,12

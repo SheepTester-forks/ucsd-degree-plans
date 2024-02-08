@@ -1,0 +1,60 @@
+Curriculum,Electrical Engineering
+Degree Plan,Electrical Engineering/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,ECE 15,ECE,15,,,,4,,,1
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+6,PHYS 2A,PHYS,2A,1,,,4,,,2
+5,ECE 25,ECE,25,,,,4,,,2
+7,MATH 20C,MATH,20C,4,,,4,,,3
+9,PHYS 2B,PHYS,2B,6;4,,,4,,,3
+8,ECE 35,ECE,35,1;4;6,,,4,,,3
+11,MATH 20D,MATH,20D,7,,,4,,,4
+12,PHYS 2C,PHYS,2C,6;1;4;7,,,4,,,4
+10,ECE 45,ECE,45,8,,,4,,,4
+14,MATH 20E,MATH,20E,7,,,4,,,5
+15,PHYS 2D,PHYS,2D,6;9;11,,,4,,,5
+13,ECE 65,ECE,65,8,,,4,,,5
+18,MATH 20F,MATH,20F,7,,,4,,,6
+17,ECE 107,ECE,107,6;9;12;15;10,,,4,,,6
+16,ECE 30,ECE,30,2;5,,,4,,,6
+21,ECE 103,ECE,103,13;15;15,,,4,,,7
+20,ECE 101,ECE,101,10,,,4,,,7
+19,ECE 100,ECE,100,10;13,,,4,,,7
+29,ELECTIVE 1,,,,,,4,,,8
+22,ECE 102,ECE,102,13;19,,,4,,,8
+23,ECE 109,ECE,109,1;4;7;11;18,,,4,,,8
+30,DEPTH 2,,,,,,4,,,9
+31,DEPTH 1,,,,,,4,,,9
+32,ELECTIVE 2,,,,,,4,,,9
+33,ELECTIVE 4,,,,,,4,,,10
+34,ELECTIVE 3,,,,,,4,,,10
+35,DEPTH 3,,,,,,4,,,10
+36,DESIGN,,,,,,4,,,11
+37,DEPTH 4,,,,,,4,,,11
+38,ELECTIVE 5,,,,,,4,,,11
+39,ELECTIVE 6,,,,,,4,,,12
+40,DEPTH 5,,,,,,4,,,12
+41,ELECTIVE 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,MMW 11,MMW,11,,,,4,,,1
+42,GE 1,,,,,,4,,,1
+25,MMW 12,MMW,12,,,,6,,,2
+26,MMW 13,MMW,13,,,,6,,,3
+43,GE 2,,,,,,4,,,3
+27,MMW 14 / GE 1,MMW,14,25,,,4,,,4
+44,MMW 14 / GE 2,MMW,14,25,,,4,,,5
+28,MMW 15,MMW,15,25,,,4,,,6
+45,GE / DEI,,,,,,4,,,7
+46,GE 3,,,,,,4,,,8
+47,GE 4,,,,,,4,,,9
+48,GE 5,,,,,,4,,,10
+49,GE 6,,,,,,4,,,11
+50,GE 7,,,,,,4,,,12

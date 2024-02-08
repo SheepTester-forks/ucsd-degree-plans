@@ -1,0 +1,40 @@
+Curriculum,Music
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MUS 2A,MUS,2A,,,,4,,
+2,MUS 2AK,MUS,2AK,,,,2,,
+3,MUS 43 1,MUS,43,,,,1,,
+4,MUS 2B,MUS,2B,1,,,4,,
+5,MUS 2BK,MUS,2BK,1;2,,,2,,
+14,MUS 43 2,MUS,43,,,,1,,
+6,MUS 2C,MUS,2C,4,,,4,,
+7,MUS 2CK,MUS,2CK,5,,,2,,
+15,MUS 43 3,MUS,43,,,,1,,
+16,MUS 43 4,MUS,43,,,,1,,
+17,ENSEMBLE 1,,,,,,2,,
+18,MUS 43 5,MUS,43,,,,1,,
+19,ENSEMBLE 2,,,,,,2,,
+20,MUS 43 6,MUS,43,,,,1,,
+21,ENSEMBLE 3,,,,,,2,,
+22,MUS 43 7,MUS,43,,,,1,,
+8,MUS 101A,MUS,101A,6;7,,,4,,
+9,MUS 120A,MUS,120A,6,,,4,,
+23,MUS UD ELECTIVE 1,,,,,,4,,
+24,MUS 43 8,MUS,43,,,,1,,
+10,MUS 101B,MUS,101B,6,,,4,,
+11,MUS 120B,MUS,120B,9,,,4,,
+25,MUS UD ELECTIVE 2,,,,,,4,,
+26,MUS 43 9,MUS,43,,,,1,,
+12,MUS 101C,MUS,101C,10,,,4,,
+13,MUS 120C,MUS,120C,11,,,4,,
+27,MUS UD ELECTIVE 3,,,,,,4,,
+28,MUS 43 10,MUS,43,,,,1,,
+29,MUS UD EMPHASIS 1,,,,,,4,,
+30,MUS 43 11,MUS,43,,,,1,,
+31,MUS UD EMPHASIS 2,,,,,,4,,
+32,MUS 43 12,MUS,43,,,,1,,
+33,MUS UD EMPHASIS 3,,,,,,4,,

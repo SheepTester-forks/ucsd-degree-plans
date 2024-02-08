@@ -1,0 +1,55 @@
+Curriculum,Dance
+Degree Plan,Dance/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,TDTR 10,TDTR,10,,,,4,,,1
+1,TDDM 1,TDDM,1,,,,4,,,1
+17,CORE MOVEMENT 1,,,,,,4,,,2
+3,TDHD 20,TDHD,20,2,,,4,,,2
+5,TDHD 21,TDHD,21,2,,,4,,,3
+4,TDDM 5,TDDM,5,,,,4,,,3
+18,CORE MOVEMENT 2,,,,,,4,,,4
+6,TDPR 6,TDPR,6,,,,4,,,4
+7,TDTR 15,TDTR,15,,,,4,,,5
+8,TDDM 100,TDDM,100,1,,,4,,,5
+19,GE / DEI,,,,,,4,,,6
+9,TDTR 20,TDTR,20,,,,4,,,6
+10,TDMV 20,TDMV,20,,,,4,,,6
+20,CORE MOVEMENT 3,,,,,,4,,,7
+11,TDTR 104,TDTR,104,,,,4,,,7
+21,TDHD XXX,,,2,,,4,,,8
+22,CORE MOVEMENT 4,,,,,,4,,,8
+12,TDDM 101,TDDM,101,1,,,4,,,9
+23,UD ELECTIVE MOVEMENT 1,,,,,,4,,,9
+24,UD ELECTIVE MOVEMENT 2,,,,,,4,,,10
+25,UD ELECTIVE MOVEMENT 3,,,,,,4,,,11
+26,UD ELECTIVE MOVEMENT 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,WCWP 10A,WCWP,10A,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+14,WCWP 10B,WCWP,10B,13,,,4,,,2
+28,GE 2,,,,,,4,,,2
+15,PHIL / POLI 27,POLI,27,13;14,,,4,,,3
+29,GE 3,,,,,,4,,,3
+16,PHIL / POLI 28,POLI,28,15,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,GE 5,,,,,,4,,,5
+32,GE 6,,,,,,4,,,5
+33,GE 7,,,,,,4,,,6
+34,GE 8,,,,,,4,,,7
+35,GE 9,,,,,,4,,,7
+36,GE 10,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,8
+38,GE 11,,,,,,4,,,9
+39,ELECTIVE 2,,,,,,4,,,9
+40,GE 12,,,,,,4,,,10
+41,ELECTIVE 3,,,,,,4,,,10
+42,GE 13,,,,,,4,,,11
+43,ELECTIVE 4,,,,,,4,,,11
+44,ELECTIVE 5,,,,,,4,,,12
+45,ELECTIVE 6,,,,,,4,,,12

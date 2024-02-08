@@ -1,0 +1,24 @@
+Curriculum,Global Health
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,HILD 30 / GLBH 20 REQT,HILD,30,,,,4,,
+7,LOWER DIV SOC COURSE,,,,,,4,,
+8,STATISTICS COURSE,,,,,,4,,
+2,ANSC 148 GLOBAL HEALTH & CULTURAL DIVERSITY,ANSC,148,,,,4,,
+9,POLICY ANALYSIS,,,,,,4,,
+10,ELECTIVE 1,,,,,,4,,
+11,ELECTIVE 2,,,,,,4,,
+3,MGT 173 PROJECT MANAGEMENT - HEALTH SERVICES,MGT,173,,,,4,,
+12,ELECTIVE 3,,,,,,4,,
+4,GLBH 181 ESSENTIALS OF GLOBAL HEALTH,GLBH,181,,,,4,,
+13,ELECTIVE 4,,,,,,4,,
+14,ELECTIVE 5,,,,,,4,,
+15,ELECTIVE 6,,,,,,4,,
+5,GLBH 150A SENIOR CAPSTONE I,GLBH,150A,,,,4,,
+16,ELECTIVE 7,,,,,,4,,
+6,GLBH 150B SENIOR CAPSTONE II,GLBH,150B,5,,,4,,
+17,ELECTIVE 8,,,,,,4,,

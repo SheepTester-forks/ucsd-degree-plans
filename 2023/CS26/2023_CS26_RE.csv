@@ -1,0 +1,58 @@
+Curriculum,Computer Science
+Degree Plan,Computer Science/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,11.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CSE 8A / CSE 11,CSE,8A,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+20,LDE,,,,,,2,,,1
+4,CSE 8B,CSE,8B,2,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+6,CSE 12,CSE,12,4,,,4,,,3
+7,CSE 15L,CSE,15L,4,,,2,,,3
+8,CSE 20,CSE,20,2,,,4,,,3
+9,CSE 21,CSE,21,8,,,4,,,4
+10,CSE 30,CSE,30,6;7,,,4,,,4
+5,MATH 20C,MATH,20C,3,,,4,,,4
+21,CSE GENERAL SCIENCE (NAT SCI GE - SEE NOTE) 1,,,,,,4,,,4
+12,CSE 100 / 100R,CSE,100,9;6;7;10,,,4,,,5
+11,MATH 18,MATH,18,,,,4,,,5
+22,CSE GENERAL SCIENCE (NAT SCI GE - SEE NOTE) 2,,,,,,4,,,5
+13,CSE 101,CSE,101,9;6,,,4,,,6
+14,CSE 110,CSE,110,12,,,4,,,6
+23,UD STATISTICS,,,,,,4,,,6
+24,SYSTEMS ELECTIVE 1,,,,,,4,,,7
+25,ABSTRACTION ELECTIVE 1,,,,,,4,,,7
+26,APPLICATIONS ELECTIVE 1,,,,,,4,,,7
+27,SYSTEMS ELECTIVE 2,,,,,,4,,,8
+28,ABSTRACTION ELECTIVE 2,,,,,,4,,,8
+29,APPLICATIONS ELECTIVE 2,,,,,,4,,,8
+30,APPLICATIONS ELECTIVE 3,,,,,,4,,,9
+31,ABSTRACTION ELECTIVE 3,,,,,,4,,,9
+32,SYSTEMS ELECTIVE 3,,,,,,4,,,9
+33,OPEN CSE ELECTIVE 1,,,,,,4,,,10
+34,OPEN CSE ELECTIVE 2,,,,,,4,,,10
+35,OPEN CSE ELECTIVE 3,,,,,,4,,,11
+36,OPEN CSE ELECTIVE 4,,,,,,4,,,11
+37,OPEN CSE ELECTIVE 5,,,,,,4,,,12
+38,OPEN CSE ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+39,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+15,HUM 1,HUM,1,,,,6,,,2
+16,HUM 2,HUM,2,,,,6,,,3
+17,HUM 3,HUM,3,15,,,4,,,3
+18,HUM 4,HUM,4,,,,4,,,5
+19,HUM 5,HUM,5,,,,4,,,6
+40,LANGUAGE 1,,,,,,5,,,7
+41,LANGUAGE 2,,,,,,5,,,8
+42,LANGUAGE 3,,,,,,5,,,9
+43,BIOLOGY GE,,,,,,4,,,10
+44,LANGUAGE 4,,,,,,5,,,10
+45,FINE ARTS GE,,,,,,4,,,11
+46,CHEMISTRY GE,,,,,,4,,,11
+47,PHYSICS GE,,,,,,4,,,12
+48,AHI / SOCIAL SCIENCE GE,,,,,,4,,,12

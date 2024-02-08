@@ -1,0 +1,55 @@
+Curriculum,General Physics
+Degree Plan,General Physics/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,40.0801
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+24,PHYS RE 1,,,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+25,PHYS RE 2,,,,,,4,,,2
+3,PHYS 2A,PHYS,2A,1,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+26,PHYS RE 3,,,,,,4,,,3
+5,PHYS 2B,PHYS,2B,3;2,,,4,,,3
+6,MATH 20D,MATH,20D,4,,,4,,,4
+7,PHYS 2C,PHYS,2C,3;1;2;4,,,4,,,4
+8,MATH 20E,MATH,20E,4,,,4,,,5
+9,PHYS 2D,PHYS,2D,3;5;6,,,4,,,5
+10,PHYS 2CL,PHYS,2CL,5;3,,,2,,,5
+11,MATH 20F,MATH,20F,4,,,4,,,6
+12,PHYS 2DL,PHYS,2DL,10,,,2,,,6
+13,PHYS 100A,PHYS,100A,3;5;7;7;1;2;4;6;8;11,,,4,,,7
+14,PHYS 105A,PHYS,105A,5;7;9;9;1;2;4;6;8;11,,,4,,,7
+15,PHYS 110A,PHYS,110A,3;5;7;7;1;2;4;6;8;11,,,4,,,7
+16,PHYS 100B,PHYS,100B,13;14;1;2;4;6;8;11,,,4,,,8
+17,PHYS 110B,PHYS,110B,14;15;1;2;4;6;8;11,,,4,,,8
+18,PHYS 120,PHYS,120,3;5;7;10,,,5,,,9
+19,PHYS 130A,PHYS,130A,16;15,,,4,,,9
+20,PHYS 140A,PHYS,140A,19,,,4,,,10
+27,PHYS ELECTIVE 1,,,,,,4,,,10
+28,PHYS ELECTIVE 2,,,,,,4,,,11
+29,PHYS ELECTIVE 3,,,,,,4,,,11
+30,PHYS ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,DOC 1 / DEI,DOC,1,,,,4,,,1
+31,GE 1,,,,,,4,,,1
+22,DOC 2,DOC,2,21,,,6,,,2
+23,DOC 3,DOC,3,,,,6,,,3
+32,GE 2,,,,,,4,,,4
+33,GE 3,,,,,,4,,,4
+34,GE 4,,,,,,4,,,5
+35,ELECTIVE 1,,,,,,4,,,5
+36,GE 5,,,,,,4,,,6
+37,GE 6,,,,,,4,,,6
+38,ELECTIVE 2,,,,,,4,,,6
+39,GE 7,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,3,,,8
+41,ELECTIVE 4,,,,,,4,,,9
+42,UD GE 1,,,,,,4,,,10
+43,UD GE 2,,,,,,4,,,11
+44,ELECTIVE 5,,,,,,4,,,12
+45,ELECTIVE 6,,,,,,4,,,12

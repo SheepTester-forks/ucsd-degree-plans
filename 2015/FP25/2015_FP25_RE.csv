@@ -1,0 +1,54 @@
+Curriculum,Public Health
+Degree Plan,Public Health/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,FPMU 40,FPMU,40,,,,4,,,1
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+4,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+7,FPMU 50,FPMU,50,,,,4,,,4
+9,FPMU 101A,FPMU,101A,,,,4,,,8
+10,FPMU 110,FPMU,110,1,,,4,,,8
+11,FPMU 120,FPMU,120,10,,,4,,,9
+12,FPMU 101B,FPMU,101B,,,,4,,,9
+13,USP 143,USP,143,,,,4,,,11
+14,FPMU 130,FPMU,130,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CHEM 6A / 11,CHEM,6A,,,,4,,,1
+23,FINE ARTS,,,,,,4,,,1
+15,HUM 1,HUM,1,,,,6,,,2
+5,CHEM 6B / 12,CHEM,6B,3;2,,,4,,,2
+24,LD BIOLOGY SCI 1,,,,,,4,,,2
+16,HUM 2,HUM,2,,,,6,,,3
+17,MATH 10C / 20C,MATH,10C,4,,,4,,,3
+18,CHEM 6C / 13,CHEM,6C,5,,,4,,,3
+25,LD SOCIAL & BEHAVIORAL SCIENCE 1,,,,,,4,,,4
+6,PSYC 60 (OR MATH 11 / 11L IN SPRING 2016),PSYC,60,,,,4,,,4
+19,HUM 3,HUM,3,,,,4,,,4
+26,LD BIOLOGY SCI 2,,,,,,4,,,5
+27,LD SOCIAL & BEHAVIORAL SCIENCE 2,,,,,,4,,,5
+28,DEI,,,,,,4,,,5
+20,HUM 4,HUM,4,,,,4,,,5
+29,LD BIOLOGY SCI 3,,,,,,4,,,6
+30,LD SOCIAL & BEHAVIORAL SCIENCE 3,,,,,,4,,,6
+21,HUM 5,HUM,5,,,,4,,,6
+31,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+32,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+33,LANGUAGE 1,,,,,,5,,,7
+34,LANGUAGE 2,,,,,,5,,,8
+35,LANGUAGE 3,,,,,,5,,,9
+36,ELECTIVE 1,,,,,,4,,,9
+37,UD MAJOR ELECTIVE 3,,,,,,4,,,10
+38,UD MAJOR ELECTIVE 4,,,,,,4,,,10
+39,LANGUAGE 4,,,,,,5,,,10
+40,ELECTIVE 2,,,,,,4,,,10
+41,UD MAJOR ELECTIVE 5,,,,,,4,,,11
+22,PHYS 10,PHYS,10,,,,4,,,11
+42,ELECTIVE 3,,,,,,4,,,11
+43,UD MAJOR ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 4,,,,,,4,,,12
+45,ELECTIVE 5,,,,,,4,,,12

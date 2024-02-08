@@ -1,0 +1,55 @@
+Curriculum,Critical Gender Studies
+Degree Plan,Critical Gender Studies/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CGS 2A,CGS,2A,,,,4,,,1
+2,CGS 2B,CGS,2B,,,,4,,,2
+9,CGS INTER COURSE 1,,,,,,4,,,4
+3,CGS 100A,CGS,100A,1,,,4,,,4
+10,CGS INTER COURSE 2,,,,,,4,,,5
+11,CGS UD ELECTIVE 1,,,,,,4,,,5
+12,CGS INTER COURSE 3,,,,,,4,,,6
+4,CGS 100B,CGS,100B,1,,,4,,,6
+13,CGS UD ELECTIVE 2,,,,,,4,,,7
+14,CGS ADV COURSE 1,,,,,,4,,,7
+15,CGS ADV COURSE 2,,,,,,4,,,8
+16,CGS UD ELECTIVE 3,,,,,,4,,,8
+17,CGS ADV COURSE 3,,,,,,4,,,9
+18,CGS UD ELECTIVE 4,,,,,,4,,,9
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,ELECTIVE 1,,,,,,4,,,1
+20,ELECTIVE 2,,,,,,4,,,1
+5,CCE 1,CCE,1,,,,4,,,2
+21,BREADTH GE 1,,,,,,4,,,2
+22,ELECTIVE 3,,,,,,4,,,2
+23,BREADTH GE 2,,,,,,4,,,3
+24,BREADTH GE 3,,,,,,4,,,3
+25,ELECTIVE 4,,,,,,4,,,3
+26,ELECTIVE 5,,,,,,4,,,3
+6,CCE 2,CCE,2,,,,4,,,4
+27,ELECTIVE 6,,,,,,4,,,4
+28,BREADTH GE 4,,,,,,4,,,5
+29,BREADTH GE 5,,,,,,4,,,5
+7,CCE 3,CCE,3,,,,4,,,6
+30,BREADTH GE 6,,,,,,4,,,6
+31,BREADTH GE 7,,,,,,4,,,7
+32,ELECTIVE 7,,,,,,4,,,7
+33,BREADTH GE 8,,,,,,4,,,8
+34,ELECTIVE 8,,,,,,4,,,8
+8,CCE 120,CCE,120,,,,4,,,9
+35,UD ELECTIVE 1,,,,,,4,,,10
+36,ELECTIVE 9,,,,,,4,,,10
+37,ELECTIVE 10,,,,,,4,,,10
+38,ELECTIVE 11,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,11
+40,ELECTIVE 12,,,,,,4,,,11
+41,ELECTIVE 13,,,,,,4,,,11
+42,ELECTIVE 14,,,,,,4,,,11
+43,ELECTIVE 15,,,,,,4,,,12
+44,ELECTIVE 16,,,,,,4,,,12
+45,ELECTIVE 17,,,,,,4,,,12

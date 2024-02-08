@@ -1,0 +1,56 @@
+Curriculum,Spanish Literature
+Degree Plan,Spanish Literature/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0905
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+7,LTSP 2A,LTSP,2A,5;6,,,5,,,4
+16,LD LTEN,,,,,,4,,,4
+8,LTSP 2B,LTSP,2B,7,,,5,,,5
+9,LTSP 2C,LTSP,2C,8,,,4,,,6
+17,UD LITERATURE ELECTIVE 1,,,,,,4,,,7
+10,LTSP 100A / 100B,LTSP,100A,9,,,4,,,7
+18,UD LTSP 1,,,,,,4,,,8
+19,UD LTSP - PRE - 1900,,,,,,4,,,8
+20,UD LTSP 2,,,,,,4,,,9
+21,UD LTSP 3,,,,,,4,,,9
+22,UD LTSP 4,,,,,,4,,,10
+23,UD LTSP 5,,,,,,4,,,10
+24,UD LITERATURE ELECTIVE 2,,,,,,4,,,11
+25,UD LTSP 6,,,,,,4,,,11
+26,UD LTSP 7,,,,,,4,,,12
+27,UD LITERATURE ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,MMW 11,MMW,11,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+12,MMW 12,MMW,12,,,,6,,,2
+29,GE 2,,,,,,4,,,2
+13,MMW 13,MMW,13,12,,,6,,,3
+30,GE 3,,,,,,4,,,3
+14,MMW 14 / GE 1,MMW,14,12;13,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,MMW 14 / GE 2,MMW,14,12;13,,,4,,,5
+33,GE / DEI,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,5
+15,MMW 15,MMW,15,12;13,,,4,,,6
+35,GE 4,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,6
+37,ELECTIVE 4,,,,,,3,,,7
+38,ELECTIVE 5,,,,,,4,,,7
+39,GE 5,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,8
+41,ELECTIVE 7,,,,,,4,,,9
+42,ELECTIVE 8,,,,,,4,,,9
+43,ELECTIVE 9,,,,,,4,,,10
+44,GE 6,,,,,,4,,,10
+45,UD ELECTIVE,,,,,,4,,,11
+46,ELECTIVE 10,,,,,,4,,,12

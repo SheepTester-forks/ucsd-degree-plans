@@ -1,0 +1,30 @@
+Curriculum,Business Psychology
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 10A / 20A,MATH,10A,,,,4,,
+9,NATURAL SCIENCE 1,,,,,,4,,
+2,MATH 10B / 20B,MATH,10B,1,,,4,,
+10,NATURAL SCIENCE 2,,,,,,4,,
+11,NATURAL SCIENCE 3,,,,,,4,,
+12,COMPUTER PROGRAMMING,,,,,,4,,
+3,MGT 16,MGT,16,,,,4,,
+4,PSYC 60,PSYC,60,,,,4,,
+5,PSYC 70,PSYC,70,4,,,4,,
+6,MGT 18,MGT,18,,,,4,,
+13,PSYC CORE 1,,,,,,4,,
+7,PSYC 104,PSYC,104,,,,4,,
+14,PSYC CORE 2,,,,,,4,,
+8,PSYC 105,PSYC,105,,,,4,,
+15,BUS PSYC RESEARCH 1,,,,,,4,,
+16,BUS PSYC ELECTIVE 1,,,,,,4,,
+17,BUS PSYC MGT 1,,,,,,4,,
+18,BUS PSYC MGT 2,,,,,,4,,
+19,BUS PSYC RESEARCH 2,,,,,,4,,
+20,BUS PSYC MGT 3,,,,,,4,,
+21,BUS PSYC ELECTIVE 2,,,,,,4,,
+22,BUS PSYC ELECTIVE 3,,,,,,4,,
+23,UD PSYC ELECTIVE,,,,,,4,,

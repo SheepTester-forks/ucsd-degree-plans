@@ -1,0 +1,59 @@
+Curriculum,Chemical Engineering
+Degree Plan,Chemical Engineering/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CENG 15,CENG,15,,,,4,,,1
+4,CENG 1 (OR CENG 4),CENG,1,,,,1,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM6A,CHEM,6A,,,,4,,,1
+6,MATH 20B,MATH,20B,2,,,4,,,2
+7,PHYS 2A,PHYS,2A,2,,,4,,,2
+5,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+9,MATH 20C,MATH,20C,6,,,4,,,3
+10,PHYS 2B,PHYS,2B,7;6,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+11,CHEM 7L,CHEM,7L,5,,,4,,,3
+12,CENG 100,CENG,100,5,,,4,,,4
+13,MATH 20D,MATH,20D,9,,,4,,,4
+14,PHYS 2C,PHYS,2C,7;2;6;9,,,4,,,4
+15,PHYS 2CL,PHYS,2CL,7;10,,,2,,,4
+16,CENG 102,CENG,102,9;12;8,,,4,,,5
+39,ADV CHEM 1,,,,,,4,,,5
+17,MATH 18,MATH,18,,,,4,,,5
+18,CENG 113,CENG,113,12;13;3,,,4,,,6
+40,ADV CHEM 2,,,,,,4,,,6
+19,MATH 20E,MATH,20E,17;9,,,4,,,6
+21,MAE 170,MAE,170,14,,,4,,,7
+41,ADV CHEM 3,,,,,,4,,,7
+20,CENG 101A,CENG,101A,7;13;19,,,4,,,7
+42,GE 1,,,,,,4,,,7
+23,CENG 114,CENG,114,3,,,4,,,8
+22,CENG 101B,CENG,101B,20,,,4,,,8
+43,GE 2,,,,,,4,,,8
+25,AS 1,AS,1,,,,4,,,9
+24,CENG 101C,CENG,101C,20,,,4,,,9
+44,GE 3,,,,,,4,,,9
+26,CENG 120,CENG,120,13;12;3;22;18,,,4,,,10
+28,AS 2,AS,2,,,,4,,,10
+27,CENG 122,CENG,122,12;16;24,,,4,,,10
+45,GE 4,,,,,,4,,,10
+29,CENG 124A,CENG,124A,18;27,,,4,,,11
+30,CENG 176A,CENG,176A,27;18;21,,,4,,,11
+31,AS 3,AS,3,,,,4,,,11
+46,GE 5,,,,,,4,,,11
+33,CENG 176B,CENG,176B,30,,,4,,,12
+32,CENG 124B,CENG,124B,29,,,4,,,12
+47,GE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+34,MMW 11,MMW,11,,,,4,,,1
+35,MMW 12,MMW,12,,,,6,,,2
+36,MMW 13,MMW,13,,,,6,,,3
+37,MMW 14,MMW,14,35;36,,,4,,,5
+38,MMW 15,MMW,15,35;36,,,4,,,6
+48,GE / DEI,,,,,,4,,,8
+49,GE 7,,,,,,4,,,9

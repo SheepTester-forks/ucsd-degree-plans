@@ -1,0 +1,55 @@
+Curriculum,Communication
+Degree Plan,Communication/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10,COMM,10,,,,4,,,4
+2,COMM 100B,COMM,100B,1,,,4,,,5
+10,COMM INTERMEDIATE / ADVANCED ELECTIVE 1,,,,,,4,,,5
+3,COMM 100C,COMM,100C,1,,,4,,,6
+11,COMM INTERMEDIATE / ADVANCED ELECTIVE 2,,,,,,4,,,6
+4,COMM 100A,COMM,100A,1,,,4,,,7
+12,COMM INTERMEDIATE / ADVANCED ELECTIVE 3,,,,,,4,,,7
+5,COMM 190,COMM,190,1;2,,,4,,,8
+13,COMM INTERMEDIATE / ADVANCED ELECTIVE 4,,,,,,4,,,8
+14,COMM INTERMEDIATE / ADVANCED ELECTIVE 5,,,,,,4,,,9
+15,COMM INTERMEDIATE / ADVANCED ELECTIVE 6,,,,,,4,,,9
+16,COMM INTERMEDIATE / ADVANCED ELECTIVE 7,,,,,,4,,,10
+17,COMM INTERMEDIATE / ADVANCED ELECTIVE 8,,,,,,4,,,10
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,BREADTH GE 1,,,,,,4,,,1
+19,BREADTH GE 2,,,,,,4,,,1
+20,ELECTIVE 1,,,,,,4,,,1
+21,BREADTH GE 3,,,,,,4,,,2
+22,BREADTH GE 4,,,,,,4,,,2
+6,CCE 1,CCE,1,,,,4,,,2
+23,BREADTH GE 5,,,,,,4,,,3
+24,BREADTH GE 6,,,,,,4,,,3
+25,ELECTIVE 2,,,,,,4,,,3
+26,ELECTIVE 3,,,,,,4,,,3
+7,CCE 2,CCE,2,,,,4,,,4
+27,BREADTH GE 7,,,,,,4,,,4
+28,ELECTIVE 4,,,,,,4,,,4
+29,BREADTH GE 8,,,,,,4,,,5
+30,ELECTIVE 5,,,,,,4,,,5
+8,CCE 3,CCE,3,,,,4,,,6
+31,ELECTIVE 6,,,,,,4,,,6
+32,BREADTH GE 9,,,,,,4,,,7
+33,ELECTIVE 7,,,,,,4,,,7
+34,ELECTIVE 8,,,,,,4,,,8
+35,ELECTIVE 9,,,,,,4,,,8
+9,CCE 120,CCE,120,,,,4,,,9
+36,UD ELECTIVE 1,,,,,,4,,,10
+37,ELECTIVE 10,,,,,,4,,,10
+38,UD ELECTIVE 2,,,,,,4,,,11
+39,ELECTIVE 11,,,,,,4,,,11
+40,ELECTIVE 12,,,,,,4,,,11
+41,ELECTIVE 13,,,,,,4,,,11
+42,ELECTIVE 14,,,,,,4,,,12
+43,ELECTIVE 15,,,,,,4,,,12
+44,ELECTIVE 16,,,,,,4,,,12
+45,ELECTIVE 17,,,,,,4,,,12

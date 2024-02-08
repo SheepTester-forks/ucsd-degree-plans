@@ -1,0 +1,53 @@
+Curriculum,Russian Literature
+Degree Plan,Russian Literature/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0402
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTRU 1A,LTRU,1A,,,,5,,,1
+2,LTRU 1B,LTRU,1B,,,,5,,,2
+3,LTRU 1C,LTRU,1C,,,,5,,,3
+19,LD LTEN,,,,,,4,,,4
+4,LTRU 2A,LTRU,2A,,,,5,,,4
+5,LTRU 2B,LTRU,2B,,,,5,,,5
+6,LTRU 104A,LTRU,104A,5,,,4,,,6
+7,LTRU 104B,LTRU,104B,6,,,4,,,7
+8,LTRU 104C,LTRU,104C,,,,4,,,8
+20,UD LTRU 1,,,,,,4,,,8
+9,LTRU 110C,LTRU,110C,,,,4,,,9
+21,UD LTRU 2,,,,,,4,,,9
+10,LTRU 110A,LTRU,110A,,,,4,,,10
+22,UD LTRU 3,,,,,,4,,,10
+23,UD LTRU 4,,,,,,4,,,11
+11,LTRU 110B,LTRU,110B,,,,4,,,11
+24,UD LTRU 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,MATH 10A,MATH,10A,,,,4,,,1
+25,CHEMISTRY GE,,,,,,4,,,1
+13,MATH 10B,MATH,10B,12,,,4,,,2
+14,HUM 1,HUM,1,,,,6,,,2
+26,MATH GE,,,,,,4,,,3
+15,HUM 2,HUM,2,,,,6,,,3
+16,HUM 3,HUM,3,14,,,4,,,4
+27,BIOLOGY GE,,,,,,4,,,4
+28,FINE ARTS,,,,,,4,,,5
+17,HUM 4,HUM,4,,,,4,,,5
+29,PHYSICS GE,,,,,,4,,,5
+18,HUM 5,HUM,5,,,,4,,,6
+30,ELECTIVE 1,,,,,,4,,,6
+31,NATURAL SCIENCE GE 1,,,,,,4,,,6
+32,DEI / SOCIAL SCIENCE,,,,,,4,,,7
+33,NATURAL SCIENCE GE 2,,,,,,4,,,7
+34,ELECTIVE 2,,,,,,4,,,7
+35,SOCIAL SCIENCE,,,,,,4,,,8
+36,ELECTIVE 3,,,,,,4,,,8
+37,ELECTIVE 4,,,,,,4,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,11
+40,UD ELECTIVE 3,,,,,,4,,,11
+41,UD ELECTIVE 4,,,,,,4,,,12
+42,ELECTIVE 5,,,,,,4,,,12
+43,ELECTIVE 6,,,,,,3,,,12

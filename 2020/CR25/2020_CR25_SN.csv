@@ -1,0 +1,55 @@
+Curriculum,Critical Gender Studies
+Degree Plan,Critical Gender Studies/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CGS 2A (DEI),CGS,2A,,,,4,,,1
+2,CGS 2B,CGS,2B,,,,4,,,3
+8,CGS INTER COURSE 1,,,,,,4,,,4
+9,CGS INTER COURSE 2,,,,,,4,,,5
+10,CGS INTER COURSE 3,,,,,,4,,,6
+11,CGS UD ELECTIVE 1,,,,,,4,,,6
+3,CGS 100A,CGS,100A,1,,,4,,,7
+12,CGS ADV COURSE 1,,,,,,4,,,7
+13,CGS UD ELECTIVE 2,,,,,,4,,,7
+14,CGS ADV COURSE 2,,,,,,4,,,8
+15,CGS UD ELECTIVE 3,,,,,,4,,,8
+4,CGS 100B,CGS,100B,1,,,4,,,9
+16,CGS ADV COURSE 3,,,,,,4,,,9
+17,CGS UD ELECTIVE 4,,,,,,4,,,9
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,ALTERNATIVE 1,,,,,,4,,,1
+19,ELECTIVE 1,,,,,,4,,,1
+20,ELECTIVE 2,,,,,,4,,,1
+5,SYN 1,SYN,1,,,,4,,,2
+21,ALTERNATIVE 2,,,,,,4,,,2
+22,ALTERNATIVE 3,,,,,,4,,,2
+23,ELECTIVE 3,,,,,,4,,,2
+24,ALTERNATIVE 4,,,,,,4,,,3
+25,ALTERNATIVE 5,,,,,,4,,,3
+26,ELECTIVE 4,,,,,,4,,,3
+6,SYN 2,SYN,2,5,,,4,,,4
+27,ALTERNATIVE 6,,,,,,4,,,4
+28,ELECTIVE 5,,,,,,4,,,4
+29,ALTERNATIVE 7,,,,,,4,,,5
+30,ALTERNATIVE 8,,,,,,4,,,5
+31,ELECTIVE 6,,,,,,4,,,5
+32,ALTERNATIVE 9,,,,,,4,,,6
+33,ELECTIVE 7,,,,,,4,,,6
+34,ALTERNATIVE 10,,,,,,4,,,7
+35,ELECTIVE 8,,,,,,4,,,8
+36,ELECTIVE 9,,,,,,4,,,8
+7,SYN 100,SYN,100,5;6,,,4,,,9
+37,HIGH - IMPACT,,,,,,4,,,10
+38,ELECTIVE 10,,,,,,4,,,10
+39,ELECTIVE 11,,,,,,4,,,10
+40,UD ELECTIVE,,,,,,4,,,11
+41,ELECTIVE 12,,,,,,4,,,11
+42,ELECTIVE 13,,,,,,4,,,11
+43,ELECTIVE 14,,,,,,4,,,12
+44,ELECTIVE 15,,,,,,4,,,12
+45,ELECTIVE 16,,,,,,4,,,12

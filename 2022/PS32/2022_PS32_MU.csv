@@ -1,0 +1,55 @@
+Curriculum,Political Science/Data Analytics
+Degree Plan,Political Science/Data Analytics/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD POLI 1,,,,,,4,,,1
+1,POLI 5(D),POLI,5,,,,4,,,2
+2,POLI 30(D),POLI,30,,,,4,,,3
+6,LD POLI 2,,,,,,4,,,4
+7,UD POLI 1,,,,,,4,,,5
+8,UD POLI / DATA ANALYTICS 1,,,,,,4,,,6
+9,UD POLI / DATA ANALYTICS 2,,,,,,4,,,7
+10,UD POLI 2,,,,,,4,,,7
+11,UD POLI 3,,,,,,4,,,8
+12,UD POLI / DATA ANALYTICS 3,,,,,,4,,,8
+13,UD POLI 4,,,,,,4,,,9
+14,UD POLI / DATA ANALYTICS 4,,,,,,4,,,9
+15,UD POLI 5,,,,,,4,,,10
+16,UD POLI / DATA ANALYTICS 5,,,,,,4,,,10
+17,UD POLI 6,,,,,,4,,,11
+18,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,LD POLI 3,,,,,,4,,,1
+3,MCWP 40 / GE,MCWP,40,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+4,MCWP 50 / GE,MCWP,50,3,,,4,,,2
+21,GE - POLI SCI,,,,,,4,,,2
+22,GE 2,,,,,,4,,,2
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,3
+25,ELECTIVE 1,,,,,,4,,,3
+26,ELECTIVE 2,,,,,,4,,,4
+27,GE 5,,,,,,4,,,4
+28,GE 6,,,,,,4,,,4
+29,GE 7,,,,,,4,,,5
+30,GE 8,,,,,,4,,,5
+31,ELECTIVE 3,,,,,,4,,,5
+32,DEI,,,,,,4,,,6
+33,GE 9,,,,,,4,,,6
+34,ELECTIVE 4,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+37,ELECTIVE 7,,,,,,4,,,8
+38,MUIR UD ELECTIVE 1,,,,,,4,,,8
+39,MUIR UD ELECTIVE 2,,,,,,4,,,9
+40,ELECTIVE 8,,,,,,4,,,9
+41,MUIR UD ELECTIVE 3,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12
+45,ELECTIVE 12,,,,,,4,,,12

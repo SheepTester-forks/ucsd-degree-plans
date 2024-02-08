@@ -1,0 +1,54 @@
+Curriculum,Sociology
+Degree Plan,Sociology/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOCI 1,SOCI,1,,,,4,,,1
+2,SOCI 2,SOCI,2,,,,4,,,2
+3,SOCI 60,SOCI,60,,,,4,,,5
+4,"SOCI 10, 20, 30, 40, / 50",SOCI,10,,,,4,,,6
+5,SOCI 100,SOCI,100,,,,4,,,7
+10,SOC UD ELECTIVE 1,,,,,,4,,,7
+11,SOCI - METHOD,,,,,,4,,,8
+12,SOC UD ELECTIVE 2,,,,,,4,,,8
+13,SOC UD ELECTIVE 3,,,,,,4,,,9
+14,SOC UD ELECTIVE 4,,,,,,4,,,9
+15,SOC UD ELECTIVE 5,,,,,,4,,,10
+16,SOC UD ELECTIVE 6,,,,,,4,,,10
+17,SOC UD ELECTIVE 7,,,,,,4,,,11
+18,SOC UD ELECTIVE 8,,,,,,4,,,11
+19,SOC UD ELECTIVE 9,,,,,,4,,,12
+20,SOC UD ELECTIVE 10,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+7,CAT 2,CAT,2,6,,,6,,,2
+22,GE / DEI,,,,,,4,,,2
+8,CAT 3,CAT,3,7,,,6,,,3
+23,GE 2,,,,,,4,,,3
+24,GE 3,,,,,,4,,,3
+25,GE 4,,,,,,4,,,4
+26,GE 5,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,4
+28,ELECTIVE 2,,,,,,4,,,4
+29,GE 6,,,,,,4,,,5
+30,ELECTIVE 3,,,,,,4,,,5
+31,ELECTIVE 4,,,,,,4,,,5
+32,GE 7,,,,,,4,,,6
+33,ELECTIVE 5,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,6
+35,GE 8,,,,,,4,,,7
+36,ELECTIVE 7,,,,,,4,,,7
+37,ELECTIVE 8,,,,,,4,,,8
+38,ELECTIVE 9,,,,,,4,,,8
+39,ELECTIVE 10,,,,,,4,,,9
+40,ELECTIVE 11,,,,,,4,,,9
+41,UD ELECTIVE,,,,,,4,,,10
+9,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,10
+42,ELECTIVE 12,,,,,,4,,,11
+43,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,11
+44,ELECTIVE 13,,,,,,4,,,12

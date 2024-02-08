@@ -1,0 +1,53 @@
+Curriculum,
+Degree Plan,/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,MATH 10A,MATH,10A,,,,4,,,1
+17,LD SOC SCI 1,,,,,,4,,,1
+18,LD SOC SCI 2,,,,,,4,,,2
+19,LD BIOLOGY SCI,,,,,,4,,,2
+20,BIOLOGY GE,,,,,,4,,,3
+21,LD STATISTICS,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+22,HDP CORE 1,,,,,,4,,,5
+23,HDP CORE 2,,,,,,4,,,5
+24,HDP CORE 3,,,,,,4,,,6
+25,HDP CORE 4,,,,,,4,,,6
+26,DEVELOPMENT 1,,,,,,4,,,7
+27,DEVELOPMENT 2,,,,,,4,,,7
+2,HDP 181,HDP,181,1,,,6,,,8
+28,DEVELOPMENT 3,,,,,,4,,,8
+29,DEVELOPMENT 4,,,,,,4,,,9
+3,HDP 191,HDP,191,1;2,,,6,,,9
+4,HDP 194A,HDP,194A,,,,4,,,10
+30,DEVELOPMENT 5,,,,,,4,,,10
+5,HDP 194B,HDP,194B,,,,4,,,11
+31,HONORS METHODS,,,,,,4,,,11
+6,HDP 150,HDP,150,2,,,4,,,12
+7,HDP 194C,HDP,194C,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+32,DEI,,,,,,4,,,1
+9,HUM 1,HUM,1,,,,6,,,2
+10,MATH 10B,MATH,10B,8,,,4,,,2
+11,HUM 2,HUM,2,,,,6,,,3
+33,MATH GE,,,,,,4,,,3
+12,HUM 3,HUM,3,,,,4,,,4
+13,CHEM 11,CHEM,11,,,,4,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+15,PHYS 10,PHYS,10,,,,4,,,5
+16,HUM 5,HUM,5,,,,4,,,6
+34,NATURAL SCIENCE GE 1,,,,,,4,,,6
+35,LANGUAGE 1,,,,,,5,,,7
+36,NATURAL SCIENCE GE 2,,,,,,4,,,8
+37,LANGUAGE 2,,,,,,5,,,8
+38,LANGUAGE 3,,,,,,5,,,9
+39,ELECTIVE 1,,,,,,4,,,10
+40,LANGUAGE 4,,,,,,5,,,10
+41,ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 3,,,,,,4,,,11
+43,FINE ARTS,,,,,,4,,,12

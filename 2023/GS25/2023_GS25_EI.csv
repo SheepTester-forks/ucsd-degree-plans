@@ -1,0 +1,57 @@
+Curriculum,German Studies
+Degree Plan,German Studies/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0125
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LIGM 1A,LIGM,1A,,,,2.5,,,1
+2,LIGM 1AX,LIGM,1AX,,,,2.5,,,1
+3,LIGM 1B,LIGM,1B,1;2,,,2.5,,,2
+4,LIGM 1BX,LIGM,1BX,1;2,,,2.5,,,2
+5,LIGM 1C,LIGM,1C,3;4,,,2.5,,,3
+6,LIGM 1CX,LIGM,1CX,3;4,,,2.5,,,3
+7,LTGM 2A,LTGM,2A,5;6,,,5,,,4
+8,LTGM 2B,LTGM,2B,7,,,5,,,5
+9,LTGM 2C,LTGM,2C,8,,,4,,,6
+10,LTGM 100,LTGM,100,,,,4,,,7
+16,GS UD ELECTIVE 1,,,,,,4,,,7
+11,LTGM 101,LTGM,101,,,,4,,,8
+17,GS UD ELECTIVE 2,,,,,,4,,,8
+18,HISTORY ELECTIVE 1,,,,,,4,,,9
+19,GS UD ELECTIVE 3,,,,,,4,,,9
+20,LTGM ELECTIVE 1,,,,,,4,,,10
+21,GS UD ELECTIVE 4,,,,,,4,,,10
+22,LTGM ELECTIVE 2,,,,,,4,,,11
+23,GS UD ELECTIVE 5,,,,,,4,,,11
+24,HISTORY ELECTIVE 2,,,,,,4,,,12
+25,LTGM ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,BREADTH GE 1,,,,,,4,,,1
+27,DEI,,,,,,4,,,1
+12,CCE 1,CCE,1,,,,4,,,2
+28,BREADTH GE 2,,,,,,4,,,2
+29,BREADTH GE 3,,,,,,4,,,3
+30,ELECTIVE 1,,,,,,4,,,3
+31,ELECTIVE 2,,,,,,4,,,3
+13,CCE 2,CCE,2,,,,4,,,4
+32,BREADTH GE 4,,,,,,4,,,4
+33,ELECTIVE 3,,,,,,4,,,4
+34,BREADTH GE 5,,,,,,4,,,5
+35,BREADTH GE 6,,,,,,4,,,5
+36,ELECTIVE 4,,,,,,4,,,5
+14,CCE 3,CCE,3,,,,4,,,6
+37,BREADTH GE 7,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,6
+39,BREADTH GE 8,,,,,,4,,,7
+40,BREADTH GE 9,,,,,,4,,,7
+41,BREADTH GE 10,,,,,,4,,,8
+42,ELECTIVE 6,,,,,,4,,,8
+15,CCE 120,CCE,120,,,,4,,,9
+43,ELECTIVE 7,,,,,,4,,,10
+44,ELECTIVE 8,,,,,,4,,,10
+45,UD ELECTIVE 1,,,,,,4,,,11
+46,ELECTIVE 9,,,,,,3,,,11
+47,UD ELECTIVE 2,,,,,,4,,,12

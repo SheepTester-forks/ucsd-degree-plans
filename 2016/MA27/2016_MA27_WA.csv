@@ -1,0 +1,55 @@
+Curriculum,Mathematics (Applied)
+Degree Plan,Mathematics (Applied)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 18,MATH,18,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,MATH 20C,MATH,20C,3,,,4,,,3
+5,CSE 11,CSE,11,,,,4,,,4
+6,MATH 109,MATH,109,2;4,,,4,,,4
+7,MATH 20D,MATH,20D,4,,,4,,,5
+9,UD MAJOR 1,,,,,,4,,,5
+8,MATH 20E,MATH,20E,2;4,,,4,,,6
+10,UD MAJOR 2,,,,,,4,,,7
+11,UD MAJOR 3,,,,,,4,,,7
+12,UD MAJOR 4,,,,,,4,,,8
+13,UD MAJOR 5,,,,,,4,,,8
+14,UD MAJOR 6,,,,,,4,,,9
+15,UD MAJOR 7,,,,,,4,,,9
+16,UD MAJOR 8,,,,,,4,,,10
+17,UD MAJOR 9,,,,,,4,,,10
+18,UD MAJOR 10,,,,,,4,,,11
+19,UD MAJOR 11,,,,,,4,,,11
+20,UD MAJOR 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,ELECTIVE 1,,,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,2
+24,GE 3,,,,,,4,,,2
+25,ELECTIVE 2,,,,,,4,,,2
+26,GE 4,,,,,,4,,,3
+27,GE 5,,,,,,4,,,3
+28,ELECTIVE 3,,,,,,4,,,3
+29,GE 6,,,,,,4,,,4
+30,GE 7,,,,,,4,,,4
+31,ELECTIVE 4,,,,,,4,,,5
+32,GE 8,,,,,,4,,,5
+33,GE 9,,,,,,4,,,6
+34,GE / DEI,,,,,,4,,,6
+35,GE 10,,,,,,4,,,6
+36,GE 11,,,,,,4,,,7
+37,GE 12,,,,,,4,,,7
+38,GE 13,,,,,,4,,,8
+39,GE 14,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,9
+41,ELECTIVE 6,,,,,,4,,,9
+42,GE 15,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12
+45,ELECTIVE 9,,,,,,4,,,12

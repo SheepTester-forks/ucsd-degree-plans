@@ -1,0 +1,54 @@
+Curriculum,Literature/Cultural Studies
+Degree Plan,Literature/Cultural Studies/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,LD LIT LANG 1,,,,,,5,,,1
+17,LD LIT LANG 2,,,,,,5,,,2
+18,LD LIT LANG 3,,,,,,5,,,3
+19,LD LIT LANG 4,,,,,,5,,,4
+1,LTCS 50,LTCS,50,,,,4,,,4
+20,LD LIT LANG 5,,,,,,5,,,5
+2,LTCS 52,LTCS,52,,,,4,,,5
+21,LD LIT ELECTIVE,,,,,,4,,,6
+22,LD LIT LANG 6,,,,,,5,,,6
+23,UD LIT LANG,,,,,,4,,,7
+24,UD LTCS 1,,,,,,4,,,7
+25,UD LTCS 2,,,,,,4,,,8
+26,UD LIT ELECTIVE 1,,,,,,4,,,8
+27,UD LTCS 3,,,,,,4,,,9
+28,UD LIT ELECTIVE 2,,,,,,4,,,9
+29,UD LTCS 4,,,,,,4,,,10
+30,UD LIT ELECTIVE 3,,,,,,4,,,10
+31,UD LIT ELECTIVE 4,,,,,,4,,,11
+32,UD LTCS 5,,,,,,4,,,11
+33,UD LTCS 6,,,,,,4,,,12
+34,UD LIT ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A,MATH,10A,,,,4,,,1
+35,FINE ARTS,,,,,,4,,,1
+4,MATH 10B,MATH,10B,3,,,4,,,2
+5,HUM 1,HUM,1,,,,6,,,2
+6,MATH 10C,MATH,10C,4,,,4,,,3
+7,HUM 2,HUM,2,,,,6,,,3
+8,HUM 3,HUM,3,,,,4,,,4
+9,CHEM 11,CHEM,11,,,,4,,,4
+10,HUM 4,HUM,4,,,,4,,,5
+11,CHEM 12,CHEM,12,,,,4,,,5
+12,HUM 5,HUM,5,,,,4,,,6
+13,CHEM 13,CHEM,13,11,,,4,,,6
+36,DEI / SOCIAL SCIENCE,,,,,,4,,,7
+14,PHYS 10,PHYS,10,,,,4,,,8
+37,SOCIAL SCIENCE,,,,,,4,,,8
+15,BILD 7 / 10,BILD,7,,,,4,,,9
+38,ELECTIVE 1,,,,,,4,,,10
+39,ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 3,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,11
+42,ELECTIVE 5,,,,,,2,,,12
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,4,,,12

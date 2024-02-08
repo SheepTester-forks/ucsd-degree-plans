@@ -1,0 +1,56 @@
+Curriculum,Real Estate and Development
+Degree Plan,Real Estate and Development/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,04.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 1 (OR USP 2 IN WINTER),USP,1,,,,4,,,4
+2,USP 25,USP,25,,,,4,,,4
+3,MATH 10A / 20A / MGT 3,MATH,10A,,,,4,,,4
+4,USP 2 (OR USP 1 IN FALL),USP,2,,,,4,,,5
+5,USP 5,USP,5,,,,4,,,5
+6,ECON 1,ECON,1,,,,4,,,5
+7,ECON / MGT 4,MGT,4,,,,4,,,6
+8,USP 15,USP,15,,,,4,,,6
+9,MGT 5,MGT,5,,,,4,,,6
+10,USP 124,USP,124,,,,4,,,7
+11,USP 153,USP,153,,,,4,,,7
+12,USP 150,USP,150,,,,4,,,8
+22,RED TECHNICAL ELECTIVE,,,,,,4,,,8
+13,USP 151,USP,151,,,,4,,,9
+14,USP 152,USP,152,2,,,4,,,9
+15,USP 185A,USP,185A,10;13;14;11,,,4,,,10
+23,RED UPPER DIVISION ELECTIVE 1,,,,,,4,,,10
+16,USP 185B,USP,185B,15,,,4,,,11
+24,RED UPPER DIVISION ELECTIVE 2,,,,,,4,,,11
+17,MGT 172,MGT,172,,,,4,,,12
+18,USP 171,USP,171,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,MCWP 40 / GE,MCWP,40,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,1
+27,ELECTIVE 1,,,,,,4,,,1
+20,MCWP 50 / GE,MCWP,50,19,,,4,,,2
+28,GE 3,,,,,,4,,,2
+29,GE 4,,,,,,4,,,2
+30,ELECTIVE 2,,,,,,4,,,2
+31,GE 5,,,,,,4,,,3
+32,GE 6,,,,,,4,,,3
+33,GE 7,,,,,,4,,,3
+34,ELECTIVE 3,,,,,,4,,,3
+35,GE 8,,,,,,4,,,4
+36,GE 9,,,,,,4,,,5
+21,GE - USP 3,USP,3,,,,4,,,6
+37,ELECTIVE 4,,,,,,4,,,7
+38,MUIR UD ELECTIVE 1,,,,,,4,,,7
+39,ELECTIVE 5,,,,,,4,,,8
+40,MUIR UD ELECTIVE 2,,,,,,4,,,8
+41,MUIR UD ELECTIVE 3,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,2,,,10
+44,ELECTIVE 8,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,2,,,11
+46,ELECTIVE 10,,,,,,4,,,12

@@ -1,0 +1,23 @@
+Curriculum,
+Degree Plan,/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MATH 1,,,,,,4,,,1
+7,CHEM 1,,,,,,4,,,1
+8,CHEM 2,,,,,,4,,,2
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MMW 11,MMW,11,,,,4,,,1
+9,GE,,,,,,4,,,1
+2,MMW 12,MMW,12,,,,6,,,2
+10,GE / DEI,,,,,,4,,,2
+3,MMW 13,MMW,13,2,,,6,,,3
+11,MATH 2,,,,,,4,,,3
+12,CHEM 3,,,,,,4,,,3
+4,MMW 14 / GE 1,MMW,14,2;3,,,4,,,4
+13,MMW 14 / GE 2,MMW,14,2;3,,,4,,,5
+5,MMW 15,MMW,15,2;3,,,4,,,6

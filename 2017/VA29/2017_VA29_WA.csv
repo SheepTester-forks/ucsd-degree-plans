@@ -1,0 +1,55 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,FOUNDATION LEVEL: ART MAKING,,,,,,4,,,1
+1,MUS 4,MUS,4,,,,4,,,1
+2,MATH 15A,MATH,15A,,,,4,,,2
+3,VIS 22,VIS,22,,,,4,,,2
+4,VIS 10,VIS,10,,,,4,,,3
+5,VIS 41,VIS,41,,,,4,,,3
+6,CSE 11,CSE,11,,,,4,,,4
+7,VIS 142,VIS,142,,,,4,,,4
+8,VIS 145A,VIS,145A,7,,,4,,,5
+9,MUS 171,MUS,171,,,,4,,,5
+10,VIS 70N,VIS,70N,,,,6,,,6
+15,INTERMEDIATE LEVEL: ART MAKING 1,,,,,,4,,,6
+16,INTERMEDIATE LEVEL: ART MAKING 2,,,,,,4,,,7
+17,HISTORY & THEORY,,,,,,4,,,7
+11,VIS 159,VIS,159,,,,4,,,8
+18,INTERMEDIATE LEVEL: INTERDISCIPLINARY,,,,,,4,,,8
+19,ADVANCED LEVEL: ART MAKING,,,,,,4,,,9
+20,ADVANCED LEVEL: INTERDISCIPLINARY,,,,,,4,,,10
+12,ICAM 160A,ICAM,160A,,,,4,,,11
+13,ICAM 160B,ICAM,160B,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+25,GE 5,,,,,,4,,,3
+26,GE 6,,,,,,4,,,3
+27,GE 7,,,,,,4,,,4
+28,GE 8,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,GE 10,,,,,,4,,,5
+31,GE 11,,,,,,4,,,6
+32,GE / DEI,,,,,,4,,,6
+33,GE 12,,,,,,4,,,7
+34,GE 13,,,,,,4,,,7
+35,GE 14,,,,,,4,,,8
+36,GE 15,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,9
+38,GE 16,,,,,,4,,,9
+39,ELECTIVE 2,,,,,,4,,,9
+40,ELECTIVE 3,,,,,,4,,,10
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12
+45,ELECTIVE 8,,,,,,2,,,12

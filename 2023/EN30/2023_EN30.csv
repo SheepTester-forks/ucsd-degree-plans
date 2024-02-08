@@ -1,0 +1,29 @@
+Curriculum,Business Economics
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,52.1399
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A (OR 10A),MATH,20A,,,,4,,
+2,ECON 1,ECON,1,,,,4,,
+3,MATH 20B (OR 10B),MATH,20B,1,,,4,,
+4,ECON 3,ECON,3,2,,,4,,
+5,MATH 20C (OR 10C),MATH,20C,3,,,4,,
+6,ECON / POLI 5,POLI,5,,,,4,,
+7,MGT 16,MGT,16,,,,4,,
+8,ECON 100A,ECON,100A,2;5,,,4,,
+9,ECON 120A,ECON,120A,2;5,,,4,,
+10,ECON 100B,ECON,100B,8,,,4,,
+11,ECON 120B,ECON,120B,9,,,4,,
+12,MGT 180,MGT,180,8,,,4,,
+13,ECON 110B,ECON,110B,2;4;5,,,4,,
+14,MGT 45,MGT,45,,,,4,,
+15,MGT 71,MGT,71,,,,4,,
+20,UD ELECTIVE 1,,,,,,4,,
+16,MGT 160,MGT,160,9;1,,,4,,
+17,MGT 162 / 162R,MGT,162,,,,4,,
+18,MGT 164,MGT,164,,,,4,,
+21,UD ELECTIVE 2,,,,,,4,,
+19,MGT 100,MGT,100,11,,,4,,
+22,UD ELECTIVE 3,,,,,,4,,

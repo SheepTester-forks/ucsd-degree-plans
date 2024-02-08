@@ -1,0 +1,54 @@
+Curriculum,Speculative Design
+Degree Plan,Speculative Design/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"VIS 1, 2, / 3",VIS,1,,,,4,,,1
+2,VIS 30,VIS,30,,,,4,,,1
+3,VIS 11,VIS,11,,,,4,,,2
+4,VIS 41,VIS,41,,,,4,,,2
+6,VIS 22,VIS,22,,,,4,,,3
+5,VIS 10,VIS,10,,,,4,,,3
+12,FOUNDATION LEVEL: ELECTIVE 1,,,,,,4,,,4
+13,HISTORY & THEORY,,,,,,4,,,4
+7,VIS 135,VIS,135,2,,,4,,,5
+8,VIS 159,VIS,159,,,,4,,,6
+14,FOUNDATION LEVEL: ELECTIVE 2,,,,,,4,,,6
+9,VIS 142,VIS,142,,,,4,,,7
+15,INTERMEDIATE LEVEL: EMPHASIS 1,,,,,,4,,,8
+10,VIS 100,VIS,100,,,,4,,,8
+16,INTERMEDIATE LEVEL: EMPHASIS 2,,,,,,4,,,9
+17,ADVANCED LEVEL: ELECTIVE 1,,,,,,4,,,9
+18,INTERMEDIATE LEVEL: EMPHASIS 3,,,,,,4,,,10
+19,ADVANCED LEVEL: ELECTIVE 2,,,,,,4,,,10
+20,ADVANCED LEVEL: ELECTIVE 3,,,,,,4,,,11
+11,VIS 190,VIS,190,7,,,8,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,GE 1,,,,,,4,,,1
+22,GE / WRITING 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,2
+24,GE / WRITING 2,,,,,,4,,,2
+25,GE 3,,,,,,4,,,3
+26,GE 4,,,,,,4,,,3
+27,GE 5,,,,,,4,,,4
+28,GE 6,,,,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,5
+30,GE 7,,,,,,4,,,5
+31,DEI,,,,,,4,,,5
+32,GE 8,,,,,,4,,,6
+33,GE 9,,,,,,4,,,6
+34,MUIR UD ELECTIVE 1,,,,,,4,,,7
+35,ELECTIVE 2,,,,,,4,,,7
+36,ELECTIVE 3,,,,,,4,,,7
+37,MUIR UD ELECTIVE 2,,,,,,4,,,8
+38,ELECTIVE 4,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,9
+40,ELECTIVE 6,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,11
+43,MUIR UD ELECTIVE 3,,,,,,4,,,12
+44,ELECTIVE 9,,,,,,4,,,12

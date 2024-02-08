@@ -1,0 +1,54 @@
+Curriculum,Political Science/Public Law
+Degree Plan,Political Science/Public Law/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 10D,POLI,10D,,,,4,,,1
+8,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+9,LD POLI 2,,,,,,4,,,4
+10,UD POLI 1,,,,,,4,,,5
+11,UD POLI / PUBLIC LAW 1,,,,,,4,,,6
+12,UD POLI 2,,,,,,4,,,7
+13,UD POLI / PUBLIC LAW 2,,,,,,4,,,7
+14,UD POLI 3,,,,,,4,,,8
+15,UD POLI / PUBLIC LAW 3,,,,,,4,,,8
+16,UD POLI 4,,,,,,4,,,9
+17,UD POLI / PUBLIC LAW 4,,,,,,4,,,9
+18,UD POLI 5,,,,,,4,,,10
+19,UD POLI / PUBLIC LAW 5,,,,,,4,,,10
+20,UD POLI 6,,,,,,4,,,11
+21,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MMW 11,MMW,11,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+4,MMW 12,MMW,12,,,,6,,,2
+24,GE 3,,,,,,4,,,2
+5,MMW 13,MMW,13,4,,,6,,,3
+25,GE 4,,,,,,4,,,3
+6,MMW 14 / GE 1,MMW,14,4;5,,,4,,,4
+26,GE 5,,,,,,4,,,4
+27,GE 6,,,,,,4,,,4
+28,MMW 14 / GE 2,MMW,14,4;5,,,4,,,5
+29,GE 7,,,,,,4,,,5
+30,GE 8,,,,,,4,,,5
+7,MMW 15,MMW,15,4;5,,,4,,,6
+31,GE 9,,,,,,4,,,6
+32,GE 10,,,,,,4,,,6
+33,GE 11,,,,,,4,,,7
+34,ELECTIVE 1,,,,,,4,,,7
+35,ELECTIVE 2,,,,,,4,,,8
+36,ELECTIVE 3,,,,,,4,,,8
+37,ELECTIVE 4,,,,,,4,,,9
+38,ELECTIVE 5,,,,,,4,,,9
+39,ELECTIVE 6,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,11
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,12
+44,UD ELECTIVE,,,,,,4,,,12

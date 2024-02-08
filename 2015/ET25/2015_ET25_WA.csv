@@ -1,0 +1,55 @@
+Curriculum,Ethnic Studies
+Degree Plan,Ethnic Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ETHN 1,ETHN,1,,,,4,,,1
+2,ETHN 2,ETHN,2,,,,4,,,2
+3,ETHN 3,ETHN,3,,,,4,,,3
+7,ETHN UD 1,,,,,,4,,,6
+8,ETHN UD 2,,,,,,4,,,7
+9,ETHN UD 3,,,,,,4,,,7
+10,ETHN UD 4,,,,,,4,,,8
+11,ETHN UD 5,,,,,,4,,,8
+12,ETHN UD 6,,,,,,4,,,9
+13,ETHN UD 7,,,,,,4,,,9
+4,ETHN 100A,ETHN,100A,1,,,4,,,10
+14,ETHN UD 8,,,,,,4,,,10
+5,ETHN 100B,ETHN,100B,4,,,4,,,11
+15,ETHN UD 9,,,,,,4,,,11
+6,ETHN 100C,ETHN,100C,4;5,,,4,,,12
+16,ETHN UD 10,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,GE 1,,,,,,4,,,1
+18,GE 2,,,,,,4,,,1
+19,ELECTIVE 1,,,,,,4,,,1
+20,GE 3,,,,,,4,,,2
+21,GE 4,,,,,,4,,,2
+22,ELECTIVE 2,,,,,,4,,,2
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,ELECTIVE 3,,,,,,4,,,3
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
+28,ELECTIVE 4,,,,,,4,,,4
+29,ELECTIVE 5,,,,,,4,,,4
+30,GE 9,,,,,,4,,,5
+31,GE 10,,,,,,4,,,5
+32,ELECTIVE 6,,,,,,4,,,5
+33,GE 11,,,,,,4,,,6
+34,GE 12,,,,,,4,,,6
+35,GE / DEI,,,,,,4,,,6
+36,GE 13,,,,,,4,,,7
+37,GE 14,,,,,,4,,,7
+38,GE 15,,,,,,4,,,8
+39,GE 16,,,,,,4,,,8
+40,GE 17,,,,,,4,,,9
+41,ELECTIVE 7,,,,,,4,,,9
+42,ELECTIVE 8,,,,,,4,,,9
+43,ELECTIVE 9,,,,,,4,,,10
+44,ELECTIVE 10,,,,,,4,,,11
+45,ELECTIVE 11,,,,,,4,,,12

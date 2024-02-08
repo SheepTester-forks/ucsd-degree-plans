@@ -1,0 +1,24 @@
+Curriculum,"Russian, East European and Eurasian Studies"
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0105
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LTRU 1A,LTRU,1A,,,,5,,
+2,LTRU 1B,LTRU,1B,1,,,5,,
+3,LTRU 1C,LTRU,1C,2,,,5,,
+4,LTRU 2A,LTRU,2A,3,,,5,,
+5,LTRU 2B,LTRU,2B,4,,,5,,
+9,LTRU UD ELECTIVE 1,,,,,,4,,
+6,LTRU 104A,LTRU,104A,5,,,4,,
+10,HIEU UD ELECTIVE 1,,,,,,4,,
+7,LTRU 104B,LTRU,104B,6,,,4,,
+11,HIEU UD ELECTIVE 2,,,,,,4,,
+8,LTRU 104C,LTRU,104C,6,,,4,,
+12,LTRU UD ELECTIVE 2,,,,,,4,,
+13,LTRU UD ELECTIVE 3,,,,,,4,,
+14,REEES UD ELECTIVE 1,,,,,,4,,
+15,REEES UD ELECTIVE 2,,,,,,4,,
+16,REEES UD ELECTIVE 3,,,,,,4,,
+17,REEES UD ELECTIVE 4,,,,,,4,,

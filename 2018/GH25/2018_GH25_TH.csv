@@ -1,0 +1,54 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,HILD 30 / GLBH 20 REQT,HILD,30,,,,4,,,3
+10,LOWER DIV SOC COURSE,,,,,,4,,,4
+11,STATISTICS COURSE,,,,,,4,,,5
+2,GLBH 148 GLOBAL HEALTH & CULTURAL DIVERSITY,GLBH,148,,,,4,,,7
+3,GLBH 181 ESSENTIALS OF GLOBAL HEALTH,GLBH,181,,,,4,,,7
+12,POLICY ANALYSIS,,,,,,4,,,7
+13,GLBH ELECTIVE 1,,,,,,4,,,8
+14,GLBH ELECTIVE 2,,,,,,4,,,8
+4,MGT 173 PROJECT MANAGEMENT - HEALTH SERVICES,MGT,173,,,,4,,,9
+15,GLBH ELECTIVE 3,,,,,,4,,,9
+16,GLBH ELECTIVE 4,,,,,,4,,,10
+17,GLBHELECTIVE 5,,,,,,4,,,10
+5,GLBH 150A SENIOR CAPSTONE I,GLBH,150A,,,,4,,,11
+18,GLBH ELECTIVE 6,,,,,,4,,,11
+6,GLBH 150B SENIOR CAPSTONE II,GLBH,150B,5,,,4,,,12
+19,GLBH ELECTIVE 7,,,,,,4,,,12
+20,GLBH ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,DOC 1 / DEI,DOC,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+23,GE 3,,,,,,4,,,1
+8,DOC 2,DOC,2,7,,,6,,,2
+24,GE 4,,,,,,4,,,2
+25,GE 5,,,,,,4,,,2
+26,GE 6,,,,,,4,,,2
+9,DOC 3,DOC,3,,,,6,,,3
+27,GE 7,,,,,,4,,,3
+28,GE 8,,,,,,4,,,3
+29,GE 9,,,,,,4,,,4
+30,GE 10,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,ELECTIVE 2,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,ELECTIVE 4,,,,,,4,,,5
+35,ELECTIVE 5,,,,,,4,,,6
+36,ELECTIVE 6,,,,,,4,,,6
+37,ELECTIVE 7,,,,,,4,,,6
+38,ELECTIVE 8,,,,,,4,,,6
+39,UD GE 1,,,,,,4,,,7
+40,UD GE 2,,,,,,4,,,8
+41,ELECTIVE 9,,,,,,4,,,8
+42,ELECTIVE 10,,,,,,4,,,9
+43,ELECTIVE 11,,,,,,4,,,10
+44,ELECTIVE 12,,,,,,4,,,11

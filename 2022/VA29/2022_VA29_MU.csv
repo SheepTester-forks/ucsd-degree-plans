@@ -1,0 +1,55 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,FOUNDATION ART MAKING,,,,,,4,,,1
+1,VIS 41,VIS,41,,,,4,,,1
+13,FOUNDATION MATH,,,,,,4,,,2
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 10,VIS,10,,,,4,,,3
+4,VIS 70N,VIS,70N,,,,6,,,3
+14,FOUNDATION CSE,,,,,,4,,,4
+15,FOUNDATION INTERDISCIPLINARY,,,,,,4,,,4
+16,HISTORY & THEORY,,,,,,4,,,5
+5,VIS 159,VIS,159,,,,4,,,6
+6,VIS 142,VIS,142,,,,4,,,7
+17,INTERMEDIATE ART MAKING,,,,,,4,,,7
+18,INTERMEDIATE COMPUTING 1,,,,,,4,,,8
+7,VIS 145A,VIS,145A,6,,,4,,,8
+19,ADVANCED COMPUTING,,,,,,4,,,9
+20,INTERMEDIATE COMPUTING 2,,,,,,4,,,9
+21,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,10
+22,ADVANCED INTERDISCIPLINARY,,,,,,4,,,11
+8,VIS 160A,VIS,160A,7,,,4,,,11
+9,VIS 160B,VIS,160B,8,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MCWP 40 / GE,MCWP,40,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+11,MCWP 50 / GE,MCWP,50,10,,,4,,,2
+24,GE 2,,,,,,4,,,2
+25,GE 3,,,,,,4,,,3
+26,GE 4,,,,,,4,,,4
+27,GE 5,,,,,,4,,,4
+28,GE 6,,,,,,4,,,5
+29,GE 7,,,,,,4,,,5
+30,ELECTIVE 1,,,,,,4,,,5
+31,GE 8,,,,,,4,,,6
+32,GE 9,,,,,,4,,,6
+33,ELECTIVE 2,,,,,,2,,,6
+34,MUIR UD ELECTIVE 1,,,,,,4,,,7
+35,DEI,,,,,,4,,,7
+36,MUIR UD ELECTIVE 2,,,,,,4,,,8
+37,ELECTIVE 3,,,,,,4,,,8
+38,MUIR UD ELECTIVE 3,,,,,,4,,,9
+39,ELECTIVE 4,,,,,,4,,,9
+40,ELECTIVE 5,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,10
+43,ELECTIVE 8,,,,,,4,,,11
+44,ELECTIVE 9,,,,,,4,,,12
+45,ELECTIVE 10,,,,,,4,,,12

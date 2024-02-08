@@ -1,0 +1,50 @@
+Curriculum,International Studies-Anthropology
+Degree Plan,International Studies-Anthropology/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LANGUAGE 1,,,,,,5,,,1
+11,LANGUAGE 2,,,,,,5,,,2
+12,LANGUAGE 3,,,,,,5,,,3
+13,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,5,,,4,,,5
+14,INTL 101 / 102 2,INTL,101,5,,,4,,,6
+15,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+16,DF2 - ANTHROPOLOGY,,,,,,4,,,8
+17,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+18,DF1 - ANTHROPOLOGY,,,,,,4,,,8
+19,DF4 - ANTHROPOLOGY,,,,,,4,,,9
+20,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+21,DF3 - ANTHROPOLOGY (RR2),,,,,,4,,,9
+22,DF5 - ANTHROPOLOGY (RR3),,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,10
+23,IE3 - INTERDISC ELECTIVE,,,,,,4,,,11
+24,DF6 - ANTHROPOLOGY,,,,,,4,,,11
+25,DF8 - ANTHROPOLOGY,,,,,,4,,,12
+26,DF7 - ANTHROPOLOGY,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A,MATH,10A,,,,4,,,1
+27,FINE ARTS,,,,,,4,,,1
+4,MATH 10B,MATH,10B,3,,,4,,,2
+5,HUM 1,HUM,1,,,,6,,,2
+28,MATH GE,,,,,,4,,,3
+6,HUM 2,HUM,2,,,,6,,,3
+29,CHEMISTRY GE,,,,,,4,,,4
+7,HUM 3,HUM,3,5,,,4,,,4
+30,BIOLOGY GE,,,,,,4,,,5
+31,SOCIAL SCIENCE / DEI,,,,,,4,,,5
+8,HUM 4,HUM,4,,,,4,,,5
+32,PHYSICS GE,,,,,,4,,,6
+33,SOCIAL SCIENCE,,,,,,4,,,6
+9,HUM 5,HUM,5,,,,4,,,6
+34,UD ELECTIVE,,,,,,4,,,8
+35,ELECTIVE 1,,,,,,4,,,9
+36,NATURAL SCIENCE GE 1,,,,,,4,,,10
+37,ELECTIVE 2,,,,,,4,,,10
+38,NATURAL SCIENCE GE 2,,,,,,4,,,11
+39,ELECTIVE 3,,,,,,4,,,11
+40,AHI / ELECTIVE,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Environmental Systems (Earth Sciences)
+Degree Plan,Environmental Systems (Earth Sciences)/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 20A,MATH,20A,,,,4,,,1
+1,BILD 3,BILD,3,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,2;3,,,4,,,2
+5,ECON 1 1,ECON,1,,,,4,,,2
+6,MATH 20B,MATH,20B,3,,,4,,,2
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+9,SIO 50,SIO,50,,,,6,,,3
+8,MATH 20C,MATH,20C,6,,,4,,,3
+12,PHYS 2A,PHYS,2A,3,,,4,,,4
+10,ESYS 101,ESYS,101,,,,4,,,4
+11,CHEM 7L,CHEM,7L,4,,,4,,,4
+14,PHYS 2B,PHYS,2B,12;3;6,,,4,,,5
+13,ESYS 102,ESYS,102,3;2;12,,,4,,,5
+28,ECON 1 2,ECON,1,,,,4,,,5
+16,PHYS 2C,PHYS,2C,12;3;6;8,,,4,,,6
+15,ESYS 103,ESYS,103,6;6;6,,,4,,,6
+29,ESYS ELECTIVE 1,,,,,,4,,,6
+17,ECON 131,ECON,131,,,,4,,,7
+18,POLI 160AA,POLI,160AA,,,,4,,,7
+19,MATH 183,MATH,183,8,,,4,,,7
+30,ESYS ELECTIVE 2,,,,,,4,,,8
+20,SIO 102,SIO,102,9;2;4;7,,,4,,,8
+31,ESYS ELECTIVE 3,,,,,,4,,,9
+32,ESYS ELECTIVE 4,,,,,,4,,,9
+21,ESYS 190A 1,ESYS,190A,15,,,4,,,10
+33,ESYS ELECTIVE 5,,,,,,4,,,10
+34,ESYS 190A 2,ESYS,190A,15,,,4,,,11
+35,ESYS ELECTIVE 6,,,,,,4,,,11
+22,ESYS 190B,ESYS,190B,21,,,4,,,12
+36,ESYS ELECTIVE 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,FINE ARTS,,,,,,4,,,1
+23,HUM 1,HUM,1,,,,6,,,2
+24,HUM 2,HUM,2,,,,6,,,3
+25,HUM 3,HUM,3,,,,4,,,4
+26,HUM 4,HUM,4,,,,4,,,5
+27,HUM 5,HUM,5,,,,4,,,6
+38,LANGUAGE 1,,,,,,5,,,7
+39,LANGUAGE 2,,,,,,5,,,8
+40,SOCIAL SCIENCE / DEI,,,,,,4,,,8
+41,LANGUAGE 3,,,,,,5,,,9
+42,LANGUAGE 4,,,,,,5,,,10
+43,ELECTIVE 1,,,,,,4,,,11
+44,ELECTIVE 2,,,,,,2,,,12

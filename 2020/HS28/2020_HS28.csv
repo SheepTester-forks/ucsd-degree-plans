@@ -1,0 +1,28 @@
+Curriculum,Human Developmental Sciences with a Specialization in Healthy Aging
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+5,LD MAJOR PREP 1,,,,,,4,,
+6,LD MAJOR PREP 2,,,,,,4,,
+7,LD MAJOR PREP 3,,,,,,4,,
+8,LD MAJOR PREP 4,,,,,,4,,
+9,LD MAJOR PREP 5,,,,,,4,,
+10,LD MAJOR PREP 6,,,,,,4,,
+1,HDS 1,HDS,1,,,,4,,
+11,HDS CORE COURSE 1,,,,,,4,,
+12,HDS CORE COURSE 2,,,,,,4,,
+13,HDS CORE COURSE 3,,,,,,4,,
+14,HDS CORE COURSE 4,,,,,,4,,
+15,HDS DEVELOPMENT COURSE 1,,,,,,4,,
+16,LD HDS STATISTICS,,,,,,4,,
+17,HDS AGING SPECIALIZATION 1,,,,,,4,,
+18,HDS DEVELOPMENT COURSE 2,,,,,,4,,
+2,HDS 181,HDS,181,1,,,6,,
+19,HDS DEVELOPMENT COURSE 3,,,,,,4,,
+3,HDS 191,HDS,191,1;2,,,6,,
+20,HDS AGING SPECIALIZATION 2,,,,,,4,,
+21,HDS AGING PRACTICUM,,,,,,4,,
+4,HDS 150,HDS,150,2,,,4,,

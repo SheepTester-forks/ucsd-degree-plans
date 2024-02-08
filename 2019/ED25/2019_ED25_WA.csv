@@ -1,0 +1,54 @@
+Curriculum,Education Sciences
+Degree Plan,Education Sciences/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,13.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,EDS LD,,,,,,2,,,4
+1,EDS 102,EDS,102,,,,4,,,7
+4,EDS UD 1,,,,,,4,,,7
+2,EDS 103,EDS,103,,,,4,,,8
+5,EDS UD 2,,,,,,4,,,8
+6,EDS UD 3,,,,,,4,,,9
+7,EDS UD 4,,,,,,4,,,9
+8,EDS UD: INTRO TO LEARNING CONTEXTS,,,,,,6,,,10
+9,EDS UD ELECTIVE 1,,,,,,4,,,10
+10,EDS CAPSTONE 1,,,,,,6,,,11
+11,EDS UD ELECTIVE 2,,,,,,4,,,11
+12,EDS CAPSTONE 2,,,,,,6,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,GE 1,,,,,,4,,,1
+14,GE 2,,,,,,4,,,1
+15,GE 3,,,,,,4,,,1
+16,GE 4,,,,,,4,,,2
+17,GE 5,,,,,,4,,,2
+18,GE 6,,,,,,4,,,2
+19,ELECTIVE 1,,,,,,4,,,2
+20,GE 7,,,,,,4,,,3
+21,GE 8,,,,,,4,,,3
+22,GE 9,,,,,,4,,,3
+23,ELECTIVE 2,,,,,,4,,,3
+24,GE 10,,,,,,4,,,4
+25,ELECTIVE 3,,,,,,4,,,4
+26,ELECTIVE 4,,,,,,4,,,4
+27,GE 11,,,,,,4,,,5
+28,GE 12,,,,,,4,,,5
+29,ELECTIVE 5,,,,,,4,,,5
+30,ELECTIVE 6,,,,,,4,,,5
+31,GE 13,,,,,,4,,,6
+32,GE / DEI,,,,,,4,,,6
+33,ELECTIVE 7,,,,,,4,,,6
+34,ELECTIVE 8,,,,,,4,,,6
+35,GE 14,,,,,,4,,,7
+36,ELECTIVE 9,,,,,,4,,,7
+37,GE 15,,,,,,4,,,8
+38,ELECTIVE 10,,,,,,4,,,8
+39,GE 16,,,,,,4,,,9
+40,ELECTIVE 11,,,,,,4,,,9
+41,ELECTIVE 12,,,,,,4,,,10
+42,ELECTIVE 13,,,,,,4,,,11
+43,GE 17,,,,,,4,,,12
+44,ELECTIVE 14,,,,,,4,,,12

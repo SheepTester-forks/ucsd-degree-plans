@@ -1,0 +1,54 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,USP 4 INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS,USP,4,,,,4,,,4
+1,USP 1: HISTORY OF US URBAN COMMUNITIES,USP,1,,,,4,,,4
+3,USP 2 URBAN WORLD SYSTEM,USP,2,,,,4,,,5
+4,USP 3 THE CITY AND SOCIAL THEORY,USP,3,,,,4,,,6
+5,LOWER DIVISION STATISTICS (POLI 30D / PSYC 60 / SOCI 60),POLI,30D,,,,4,,,6
+13,GE / DEI,,,,,,4,,,6
+6,USP 124 LAND USE PLANNING,USP,124,,,,4,,,7
+14,USP UPPER DIVISION ELECTIVE 1,,,,,,4,,,7
+15,USP SECOND FOUNDATION,,,,,,4,,,8
+16,USP TECHNICAL ELECTIVE,,,,,,4,,,8
+17,USP RESEARCH METHODS,,,,,,4,,,9
+18,USP UPPER DIVISION ELECTIVE 2,,,,,,4,,,9
+19,USP UPPER DIVISION ELECTIVE 3,,,,,,4,,,10
+7,USP 186 SENIOR SEQUENCE RESEARCH PROPOSAL (FALL ONLY),USP,186,6,,,6,,,10
+20,USP UPPER DIVISION ELECTIVE 4,,,,,,4,,,11
+8,USP 187 SENIOR SEQUENCE RESEARCH PROJECT (WINTER ONLY),USP,187,7,,,6,,,11
+21,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,,12
+22,USP UPPER DIVISION ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,WCWP 10A,WCWP,10A,,,,4,,,1
+23,ELECTIVE 1,,,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,1
+10,WCWP 10B,WCWP,10B,9,,,4,,,2
+26,ELECTIVE 2,,,,,,4,,,2
+27,GE 3,,,,,,4,,,2
+28,GE 4,,,,,,4,,,2
+11,PHIL / POLI 27,POLI,27,9;10,,,4,,,3
+29,ELECTIVE 3,,,,,,4,,,3
+30,GE 5,,,,,,4,,,3
+31,GE 6,,,,,,4,,,3
+12,PHIL / POLI 28,POLI,28,11,,,4,,,4
+32,ELECTIVE 4,,,,,,4,,,4
+33,ELECTIVE 5,,,,,,4,,,5
+34,GE 7,,,,,,4,,,5
+35,GE 8,,,,,,4,,,5
+36,GE 9,,,,,,4,,,7
+37,GE 10,,,,,,4,,,7
+38,GE 11,,,,,,4,,,8
+39,GE 12,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,9
+41,ELECTIVE 7,,,,,,4,,,9
+42,ELECTIVE 8,,,,,,4,,,10
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12

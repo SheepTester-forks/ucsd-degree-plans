@@ -1,0 +1,57 @@
+Curriculum,Engineering Physics
+Degree Plan,Engineering Physics/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,ECE 15,ECE,15,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+4,ECE 25,ECE,25,,,,4,,,2
+6,PHYS 2A,PHYS,2A,2,,,4,,,2
+5,MATH 20B,MATH,20B,2,,,4,,,2
+7,ECE 35,ECE,35,2;5;6,,,4,,,3
+8,PHYS 2B,PHYS,2B,6;5,,,4,,,3
+9,MATH 20C,MATH,20C,5,,,4,,,3
+12,PHYS 2C,PHYS,2C,6;2;5;9,,,4,,,4
+11,MATH 20D,MATH,20D,9,,,4,,,4
+10,ECE 45,ECE,45,7,,,4,,,4
+13,PHYS 2DL,PHYS,2DL,,,,2,,,5
+14,PHYS 2D,PHYS,2D,6;8;11,,,4,,,5
+15,MATH 20E,MATH,20E,9,,,4,,,5
+16,ECE 65,ECE,65,7,,,4,,,5
+18,ECE 107,ECE,107,6;8;12;14;10,,,4,,,6
+19,ECE 30,ECE,30,3;4,,,4,,,6
+17,MATH 18,MATH,18,,,,4,,,6
+20,ECE 100,ECE,100,10;16,,,4,,,7
+21,PHYS 110A,PHYS,110A,6;8;12;12;2;5;9;11;15;17,,,4,,,7
+22,ECE 101,ECE,101,10,,,4,,,7
+23,ECE 103,ECE,103,16;14;14,,,4,,,8
+24,MATH 110A,MATH,110A,11;17,,,4,,,8
+25,ECE 102,ECE,102,16;20,,,4,,,8
+27,PHYS 130A,PHYS,130A,14;21,,,4,,,9
+26,ECE 109,ECE,109,2;5;9;11,,,4,,,9
+34,ELECTIVE 1,,,,,,4,,,9
+35,ELECTIVE 2,,,,,,4,,,10
+28,PHYS 130B,PHYS,130B,27,,,4,,,10
+29,PHYS 140A,PHYS,140A,27,,,4,,,10
+36,ENG DESIGN,,,,,,4,,,11
+37,ELECTIVE 3,,,,,,4,,,11
+38,ELECTIVE 4,,,,,,4,,,11
+39,DEPTH 2,,,,,,4,,,12
+40,DEPTH 1,,,,,,4,,,12
+41,ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,CAT 1,CAT,1,,,,4,,,1
+31,CAT 2,CAT,2,30,,,6,,,2
+32,CAT 3,CAT,3,31,,,6,,,3
+42,GE / DEI,,,,,,4,,,4
+43,GE 1,,,,,,4,,,6
+44,GE 2,,,,,,4,,,7
+33,CAT 125,CAT,125,,,,4,,,9
+45,GE 3,,,,,,4,,,10
+46,GE 4,,,,,,4,,,11
+47,GE 5,,,,,,4,,,12

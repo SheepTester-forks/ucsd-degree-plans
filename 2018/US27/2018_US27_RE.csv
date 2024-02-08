@@ -1,0 +1,53 @@
+Curriculum,Real Estate and Development
+Degree Plan,Real Estate and Development/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,04.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A / 20A,MATH,10A,,,,4,,,2
+1,ECON 1,ECON,1,,,,4,,,4
+2,USP 1 (OR USP 2 IN WINTER),USP,1,,,,4,,,4
+4,ECON / MGT 4,MGT,4,,,,4,,,5
+5,USP 2 (OR USP 1 IN FALL),USP,2,,,,4,,,5
+6,USP 5,USP,5,,,,4,,,5
+7,MGT 5,MGT,5,,,,4,,,6
+8,USP 15,USP,15,,,,4,,,6
+10,USP 124,USP,124,,,,4,,,7
+9,USP 151,USP,151,,,,4,,,7
+11,USP 153,USP,153,,,,4,,,8
+12,USP 150,USP,150,,,,4,,,8
+13,USP 152,USP,152,,,,4,,,9
+14,MGT 172,MGT,172,,,,4,,,9
+24,RED TECHNICAL ELECTIVE,,,,,,4,,,9
+15,USP 185A,USP,185A,10;9;13;11,,,4,,,10
+25,RED UPPER DIVISION ELECTIVE 1,,,,,,4,,,10
+17,USP 171,USP,171,,,,4,,,11
+16,USP 185B,USP,185B,15,,,4,,,11
+26,RED UPPER DIVISION ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,CHEMISTRY GE,,,,,,4,,,1
+28,DEI,,,,,,4,,,1
+29,NATURAL SCIENCE GE 1,,,,,,4,,,1
+30,PHYSICS GE,,,,,,4,,,2
+18,HUM 1,HUM,1,,,,6,,,2
+31,BIOLOGY GE,,,,,,4,,,3
+19,MATH 10B / 20B,MATH,10B,3,,,4,,,3
+20,HUM 2,HUM,2,,,,6,,,3
+32,MATH GE,,,,,,4,,,4
+21,HUM 3,HUM,3,18,,,4,,,4
+22,HUM 4,HUM,4,,,,4,,,5
+33,NATURAL SCIENCE GE 2,,,,,,4,,,6
+23,HUM 5,HUM,5,,,,4,,,6
+34,FINE ARTS,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,ELECTIVE 1,,,,,,4,,,8
+37,LANGUAGE 2,,,,,,5,,,8
+38,LANGUAGE 3,,,,,,5,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,UD ELECTIVE 1,,,,,,4,,,11
+41,ELECTIVE 2,,,,,,4,,,11
+42,UD ELECTIVE 2,,,,,,4,,,12
+43,UD ELECTIVE 3,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Human Development
+Degree Plan,Human Development/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LD PRE - MAJOR 1,,,,,,4,,,1
+11,LD PRE - MAJOR 2,,,,,,4,,,1
+12,LD PRE - MAJOR 3,,,,,,4,,,2
+13,LD PRE - MAJOR 4,,,,,,4,,,2
+14,LD PRE - MAJOR 5,,,,,,4,,,3
+15,LD PRE - MAJOR 6,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+16,HDP CORE 1,,,,,,4,,,5
+17,HDP CORE 2,,,,,,4,,,5
+18,HDP CORE 3,,,,,,4,,,6
+19,HDP CORE 4,,,,,,4,,,6
+20,HDP DEVELOPMENT 1,,,,,,4,,,7
+21,HDP DEVELOPMENT 2,,,,,,4,,,7
+22,HDP DEVELOPMENT 3,,,,,,4,,,8
+23,HDP DEVELOPMENT 4,,,,,,4,,,8
+2,HDP 181,HDP,181,1,,,4,,,9
+24,HDP DEVELOPMENT 5,,,,,,4,,,9
+3,HDP 191,HDP,191,,,,4,,,10
+25,HDP HONORS THESIS 1,,,,,,4,,,10
+26,HDP HONORS THESIS 2,,,,,,4,,,11
+27,HDP HONORS METHODS,,,,,,4,,,11
+4,HDP 150,HDP,150,,,,4,,,12
+28,HDP HONORS THESIS 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MMW 11,MMW,11,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+6,MMW 12,MMW,12,,,,6,,,2
+30,GE 2,,,,,,4,,,2
+7,MMW 13,MMW,13,6,,,6,,,3
+31,GE 3,,,,,,4,,,3
+32,GE 4,,,,,,4,,,4
+8,MMW 14 / GE 1,MMW,14,6;7,,,4,,,4
+33,GE / DEI,,,,,,4,,,4
+34,MMW 14 / GE 2,MMW,14,6;7,,,4,,,5
+35,GE 5,,,,,,4,,,5
+9,MMW 15,MMW,15,6;7,,,4,,,6
+36,GE 6,,,,,,4,,,6
+37,ELECTIVE 1,,,,,,4,,,7
+38,UD ELECTIVE,,,,,,4,,,7
+39,ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,4,,,8
+41,ELECTIVE 4,,,,,,4,,,9
+42,ELECTIVE 5,,,,,,4,,,10
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12

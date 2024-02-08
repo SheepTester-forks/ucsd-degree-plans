@@ -1,0 +1,36 @@
+Curriculum,Latin American Studies
+Degree Plan,Latin American Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,GE 1,,,,,,4,,,1
+15,GE 2,,,,,,4,,,1
+12,MCWP 40,MCWP,40,,,,4,,,1
+16,GE 3,,,,,,4,,,2
+17,GE 4,,,,,,4,,,2
+13,MCWP 50,MCWP,50,12,,,4,,,2
+18,GE 5,,,,,,4,,,3
+19,GE 6,,,,,,4,,,3
+20,DEI,,,,,,4,,,3
+21,ELECTIVE 1,,,,,,4,,,4
+22,ELECTIVE 2,,,,,,4,,,4
+23,GE 7,,,,,,4,,,4
+24,ELECTIVE 3,,,,,,4,,,5
+25,ELECTIVE 4,,,,,,4,,,5
+26,GE 8,,,,,,4,,,5
+27,ELECTIVE 5,,,,,,4,,,6
+28,ELECTIVE 6,,,,,,4,,,6
+29,GE 9,,,,,,4,,,6
+30,ELECTIVE 7,,,,,,4,,,7
+31,ELECTIVE 8,,,,,,4,,,7
+32,ELECTIVE 9,,,,,,4,,,8
+33,MUIR UD ELECTIVE 1,,,,,,4,,,8
+34,MUIR UD ELECTIVE 2,,,,,,4,,,9
+35,MUIR UD ELECTIVE 3,,,,,,4,,,10
+36,ELECTIVE 10,,,,,,4,,,11
+37,ELECTIVE 11,,,,,,4,,,12

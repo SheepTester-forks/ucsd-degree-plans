@@ -1,0 +1,57 @@
+Curriculum,Latin American Studies
+Degree Plan,Latin American Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+7,LTSP 2A,LTSP,2A,5;6,,,5,,,4
+8,LTSP 2B,LTSP,2B,7,,,5,,,5
+9,LATI 50,LATI,50,,,,4,,,5
+10,LTSP 2C,LTSP,2C,8,,,5,,,6
+13,LATI UD ELECTIVE 1,,,,,,4,,,7
+14,LATI METHOD,,,,,,4,,,7
+15,LATI CORE COURSE 1,,,,,,4,,,8
+16,LATI UD ELECTIVE 2,,,,,,4,,,8
+17,LATI CORE COURSE 2,,,,,,4,,,9
+11,LATI 180,LATI,180,,,,4,,,9
+18,LATI CORE COURSE 3,,,,,,4,,,10
+19,LATI UD ELECTIVE 3,,,,,,4,,,10
+12,LATI 190,LATI,190,,,,4,,,11
+20,LATI UD ELECTIVE 4,,,,,,4,,,11
+21,LATI UD ELECTIVE 5,,,,,,4,,,12
+22,LATI UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,GE 1,,,,,,4,,,1
+24,GE / WRITING 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,2
+26,GE / WRITING 2,,,,,,4,,,2
+27,GE 3,,,,,,4,,,3
+28,DEI,,,,,,4,,,3
+29,GE 4,,,,,,4,,,3
+30,ELECTIVE 1,,,,,,4,,,4
+31,GE 5,,,,,,4,,,4
+32,ELECTIVE 2,,,,,,4,,,4
+33,GE 6,,,,,,4,,,5
+34,GE 7,,,,,,4,,,5
+35,GE 8,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,6
+37,ELECTIVE 4,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,7
+39,GE 9,,,,,,4,,,7
+40,ELECTIVE 6,,,,,,4,,,8
+41,MUIR UD ELECTIVE 1,,,,,,4,,,8
+42,ELECTIVE 7,,,,,,4,,,9
+43,ELECTIVE 8,,,,,,4,,,9
+44,MUIR UD ELECTIVE 2,,,,,,4,,,10
+45,ELECTIVE 9,,,,,,2,,,10
+46,ELECTIVE 10,,,,,,4,,,11
+47,MUIR UD ELECTIVE 3,,,,,,4,,,12

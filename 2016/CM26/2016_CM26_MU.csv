@@ -1,0 +1,55 @@
+Curriculum,Communication
+Degree Plan,Communication/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10,COMM,10,,,,4,,,6
+2,COMM 100A,COMM,100A,1,,,4,,,7
+6,COMM ELECTIVE 1,,,,,,4,,,7
+7,COMM ELECTIVE 2,,,,,,4,,,7
+3,COMM 100B,COMM,100B,1,,,4,,,8
+8,COMM ELECTIVE 3,,,,,,4,,,8
+9,COMM ELECTIVE 4,,,,,,4,,,8
+4,COMM 100C,COMM,100C,1,,,4,,,9
+10,COMM ELECTIVE 5,,,,,,4,,,9
+11,COMM ELECTIVE 6,,,,,,4,,,9
+5,COMM 190,COMM,190,1;2,,,4,,,10
+12,COMM ELECTIVE 7,,,,,,4,,,10
+13,COMM ELECTIVE 8,,,,,,4,,,11
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,GE / WRITING 1,,,,,,4,,,1
+15,ELECTIVE 1,,,,,,4,,,1
+16,GE 1,,,,,,4,,,1
+17,GE 2,,,,,,4,,,1
+18,GE / WRITING 2,,,,,,4,,,2
+19,GE 3,,,,,,4,,,2
+20,GE 4,,,,,,4,,,2
+21,ELECTIVE 2,,,,,,4,,,2
+22,GE 5,,,,,,4,,,3
+23,GE 6,,,,,,4,,,3
+24,ELECTIVE 3,,,,,,4,,,3
+25,ELECTIVE 4,,,,,,4,,,3
+26,ELECTIVE 5,,,,,,4,,,4
+27,GE 7,,,,,,4,,,4
+28,GE 8,,,,,,4,,,4
+29,ELECTIVE 6,,,,,,4,,,4
+30,GE 9,,,,,,4,,,5
+31,ELECTIVE 7,,,,,,4,,,5
+32,ELECTIVE 8,,,,,,4,,,5
+33,GE 10,,,,,,4,,,5
+34,GE 11,,,,,,4,,,6
+35,ELECTIVE 9,,,,,,4,,,6
+36,GE 12,,,,,,4,,,6
+37,ELECTIVE 10,,,,,,4,,,7
+38,ELECTIVE 11,,,,,,4,,,8
+39,ELECTIVE 12,,,,,,4,,,9
+40,MUIR UDE 1,,,,,,4,,,10
+41,ELECTIVE 13,,,,,,4,,,11
+42,MUIR UDE 2,,,,,,4,,,11
+43,ELECTIVE 14,,,,,,4,,,12
+44,MUIR UDE 3,,,,,,4,,,12
+45,ELECTIVE 15,,,,,,4,,,12

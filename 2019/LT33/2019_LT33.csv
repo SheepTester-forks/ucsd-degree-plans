@@ -1,0 +1,32 @@
+Curriculum,Spanish Literature
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0905
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,DOC 1 / DEI,DOC,1,,,,4,,
+2,LISP 1A,LISP,1A,,,,2.5,,
+3,LISP 1AX,LISP,1AX,,,,2.5,,
+4,LISP 1B,LISP,1B,2;3,,,2.5,,
+5,LISP 1BX,LISP,1BX,2;3,,,2.5,,
+6,LISP 1C,LISP,1C,4;5,,,2.5,,
+7,LISP 1CX,LISP,1CX,4;5,,,2.5,,
+8,LTSP 2A,LTSP,2A,6;7,,,5,,
+12,LD LTEN,,,,,,4,,
+9,LTSP 2B,LTSP,2B,8,,,5,,
+10,LTSP 2C,LTSP,2C,9,,,4,,
+11,LTSP 50A / LTSP 50B / LTSP 50C 1,LTSP,50A,10,,,4,,
+13,UD LITERATURE ELECTIVE 1,,,,,,4,,
+14,LTSP 50A / LTSP 50B / LTSP 50C 2,LTSP,50A,10,,,4,,
+15,UD LITERATURE ELECTIVE 2,,,,,,4,,
+16,UD LTSP 1,,,,,,4,,
+17,UD LITERATURE ELECTIVE 3,,,,,,4,,
+18,UD LTSP 2,,,,,,4,,
+19,UD LTSP 3,,,,,,4,,
+20,UD LTSP 4,,,,,,4,,
+21,UD LTSP - PRE - 1900,,,,,,4,,
+22,UD LTSP 5,,,,,,4,,
+23,UD LTSP 6,,,,,,4,,
+24,UD LTSP 7,,,,,,4,,
+25,UD LTSP 8,,,,,,4,,

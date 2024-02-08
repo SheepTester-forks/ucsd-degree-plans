@@ -1,0 +1,60 @@
+Curriculum,Computer Science with Specialization in Bioinformatics
+Degree Plan,Computer Science with Specialization in Bioinformatics/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 20A,MATH,20A,,,,4,,,1
+1,CSE 8A,CSE,8A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+6,MATH 20B,MATH,20B,3,,,4,,,2
+7,CSE 8B,CSE,8B,1,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;3,,,4,,,2
+4,BILD 1,BILD,1,2,,,4,,,2
+10,MATH 20C,MATH,20C,6,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+9,CSE 12,CSE,12,7,,,4,,,3
+14,CHEM 7L,CHEM,7L,5,,,3,,,3
+11,CSE 191 - BIOINFORMATICS,CSE,191,,,,2,,,3
+12,CSE 21,CSE,21,,,,4,,,4
+13,BILD 2,BILD,2,4,,,4,,,4
+15,PHYS 2A,PHYS,2A,3,,,4,,,4
+19,MATH 18,MATH,18,,,,4,,,5
+18,PHYS 2B,PHYS,2B,15;3;6,,,4,,,5
+16,CSE 100,CSE,100,12;9,,,4,,,5
+17,CHEM 140A,CHEM,140A,5,,,4,,,5
+20,PHYS 2C,PHYS,2C,15;3;6;10,,,4,,,6
+21,BIBC 103,BIBC,103,4,,,4,,,6
+22,CHEM 140B,CHEM,140B,17,,,4,,,6
+24,BIMM100 / CHEM114C,BIMM,100,4;21,,,4,,,7
+25,BIBC102 / CHEM114B,BIBC,102,17;22,,,4,,,7
+23,CSE 101,CSE,101,16,,,4,,,7
+26,CSE 181,CSE,181,16;23;24,,,4,,,8
+28,BICD 100 1,BICD,100,4,,,4,,,8
+27,MATH 186,MATH,186,10,,,4,,,8
+29,BIBC110 / CHEM127,BIBC,110,,,,4,,,9
+30,BIMM101 / CHEM112B,BIMM,101,4,,,4,,,9
+35,BICD 100 2,BICD,100,4,,,4,,,9
+32,CSE 182,CSE,182,16,,,4,,,10
+31,BENG 183,BENG,183,24,,,4,,,10
+36,CSE ELECTIVE 1,,,,,,4,,,10
+33,CSE 184 / CSE 151,CSE,184,26;32,,,4,,,11
+37,CSE ELECTIVE 2,,,,,,4,,,11
+38,CSE ELECTIVE 3,,,,,,4,,,11
+34,BIMM 185,BIMM,185,26;26;26;26;26;26;26;32;26;26,,,4,,,12
+39,CSE ELECTIVE 4,,,,,,4,,,12
+40,CSE ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+41,GE 1,,,,,,4,,,1
+42,GE 2,,,,,,4,,,4
+43,GE 3,,,,,,4,,,5
+44,GE / DEI,,,,,,4,,,6
+45,GE 4,,,,,,4,,,7
+46,GE 5,,,,,,4,,,8
+47,GE 6,,,,,,4,,,9
+48,GE 7,,,,,,4,,,10
+49,GE 8,,,,,,4,,,11
+50,GE 9,,,,,,4,,,12

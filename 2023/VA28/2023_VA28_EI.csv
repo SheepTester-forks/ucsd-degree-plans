@@ -1,0 +1,55 @@
+Curriculum,Visual Arts (Studio)
+Degree Plan,Visual Arts (Studio)/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0702
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 80,VIS,80,,,,4,,,1
+8,FOUNDATION ART MAKING 1,,,,,,4,,,1
+2,VIS 11,VIS,11,,,,4,,,2
+3,VIS 22,VIS,22,,,,4,,,2
+9,FOUNDATION HISTORY,,,,,,4,,,3
+10,FOUNDATION ART MAKING 2,,,,,,4,,,4
+11,INTERMEDIATE GROUP A 1,,,,,,4,,,5
+12,INTERMEDIATE GROUP A 2,,,,,,4,,,6
+13,HISTORY & THEORY 1,,,,,,4,,,6
+14,INTERMEDIATE GROUP A 3,,,,,,4,,,7
+15,HISTORY & THEORY 2,,,,,,4,,,7
+16,INTERMEDIATE GROUP B 1,,,,,,4,,,8
+17,HISTORY & THEORY 3,,,,,,4,,,8
+18,INTERMEDIATE GROUP B 2,,,,,,4,,,9
+19,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,9
+20,ADVANCED ART MAKING,,,,,,4,,,10
+21,ADVANCED INTERDISCIPLINARY 1,,,,,,4,,,11
+22,ADVANCED INTERDISCIPLINARY 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,DEI,,,,,,4,,,1
+4,CCE 1,CCE,1,,,,4,,,2
+24,BREADTH GE 1,,,,,,4,,,2
+25,BREADTH GE 2,,,,,,4,,,3
+26,BREADTH GE 3,,,,,,4,,,3
+27,ELECTIVE 1,,,,,,4,,,3
+5,CCE 2,CCE,2,,,,4,,,4
+28,BREADTH GE 4,,,,,,4,,,4
+29,ELECTIVE 2,,,,,,4,,,4
+30,BREADTH GE 5,,,,,,4,,,5
+31,BREADTH GE 6,,,,,,4,,,5
+32,ELECTIVE 3,,,,,,4,,,5
+6,CCE 3,CCE,3,,,,4,,,6
+33,ELECTIVE 4,,,,,,4,,,6
+34,BREADTH GE 7,,,,,,4,,,7
+35,ELECTIVE 5,,,,,,4,,,7
+36,BREADTH GE 8,,,,,,4,,,8
+37,BREADTH GE 9,,,,,,4,,,8
+7,CCE 120,CCE,120,,,,4,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,ELECTIVE 6,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12
+45,ELECTIVE 11,,,,,,4,,,12

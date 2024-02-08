@@ -1,0 +1,55 @@
+Curriculum,Public Health
+Degree Plan,Public Health/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,SBE 1,,,,,,4,,,1
+1,FMPH 40,FMPH,40,,,,4,,,1
+15,SBE 2,,,,,,4,,,2
+2,BILD 3,BILD,3,,,,4,,,2
+3,FMPH 50,FMPH,50,,,,4,,,3
+16,LD BIOLOGY 1,,,,,,4,,,3
+17,LD BIOLOGY 2,,,,,,4,,,4
+4,FMPH 110,FMPH,110,1,,,4,,,5
+18,STATISTICS (QUANTITATIVE METHODS),,,,,,4,,,6
+5,FMPH 101 / FMPH 102 1,FMPH,101,1,,,4,,,7
+19,UDE 1,,,,,,4,,,7
+20,FMPH 101 / FMPH 102 2,FMPH,101,1,,,4,,,8
+6,USP 143,USP,143,,,,4,,,8
+7,FMPH 120 / FMPH 130 1,FMPH,120,1,,,4,,,9
+21,FMPH UDE,,,,,,4,,,9
+22,FMPH 120 / FMPH 130 2,FMPH,120,1,,,4,,,10
+23,UDE 2,,,,,,4,,,10
+8,FMPH 193,FMPH,193,,,,4,,,11
+24,UDE 3,,,,,,4,,,11
+9,FMPH 194,FMPH,194,8,,,4,,,12
+25,UDE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,WCWP 10A,WCWP,10A,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+11,WCWP 10B,WCWP,10B,10,,,4,,,2
+27,GE 2,,,,,,4,,,2
+12,PHIL / POLI 27,POLI,27,10;11,,,4,,,3
+28,GE 3,,,,,,4,,,3
+13,PHIL / POLI 28,POLI,28,12,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,4
+30,ELECTIVE 2,,,,,,4,,,4
+31,GE 4,,,,,,4,,,5
+32,GE 5,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,GE 6,,,,,,4,,,6
+35,GE / DEI,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,6
+37,GE 7,,,,,,4,,,7
+38,GE 8,,,,,,4,,,7
+39,GE 9,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,GE 10,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,9
+43,GE 11,,,,,,4,,,10
+44,GE 12,,,,,,4,,,11
+45,ELECTIVE 7,,,,,,4,,,12

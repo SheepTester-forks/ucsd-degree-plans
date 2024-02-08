@@ -1,0 +1,30 @@
+Curriculum,Classical Studies
+Degree Plan,Classical Studies/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.1200
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTGK 1 / LTLA1 1,LTGK,1,,,,4,,,1
+2,LTGK 2 / LTLA 2,LTGK,2,1,,,4,,,2
+3,LTGK 3 / LTLA 3 1,LTGK,3,2,,,4,,,3
+4,LD ELECTIVE 1,,,,,,4,,,3
+5,LTGK 1 / LTLA1 2,LTGK,1,,,,4,,,4
+6,LTGK 2 / LTLA2,LTGK,2,1,,,4,,,5
+7,LTGK 3 / LTLA 3 2,LTGK,3,2,,,4,,,6
+8,LD ELECTIVE 2,,,,,,4,,,6
+9,UD LTGK / UD LTLA 1,,,,,,4,,,7
+10,UD ELECTIVE 1,,,,,,4,,,7
+11,UD LTGK / UD LTLA 2,,,,,,4,,,8
+12,UD ELECTIVE 2,,,,,,4,,,8
+13,UD LTGK / UD LTLA 3,,,,,,4,,,9
+14,UD ELECTIVE 3,,,,,,4,,,9
+15,UD LTGK / UD LTLA 4,,,,,,4,,,10
+16,UD ELECTIVE 4,,,,,,4,,,10
+17,UD LTGK / UD LTLA 5,,,,,,4,,,11
+18,UD ELECTIVE 5,,,,,,4,,,11
+19,UD LTGK / UD LTLA 6,,,,,,4,,,12
+20,UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

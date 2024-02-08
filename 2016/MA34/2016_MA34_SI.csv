@@ -1,0 +1,54 @@
+Curriculum,Mathematics-Scientific Computation
+Degree Plan,Mathematics-Scientific Computation/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 18,MATH,18,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+4,CSE 11,CSE,11,,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+6,CSE 12,CSE,12,4,,,4,,,3
+5,MATH 20C,MATH,20C,3,,,4,,,3
+8,MATH 109,MATH,109,2;5,,,4,,,4
+7,ECE 15,ECE,15,,,,4,,,4
+17,GE / DEI,,,,,,4,,,4
+9,CSE 20,CSE,20,4,,,4,,,5
+10,MATH 20D,MATH,20D,5,,,4,,,5
+11,MATH 20E,MATH,20E,2;5,,,4,,,6
+12,CSE 21,CSE,21,9,,,4,,,6
+18,UD MAJOR 1,,,,,,4,,,7
+19,UD MAJOR 2,,,,,,4,,,7
+20,UD MAJOR 3,,,,,,4,,,7
+21,UD MAJOR 4,,,,,,4,,,8
+22,UD MAJOR 5,,,,,,4,,,8
+23,UD MAJOR 6,,,,,,4,,,8
+24,UD MAJOR 7,,,,,,4,,,9
+25,UD MAJOR 8,,,,,,4,,,9
+26,UD MAJOR 9,,,,,,4,,,10
+27,UD MAJOR 10,,,,,,4,,,10
+28,UD MAJOR 11,,,,,,4,,,11
+29,UD MAJOR 12,,,,,,4,,,11
+30,UD MAJOR 13,,,,,,4,,,12
+31,UD MAJOR 14,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,CAT 1,CAT,1,,,,4,,,1
+32,GE 1,,,,,,4,,,1
+14,CAT 2,CAT,2,13,,,6,,,2
+33,GE 2,,,,,,4,,,2
+15,CAT 3,CAT,3,14,,,6,,,3
+34,GE 3,,,,,,4,,,3
+35,GE 4,,,,,,4,,,4
+36,GE 5,,,,,,4,,,5
+37,GE 6,,,,,,4,,,5
+38,GE 7,,,,,,4,,,6
+39,GE 8,,,,,,4,,,6
+40,ELECTIVE 1,,,,,,4,,,7
+41,ELECTIVE 2,,,,,,4,,,8
+16,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,9
+42,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,10
+43,ELECTIVE 3,,,,,,4,,,11
+44,ELECTIVE 4,,,,,,4,,,12

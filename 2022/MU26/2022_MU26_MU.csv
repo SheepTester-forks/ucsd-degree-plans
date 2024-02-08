@@ -1,0 +1,65 @@
+Curriculum,Music Humanities
+Degree Plan,Music Humanities/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MUS 43 1,MUS,43,,,,1,,,1
+1,MUS 1A / 2A,MUS,1A,,,,4,,,1
+10,MUS 43 2,MUS,43,,,,1,,,2
+3,MUS 1B / 2B,MUS,1B,1,,,4,,,2
+11,MUS 43 3,MUS,43,,,,1,,,3
+4,MUS 1C / 2C,MUS,1C,3,,,4,,,3
+12,MUS 43 4,MUS,43,,,,1,,,4
+5,MUS 120A,MUS,120A,4,,,4,,,4
+13,ENSEMBLE 1,,,,,,4,,,4
+14,MUS 43 5,MUS,43,,,,1,,,5
+6,MUS 120B,MUS,120B,5,,,4,,,5
+15,ENSEMBLE 2,,,,,,4,,,5
+16,MUS 43 6,MUS,43,,,,1,,,6
+7,MUS 120C,MUS,120C,6,,,4,,,6
+17,ENSEMBLE 3,,,,,,4,,,6
+18,MUS 43 7,MUS,43,,,,1,,,7
+19,UD FOCUS COURSE 1,,,,,,4,,,7
+20,MUS 43 8,MUS,43,,,,1,,,8
+21,UD FOCUS COURSE 2,,,,,,4,,,8
+22,MUS 43 9,MUS,43,,,,1,,,9
+23,UD FOCUS COURSE 3,,,,,,4,,,9
+24,MUS 43 10,MUS,43,,,,1,,,10
+25,UD FOCUS COURSE 4,,,,,,4,,,10
+26,MUS UD ELECTIVE 1,,,,,,4,,,10
+27,MUS 43 11,MUS,43,,,,1,,,11
+28,UD FOCUS COURSE 5,,,,,,4,,,11
+29,MUS UD ELECTIVE 2,,,,,,4,,,11
+30,MUS 43 12,MUS,43,,,,1,,,12
+31,UD FOCUS COURSE 6,,,,,,4,,,12
+32,MUS UD ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,GE / MCWP 40,MCWP,40,,,,4,,,1
+33,GE 1,,,,,,4,,,1
+34,ELECTIVE 1,,,,,,4,,,1
+9,GE / MCWP 50,MCWP,50,8,,,4,,,2
+35,GE 2,,,,,,4,,,2
+36,ELECTIVE 2,,,,,,4,,,2
+37,GE 3,,,,,,4,,,3
+38,GE 4,,,,,,4,,,3
+39,ELECTIVE 3,,,,,,4,,,3
+40,GE 5,,,,,,4,,,4
+41,GE 6,,,,,,4,,,4
+42,ELECTIVE 4,,,,,,4,,,5
+43,DEI,,,,,,4,,,5
+44,GE 7,,,,,,4,,,6
+45,ELECTIVE 5,,,,,,4,,,6
+46,ELECTIVE 6,,,,,,4,,,7
+47,GE 8,,,,,,4,,,7
+48,GE 9,,,,,,2,,,7
+49,MUIR UD ELECTIVE 1,,,,,,4,,,8
+50,ELECTIVE 7,,,,,,2,,,8
+51,ELECTIVE 8,,,,,,4,,,9
+52,ELECTIVE 9,,,,,,4,,,9
+53,MUIR UD ELECTIVE 2,,,,,,4,,,10
+54,MUIR UD ELECTIVE 3,,,,,,4,,,11
+55,ELECTIVE 10,,,,,,4,,,12

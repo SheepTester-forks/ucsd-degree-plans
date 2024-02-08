@@ -1,0 +1,51 @@
+Curriculum,International Studies-Linguistics
+Degree Plan,International Studies-Linguistics/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,LANGUAGE 1,,,,,,5,,,1
+4,LANGUAGE 2,,,,,,5,,,2
+5,LANGUAGE 3,,,,,,5,,,3
+6,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,,,,4,,,5
+7,INTL 101 / 102 2,INTL,101,,,,4,,,6
+8,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+9,DF1 - LINGUISTICS,,,,,,4,,,8
+10,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+11,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+12,DF3 - LINGUISTICS (RR2),,,,,,4,,,9
+13,DF2 - LINGUISTICS,,,,,,4,,,9
+14,DF5 - LINGUISTICS,,,,,,4,,,10
+15,DF4 - LINGUISTICS (RR3),,,,,,4,,,10
+16,IE3 - INTERDISC ELECTIVE,,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,11
+17,DF6 - LINGUISTICS,,,,,,4,,,11
+18,DF7 - LINGUISTICS,,,,,,4,,,12
+19,DF8 - LINGUISTICS,,,,,,4,,,12
+20,ELECTIVE 1,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,ELECTIVE 2,,,,,,4,,,1
+22,GE / WRITING 1,,,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,ELECTIVE 3,,,,,,4,,,2
+25,GE / WRITING 2,,,,,,4,,,2
+26,GE 2,,,,,,4,,,2
+27,DEI,,,,,,4,,,3
+28,ELECTIVE 4,,,,,,4,,,3
+29,GE 3,,,,,,4,,,3
+30,ELECTIVE 5,,,,,,4,,,4
+31,GE 4,,,,,,4,,,4
+32,GE 5,,,,,,4,,,4
+33,ELECTIVE 6,,,,,,4,,,5
+34,GE 6,,,,,,4,,,5
+35,GE 7,,,,,,4,,,5
+36,ELECTIVE 7,,,,,,4,,,6
+37,GE 8,,,,,,4,,,6
+38,GE 9,,,,,,4,,,6
+39,ELECTIVE 8,,,,,,4,,,8
+40,MUIR UDE,,,,,,4,,,8
+41,ELECTIVE 9,,,,,,4,,,11

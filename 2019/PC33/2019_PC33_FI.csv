@@ -1,0 +1,54 @@
+Curriculum,Psychology with a Specialization in Social Psychology
+Degree Plan,Psychology with a Specialization in Social Psychology/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.2707
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+11,NATURAL SCIENCE 1,,,,,,4,,,1
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+12,NATURAL SCIENCE 2,,,,,,4,,,2
+13,NATURAL SCIENCE 3,,,,,,4,,,3
+14,COMPUTER PROGRAMMING,,,,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,PSYC 70,PSYC,70,3,,,4,,,5
+5,PSYC 104,PSYC,104,,,,4,,,7
+15,PSYC CORE 1,,,,,,4,,,7
+16,PSYC CORE 2,,,,,,4,,,8
+17,PSYC CORE 3,,,,,,4,,,8
+18,UD PSYC ELECTIVE 1,,,,,,4,,,9
+19,UD PSYC ELECTIVE 2,,,,,,4,,,9
+20,RESEARCH LAB 1,,,,,,4,,,9
+21,UD PSYC AREA OF SPECIALIZATION 1,,,,,,4,,,10
+22,UD PSYC ELECTIVE 3,,,,,,4,,,10
+23,RESEARCH LAB 2,,,,,,4,,,10
+24,UD PSYC AREA OF SPECIALIZATION 2,,,,,,4,,,11
+25,UD PSYC ELECTIVE 4,,,,,,4,,,11
+26,UD PSYC AREA OF SPECIALIZATION 3,,,,,,4,,,12
+27,UD PSYC ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MMW 11,MMW,11,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+7,MMW 12,MMW,12,,,,6,,,2
+8,MMW 13,MMW,13,7,,,6,,,3
+9,MMW 14 / GE 1,MMW,14,7;8,,,4,,,4
+29,GE 2,,,,,,4,,,4
+30,GE / DEI,,,,,,4,,,4
+31,MMW 14 / GE 2,MMW,14,7;8,,,4,,,5
+32,GE 3,,,,,,4,,,5
+33,GE 4,,,,,,4,,,5
+10,MMW 15,MMW,15,7;8,,,4,,,6
+34,GE 5,,,,,,4,,,6
+35,GE 6,,,,,,4,,,6
+36,ELECTIVE 1,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,7
+38,ELECTIVE 3,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,ELECTIVE 6,,,,,,4,,,9
+42,ELECTIVE 7,,,,,,4,,,10
+43,UD ELECTIVE,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

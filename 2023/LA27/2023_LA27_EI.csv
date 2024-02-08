@@ -1,0 +1,57 @@
+Curriculum,Latin American Studies with a Concentration in Migration and Border Studies
+Degree Plan,Latin American Studies with a Concentration in Migration and Border Studies/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+8,LTSP 2A,LTSP,2A,5;6,,,5,,,4
+7,LATI 10 (FULFILLS DEI),LATI,10,,,,4,,,4
+9,LATI 50,LATI,50,,,,4,,,5
+17,LATI UG ELECTIVE (CON IN MIG&BORDER) 1,,,,,,4,,,7
+18,LATI METHOD,,,,,,4,,,7
+10,LATI 150,LATI,150,9,,,4,,,8
+19,LATI CORE 1,,,,,,4,,,8
+20,LATI CORE 2,,,,,,4,,,9
+11,LATI 180,LATI,180,,,,4,,,9
+21,LATI CORE 3,,,,,,4,,,10
+22,LATI UG ELECTIVE (CON IN MIG&BORDER) 2,,,,,,4,,,10
+12,LATI 190,LATI,190,,,,4,,,11
+23,LATI UG ELECTIVE (CON IN MIG&BORDER) 3,,,,,,4,,,11
+24,LATI UG ELECTIVE,,,,,,4,,,12
+25,LATI UG ELECTIVE (CON IN MIG&BORDER) 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,BREADTH GE 1,,,,,,4,,,1
+27,BREADTH GE 2,,,,,,4,,,1
+13,CCE 1,CCE,1,,,,4,,,2
+28,BREADTH GE 3,,,,,,4,,,2
+29,ELECTIVE 1,,,,,,4,,,2
+30,BREADTH GE 4,,,,,,4,,,3
+31,BREADTH GE 5,,,,,,4,,,3
+32,ELECTIVE 2,,,,,,4,,,3
+14,CCE 2,CCE,2,,,,4,,,4
+33,ELECTIVE 3,,,,,,4,,,4
+34,BREADTH GE 6,,,,,,4,,,5
+35,BREADTH GE 7,,,,,,4,,,5
+36,ELECTIVE 4,,,,,,4,,,5
+15,CCE 3,CCE,3,,,,4,,,6
+37,BREADTH GE 8,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,6
+39,ELECTIVE 6,,,,,,4,,,6
+40,ELECTIVE 7,,,,,,4,,,7
+41,ELECTIVE 8,,,,,,4,,,7
+42,ELECTIVE 9,,,,,,4,,,8
+16,CCE 120,CCE,120,,,,4,,,9
+43,UD ELECTIVE 1,,,,,,4,,,10
+44,ELECTIVE 10,,,,,,4,,,10
+45,UD ELECTIVE 2,,,,,,4,,,11
+46,ELECTIVE 11,,,,,,4,,,11
+47,ELECTIVE 12,,,,,,4,,,12

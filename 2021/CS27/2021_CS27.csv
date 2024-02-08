@@ -1,0 +1,42 @@
+Curriculum,Computer Science with Specialization in Bioinformatics
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,CSE 8A,CSE,8A,,,,4,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,CHEM 6B,CHEM,6B,2;1,,,4,,
+6,CSE 8B,CSE,8B,3,,,4,,
+7,MATH 20C,MATH,20C,4,,,4,,
+8,CSE 12,CSE,12,6,,,4,,
+9,CSE 15L,CSE,15L,6,,,2,,
+10,BILD 1,BILD,1,,,,4,,
+11,CHEM 40A,CHEM,40A,5,,,4,,
+12,CSE 30,CSE,30,8;9,,,4,,
+13,CSE 21,CSE,21,,,,4,,
+14,BILD 4,BILD,4,,,,2,,
+15,CHEM 40B,CHEM,40B,11,,,4,,
+16,CSE 100,CSE,100,13;8;9;12,,,4,,
+17,MATH 18,MATH,18,,,,4,,
+18,BILD 3,BILD,3,,,,4,,
+19,PHYS 2A,PHYS,2A,1;1,,,4,,
+20,CSE 101,CSE,101,16,,,4,,
+21,BIMM 100,BIMM,100,10;14;11;15,,,4,,
+30,CSE ELECTIVE 1,,,,,,4,,
+22,BICD 100,BICD,100,10;18,,,4,,
+23,BIBC 102,BIBC,102,11;15,,,4,,
+24,BIMM 101,BIMM,101,10,,,4,,
+25,MATH 186,MATH,186,7,,,4,,
+31,CSE ELECTIVE 2,,,,,,4,,
+26,CSE 182,CSE,182,16,,,4,,
+32,CSE ELECTIVE 3,,,,,,4,,
+33,CSE ELECTIVE 4,,,,,,4,,
+27,BENG 183,BENG,183,21,,,4,,
+34,CSE ELECTIVE 5,,,,,,4,,
+28,CSE 181,CSE,181,16;20;21,,,4,,
+35,CSE ELECTIVE 6,,,,,,4,,
+29,CSE 185,CSE,185,6;8;7;10;14,,,4,,

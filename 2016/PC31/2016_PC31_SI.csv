@@ -1,0 +1,54 @@
+Curriculum,Psychology with a Specialization in Human Health
+Degree Plan,Psychology with a Specialization in Human Health/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.2810
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+12,NATURAL SCIENCE 1,,,,,,4,,,1
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+13,NATURAL SCIENCE 2,,,,,,4,,,2
+14,NATURAL SCIENCE 3,,,,,,4,,,3
+15,COMPUTER PROGRAMMING,,,,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,PSYC 70,PSYC,70,3,,,4,,,5
+5,PSYC 100,PSYC,100,,,,4,,,7
+16,PSYC CORE,,,,,,4,,,7
+7,PSYC 101,PSYC,101,,,,4,,,8
+6,PSYC 104,PSYC,104,,,,4,,,8
+17,UD RESEARCH LAB 1,,,,,,4,,,9
+18,UD PSYC ELECTIVE 1,,,,,,4,,,9
+19,UD PSYC ELECTIVE 2,,,,,,4,,,9
+20,UD PSYC AREA OF SPECIALIZATION 1,,,,,,4,,,10
+21,UD RESEARCH LAB 2,,,,,,4,,,10
+22,UD PSYC ELECTIVE 3,,,,,,4,,,10
+23,UD PSYC AREA OF SPECIALIZATION 2,,,,,,4,,,11
+24,UD PSYC ELECTIVE 4,,,,,,4,,,11
+25,UD PSYC AREA OF SPECIALIZATION 3,,,,,,4,,,12
+26,UD PSYC ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,CAT 1,CAT,1,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+9,CAT 2,CAT,2,8,,,6,,,2
+10,CAT 3,CAT,3,9,,,6,,,3
+28,GE / DEI,,,,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,4
+30,GE 2,,,,,,4,,,5
+31,GE 3,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,GE 4,,,,,,4,,,6
+34,ELECTIVE 3,,,,,,4,,,6
+35,ELECTIVE 4,,,,,,4,,,6
+36,ELECTIVE 5,,,,,,4,,,6
+11,CAT 125,CAT,125,,,,4,,,7
+37,ELECTIVE 6,,,,,,4,,,7
+38,ELECTIVE 7,,,,,,4,,,8
+39,ELECTIVE 8,,,,,,4,,,8
+40,ELECTIVE 9,,,,,,4,,,9
+41,ELECTIVE 10,,,,,,4,,,10
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,11
+44,ELECTIVE 13,,,,,,4,,,12

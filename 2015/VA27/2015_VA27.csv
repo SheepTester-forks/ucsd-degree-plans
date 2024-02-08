@@ -1,0 +1,27 @@
+Curriculum,Visual Arts (Media)
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,"VIS 1, 2, / 3",VIS,1,,,,4,,
+2,VIS 70N,VIS,70N,,,,6,,
+3,VIS 84,VIS,84,,,,4,,
+4,VIS 60,VIS,60,,,,4,,
+5,VIS 40,VIS,40,,,,4,,
+6,VIS 174,VIS,174,2,,,4,,
+7,VIS 111,VIS,111,,,,4,,
+8,VIS 22,VIS,22,,,,4,,
+9,MEDIA EMPHASIS 1,,,,,,4,,
+10,MEDIA EMPHASIS 2,,,,,,4,,
+11,MEDIA HIST / CRIT / THEORY 1,,,,,,4,,
+12,MEDIA EMPHASIS 3,,,,,,4,,
+13,OUT OF EMPHASIS,,,,,,4,,
+14,MEDIA HIST / CRIT / THEORY 2,,,,,,4,,
+15,MEDIA ADVANCED LEVEL 1,,,,,,4,,
+16,MEDIA HIST / CRIT / THEORY 3,,,,,,4,,
+17,MEDIA ADVANCED LEVEL 2,,,,,,4,,
+18,MEDIA ADVANCED ELECTIVE 1,,,,,,4,,
+19,MEDIA ADVANCED LEVEL 3,,,,,,4,,
+20,MEDIA ADVANCED ELECTIVE 2,,,,,,4,,

@@ -1,0 +1,54 @@
+Curriculum,Psychology
+Degree Plan,Psychology/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,42.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PSYC 60,PSYC,60,,,,4,,,4
+16,COMPUTER PROGRAMMING,,,,,,4,,,6
+17,PSYC CORE 1,,,,,,4,,,7
+18,PSYC CORE 2,,,,,,4,,,7
+19,PSYC CORE 3,,,,,,4,,,8
+20,PSYC CORE 4,,,,,,4,,,8
+21,PSYC UD ELECTIVE 1,,,,,,4,,,9
+22,PSYC UD ELECTIVE 2,,,,,,4,,,9
+23,PSYC UD ELECTIVE 3,,,,,,4,,,10
+24,PSYC UD ELECTIVE 4,,,,,,4,,,10
+25,PSYC UD ELECTIVE 5,,,,,,4,,,11
+26,PSYC UD ELECTIVE 6,,,,,,4,,,11
+27,PSYC UD ELECTIVE 7,,,,,,4,,,12
+28,PSYC UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A,MATH,10A,,,,4,,,1
+29,DEI / SOCIAL SCIENCE,,,,,,4,,,1
+4,CHEM 11,CHEM,11,,,,4,,,1
+5,MATH 10B,MATH,10B,3,,,4,,,2
+6,HUM 1,HUM,1,,,,6,,,2
+7,CHEM 12,CHEM,12,,,,4,,,2
+8,MATH 10C,MATH,10C,5,,,4,,,3
+9,HUM 2,HUM,2,,,,6,,,3
+10,CHEM 13,CHEM,13,7,,,4,,,3
+11,HUM 3,HUM,3,,,,4,,,4
+30,FINE ARTS,,,,,,4,,,4
+12,HUM 4,HUM,4,,,,4,,,5
+31,ELECTIVE 1,,,,,,4,,,5
+13,PHYS 10,PHYS,10,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+14,HUM 5,HUM,5,,,,4,,,6
+15,BILD 7 / 10,BILD,7,,,,4,,,6
+33,ELECTIVE 3,,,,,,4,,,6
+34,LANGUAGE 1,,,,,,5,,,7
+35,ELECTIVE 4,,,,,,4,,,7
+36,LANGUAGE 2,,,,,,5,,,8
+37,ELECTIVE 5,,,,,,4,,,8
+38,LANGUAGE 3,,,,,,5,,,9
+39,ELECTIVE 6,,,,,,4,,,9
+40,LANGUAGE 4,,,,,,5,,,10
+41,ELECTIVE 7,,,,,,4,,,10
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12
+45,ELECTIVE 11,,,,,,4,,,12

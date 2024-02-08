@@ -1,0 +1,58 @@
+Curriculum,Marine Biology
+Degree Plan,Marine Biology/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1302
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BILD 3,BILD,3,,,,4,,,1
+4,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+6,BILD 1,BILD,1,2,,,4,,,2
+7,MATH 10C / 20C,MATH,10C,4,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+9,BILD 2,BILD,2,6,,,4,,,3
+10,SIO 90,SIO,90,,,,1,,,3
+11,SIO 132,SIO,132,3,,,4,,,4
+12,CHEM 7L,CHEM,7L,5,,,4,,,4
+13,PHYS 1AL,PHYS,1AL,1,,,2,,,4
+14,PHYS 1A,PHYS,1A,1,,,3,,,4
+15,SIO 134,SIO,134,3,,,4,,,5
+16,PHYS 1BL,PHYS,1BL,14;13;4,,,2,,,5
+17,PHYS 1B,PHYS,1B,4;14;13,,,3,,,5
+18,PHYS 1CL,PHYS,1CL,17;16;7,,,2,,,6
+19,PHYS 1C,PHYS,1C,7;17;16,,,3,,,6
+28,MARINE BIOLOGY ELECTIVE 1,,,,,,4,,,7
+20,SIO 187,SIO,187,3,,,4,,,7
+29,PHYSICAL / CHEMICAL OCEANOGRAPHY ELECTIVE,,,,,,4,,,8
+21,BICD 100,BICD,100,6,,,4,,,8
+22,SIO 136,SIO,136,3;11;15,,,6,,,9
+23,SIO 181,SIO,181,,,,4,,,9
+24,SIO 139,SIO,139,,,,1,,,9
+30,MARINE BIOLOGY ELECTIVE 2,,,,,,4,,,10
+31,MARINE BIOLOGY ELECTIVE 3,,,,,,4,,,10
+32,MARINE BIOLOGY ELECTIVE 4,,,,,,4,,,11
+33,MARINE BIOLOGY ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,DOC 1 / DEI,DOC,1,,,,4,,,1
+26,DOC 2,DOC,2,25,,,6,,,2
+27,DOC 3,DOC,3,,,,6,,,3
+34,GE 1,,,,,,4,,,5
+35,ELECTIVE 1,,,,,,1,,,5
+36,GE 2,,,,,,4,,,6
+37,GE 3,,,,,,4,,,6
+38,ELECTIVE 2,,,,,,4,,,6
+39,GE 4,,,,,,4,,,7
+40,ELECTIVE 3,,,,,,4,,,7
+41,GE 5,,,,,,4,,,8
+42,ELECTIVE 4,,,,,,4,,,8
+43,ELECTIVE 5,,,,,,4,,,9
+44,ELECTIVE 6,,,,,,4,,,10
+45,UD GE 1,,,,,,4,,,11
+46,ELECTIVE 7,,,,,,4,,,11
+47,UD GE 2,,,,,,4,,,12
+48,ELECTIVE 8,,,,,,4,,,12

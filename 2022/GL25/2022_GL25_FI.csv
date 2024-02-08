@@ -1,0 +1,54 @@
+Curriculum,Global South Studies
+Degree Plan,Global South Studies/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MMW 13,MMW,13,3,,,6,,,3
+5,MMW 14 / GE 1,MMW,14,3;4,,,4,,,4
+1,LD GSS 20 - 27 1,GSS,20,,,,4,,,4
+7,LD GSS 20 - 27 2,GSS,20,,,,4,,,5
+8,LD GSS 20 - 27 3,GSS,20,,,,4,,,6
+9,UD MAJOR - ELECTIVE 1,,,,,,4,,,10
+10,UD MAJOR - ELECTIVE 2,,,,,,4,,,10
+11,UD MAJOR - ELECTIVE 3,,,,,,4,,,11
+12,UD MAJOR - ELECTIVE 4,,,,,,4,,,11
+13,UD MAJOR - ELECTIVE 5,,,,,,4,,,12
+14,UD MAJOR - ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MMW 11,MMW,11,,,,4,,,1
+15,GE 1,,,,,,4,,,1
+16,GE 2,,,,,,4,,,1
+17,GE 3,,,,,,4,,,1
+3,MMW 12,MMW,12,,,,6,,,2
+18,ELECTIVE 1,,,,,,4,,,2
+19,GE 4,,,,,,4,,,2
+20,ELECTIVE 2,,,,,,4,,,3
+21,GE 5,,,,,,4,,,3
+22,GE 6,,,,,,4,,,4
+23,GE / DEI,,,,,,4,,,4
+24,MMW 14 / GE 2,MMW,14,3;4,,,4,,,5
+25,ELECTIVE 3,,,,,,4,,,5
+26,GE 7,,,,,,4,,,5
+6,MMW 15,MMW,15,3;4,,,4,,,6
+27,ELECTIVE 4,,,,,,4,,,6
+28,GE 8,,,,,,4,,,6
+29,ELECTIVE 5,,,,,,4,,,7
+30,UD MAJOR - ELECTIVE 7,,,,,,4,,,7
+31,UD MAJOR - ELECTIVE 8,,,,,,4,,,7
+32,GE 9,,,,,,4,,,7
+33,ELECTIVE 6,,,,,,4,,,8
+34,UD MAJOR - ELECTIVE 9,,,,,,4,,,8
+35,UD MAJOR - ELECTIVE 10,,,,,,4,,,8
+36,GE 10,,,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,9
+38,UD MAJOR - ELECTIVE 11,,,,,,4,,,9
+39,UD MAJOR - ELECTIVE 12,,,,,,4,,,9
+40,ELECTIVE 8,,,,,,4,,,9
+41,ELECTIVE 9,,,,,,4,,,10
+42,ELECTIVE 10,,,,,,4,,,10
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12

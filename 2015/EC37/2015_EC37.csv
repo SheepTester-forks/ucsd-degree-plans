@@ -1,0 +1,43 @@
+Curriculum,Electrical Engineering & Society
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,14.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,ECE 15,ECE,15,,,,4,,
+3,CHEM 6A,CHEM,6A,,,,4,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,ECE 25,ECE,25,,,,4,,
+6,PHYS 2A,PHYS,2A,1,,,4,,
+7,MATH 20C,MATH,20C,4,,,4,,
+8,ECE 35,ECE,35,1;4;6,,,4,,
+9,PHYS 2B,PHYS,2B,6;4,,,4,,
+10,ECE 30,ECE,30,2;5,,,4,,
+11,MATH 20D,MATH,20D,7,,,4,,
+12,PHYS 2C,PHYS,2C,6;1;4;7,,,4,,
+13,ECE 45,ECE,45,8,,,4,,
+14,MATH 20E,MATH,20E,7,,,4,,
+15,PHYS 2D,PHYS,2D,6;9;11,,,4,,
+24,S / H ELECTIVE 1,,,,,,4,,
+16,ECE 65,ECE,65,8,,,4,,
+17,MATH 20F,MATH,20F,7,,,4,,
+25,S / H ELECTIVE 2,,,,,,4,,
+18,ECE 101,ECE,101,13,,,4,,
+19,ECE 100,ECE,100,13;16,,,4,,
+20,ECE 103,ECE,103,16;15;15,,,4,,
+21,ECE 102,ECE,102,16;19,,,4,,
+22,ECE 107,ECE,107,6;9;12;15;13,,,4,,
+23,ECE 109,ECE,109,1;4;7;11;17,,,4,,
+26,DEPTH 1,,,,,,4,,
+27,DEPTH 2,,,,,,4,,
+28,ELECTIVE 1,,,,,,4,,
+29,DEPTH 3,,,,,,4,,
+30,DEPTH 4,,,,,,4,,
+31,ELECTIVE 2,,,,,,4,,
+32,DEPTH 5,,,,,,4,,
+33,ELECTIVE 3,,,,,,4,,
+34,DESIGN,,,,,,4,,
+35,DEPTH 6,,,,,,4,,
+36,ELECTIVE 4,,,,,,4,,

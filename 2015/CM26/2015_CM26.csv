@@ -1,0 +1,20 @@
+Curriculum,Communication
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,COMM 10,COMM,10,,,,4,,
+2,COMM 100B,COMM,100B,1,,,4,,
+6,COMM ELECTIVE 1,,,,,,4,,
+3,COMM 100C,COMM,100C,1,,,4,,
+7,COMM ELECTIVE 2,,,,,,4,,
+8,COMM ELECTIVE 3,,,,,,4,,
+4,COMM 100A,COMM,100A,1,,,4,,
+5,COMM 190,COMM,190,1;2,,,4,,
+9,COMM ELECTIVE 4,,,,,,4,,
+10,COMM ELECTIVE 5,,,,,,4,,
+11,COMM ELECTIVE 6,,,,,,4,,
+12,COMM ELECTIVE 7,,,,,,4,,
+13,COMM ELECTIVE 8,,,,,,4,,

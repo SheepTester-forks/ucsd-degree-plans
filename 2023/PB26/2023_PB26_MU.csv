@@ -1,0 +1,55 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Biostatistics
+Degree Plan,Bachelor of Science in Public Health with Concentration in Biostatistics/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+18,SBE 1,,,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+19,SBE 2,,,,,,4,,,3
+7,MATH 11,MATH,11,2,,,5,,,4
+5,FMPH 40,FMPH,40,,,,4,,,4
+6,BILD 1,BILD,1,,,,4,,,4
+8,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
+9,BILD 2,BILD,2,6,,,4,,,5
+20,COMPUTER PROGRAMMING,,,,,,4,,,6
+21,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
+10,BILD 3,BILD,3,,,,4,,,6
+11,FMPH 101 / FMPH 102 1,FMPH,101,5;7,,,4,,,7
+22,CONCENTRATION UDE 1,,,,,,4,,,7
+23,FMPH 101 / FMPH 102 2,FMPH,101,5;7,,,4,,,8
+12,USP 143,USP,143,,,,4,,,8
+13,FMPH 120 / FMPH 130 1,FMPH,120,5,,,4,,,9
+24,CONCENTRATION UDE 2,,,,,,4,,,9
+25,FMPH 120 / FMPH 130 2,FMPH,120,5,,,4,,,10
+26,FMPH UDE,,,,,,4,,,10
+14,FMPH 193,FMPH,193,,,,4,,,11
+27,UDE 1,,,,,,4,,,11
+15,FMPH 194,FMPH,194,14,,,4,,,12
+28,UDE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,MCWP 40,MCWP,40,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+17,MCWP 50,MCWP,50,16,,,4,,,2
+30,GE 2,,,,,,4,,,2
+31,DEI,,,,,,4,,,3
+32,GE 3,,,,,,4,,,3
+33,GE 4,,,,,,4,,,4
+34,GE 5,,,,,,4,,,5
+35,GE 6,,,,,,4,,,5
+36,GE 7,,,,,,4,,,6
+37,GE 8,,,,,,4,,,7
+38,ELECTIVE 1,,,,,,4,,,7
+39,GE 9,,,,,,4,,,8
+40,ELECTIVE 2,,,,,,4,,,8
+41,MUIR UPPER DIV ELECTIVE 1,,,,,,4,,,9
+42,ELECTIVE 3,,,,,,4,,,9
+43,MUIR UPPER DIV ELECTIVE 2,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12

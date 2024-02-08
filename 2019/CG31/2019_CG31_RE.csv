@@ -1,0 +1,53 @@
+Curriculum,Cognitive Science with Specialization in Clinical Aspects of Cognition
+Degree Plan,Cognitive Science with Specialization in Clinical Aspects of Cognition/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+4,COGS 1,COGS,1,,,,4,,,2
+5,IF MATH 10 SERIES THEN MATH 10C,MATH,10,,,,4,,,3
+6,COGS 13,COGS,13,,,,4,,,3
+7,MATH 18,MATH,18,,,,4,,,4
+8,COGS 17,COGS,17,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+11,COGS 18 / CSE (8A / 11) / MAE 8,COGS,18,,,,4,,,6
+10,COGS 14B,COGS,14B,9,,,4,,,6
+12,COGS 107A,COGS,107A,8,,,4,,,7
+13,COGS 100,COGS,100,2,,,4,,,7
+14,COGS 101A / 101B / 101C 1,COGS,101A,4,,,4,,,8
+15,COGS 107B,COGS,107B,12,,,4,,,8
+22,COGS 101A / 101B / 101C 2,COGS,101A,4,,,4,,,9
+16,COGS 108,COGS,108,11,,,4,,,9
+23,COGS UD ELECTIVE 1,,,,,,4,,,10
+24,COGS UD ELECTIVE 2,,,,,,4,,,10
+25,COGS UD ELECTIVE 3,,,,,,4,,,11
+26,COGS UD ELECTIVE 4,,,,,,4,,,11
+27,COGS UD ELECTIVE 5,,,,,,4,,,12
+28,COGS UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,CHEMISTRY GE,,,,,,4,,,1
+17,HUM 1,HUM,1,,,,6,,,2
+18,HUM 2,HUM,2,,,,6,,,3
+30,NATURAL SCIENCE GE 1,,,,,,4,,,4
+19,HUM 3,HUM,3,17,,,4,,,4
+31,FINE ARTS,,,,,,4,,,5
+32,PHYSICS GE,,,,,,4,,,5
+20,HUM 4,HUM,4,,,,4,,,5
+33,DEI,,,,,,4,,,6
+21,HUM 5,HUM,5,,,,4,,,6
+34,NATURAL SCIENCE GE 2,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,ELECTIVE 1,,,,,,4,,,8
+37,LANGUAGE 2,,,,,,5,,,8
+38,ELECTIVE 2,,,,,,4,,,9
+39,LANGUAGE 3,,,,,,5,,,9
+40,UD ELECTIVE 1,,,,,,4,,,10
+41,LANGUAGE 4,,,,,,5,,,10
+42,UD ELECTIVE 2,,,,,,4,,,11
+43,UD ELECTIVE 3,,,,,,4,,,12

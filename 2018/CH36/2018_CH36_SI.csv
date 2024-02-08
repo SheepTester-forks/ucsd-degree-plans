@@ -1,0 +1,55 @@
+Curriculum,Molecular Synthesis
+Degree Plan,Molecular Synthesis/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+5,CHEM 6C,CHEM,6C,4,,,4,,,3
+7,CHEM 7LM / 7L,CHEM,7LM,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+8,MATH 20D,MATH,20D,6,,,4,,,4
+9,CHEM 40A,CHEM,40A,4,,,4,,,4
+11,CHEM 40B,CHEM,40B,9,,,4,,,5
+12,CHEM 43AM / 43A,CHEM,43AM,7;9,,,4,,,5
+13,PHYS 2B,PHYS,2B,1;3,,,4,,,5
+14,PHYS 2C / 2D,PHYS,2C,1;3;6,,,4,,,6
+15,PHYS 2CL,PHYS,2CL,13,,,2,,,6
+16,CHEM 40C,CHEM,40C,11,,,4,,,6
+17,CHEM 120A,CHEM,120A,5;9,,,4,,,7
+18,CHEM 126 / 127,CHEM,126,,,,4,,,7
+19,CHEM 100A,CHEM,100A,5,,,4,,,7
+20,CHEM 143B,CHEM,143B,12;11,,,4,,,8
+21,CHEM 120B,CHEM,120B,17,,,4,,,8
+22,CHEM 127 / 126,CHEM,127,,,,4,,,8
+23,CHEM 105A,CHEM,105A,19;15;18,,,4,,,9
+24,CHEM 143C / 143D,CHEM,143C,12;11,,,5,,,10
+25,CHEM 152,CHEM,152,16,,,4,,,10
+26,CHEM 154 / 156,CHEM,154,16,,,4,,,11
+27,CHEM 114A,CHEM,114A,9,,,4,,,11
+28,CHEM 125 / 157,CHEM,125,17,,,4,,,12
+29,CHEM 123,CHEM,123,17;12;21,,,4,,,12
+34,CHEM RESTRICTED ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,CAT 1,CAT,1,,,,4,,,1
+31,CAT 2,CAT,2,30,,,6,,,2
+32,CAT 3,CAT,3,31,,,6,,,3
+35,GE / DEI,,,,,,4,,,4
+36,ELECTIVE 1,,,,,,4,,,4
+37,GE 1,,,,,,4,,,5
+38,ELECTIVE 2,,,,,,4,,,6
+39,GE 2,,,,,,4,,,7
+40,GE 3,,,,,,4,,,8
+41,GE 4,,,,,,4,,,9
+42,GE 5,,,,,,4,,,9
+43,ELECTIVE 3,,,,,,4,,,9
+44,GE 6,,,,,,4,,,10
+45,ELECTIVE 4,,,,,,1,,,10
+33,CAT 125,CAT,125,,,,4,,,11
+46,GE 7,,,,,,4,,,11

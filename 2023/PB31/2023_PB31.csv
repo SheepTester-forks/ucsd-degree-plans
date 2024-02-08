@@ -1,0 +1,35 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Medicine Sciences
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,CHEM 6A,CHEM,6A,,,,4,,
+2,BILD 1,BILD,1,,,,4,,
+3,CHEM 6B,CHEM,6B,1,,,4,,
+4,BILD 2,BILD,2,2,,,4,,
+15,SBE 1,,,,,,4,,
+5,CHEM 6C,CHEM,6C,3,,,4,,
+6,BILD 3,BILD,3,,,,4,,
+16,SBE 2,,,,,,4,,
+7,FMPH 40,FMPH,40,,,,4,,
+8,CHEM 7L,CHEM,7L,3,,,4,,
+17,NATURAL SCIENCE 1,,,,,,4,,
+9,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,
+18,STATISTICS (QUANTITATIVE METHODS),,,,,,4,,
+19,NATURAL SCIENCE 2,,,,,,4,,
+20,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,
+21,NATURAL SCIENCE 3,,,,,,4,,
+10,FMPH 101 / FMPH 102 1,FMPH,101,7,,,4,,
+22,CONCENTRATION UDE 1,,,,,,4,,
+23,FMPH 101 / FMPH 102 2,FMPH,101,7,,,4,,
+11,USP 143,USP,143,,,,4,,
+12,FMPH 120 / FMPH 130 1,FMPH,120,7,,,4,,
+24,CONCENTRATION UDE 2,,,,,,4,,
+25,FMPH 120 / FMPH 130 2,FMPH,120,7,,,4,,
+26,FMPH UDE,,,,,,4,,
+13,FMPH 193,FMPH,193,,,,4,,
+27,UDE 1,,,,,,4,,
+14,FMPH 194,FMPH,194,13,,,4,,
+28,UDE 2,,,,,,4,,

@@ -1,0 +1,53 @@
+Curriculum,Earth Sciences
+Degree Plan,Earth Sciences/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+5,PHYS 2A,PHYS,2A,1,,,4,,,2
+6,MATH 20C,MATH,20C,3,,,4,,,3
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+8,PHYS 2B,PHYS,2B,5;1;3,,,4,,,3
+9,MATH 20D,MATH,20D,6,,,4,,,4
+10,PHYS 2C,PHYS,2C,5;6,,,4,,,4
+11,SIO 50,SIO,50,,,,6,,,4
+12,BILD 3,BILD,3,,,,4,,,5
+13,SIO 102,SIO,102,11;2;4;7,,,4,,,5
+20,UD MAJOR ELECTIVE 1,,,,,,4,,,6
+14,SIO 100,SIO,100,11,,,4,,,7
+21,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+15,SIO 103,SIO,103,1;3;6;9;5;8;10;11,,,4,,,8
+22,UD MAJOR ELECTIVE 3,,,,,,4,,,8
+16,SIO 104,SIO,104,12,,,6,,,9
+23,UD MAJOR ELECTIVE 4,,,,,,4,,,9
+24,UD MAJOR ELECTIVE 5,,,,,,4,,,10
+25,UD MAJOR ELECTIVE 6,,,,,,4,,,10
+26,UD MAJOR ELECTIVE 7,,,,,,4,,,11
+27,UD MAJOR ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,DOC 1 / DEI,DOC,1,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+18,DOC 2,DOC,2,17,,,6,,,2
+19,DOC 3,DOC,3,,,,6,,,3
+29,GE 2,,,,,,4,,,4
+30,GE 3,,,,,,4,,,5
+31,GE 4,,,,,,4,,,5
+32,GE 5,,,,,,4,,,6
+33,ELECTIVE 1,,,,,,4,,,6
+34,ELECTIVE 2,,,,,,4,,,6
+35,UD GE 1,,,,,,4,,,7
+36,ELECTIVE 3,,,,,,4,,,7
+37,UD GE 2,,,,,,4,,,8
+38,UD ELECTIVE,,,,,,4,,,9
+39,ELECTIVE 4,,,,,,4,,,10
+40,ELECTIVE 5,,,,,,4,,,11
+41,ELECTIVE 6,,,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,12
+43,ELECTIVE 8,,,,,,4,,,12

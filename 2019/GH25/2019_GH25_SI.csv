@@ -1,0 +1,54 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GLBH 20 / HILD 30 REQT,GLBH,20,,,,4,,,2
+11,STATISTICS COURSE,,,,,,4,,,3
+12,LOWER DIV SOC COURSE,,,,,,4,,,4
+2,GLBH 148 GLOBAL HEALTH & CULTURAL DIVERSITY,GLBH,148,,,,4,,,7
+13,UD GLOBAL HEALTH ELECTIVE 1,,,,,,4,,,7
+14,POLICY ANALYSIS ELECTIVE,,,,,,4,,,7
+3,MGT 173 PROJECT MANAGEMENT: HEALTH SERVICES,MGT,173,,,,4,,,8
+15,UD GLOBAL HEALTH ELECTIVE 2,,,,,,4,,,8
+16,UD GLOBAL HEALTH ELECTIVE 3,,,,,,4,,,9
+4,GLBH 181 ESSENTIALS OF GLOBAL HEALTH,GLBH,181,,,,4,,,9
+17,UD GLOBAL HEALTH ELECTIVE 4,,,,,,4,,,10
+18,UD GLOBAL HEALTH ELECTIVE 5,,,,,,4,,,10
+19,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,,11
+20,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,,11
+5,GLBH 150A SENIOR CAPSTONE I,GLBH,150A,,,,4,,,11
+21,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,12
+6,GLBH 150B SENIOR CAPSTONE II,GLBH,150B,5,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,CAT 1,CAT,1,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+24,GE 3,,,,,,4,,,1
+8,CAT 2,CAT,2,7,,,6,,,2
+25,GE 4,,,,,,4,,,2
+26,ELECTIVE 1,,,,,,4,,,2
+9,CAT 3,CAT,3,8,,,6,,,3
+27,GE / DEI,,,,,,4,,,3
+28,ELECTIVE 2,,,,,,4,,,3
+29,GE 5,,,,,,4,,,4
+30,ELECTIVE 3,,,,,,4,,,4
+31,ELECTIVE 4,,,,,,4,,,5
+32,ELECTIVE 5,,,,,,4,,,5
+33,ELECTIVE 6,,,,,,4,,,5
+34,ELECTIVE 7,,,,,,4,,,6
+35,ELECTIVE 8,,,,,,4,,,6
+36,ELECTIVE 9,,,,,,4,,,6
+37,ELECTIVE 10,,,,,,4,,,7
+38,UD ELECTIVE 1,,,,,,4,,,8
+39,UD ELECTIVE 2,,,,,,4,,,8
+40,UD ELECTIVE 3,,,,,,4,,,9
+41,UD ELECTIVE 4,,,,,,4,,,9
+42,UD ELECTIVE 5,,,,,,4,,,10
+10,PRACTICUM / CAT 125 1,CAT,125,,,,4,,,10
+43,PRACTICUM / CAT 125 2,CAT,125,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

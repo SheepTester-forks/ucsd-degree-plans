@@ -1,0 +1,65 @@
+Curriculum,Music
+Degree Plan,Music/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MUSIC 43 1,,,,,,1,,,1
+6,MUSIC 2A,,,,,,4,,,1
+7,MUSIC 2AK,,,,,,2,,,1
+8,MUSIC 43 2,,,,,,1,,,2
+9,MUSIC 2BK,,,,,,2,,,2
+10,MUSIC 2B,,,,,,4,,,2
+11,MUSIC 2C,,,,,,4,,,3
+12,"MUSIC 2CK, / (JAZZ STUDENTS) 2JK",,,,,,2,,,3
+13,MUSIC 43 3,,,,,,1,,,3
+14,MUSIC 101A,,,,,,4,,,4
+15,MUSIC 120A,,,,,,4,,,4
+16,MUSIC 43 4,,,,,,1,,,4
+17,GE / DEI,,,,,,4,,,4
+18,MUSIC 43 5,,,,,,1,,,5
+19,MUSIC 120B,,,,,,4,,,5
+20,MUSIC 101B,,,,,,4,,,5
+21,MUSIC 43 6,,,,,,1,,,6
+22,MUSIC 120C,,,,,,4,,,6
+23,MUSIC 101C,,,,,,4,,,6
+24,MUSIC 43 7,,,,,,1,,,7
+25,MUSIC UD ELECTIVE 1,,,,,,4,,,7
+26,MUSIC 43 8,,,,,,1,,,8
+27,MUSIC UD ELECTIVE 2,,,,,,4,,,8
+28,MUSIC UD ELECTIVE 3,,,,,,4,,,9
+29,MUSIC 43 9,,,,,,1,,,9
+30,MUSIC EMPHASIS COURSE 1,,,,,,4,,,10
+31,MUSIC 43 10,,,,,,1,,,10
+32,MUSIC 43 11,,,,,,1,,,11
+33,MUSIC EMPHASIS COURSE 2,,,,,,4,,,11
+34,MUSIC EMPHASIS COURSE 3,,,,,,4,,,12
+35,MUSIC 43 12,,,,,,1,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CAT 1,CAT,1,,,,4,,,1
+36,GE 1,,,,,,4,,,1
+2,CAT 2,CAT,2,1,,,6,,,2
+37,GE 2,,,,,,4,,,2
+3,CAT 3,CAT,3,2,,,6,,,3
+38,GE 3,,,,,,4,,,3
+39,ELECTIVE 1,,,,,,4,,,4
+40,GE 4,,,,,,4,,,5
+41,"ELECTIVE (2, 3 / 4 UNITS)",,,,,,4,,,5
+42,ELECTIVE 2,,,,,,4,,,6
+43,GE 5,,,,,,4,,,6
+44,GE 6,,,,,,4,,,7
+45,ELECTIVE 3,,,,,,4,,,7
+46,ELECTIVE 4,,,,,,4,,,8
+47,ELECTIVE 5,,,,,,4,,,8
+4,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,9
+48,ELECTIVE 6,,,,,,4,,,9
+49,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,10
+50,ELECTIVE 7,,,,,,4,,,10
+51,ELECTIVE 8,,,,,,2,,,10
+52,UD ELECTIVE,,,,,,4,,,11
+53,ELECTIVE 9,,,,,,4,,,11
+54,ELECTIVE 10,,,,,,4,,,12
+55,ELECTIVE 11,,,,,,4,,,12

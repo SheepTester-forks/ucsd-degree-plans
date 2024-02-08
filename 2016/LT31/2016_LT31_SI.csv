@@ -1,0 +1,56 @@
+Curriculum,German Literature
+Degree Plan,German Literature/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,LIGM 1A,LIGM,1A,,,,2.5,,,1
+1,LIGM 1AX,LIGM,1AX,,,,2.5,,,1
+4,LIGM 1B,LIGM,1B,2;1,,,2.5,,,2
+3,LIGM 1BX,LIGM,1BX,2;1,,,2.5,,,2
+6,LIGM 1C,LIGM,1C,4;3,,,2.5,,,3
+5,LIGM 1CX,LIGM,1CX,4;3,,,2.5,,,3
+7,LTGM 2A,LTGM,2A,6;5,,,5,,,4
+8,LTGM 2B,LTGM,2B,7,,,5,,,5
+9,LTGM 2C,LTGM,2C,8,,,4,,,6
+14,UD LTGM 1,,,,,,4,,,7
+15,UD LTGM 2,,,,,,4,,,7
+16,UD LTGM 3,,,,,,4,,,8
+17,UD LTGM 4,,,,,,4,,,8
+18,UD LTGM 5,,,,,,4,,,9
+19,UD LTGM 6,,,,,,4,,,9
+20,UD LTGM 7,,,,,,4,,,10
+21,UD LTEN 1,,,,,,4,,,10
+22,UD LTGM 8,,,,,,4,,,11
+23,UD LTEN 2,,,,,,4,,,11
+24,UD LTGM 9,,,,,,4,,,12
+25,UD LTEN 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,CAT 1,CAT,1,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+11,CAT 2,CAT,2,10,,,6,,,2
+27,GE 2,,,,,,4,,,2
+12,CAT 3,CAT,3,11,,,6,,,3
+28,GE 3,,,,,,4,,,3
+29,GE / DEI,,,,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,GE 5,,,,,,4,,,4
+32,GE 6,,,,,,4,,,5
+33,GE 7,,,,,,4,,,5
+34,ELECTIVE 1,,,,,,4,,,5
+35,GE 8,,,,,,4,,,6
+36,ELECTIVE 2,,,,,,4,,,6
+37,ELECTIVE 3,,,,,,3,,,7
+38,ELECTIVE 4,,,,,,4,,,7
+39,ELECTIVE 5,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,8
+13,PRACTICUM / CAT 125 1,CAT,125,,,,4,,,9
+41,ELECTIVE 7,,,,,,4,,,9
+42,PRACTICUM / CAT 125 2,CAT,125,,,,4,,,10
+43,ELECTIVE 8,,,,,,4,,,10
+44,UD ELECTIVE,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,4,,,11
+46,ELECTIVE 10,,,,,,4,,,12

@@ -1,0 +1,53 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 1,USP,1,,,,4,,,4
+2,USP 2,USP,2,,,,4,,,5
+3,USP 3,USP,3,,,,4,,,6
+4,POLI 30D,POLI,30D,,,,4,,,6
+10,USP RM,,,,,,4,,,7
+11,USP UD 1,,,,,,4,,,7
+12,USP UD 2,,,,,,4,,,7
+13,USP UD 3,,,,,,4,,,8
+14,USP FD 1,,,,,,4,,,8
+15,USP FD 2,,,,,,4,,,9
+16,USP UD 4,,,,,,4,,,9
+17,USP UD 5,,,,,,4,,,10
+5,USP 186,USP,186,,,,6,,,10
+18,USP UD 6,,,,,,4,,,11
+6,USP 187,USP,187,5,,,6,,,11
+19,USP UD 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,DOC 1 / DEI,DOC,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+22,ELECTIVE 1,,,,,,4,,,1
+8,DOC 2,DOC,2,7,,,6,,,2
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+25,ELECTIVE 2,,,,,,4,,,2
+9,DOC 3,DOC,3,,,,6,,,3
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,ELECTIVE 3,,,,,,4,,,3
+29,GE 7,,,,,,4,,,4
+30,ELECTIVE 4,,,,,,4,,,4
+31,ELECTIVE 5,,,,,,4,,,4
+32,GE 8,,,,,,4,,,5
+33,ELECTIVE 6,,,,,,4,,,5
+34,ELECTIVE 7,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,ELECTIVE 8,,,,,,4,,,6
+37,UD GE 1,,,,,,4,,,7
+38,UD GE 2,,,,,,4,,,8
+39,UD ELECTIVE,,,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,12
+43,ELECTIVE 12,,,,,,4,,,12

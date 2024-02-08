@@ -1,0 +1,53 @@
+Curriculum,Theatre
+Degree Plan,Theatre/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,TDAC 1,TDAC,1,,,,4,,,1
+2,TDGE 1,TDGE,1,,,,4,,,1
+3,TDDE 1,TDDE,1,,,,4,,,2
+4,TDHT 22,TDHT,22,,,,4,,,2
+5,TDPR 6 1,TDPR,6,,,,4,,,3
+6,TDHT 10,TDHT,10,,,,4,,,3
+7,TDHT 21,TDHT,21,,,,4,,,4
+8,TDPW 1,TDPW,1,,,,4,,,4
+9,TDAC 101,TDAC,101,1,,,4,,,5
+10,TDDR 101,TDDR,101,,,,4,,,5
+11,TDHT 23,TDHT,23,,,,4,,,6
+23,TDDE XXX,,,,,,4,,,6
+12,TDDR 111,TDDR,111,6,,,4,,,7
+24,TDPR 6 2,TDPR,6,,,,4,,,7
+13,TDPW 101,TDPW,101,8,,,4,,,8
+25,UD THEATRE ELECTIVE 1,,,,,,4,,,8
+26,UD THEATRE ELECTIVE 2,,,,,,4,,,9
+27,TDHT XXX 1,,,,,,4,,,9
+28,TDHT XXX 2,,,,,,4,,,10
+29,UD THEATRE ELECTIVE 3,,,,,,4,,,10
+30,TDHT XXX 3,,,,,,4,,,11
+31,UD THEATRE ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,MATH 10A,MATH,10A,,,,4,,,1
+15,MATH 10B,MATH,10B,14,,,4,,,2
+16,HUM 1,HUM,1,,,,6,,,2
+32,MATH GE,,,,,,4,,,3
+17,HUM 2,HUM,2,,,,6,,,3
+18,CHEM 11,CHEM,11,,,,4,,,4
+19,HUM 3,HUM,3,16,,,4,,,4
+20,PHYS 10,PHYS,10,,,,4,,,5
+21,HUM 4,HUM,4,,,,4,,,5
+33,BIOLOGY GE,,,,,,4,,,6
+22,HUM 5,HUM,5,,,,4,,,6
+34,DEI / SOCIAL SCIENCE,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,NATURAL SCIENCE GE 1,,,,,,4,,,8
+37,LANGUAGE 2,,,,,,5,,,8
+38,LANGUAGE 3,,,,,,5,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,UD SOCIAL SCIENCE,,,,,,4,,,11
+41,UD ELECTIVE 1,,,,,,4,,,11
+42,UD ELECTIVE 2,,,,,,4,,,12
+43,NATURAL SCIENCE GE 2,,,,,,4,,,12

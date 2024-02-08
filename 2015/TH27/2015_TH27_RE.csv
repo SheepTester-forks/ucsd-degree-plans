@@ -1,0 +1,54 @@
+Curriculum,Dance
+Degree Plan,Dance/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,TDMV XXX 1,,,,,,4,,,1
+1,TDTR 10,TDTR,10,,,,4,,,1
+17,TDMV XXX 2,,,,,,4,,,2
+18,TDMV XXX 3,,,,,,4,,,2
+2,TDPR 6,TDPR,6,,,,4,,,3
+19,TDMV XXX 4,,,,,,4,,,3
+3,TDCH 40,TDCH,40,1,,,4,,,4
+20,TDMV XXX 5,,,,,,4,,,4
+21,TDCH XXX 1,,,,,,4,,,5
+22,TDTR XXX,,,,,,4,,,5
+23,TDHD XXX 1,,,1,,,4,,,6
+24,TDMV XXX 6,,,,,,4,,,6
+25,TDMV XXX 7,,,,,,4,,,7
+26,TDHD XXX 2,,,1,,,4,,,7
+27,TDDE XXX,,,,,,4,,,8
+28,TDMV XXX 8,,,,,,4,,,8
+29,TDHD XXX 3,,,1,,,4,,,8
+30,TDMV XXX 9,,,,,,4,,,9
+31,TDCH XXX 2,,,,,,4,,,9
+32,UD DANCE ELECTIVE 1,,,,,,4,,,10
+33,TDMV XXX 10,,,,,,4,,,10
+34,TDMV XXX 11,,,,,,4,,,11
+35,TDHD XXX 4,,,1,,,4,,,11
+36,UD DANCE ELECTIVE 2,,,,,,4,,,12
+37,TDMV XXX 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MATH 10A,MATH,10A,,,,4,,,1
+5,MATH 10B,MATH,10B,4,,,4,,,2
+6,HUM 1,HUM,1,,,,6,,,2
+7,MATH 10C,MATH,10C,5,,,4,,,3
+8,HUM 2,HUM,2,,,,6,,,3
+9,HUM 3,HUM,3,,,,4,,,4
+10,CHEM 11,CHEM,11,,,,4,,,4
+11,HUM 4,HUM,4,,,,4,,,5
+12,CHEM 12,CHEM,12,,,,4,,,5
+13,HUM 5,HUM,5,,,,4,,,6
+14,CHEM 13,CHEM,13,12,,,4,,,6
+38,DEI / SOCIAL SCIENCE,,,,,,4,,,7
+39,LANGUAGE 1,,,,,,5,,,7
+40,LANGUAGE 2,,,,,,5,,,8
+15,BILD 7 / 10,BILD,7,,,,4,,,9
+41,LANGUAGE 3,,,,,,5,,,9
+42,LANGUAGE 4,,,,,,5,,,10
+43,PHYSICS 10,,,,,,4,,,11
+44,SOCIAL SCIENCE,,,,,,4,,,12

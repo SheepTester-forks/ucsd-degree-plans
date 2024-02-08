@@ -1,0 +1,27 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,VIS 40,VIS,40,,,,4,,
+12,MUSIC LD ELECTIVE 1,,,,,,4,,
+2,CSE 11,CSE,11,,,,4,,
+13,MUSIC LD ELECTIVE 2,,,,,,4,,
+14,MUSIC 4,,,,,,4,,
+3,VIS 1,VIS,1,,,,4,,
+4,MATH 20A,MATH,20A,,,,4,,
+5,MATH 20B,MATH,20B,4,,,4,,
+6,ICAM 110,ICAM,110,,,,4,,
+7,VIS 140,VIS,140,,,,4,,
+15,MUSIC 170,,,,,,4,,
+8,VIS 159,VIS,159,,,,4,,
+16,UD ADVANCE ELECTIVE 1,,,,,,4,,
+9,VIS 145A,VIS,145A,,,,4,,
+17,UD THEORY & HISTORY ELECTIVE,,,,,,4,,
+18,UD ADVANCE ELECTIVE 2,,,,,,4,,
+19,UD ADVANCE ELECTIVE 3,,,,,,4,,
+10,ICAM 160A,ICAM,160A,,,,4,,
+20,UD ADVANCE ELECTIVE 4,,,,,,4,,
+11,ICAM 160B,ICAM,160B,10,,,4,,

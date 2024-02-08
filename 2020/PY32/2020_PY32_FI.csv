@@ -1,0 +1,55 @@
+Curriculum,Physics with Specialization in Materials Physics
+Degree Plan,Physics with Specialization in Materials Physics/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 18,MATH,18,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+4,PHYS 4A,PHYS,4A,1,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+6,PHYS 4B,PHYS,4B,4;3,,,4,,,3
+5,MATH 20C,MATH,20C,3,,,4,,,3
+32,PROGRAMMING,,,,,,4,,,3
+8,PHYS 4C,PHYS,4C,4;6;5;2,,,4,,,4
+7,MATH 20E,MATH,20E,2;5,,,4,,,4
+10,PHYS 4D,PHYS,4D,4;8;6;1;3;5;7;2,,,4,,,5
+9,MATH 20D,MATH,20D,5,,,4,,,5
+11,PHYS 2CL,PHYS,2CL,4;8,,,2,,,5
+12,CHEM 6A,CHEM,6A,,,,4,,,5
+14,PHYS 4E,PHYS,4E,4;6;8;10;1;3;5;9;7;2,,,4,,,6
+13,CHEM 6B,CHEM,6B,12;1,,,4,,,6
+16,PHYS 110A,PHYS,110A,4;6;8;10;1;3;5;9;7;2,,,4,,,7
+15,PHYS 100A,PHYS,100A,4;6;8;10;1;3;5;9;7;2,,,4,,,7
+17,PHYS 2DL,PHYS,2DL,11,,,2,,,7
+19,PHYS 105A,PHYS,105A,8;6;10;14;1;3;5;9;7;2,,,4,,,8
+18,PHYS 100B,PHYS,100B,15;1;3;5;9;7;2,,,4,,,8
+20,PHYS 130A,PHYS,130A,14;15;16,,,4,,,9
+21,PHYS 120,PHYS,120,4;8;6;11,,,5,,,9
+22,PHYS 140A,PHYS,140A,20,,,4,,,10
+23,PHYS 130B,PHYS,130B,20;18,,,4,,,10
+33,PHYS UD RE 1,,,,,,4,,,10
+34,PHYS UD RE 2,,,,,,4,,,11
+24,PHYS 152A,PHYS,152A,20,,,4,,,11
+25,PHYS 133,PHYS,133,11;17,,,4,,,11
+35,PHYS UD RE 3,,,,,,4,,,12
+26,PHYS 152B,PHYS,152B,24,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,MMW 11,MMW,11,,,,4,,,1
+36,GE 1,,,,,,4,,,1
+28,MMW 12,MMW,12,,,,6,,,2
+29,MMW 13,MMW,13,28,,,6,,,3
+30,MMW 14 / GE 1,MMW,14,28;29,,,4,,,4
+37,GE / DEI,,,,,,4,,,4
+38,MMW 14 / GE 2,MMW,14,28;29,,,4,,,5
+31,MMW 15,MMW,15,28;29,,,4,,,6
+39,GE 2,,,,,,4,,,6
+40,GE 3,,,,,,4,,,7
+41,GE 4,,,,,,4,,,8
+42,ELECTIVE 1,,,,,,3,,,8
+43,ELECTIVE 2,,,,,,4,,,9
+44,GE 5,,,,,,4,,,10
+45,GE 6,,,,,,4,,,12

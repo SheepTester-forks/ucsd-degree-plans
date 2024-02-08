@@ -1,0 +1,54 @@
+Curriculum,Cognitive Science with Specialization in Human Cognition
+Degree Plan,Cognitive Science with Specialization in Human Cognition/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 20C,MATH,20C,2,,,4,,,3
+4,COGS 1,COGS,1,,,,4,,,4
+12,4TH MATH (BS),,,,,,4,,,4
+5,COGS 14A,COGS,14A,,,,4,,,5
+6,CSE 7,CSE,7,,,,4,,,6
+7,COGS 14B (BS),COGS,14B,5,,,4,,,6
+13,COGS CORE 1,,,,,,4,,,7
+14,COGS CORE 2,,,,,,4,,,7
+8,COGS 109,COGS,109,7;6,,,4,,,7
+15,COGS CORE 3,,,,,,4,,,8
+16,COGS CORE 4,,,,,,4,,,8
+17,COGS CORE 5,,,,,,4,,,8
+18,COGS CORE 6,,,,,,4,,,9
+19,COGS CORE 7,,,,,,4,,,9
+20,COGS CORE 8,,,,,,4,,,9
+21,UD ELECTIVE 1,,,,,,4,,,10
+22,UD ELECTIVE - SPEC 1,,,,,,4,,,10
+23,UD ELECTIVE - SPEC 2,,,,,,4,,,11
+24,UD ELECTIVE 2,,,,,,4,,,11
+25,UD ELECTIVE - SPEC 3,,,,,,4,,,12
+26,UD ELECTIVE - SPEC 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,DOC 1 / DEI,DOC,1,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+28,ELECTIVE 1,,,,,,4,,,1
+10,DOC 2,DOC,2,9,,,6,,,2
+29,GE 2,,,,,,4,,,2
+11,DOC 3,DOC,3,,,,6,,,3
+30,GE 3,,,,,,4,,,3
+31,GE 4,,,,,,4,,,4
+32,ELECTIVE 2,,,,,,4,,,4
+33,GE 5,,,,,,4,,,5
+34,GE 6,,,,,,4,,,5
+35,ELECTIVE 3,,,,,,4,,,5
+36,GE 7,,,,,,4,,,6
+37,GE 8,,,,,,4,,,6
+38,ELECTIVE 4,,,,,,4,,,7
+39,ELECTIVE 5,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,9
+41,UD GE 1,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,10
+43,UD GE 2,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

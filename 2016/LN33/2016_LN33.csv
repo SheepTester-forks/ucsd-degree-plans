@@ -1,0 +1,26 @@
+Curriculum,Language Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+2,LANGUAGE REQUIREMENT 1,,,,,,5,,
+3,LANGUAGE REQUIREMENT 2,,,,,,5,,
+4,LANGUAGE REQUIREMENT 3,,,,,,5,,
+5,LANGUAGE REQUIREMENT 4,,,,,,5,,
+1,LIGN 101,LIGN,101,,,,4,,
+6,LANGUAGE REQUIREMENT 5,,,,,,4,,
+7,UD AREA STUDIES / UD LIGN ELECTIVE,,,,,,4,,
+8,LANGUAGE REQUIREMENT 6,,,,,,4,,
+9,LIGN CORE COURSE 1,,,,,,4,,
+10,LANGUAGE REQUIREMENT 7,,,,,,4,,
+11,LIGN CORE COURSE 2,,,,,,4,,
+12,UD LIT ELECTIVE 1,,,,,,4,,
+13,LIGN CORE COURSE 3,,,,,,4,,
+14,UD LIT ELECTIVE 2,,,,,,4,,
+15,"LIGN ""STRUCTURE OF""",,,,,,4,,
+16,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 1",,,,,,4,,
+17,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 2",,,,,,4,,
+18,LIGN ELECTIVE,,,,,,4,,
+19,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 3",,,,,,4,,

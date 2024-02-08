@@ -1,0 +1,55 @@
+Curriculum,Environmental Systems (Environmental Chemistry)
+Degree Plan,Environmental Systems (Environmental Chemistry)/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+5,MATH 20B,MATH,20B,2,,,4,,,2
+4,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+3,BILD 3,BILD,3,,,,4,,,2
+8,MATH 20C,MATH,20C,5,,,4,,,3
+7,CHEM 7L,CHEM,7L,4,,,4,,,3
+6,CHEM 6C,CHEM,6C,4,,,4,,,3
+10,MATH 20D (REQUIRED FOR PHYS 2C),MATH,20D,8,,,4,,,4
+11,PHYS 2A,PHYS,2A,2,,,4,,,4
+9,ESYS 101,ESYS,101,,,,4,,,4
+14,PHYS 2B,PHYS,2B,11;2;5,,,4,,,5
+13,ECON 1,ECON,1,,,,4,,,5
+12,ESYS 102,ESYS,102,2;1;11,,,4,,,5
+16,PHYS 2C,PHYS,2C,11;2;5;8,,,4,,,6
+15,CHEM 140A,CHEM,140A,4,,,4,,,6
+17,ESYS 103,ESYS,103,5;5;5,,,4,,,6
+19,ECON 131,ECON,131,,,,4,,,7
+20,POLI 160AA,POLI,160AA,,,,4,,,7
+18,CHEM 140B,CHEM,140B,,,,4,,,7
+21,CHEM 100A,CHEM,100A,6;7,,,4,,,8
+32,CHEM ELECTIVE 1,,,,,,5,,,8
+24,MATH 183 / 186,MATH,183,8,,,4,,,9
+22,CHEM 100B,CHEM,100B,21;16,,,2,,,9
+23,CHEM 100BL,CHEM,100BL,,,,2,,,9
+33,CHEMRES ELECTIVE 1,,,,,,4,,,10
+25,ESYS 190A 1,ESYS,190A,17,,,4,,,10
+34,ESYS 190A 2,ESYS,190A,17,,,4,,,11
+35,CHEMRES ELECTIVE 2,,,,,,4,,,11
+36,CHEM ELECTIVE 2,,,,,,4,,,12
+26,ESYS 190B,ESYS,190B,25,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,MMW 11,MMW,11,,,,4,,,1
+37,GE 1,,,,,,4,,,1
+28,MMW 12,MMW,12,,,,6,,,2
+29,MMW 13,MMW,13,,,,6,,,3
+30,MMW 14 / GE 1,MMW,14,28;29,,,4,,,4
+38,MMW 14 / GE 2,MMW,14,28;29,,,4,,,5
+31,MMW 15,MMW,15,28;29,,,4,,,6
+39,GE / DEI,,,,,,4,,,7
+40,GE 2,,,,,,4,,,8
+41,GE 3,,,,,,4,,,8
+42,GE 4,,,,,,4,,,9
+43,GE 5,,,,,,4,,,10
+44,GE 6,,,,,,4,,,11
+45,GE 7,,,,,,4,,,12

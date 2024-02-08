@@ -1,0 +1,54 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 4,USP,4,,,,4,,,4
+2,USP 1 (DEI),USP,1,,,,4,,,4
+3,USP 2,USP,2,,,,4,,,5
+4,USP 3,USP,3,,,,4,,,6
+5,POLI 30D / PSYC 60 / SOCI 60,POLI,30D,,,,4,,,6
+6,USP 124,USP,124,,,,4,,,7
+12,USP UPPER DIVISION ELECTIVE 1,,,,,,4,,,7
+13,USP RESEARCH METHODS COURSE,,,,,,4,,,8
+14,USP UPPER DIVISION ELECTIVE 2,,,,,,4,,,8
+15,USP TECHNICAL ELECTIVE COURSE,,,,,,4,,,9
+16,USP FOUNDATION COURSE,,,,,,4,,,9
+7,USP 186,USP,186,6,,,6,,,10
+17,USP UPPER DIVISION ELECTIVE 3,,,,,,4,,,10
+8,USP 187,USP,187,7,,,6,,,11
+18,USP UPPER DIVISION ELECTIVE 4,,,,,,4,,,11
+19,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,,12
+20,USP UPPER DIVISION ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,ALTERNATIVE 1,,,,,,4,,,1
+22,ALTERNATIVE 2,,,,,,4,,,1
+23,ELECTIVE 1,,,,,,4,,,1
+24,ELECTIVE 2,,,,,,4,,,1
+9,SYN 1,SYN,1,,,,4,,,2
+25,ALTERNATIVE 3,,,,,,4,,,2
+26,ELECTIVE 3,,,,,,4,,,2
+27,ELECTIVE 4,,,,,,4,,,2
+28,ALTERNATIVE 4,,,,,,4,,,3
+29,ALTERNATIVE 5,,,,,,4,,,3
+30,ELECTIVE 5,,,,,,4,,,3
+31,ELECTIVE 6,,,,,,4,,,3
+10,SYN 2,SYN,2,9,,,4,,,4
+32,ELECTIVE 7,,,,,,4,,,4
+33,ALTERNATIVE 6,,,,,,4,,,5
+34,ELECTIVE 8,,,,,,4,,,5
+35,ELECTIVE 9,,,,,,4,,,5
+36,ALTERNATIVE 7,,,,,,4,,,6
+37,ELECTIVE 10,,,,,,4,,,6
+38,ALTERNATIVE 8,,,,,,4,,,7
+39,ELECTIVE 11,,,,,,4,,,7
+40,ELECTIVE 12,,,,,,4,,,8
+41,ELECTIVE 13,,,,,,4,,,8
+11,SYN 100,SYN,100,9;10,,,4,,,9
+42,ELECTIVE 14,,,,,,4,,,10
+43,UD ELECTIVE,,,,,,4,,,11
+44,ELECTIVE 15,,,,,,4,,,12

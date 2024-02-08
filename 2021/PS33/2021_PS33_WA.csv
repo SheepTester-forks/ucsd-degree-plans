@@ -1,0 +1,55 @@
+Curriculum,Political Science/International Affairs
+Degree Plan,Political Science/International Affairs/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 11D,POLI,11D,,,,4,,,1
+2,POLI 12D,POLI,12D,,,,4,,,2
+3,POLI 5D,POLI,5D,,,,4,,,2
+4,POLI 30D,POLI,30D,,,,4,,,3
+9,UD POLI 1,,,,,,4,,,4
+10,UD POLI - AMERICAN POLITICS 1,,,,,,4,,,4
+11,UD POLI - INTERNATIONAL POLITICAL ECONOMY 1,,,,,,4,,,5
+12,UD POLI - INTERNATIONAL RELATIONS / COMPARATIVE POLITICS 1,,,,,,4,,,5
+13,UD POLI - AMERICAN POLITICS 2,,,,,,4,,,6
+14,UD POLI - INTERNATIONAL RELATIONS / COMPARATIVE POLITICS 2,,,,,,4,,,6
+15,GE / DEI,,,,,,4,,,6
+16,UD POLI 2,,,,,,4,,,7
+17,UD POLI - INTERNATIONAL POLITICAL ECONOMY 2,,,,,,4,,,7
+18,UD POLI 3,,,,,,4,,,8
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,WCWP 10A,WCWP,10A,,,,4,,,1
+19,GE 1,,,,,,4,,,1
+20,ELECTIVE 1,,,,,,4,,,1
+6,WCWP 10B,WCWP,10B,5,,,4,,,2
+21,GE 2,,,,,,4,,,2
+7,PHIL 27,PHIL,27,5;6,,,4,,,3
+22,GE 3,,,,,,4,,,3
+23,GE 4,,,,,,4,,,3
+8,PHIL 28,PHIL,28,7,,,4,,,4
+24,GE 5,,,,,,4,,,4
+25,GE 6,,,,,,4,,,5
+26,ELECTIVE 2,,,,,,4,,,5
+27,GE 7,,,,,,4,,,6
+28,GE 8,,,,,,4,,,7
+29,ELECTIVE 3,,,,,,4,,,7
+30,GE 9,,,,,,4,,,8
+31,GE 10,,,,,,4,,,8
+32,ELECTIVE 4,,,,,,4,,,8
+33,GE 11,,,,,,4,,,9
+34,UD ELECTIVE,,,,,,4,,,9
+35,ELECTIVE 5,,,,,,4,,,9
+36,GE 12,,,,,,4,,,9
+37,UD ELECTIVE / GRAD COURSE 1,,,,,,4,,,10
+38,UD ELECTIVE / GRAD COURSE 2,,,,,,4,,,10
+39,UD ELECTIVE / GRAD COURSE 3,,,,,,4,,,10
+40,UD ELECTIVE / GRAD COURSE 4,,,,,,4,,,11
+41,UD ELECTIVE / GRAD COURSE 5,,,,,,4,,,11
+42,UD ELECTIVE / GRAD COURSE 6,,,,,,4,,,11
+43,UD ELECTIVE / GRAD COURSE 7,,,,,,4,,,12
+44,UD ELECTIVE / GRAD COURSE 8,,,,,,4,,,12
+45,UD ELECTIVE / GRAD COURSE 9,,,,,,4,,,12

@@ -1,0 +1,38 @@
+Curriculum,Environmental Systems (Environmental Policy)
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,CHEM 6A,CHEM,6A,,,,4,,
+2,MATH 10A,MATH,10A,,,,4,,
+3,BILD 3,BILD,3,,,,4,,
+4,CHEM 6B,CHEM,6B,1;2,,,4,,
+5,MATH 10B,MATH,10B,2,,,4,,
+6,CHEM 6C,CHEM,6C,4,,,4,,
+7,CHEM 7L,CHEM,7L,4,,,4,,
+8,MATH 10C,MATH,10C,5,,,4,,
+9,ECON 1,ECON,1,,,,4,,
+10,ESYS 101,ESYS,101,,,,4,,
+11,PHYS 1A,PHYS,1A,2,,,3,,
+12,PHYS 1AL,PHYS,1AL,2,,,2,,
+13,PHYS 1BL,PHYS,1BL,5;11;12,,,2,,
+14,PHYS 1B,PHYS,1B,5;11;12,,,3,,
+15,ESYS 102,ESYS,102,2;1;11,,,4,,
+16,ESYS 103,ESYS,103,2;5;8,,,4,,
+17,PHYS 1C,PHYS,1C,8;14;13,,,3,,
+18,PHYS 1CL,PHYS,1CL,8;14;13,,,2,,
+24,ESYS ELECTIVE 1,,,,,,4,,
+19,POLI 160AA,POLI,160AA,,,,4,,
+20,ECON 131,ECON,131,,,,4,,
+21,MATH 183,MATH,183,,,,4,,
+25,ESYS ELECTIVE 2,,,,,,4,,
+26,ESYS ELECTIVE 3,,,,,,4,,
+27,ESYS ELECTIVE 4,,,,,,4,,
+22,ESYS 190A 1,ESYS,190A,16,,,4,,
+28,ESYS ELECTIVE 5,,,,,,4,,
+29,ESYS 190A 2,ESYS,190A,16,,,4,,
+30,ESYS ELECTIVE 6,,,,,,4,,
+23,ESYS 190B,ESYS,190B,22,,,4,,
+31,ESYS ELECTIVE 7,,,,,,4,,

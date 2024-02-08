@@ -1,0 +1,22 @@
+Curriculum,Jewish Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,JWSP 1,JWSP,1,,,,4,,
+2,JWSP 2,JWSP,2,,,,4,,
+3,JWSP 3,JWSP,3,,,,4,,
+4,JWSP 101,JWSP,101,3,,,4,,
+5,JWSP 102,JWSP,102,,,,4,,
+6,SOCI 188I,SOCI,188I,,,,4,,
+7,JWSP 103,JWSP,103,5,,,4,,
+8,LTRU 110C,LTRU,110C,,,,4,,
+9,HINE 100,HINE,100,,,,4,,
+10,ANAR 103,ANAR,103,,,,4,,
+11,HINE 115,HINE,115,,,,4,,
+12,HIEU 145,HIEU,145,,,,4,,
+13,HINE 104,HINE,104,,,,4,,
+14,LTWL 148,LTWL,148,,,,4,,
+15,ANAR 143,ANAR,143,,,,4,,

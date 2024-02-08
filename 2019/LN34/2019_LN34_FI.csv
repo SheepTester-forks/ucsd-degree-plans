@@ -1,0 +1,53 @@
+Curriculum,Linguistics (Specialization in Speech and Language Sciences)
+Degree Plan,Linguistics (Specialization in Speech and Language Sciences)/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+15,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+16,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+1,COGS 14B / PSYC 60 (STATS REQUIREMENT),COGS,14B,,,,4,,,3
+17,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+2,LIGN 101,LIGN,101,,,,4,,,4
+3,LIGN 112,LIGN,112,,,,4,,,5
+18,NEURO LING ELECTIVE,,,,,,4,,,6
+19,LANGUAGE DEVELOPMENT ELECTIVE,,,,,,4,,,7
+4,LIGN 110,LIGN,110,2,,,4,,,7
+5,LIGN 111,LIGN,111,4,,,4,,,8
+20,LING ELECTIVE 1,,,,,,4,,,8
+6,LIGN 120,LIGN,120,2,,,4,,,9
+21,LING ELECTIVE 2,,,,,,4,,,9
+22,LING ELECTIVE 3,,,,,,4,,,10
+7,LIGN 121,LIGN,121,2,,,4,,,11
+8,LIGN 130,LIGN,130,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,MMW 11,MMW,11,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,GE 2,,,,,,4,,,1
+10,MMW 12,MMW,12,,,,6,,,2
+25,GE 3,,,,,,4,,,2
+11,MMW 13,MMW,13,10,,,6,,,3
+12,MMW 14 / GE 1,MMW,14,10;11,,,4,,,4
+26,GE 4,,,,,,4,,,4
+27,MMW 14 / GE 2,MMW,14,10;11,,,4,,,5
+28,GE / DEI,,,,,,4,,,5
+29,GE 5,,,,,,4,,,5
+13,MMW 15,MMW,15,10;11,,,4,,,6
+30,GE 6,,,,,,4,,,6
+31,ELECTIVE 1,,,,,,4,,,6
+32,ELECTIVE 2,,,,,,4,,,7
+33,UD ELECTIVE,,,,,,4,,,7
+34,ELECTIVE 3,,,,,,4,,,8
+35,ELECTIVE 4,,,,,,4,,,8
+36,ELECTIVE 5,,,,,,4,,,9
+37,ELECTIVE 6,,,,,,4,,,9
+38,ELECTIVE 7,,,,,,4,,,10
+39,ELECTIVE 8,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,11
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,12
+43,ELECTIVE 12,,,,,,4,,,12

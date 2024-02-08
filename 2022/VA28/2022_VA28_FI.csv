@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Studio)
+Degree Plan,Visual Arts (Studio)/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0702
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,FOUNDATION ART MAKING 1,,,,,,4,,,1
+1,VIS 80,VIS,80,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 11,VIS,11,,,,4,,,2
+10,FOUNDATION HISTORY,,,,,,4,,,3
+11,FOUNDATION ART MAKING 2,,,,,,4,,,4
+12,INTERMEDIATE GROUP A 1,,,,,,4,,,5
+13,HISTORY & THEORY 1,,,,,,4,,,6
+14,INTERMEDIATE GROUP A 2,,,,,,4,,,6
+15,INTERMEDIATE GROUP A 3,,,,,,4,,,7
+16,HISTORY & THEORY 2,,,,,,4,,,7
+17,HISTORY & THEORY 3,,,,,,4,,,8
+18,INTERMEDIATE GROUP B 1,,,,,,4,,,8
+19,INTERMEDIATE GROUP B 2,,,,,,4,,,9
+20,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,9
+21,ADVANCED ART MAKING,,,,,,4,,,10
+22,ADVANCED INTERDISCIPLINARY 1,,,,,,4,,,11
+23,ADVANCED INTERDISCIPLINARY 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MMW 11,MMW,11,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+5,MMW 12,MMW,12,,,,6,,,2
+6,MMW 13,MMW,13,5,,,6,,,3
+25,GE 2,,,,,,4,,,3
+7,MMW 14 / GE 1,MMW,14,5;6,,,4,,,4
+26,GE 3,,,,,,4,,,4
+27,GE / DEI,,,,,,4,,,4
+28,MMW 14 / GE 2,MMW,14,5;6,,,4,,,5
+29,GE 4,,,,,,4,,,5
+30,GE 5,,,,,,4,,,5
+8,MMW 15,MMW,15,5;6,,,4,,,6
+31,GE 6,,,,,,4,,,6
+32,GE 7,,,,,,4,,,7
+33,ELECTIVE 1,,,,,,4,,,7
+34,GE 8,,,,,,4,,,8
+35,ELECTIVE 2,,,,,,4,,,8
+36,GE 9,,,,,,4,,,9
+37,ELECTIVE 3,,,,,,4,,,9
+38,UD ELECTIVE,,,,,,4,,,10
+39,ELECTIVE 4,,,,,,4,,,10
+40,ELECTIVE 5,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,11
+43,ELECTIVE 8,,,,,,4,,,12
+44,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Critical Gender Studies
+Degree Plan,Critical Gender Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CGS 2A,CGS,2A,,,,4,,,1
+2,CGS 2B,CGS,2B,,,,4,,,3
+5,CGS INTER COURSE 1,,,,,,4,,,6
+3,CGS 100A,CGS,100A,1,,,4,,,7
+6,CGS INTER COURSE 2,,,,,,4,,,7
+7,CGS INTER COURSE 3,,,,,,4,,,8
+8,CGS UD ELECTIVE 1,,,,,,4,,,8
+9,CGS UD ELECTIVE 2,,,,,,4,,,9
+4,CGS 100B,CGS,100B,1,,,4,,,9
+10,CGS UD ELECTIVE 3,,,,,,4,,,10
+11,CGS ADV COURSE 1,,,,,,4,,,10
+12,CGS UD ELECTIVE 4,,,,,,4,,,11
+13,CGS ADV COURSE 2,,,,,,4,,,11
+14,CGS ADV COURSE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,GE 1,,,,,,4,,,1
+16,GE / WRITING 1,,,,,,4,,,1
+17,ELECTIVE 1,,,,,,4,,,2
+18,GE 2,,,,,,4,,,2
+19,GE / WRITING 2,,,,,,4,,,2
+20,GE 3,,,,,,4,,,2
+21,GE 4,,,,,,4,,,3
+22,GE 5,,,,,,4,,,3
+23,ELECTIVE 2,,,,,,4,,,3
+24,ELECTIVE 3,,,,,,4,,,4
+25,ELECTIVE 4,,,,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,GE 7,,,,,,4,,,4
+28,ELECTIVE 5,,,,,,4,,,5
+29,GE 8,,,,,,4,,,5
+30,ELECTIVE 6,,,,,,4,,,5
+31,GE 9,,,,,,4,,,5
+32,ELECTIVE 7,,,,,,4,,,6
+33,ELECTIVE 8,,,,,,4,,,6
+34,ELECTIVE 9,,,,,,4,,,6
+35,ELECTIVE 10,,,,,,4,,,7
+36,ELECTIVE 11,,,,,,4,,,7
+37,ELECTIVE 12,,,,,,4,,,8
+38,MUIR UD ELECTIVE 1,,,,,,4,,,8
+39,MUIR UD ELECTIVE 2,,,,,,4,,,9
+40,ELECTIVE 13,,,,,,4,,,9
+41,MUIR UD ELECTIVE 3,,,,,,4,,,10
+42,ELECTIVE 14,,,,,,4,,,10
+43,ELECTIVE 15,,,,,,4,,,11
+44,ELECTIVE 16,,,,,,4,,,12
+45,ELECTIVE 17,,,,,,4,,,12

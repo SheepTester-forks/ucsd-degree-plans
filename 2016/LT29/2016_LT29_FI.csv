@@ -1,0 +1,56 @@
+Curriculum,French Literature
+Degree Plan,French Literature/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,LIFR 1A,LIFR,1A,,,,2.5,,,1
+1,LIFR 1AX,LIFR,1AX,,,,2.5,,,1
+3,LIFR 1BX,LIFR,1BX,2;1,,,2.5,,,2
+4,LIFR 1B,LIFR,1B,2;1,,,2.5,,,2
+6,LIFR 1C,LIFR,1C,4;3,,,2.5,,,3
+5,LIFR 1CX,LIFR,1CX,4;3,,,2.5,,,3
+7,LTFR 2A,LTFR,2A,6;5,,,5,,,4
+8,LTFR 2B,LTFR,2B,7,,,5,,,5
+9,LTFR 2C,LTFR,2C,8,,,4,,,6
+10,LTFR 50,LTFR,50,9,,,4,,,7
+18,UD LTEN 1,,,,,,4,,,7
+11,LTFR 115,LTFR,115,10,,,4,,,8
+19,UD LTEN 2,,,,,,4,,,8
+12,LTFR 116,LTFR,116,10,,,4,,,9
+20,UD LTFR 1,,,,,,4,,,9
+21,UD LTEN 3,,,,,,4,,,9
+22,UD LTFR 2,,,,,,4,,,10
+23,UD LTFR 3,,,,,,4,,,10
+24,UD LTFR 4,,,,,,4,,,11
+25,UD LTFR 5,,,,,,4,,,11
+26,UD LTFR 6,,,,,,4,,,12
+27,UD LTFR 7,,,,,,4,,,12
+28,ELECTIVE 1,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,MMW 11,MMW,11,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+14,MMW 12,MMW,12,,,,6,,,2
+30,GE 2,,,,,,4,,,2
+15,MMW 13,MMW,13,,,,6,,,3
+31,GE 3,,,,,,4,,,3
+16,MMW 14 / GE 1,MMW,14,14;15,,,4,,,4
+32,GE / DEI,,,,,,4,,,4
+33,ELECTIVE 2,,,,,,4,,,4
+34,MMW 14 / GE 2,MMW,14,14;15,,,4,,,5
+35,GE 4,,,,,,4,,,5
+36,ELECTIVE 3,,,,,,4,,,5
+17,MMW 15,MMW,15,14;15,,,4,,,6
+37,GE 5,,,,,,4,,,6
+38,GE 6,,,,,,4,,,6
+39,ELECTIVE 4,,,,,,4,,,7
+40,GE 7,,,,,,4,,,7
+41,ELECTIVE 5,,,,,,4,,,8
+42,ELECTIVE 6,,,,,,4,,,8
+43,ELECTIVE 7,,,,,,4,,,9
+44,ELECTIVE 8,,,,,,4,,,10
+45,ELECTIVE 9,,,,,,3,,,10
+46,ELECTIVE 10,,,,,,4,,,11

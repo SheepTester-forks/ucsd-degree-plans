@@ -1,0 +1,55 @@
+Curriculum,Jewish Studies
+Degree Plan,Jewish Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JWSP 1,JWSP,1,,,,4,,,1
+2,JWSP 2,JWSP,2,1,,,4,,,2
+3,JWSP 3,JWSP,3,2,,,4,,,3
+4,"JWSP 101 / JWSP 104 / LIAB 1A / AX, LIFR 1A / AX, LIGM 1A / AX, LIIT 1A / AX, LTRU 1A",JWSP,101,3,,,4,,,4
+5,"JWSP 102 / LIAB 1B / BX, LIFR 1B / BX, LIGM 1B / BX, LIIT 1B / BX, LTRU 1B",JWSP,102,4,,,4,,,5
+11,UD SURVEY COURSE: PRE - 1648,,,,,,4,,,5
+6,"JWSP 103 / LIAB 1C / CX, LIFR 1B / BX, LIGM 1B / BX, LIIT 1B / BX, LTRU 1C",JWSP,103,5,,,4,,,6
+12,UD SURVEY COURSE: 1648 TO PRESENT,,,,,,4,,,6
+13,GE / DEI,,,,,,4,,,6
+14,UD SURVEY COURSE: ELECTIVE,,,,,,4,,,7
+15,UD JWSP ELECTIVE 1,,,,,,4,,,7
+16,UD JWSP ELECTIVE 2,,,,,,4,,,8
+17,UD JWSP ELECTIVE 3,,,,,,4,,,9
+18,UD JWSP ELECTIVE 4,,,,,,4,,,10
+19,UD JWSP ELECTIVE 5,,,,,,4,,,11
+20,UD JWSP ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,WCWP 10A,WCWP,10A,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,ELECTIVE 1,,,,,,4,,,1
+8,WCWP 10B,WCWP,10B,7,,,4,,,2
+23,GE 2,,,,,,4,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+9,PHIL / POLI 27,POLI,27,7;8,,,4,,,3
+25,GE 3,,,,,,4,,,3
+26,ELECTIVE 3,,,,,,4,,,3
+27,ELECTIVE 4,,,,,,4,,,4
+10,PHIL / POLI 28,POLI,28,9,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,GE 5,,,,,,4,,,5
+30,GE 6,,,,,,4,,,5
+31,GE 7,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,7
+33,GE 8,,,,,,4,,,7
+34,GE 9,,,,,,4,,,8
+35,ELECTIVE 6,,,,,,4,,,8
+36,ELECTIVE 7,,,,,,4,,,8
+37,ELECTIVE 8,,,,,,4,,,9
+38,GE 10,,,,,,4,,,9
+39,ELECTIVE 9,,,,,,4,,,9
+40,GE 11,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,10
+42,GE 12,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12
+45,GE 13,,,,,,4,,,12

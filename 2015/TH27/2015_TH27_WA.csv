@@ -1,0 +1,55 @@
+Curriculum,Dance
+Degree Plan,Dance/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,TDMV XXX 1,,,,,,4,,,1
+1,TDTR 10,TDTR,10,,,,4,,,1
+5,TDMV XXX 2,,,,,,4,,,2
+6,TDMV XXX 3,,,,,,4,,,2
+2,TDPR 6,TDPR,6,,,,4,,,3
+7,TDMV XXX 4,,,,,,4,,,3
+8,TDMV XXX 5,,,,,,4,,,4
+3,TDCH 40,TDCH,40,1,,,4,,,4
+9,TDTR XXX,,,,,,4,,,5
+10,TDCH XXX 1,,,,,,4,,,5
+11,TDMV XXX 6,,,,,,4,,,6
+12,TDHD XXX 1,,,1,,,4,,,6
+13,TDMV XXX 7,,,,,,4,,,7
+14,TDHD XXX 2,,,1,,,4,,,7
+15,TDDE XXX,,,,,,4,,,8
+16,TDMV XXX 8,,,,,,4,,,8
+17,TDHD XXX 3,,,1,,,4,,,8
+18,TDMV XXX 9,,,,,,4,,,9
+19,TDCH XXX 2,,,,,,4,,,9
+20,UD DANCE ELECTIVE 1,,,,,,4,,,10
+21,TDMV XXX 10,,,,,,4,,,10
+22,TDMV XXX 11,,,,,,4,,,11
+23,TDHD XXX 4,,,1,,,4,,,11
+24,UD DANCE ELECTIVE 2,,,,,,4,,,12
+25,TDMV XXX 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,GE 1,,,,,,4,,,1
+27,GE 2,,,,,,4,,,1
+28,GE 3,,,,,,4,,,2
+29,GE 4,,,,,,4,,,2
+30,GE 5,,,,,,4,,,3
+31,GE 6,,,,,,4,,,3
+32,GE 7,,,,,,4,,,4
+33,GE 8,,,,,,4,,,4
+34,GE 9,,,,,,4,,,5
+35,GE 10,,,,,,4,,,5
+36,GE / DEI,,,,,,4,,,6
+37,GE 11,,,,,,4,,,6
+38,GE 12,,,,,,4,,,7
+39,GE 13,,,,,,4,,,7
+40,GE 14,,,,,,4,,,8
+41,GE 15,,,,,,4,,,9
+42,GE 16,,,,,,4,,,9
+43,GE 17,,,,,,4,,,10
+44,ELECTIVE 1,,,,,,4,,,11
+45,ELECTIVE 2,,,,,,4,,,12

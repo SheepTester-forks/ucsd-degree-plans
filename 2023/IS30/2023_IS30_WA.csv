@@ -1,0 +1,51 @@
+Curriculum,International Studies-Political Science
+Degree Plan,International Studies-Political Science/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LANGUAGE 1,,,,,,5,,,1
+8,LANGUAGE 2,,,,,,5,,,2
+9,LANGUAGE 3,,,,,,5,,,3
+10,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,3,,,4,,,5
+11,INTL 101 / 102 2,INTL,101,3,,,4,,,6
+12,GE / DEI,,,,,,4,,,6
+13,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+14,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+15,DF2 - POLI SCI,,,,,,4,,,8
+16,DF1 - POLI SCI,,,,,,4,,,8
+17,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+18,DF4 - POLI SCI (RR2),,,,,,4,,,9
+19,DF3 - POLI SCI,,,,,,4,,,9
+20,DF5 - POLI SCI (RR3),,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,10
+21,DF6 - POLI SCI,,,,,,4,,,11
+22,DF7 - POLI SCI,,,,,,4,,,11
+23,IE3 - INTERDISC ELECTIVE,,,,,,4,,,12
+24,DF8 - POLI SCI,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+4,WCWP 10B,WCWP,10B,3,,,4,,,2
+26,GE 2,,,,,,4,,,2
+5,PHIL 27 / POLI 27,PHIL,27,3;4,,,4,,,3
+27,GE 3,,,,,,4,,,3
+28,GE 4,,,,,,4,,,3
+6,PHIL 28 / POLI 28,PHIL,28,5,,,4,,,4
+29,GE 5,,,,,,4,,,4
+30,GE 6,,,,,,4,,,4
+31,GE 7,,,,,,4,,,5
+32,GE 8,,,,,,4,,,5
+33,GE 9,,,,,,4,,,5
+34,GE 10,,,,,,4,,,6
+35,GE 11,,,,,,4,,,6
+36,GE 12,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,9
+38,ELECTIVE 2,,,,,,4,,,10
+39,GE 13,,,,,,4,,,10
+40,ELECTIVE 3,,,,,,4,,,11
+41,ELECTIVE 4,,,,,,4,,,12

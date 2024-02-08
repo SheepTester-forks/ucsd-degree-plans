@@ -1,0 +1,54 @@
+Curriculum,Linguistics(Specialization in Cognition & Language)
+Degree Plan,Linguistics(Specialization in Cognition & Language)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+8,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+9,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+10,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+1,LIGN 101,LIGN,101,,,,4,,,4
+11,LIGN ELECTIVE FROM LIST 1,,,,,,4,,,5
+12,LIGN ELECTIVE FROM LIST 2,,,,,,4,,,6
+13,GE / DEI,,,,,,4,,,6
+2,LIGN 110,LIGN,110,1,,,4,,,7
+14,LIGN ELECTIVE FROM LIST 3,,,,,,4,,,7
+3,LIGN 111,LIGN,111,2,,,4,,,8
+15,LIGN ELECTIVE 1,,,,,,4,,,8
+16,LIGN ELECTIVE FROM LIST 4,,,,,,4,,,9
+4,LIGN 120,LIGN,120,,,,4,,,9
+17,LIGN ELECTIVE 2,,,,,,4,,,10
+5,LIGN 121,LIGN,121,,,,4,,,11
+18,ELECTIVE 1,,,,,,4,,,11
+6,LIGN 130,LIGN,130,1,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+21,ELECTIVE 2,,,,,,4,,,1
+22,GE 3,,,,,,4,,,2
+23,GE 4,,,,,,4,,,2
+24,ELECTIVE 3,,,,,,4,,,2
+25,GE 5,,,,,,4,,,3
+26,GE 6,,,,,,4,,,3
+27,ELECTIVE 4,,,,,,4,,,3
+28,GE 7,,,,,,4,,,4
+29,GE 8,,,,,,4,,,4
+30,GE 9,,,,,,4,,,5
+31,GE 10,,,,,,4,,,5
+32,ELECTIVE 5,,,,,,4,,,5
+33,GE 11,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,6
+35,GE 12,,,,,,4,,,7
+36,GE 13,,,,,,4,,,7
+37,GE 14,,,,,,4,,,8
+38,GE 15,,,,,,4,,,8
+39,GE 16,,,,,,4,,,9
+40,GE 17,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,10
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,12
+44,ELECTIVE 10,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Media)
+Degree Plan,Visual Arts (Media)/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,"VIS 1, 2, / 3",VIS,1,,,,4,,,1
+2,VIS 70N,VIS,70N,,,,6,,,1
+3,VIS 84,VIS,84,,,,4,,,1
+4,VIS 60,VIS,60,,,,4,,,2
+5,VIS 40,VIS,40,,,,4,,,3
+6,VIS 174,VIS,174,2,,,4,,,4
+7,VIS 111,VIS,111,,,,4,,,5
+13,MEDIA EMPHASIS 1,,,,,,4,,,6
+8,VIS 22,VIS,22,,,,4,,,6
+14,MEDIA EMPHASIS 2,,,,,,4,,,7
+15,MEDIA HIST / CRIT / THEORY 1,,,,,,4,,,7
+16,MEDIA EMPHASIS 3,,,,,,4,,,8
+17,OUT OF EMPHASIS,,,,,,4,,,8
+18,MEDIA HIST / CRIT / THEORY 2,,,,,,4,,,9
+19,MEDIA ADVANCED LEVEL 1,,,,,,4,,,9
+20,MEDIA HIST / CRIT / THEORY 3,,,,,,4,,,10
+21,MEDIA ADVANCED LEVEL 2,,,,,,4,,,10
+22,MEDIA ADVANCED ELECTIVE 1,,,,,,4,,,11
+23,MEDIA ADVANCED LEVEL 3,,,,,,4,,,11
+24,MEDIA ADVANCED ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,CAT 1,CAT,1,,,,4,,,1
+10,CAT 2,CAT,2,9,,,6,,,2
+25,ELECTIVE 1,,,,,,4,,,2
+11,CAT 3,CAT,3,10,,,6,,,3
+26,GE 1,,,,,,4,,,3
+27,GE 2,,,,,,4,,,4
+28,GE 3,,,,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,GE 5,,,,,,4,,,5
+31,GE 6,,,,,,4,,,5
+32,GE 7,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,6
+34,ELECTIVE 3,,,,,,4,,,7
+35,ELECTIVE 4,,,,,,4,,,7
+36,ELECTIVE 5,,,,,,4,,,8
+37,ELECTIVE 6,,,,,,4,,,8
+12,CAT 125,CAT,125,,,,4,,,9
+38,ELECTIVE 7,,,,,,4,,,9
+39,ELECTIVE 8,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,2,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

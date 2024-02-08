@@ -1,0 +1,53 @@
+Curriculum,Mathematics/Secondary Education
+Degree Plan,Mathematics/Secondary Education/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,13.1311
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20D / MATH 109,MATH,20D,4,,,4,,,4
+6,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+16,UD MAJOR 1,,,,,,4,,,6
+7,MATH 20E,MATH,20E,3;4,,,4,,,6
+17,UD MAJOR 2,,,,,,4,,,7
+18,UD MAJOR 3,,,,,,4,,,7
+19,UD MAJOR 4,,,,,,4,,,8
+20,UD MAJOR 5,,,,,,4,,,8
+21,UD MAJOR 6,,,,,,4,,,9
+22,UD MAJOR 7,,,,,,4,,,9
+23,UD MAJOR 8,,,,,,4,,,10
+8,EDS 129A,EDS,129A,,,,4,,,10
+24,UD MAJOR 9,,,,,,4,,,11
+9,EDS 129B,EDS,129B,8,,,4,,,11
+10,EDS 129C,EDS,129C,9,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,DEI / SOCIAL SCIENCE,,,,,,4,,,1
+26,LANGUAGE 1,,,,,,5,,,1
+27,LANGUAGE 2,,,,,,5,,,2
+11,HUM 1,HUM,1,,,,6,,,2
+28,LANGUAGE 3,,,,,,5,,,3
+12,HUM 2,HUM,2,,,,6,,,3
+29,LANGUAGE 4,,,,,,5,,,4
+13,HUM 3,HUM,3,11,,,4,,,4
+30,SOCIAL SCIENCE,,,,,,4,,,4
+31,FINE ARTS,,,,,,4,,,5
+14,HUM 4,HUM,4,,,,4,,,5
+32,PHYSICS GE,,,,,,4,,,5
+15,HUM 5,HUM,5,,,,4,,,6
+33,BIOLOGY GE,,,,,,4,,,6
+34,CHEMISTRY GE,,,,,,4,,,7
+35,ELECTIVE 1,,,,,,4,,,7
+36,NATURAL SCIENCE GE 1,,,,,,4,,,8
+37,ELECTIVE 2,,,,,,4,,,8
+38,NATURAL SCIENCE GE 2,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,4,,,9
+40,UD ELECTIVE 1,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 4,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

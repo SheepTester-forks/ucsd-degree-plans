@@ -1,0 +1,62 @@
+Curriculum,Bioengineering: BioSystems
+Degree Plan,Bioengineering: BioSystems/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.4501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BENG 2,BENG,2,,,,2,,,1
+6,PHYS 2A,PHYS,2A,1,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+7,BENG 1,BENG,1,,,,2,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+11,ECE 35,ECE,35,1;4;6,,,4,,,3
+8,MATH 20C / 31BH,MATH,20C,4,,,4,,,3
+9,PHYS 2B,PHYS,2B,6;1;4,,,4,,,3
+10,PHYS 2BL,PHYS,2BL,6,,,2,,,3
+12,PHYS 2CL,PHYS,2CL,6;9,,,2,,,4
+15,ECE 45,ECE,45,11,,,4,,,4
+13,MATH 20D,MATH,20D,8,,,4,,,4
+14,PHYS 2C,PHYS,2C,6;1;4;8,,,4,,,4
+16,MATH 18 / 31AH,MATH,18,,,,4,,,5
+17,BENG 120,BENG,120,2;5,,,4,,,5
+18,MATH 20E / 31CH,MATH,20E,16;8,,,4,,,6
+19,BENG 100,BENG,100,7;8;13;16;6;9;14,,,4,,,6
+20,BENG 102,BENG,102,17,,,4,,,6
+23,BENG 141,BENG,141,19,,,4,,,7
+22,BENG 134,BENG,134,13;16;19,,,4,,,7
+21,BENG 110,BENG,110,14;13;18;16,,,4,,,7
+26,BENG 152,BENG,152,20,,,4,,,8
+24,BENG 130,BENG,130,5;1;4;6;9;13;14,,,4,,,8
+27,BENG 186B,BENG,186B,11;15,,,4,,,8
+25,BENG 140A,BENG,140A,2;5;6;9;14;20,,,4,,,8
+30,BENG 187A,BENG,187A,26,,,1,,,9
+28,BENG 133,BENG,133,13,,,4,,,9
+29,BENG 140B,BENG,140B,25,,,4,,,9
+32,BENG 135,BENG,135,15;28,,,4,,,10
+38,BENG DE COURSE (ASSIGNED) 1,,,,,,3,,,10
+31,BENG 122A,BENG,122A,22,,,4,,,10
+33,BENG 187B,BENG,187B,30,,,1,,,10
+34,BENG 187C,BENG,187C,33,,,1,,,11
+39,BENG DE COURSE (ASSIGNED) 2,,,,,,3,,,11
+40,TECHNICAL ELECTIVE 1,,,,,,4,,,11
+36,BENG 187D,BENG,187D,34,,,1,,,12
+35,BENG 125,BENG,125,31,,,4,,,12
+37,BENG 189,BENG,189,28;22;32;25;29,,,4,,,12
+41,TECHNICAL ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+42,GE / WRITING 1,,,,,,4,,,1
+43,GE / WRITING 2,,,,,,4,,,2
+44,GE 1,,,,,,4,,,3
+45,GE 2,,,,,,4,,,4
+46,GE 3,,,,,,4,,,5
+47,GE 4,,,,,,4,,,5
+48,GE 5,,,,,,4,,,6
+49,GE 6,,,,,,4,,,7
+50,DEI / GE,,,,,,4,,,9
+51,GE 7,,,,,,4,,,9
+52,GE 8,,,,,,4,,,11

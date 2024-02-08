@@ -1,0 +1,57 @@
+Curriculum,Computer Engineering
+Degree Plan,Computer Engineering/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CSE 11,CSE,11,,,,4,,,1
+3,MATH 18,MATH,18,,,,4,,,2
+4,CSE 12,CSE,12,2,,,4,,,2
+5,CSE 15L,CSE,15L,2,,,2,,,2
+6,MATH 20B,MATH,20B,1,,,4,,,3
+7,PHYS 2A,PHYS,2A,1,,,4,,,3
+8,CSE 20,CSE,20,2,,,4,,,3
+9,CSE 30,CSE,30,4;5,,,4,,,3
+10,MATH 20C,MATH,20C,6,,,4,,,4
+11,PHYS 2B,PHYS,2B,7;6,,,4,,,4
+12,CSE 21,CSE,21,8,,,4,,,4
+13,ECE 35,ECE,35,3;1;6;7,,,4,,,4
+14,MATH 20D,MATH,20D,10,,,4,,,5
+15,PHYS 2C,PHYS,2C,7;10,,,4,,,5
+16,ECE 45,ECE,45,13,,,4,,,5
+17,CSE 100,CSE,100,12;4;5;9,,,4,,,5
+18,ECE 65,ECE,65,13,,,4,,,6
+19,ECE 109,ECE,109,1;6;10;14;3,,,4,,,6
+20,CSE 110,CSE,110,17,,,4,,,6
+21,CSE 101,CSE,101,17,,,4,,,7
+22,CSE 140,CSE,140,8;9,,,4,,,7
+23,CSE 140L,CSE,140L,8;9,,,2,,,7
+24,ECE 101,ECE,101,16,,,4,,,8
+25,CSE 141,CSE,141,9;22;23,,,4,,,8
+26,CSE 141L,CSE,141L,9;22;23,,,2,,,8
+27,ECE 111,ECE,111,22,,,4,,,9
+33,CSE / ECE ELECTIVE 1,,,,,,4,,,9
+28,ECE 108 (REPLACE WITH A CSE / ECE ELECTIVE),ECE,108,22;9;16;18,,,4,,,9
+29,CSE 120,CSE,120,9;21;20,,,4,,,10
+34,CSE / ECE ELECTIVE 2,,,,,,4,,,10
+35,CSE / ECE ELECTIVE 3,,,,,,4,,,11
+36,CSE / ECE ELECTIVE 4,,,,,,4,,,11
+37,CSE / ECE ELECTIVE 5,,,,,,4,,,12
+38,CSE TECHNICAL ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,DOC 1 / DEI,DOC,1,,,,4,,,1
+39,GE 1,,,,,,4,,,1
+31,DOC 2,DOC,2,30,,,6,,,2
+32,DOC 3,DOC,3,,,,6,,,3
+40,GE 2,,,,,,4,,,6
+41,GE 3,,,,,,4,,,7
+42,GE 4,,,,,,4,,,8
+43,GE 5,,,,,,4,,,9
+44,GE 6,,,,,,4,,,10
+45,GE 7,,,,,,4,,,10
+46,UD GE 1,,,,,,4,,,11
+47,UD GE 2,,,,,,4,,,12

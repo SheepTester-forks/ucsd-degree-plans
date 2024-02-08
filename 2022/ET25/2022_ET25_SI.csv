@@ -1,0 +1,54 @@
+Curriculum,Ethnic Studies
+Degree Plan,Ethnic Studies/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ETHN 1 / DEI,ETHN,1,,,,4,,,1
+2,ETHN 2,ETHN,2,,,,4,,,2
+10,ETHN UD 1,,,,,,4,,,3
+11,ETHN UD 2,,,,,,4,,,4
+12,ETHN UD 3,,,,,,4,,,5
+13,ETHN UD 4,,,,,,4,,,6
+14,ETHN UD 5,,,,,,4,,,7
+15,ETHN UD 6,,,,,,4,,,7
+16,ETHN UD 7,,,,,,4,,,8
+17,ETHN UD 8,,,,,,4,,,9
+18,ETHN UD 9,,,,,,4,,,10
+3,ETHN 100A,ETHN,100A,1,,,4,,,10
+19,ETHN UD 10,,,,,,4,,,11
+4,ETHN 100B,ETHN,100B,3,,,4,,,11
+5,ETHN 100C,ETHN,100C,3;4,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,CAT 1,CAT,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+7,CAT 2,CAT,2,6,,,6,,,2
+22,GE 3,,,,,,4,,,2
+8,CAT 3,CAT,3,7,,,6,,,3
+23,GE 4,,,,,,4,,,3
+24,GE 5,,,,,,4,,,4
+25,GE 6,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,GE 7,,,,,,4,,,5
+28,GE 8,,,,,,4,,,5
+29,ELECTIVE 2,,,,,,4,,,5
+30,GE 9,,,,,,4,,,6
+31,ELECTIVE 3,,,,,,4,,,6
+32,ELECTIVE 4,,,,,,4,,,6
+33,UD ELECTIVE,,,,,,4,,,7
+34,ELECTIVE 5,,,,,,4,,,7
+35,GE 10,,,,,,4,,,8
+36,ELECTIVE 6,,,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+38,ELECTIVE 8,,,,,,4,,,9
+39,ELECTIVE 9,,,,,,4,,,9
+9,CAT 125,CAT,125,,,,4,,,10
+40,ELECTIVE 10,,,,,,4,,,10
+41,ELECTIVE 11,,,,,,4,,,11
+42,ELECTIVE 12,,,,,,4,,,11
+43,ELECTIVE 13,,,,,,4,,,12
+44,ELECTIVE 14,,,,,,4,,,12

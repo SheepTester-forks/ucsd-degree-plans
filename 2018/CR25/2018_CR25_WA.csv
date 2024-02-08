@@ -1,0 +1,55 @@
+Curriculum,Critical Gender Studies
+Degree Plan,Critical Gender Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CGS 2A,CGS,2A,,,,4,,,1
+2,CGS 2B,CGS,2B,,,,4,,,3
+5,CGS INTER COURSE 1,,,,,,4,,,6
+3,CGS 100A,CGS,100A,1,,,4,,,7
+6,CGS INTER COURSE 2,,,,,,4,,,7
+7,CGS INTER COURSE 3,,,,,,4,,,8
+8,CGS UD ELECTIVE 1,,,,,,4,,,8
+9,CGS UD ELECTIVE 2,,,,,,4,,,9
+4,CGS 100B,CGS,100B,1,,,4,,,9
+10,CGS UD ELECTIVE 3,,,,,,4,,,10
+11,CGS ADV COURSE 1,,,,,,4,,,10
+12,CGS UD ELECTIVE 4,,,,,,4,,,11
+13,CGS ADV COURSE 2,,,,,,4,,,11
+14,CGS ADV COURSE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,GE 1,,,,,,4,,,1
+16,GE 2,,,,,,4,,,1
+17,ELECTIVE 1,,,,,,4,,,1
+18,GE 3,,,,,,4,,,2
+19,GE 4,,,,,,4,,,2
+20,ELECTIVE 2,,,,,,4,,,2
+21,ELECTIVE 3,,,,,,4,,,2
+22,GE 5,,,,,,4,,,3
+23,GE 6,,,,,,4,,,3
+24,ELECTIVE 4,,,,,,4,,,3
+25,GE 7,,,,,,4,,,4
+26,GE 8,,,,,,4,,,4
+27,ELECTIVE 5,,,,,,4,,,4
+28,ELECTIVE 6,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,GE 10,,,,,,4,,,5
+31,ELECTIVE 7,,,,,,4,,,5
+32,ELECTIVE 8,,,,,,4,,,5
+33,GE 11,,,,,,4,,,6
+34,GE / DEI,,,,,,4,,,6
+35,ELECTIVE 9,,,,,,4,,,6
+36,GE 12,,,,,,4,,,7
+37,GE 13,,,,,,4,,,7
+38,GE 14,,,,,,4,,,8
+39,GE 15,,,,,,4,,,8
+40,GE 16,,,,,,4,,,9
+41,ELECTIVE 10,,,,,,4,,,9
+42,GE 17,,,,,,4,,,10
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12
+45,ELECTIVE 13,,,,,,4,,,12

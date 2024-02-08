@@ -1,0 +1,55 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 4,MUS,4,,,,4,,,1
+18,FOUNDATION ART MAKING,,,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 41,VIS,41,,,,4,,,2
+4,VIS 10,VIS,10,,,,4,,,3
+19,HISTORY & THEORY,,,,,,4,,,4
+5,CSE 11,CSE,11,,,,4,,,4
+6,MATH 15A,MATH,15A,5,,,4,,,5
+7,MUS 171,MUS,171,,,,4,,,5
+8,VIS 159,VIS,159,,,,4,,,6
+9,VIS 70N,VIS,70N,,,,6,,,6
+20,GE / DEI,,,,,,4,,,6
+10,VIS 142,VIS,142,,,,4,,,7
+21,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,7
+22,INTERMEDIATE ART MAKING 1,,,,,,4,,,8
+11,VIS 145A,VIS,145A,10,,,4,,,8
+23,INTERMEDIATE ART MAKING 2,,,,,,4,,,9
+24,ADVANCED ART MAKING,,,,,,4,,,9
+25,ADVANCED INTERDISCIPLINARY,,,,,,4,,,10
+12,VIS 160A,VIS,160A,11,,,4,,,11
+13,VIS 160B,VIS,160B,12,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,WCWP 10A,WCWP,10A,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+15,WCWP 10B,WCWP,10B,14,,,4,,,2
+27,GE 2,,,,,,4,,,2
+16,PHIL / POLI 27,POLI,27,14;15,,,4,,,3
+28,GE 3,,,,,,4,,,3
+29,ELECTIVE 1,,,,,,4,,,3
+17,PHIL / POLI 28,POLI,28,16,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,GE 5,,,,,,4,,,5
+32,GE 6,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,6
+34,GE 7,,,,,,4,,,7
+35,GE 8,,,,,,4,,,7
+36,GE 9,,,,,,4,,,8
+37,GE 10,,,,,,4,,,8
+38,GE 11,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,2,,,9
+40,GE 12,,,,,,4,,,10
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12
+45,ELECTIVE 8,,,,,,4,,,12

@@ -1,0 +1,28 @@
+Curriculum,Mathematics/Applied Science
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,MATH 20B,MATH,20B,1,,,4,,
+3,MATH 18,MATH,18,,,,4,,
+4,MATH 20C,MATH,20C,2,,,4,,
+5,MATH 20D / MATH 109,MATH,20D,4,,,4,,
+6,CSE 11,CSE,11,,,,4,,
+7,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,
+9,UD MAJOR 1,,,,,,4,,
+8,MATH 20E,MATH,20E,3;4,,,4,,
+10,UD MAJOR 2,,,,,,4,,
+11,UD MAJOR 3,,,,,,4,,
+12,UD MAJOR 4,,,,,,4,,
+13,UD MAJOR 5,,,,,,4,,
+14,UD MAJOR 6,,,,,,4,,
+15,UD MAJOR 7,,,,,,4,,
+16,UD MAJOR 8,,,,,,4,,
+17,UD MAJOR 9,,,,,,4,,
+18,UD MAJOR 10,,,,,,4,,
+19,UD MAJOR 11,,,,,,4,,
+20,UD MAJOR 12,,,,,,4,,
+21,UD MAJOR 13,,,,,,4,,

@@ -1,0 +1,55 @@
+Curriculum,Cognitive Science with Specialization in Neuroscience
+Degree Plan,Cognitive Science with Specialization in Neuroscience/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+1,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+4,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+3,COGS 1,COGS,1,,,,4,,,2
+6,MATH 10C IF CHOOSING MATH 10 SERIES,MATH,10C,4,,,4,,,3
+5,COGS 13,COGS,13,,,,4,,,3
+8,MATH 18,MATH,18,,,,4,,,4
+7,COGS 17,COGS,17,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+11,COGS 14B,COGS,14B,9,,,4,,,6
+10,COGS 18 / CSE (6R / 8A / 11) / BILD 62,COGS,18,,,,4,,,6
+12,COGS 101A / 101B / 101C 1,COGS,101A,3,,,4,,,7
+13,COGS 107A,COGS,107A,7,,,4,,,7
+19,COGS 101A / 101B / 101C 2,COGS,101A,3,,,4,,,8
+14,COGS 107B,COGS,107B,13,,,4,,,8
+15,COGS 100,COGS,100,1,,,4,,,9
+16,COGS 108,COGS,108,10,,,4,,,9
+20,COGS UD ELECTIVE 1,,,,,,4,,,10
+21,COGS UD ELECTIVE 2,,,,,,4,,,10
+22,COGS UD ELECTIVE 3,,,,,,4,,,11
+23,COGS UD ELECTIVE 4,,,,,,4,,,11
+24,COGS UD ELECTIVE 5,,,,,,4,,,12
+25,COGS UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,MCWP 40,MCWP,40,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+18,MCWP 50,MCWP,50,17,,,4,,,2
+27,GE 2,,,,,,4,,,2
+28,GE 3,,,,,,4,,,3
+29,GE 4,,,,,,4,,,3
+30,GE 5,,,,,,4,,,4
+31,GE 6,,,,,,4,,,4
+32,DEI,,,,,,4,,,5
+33,GE 7,,,,,,4,,,5
+34,GE 8,,,,,,4,,,5
+35,ELECTIVE 1,,,,,,4,,,6
+36,GE 9,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,7
+38,MUIR UD ELECTIVE 1,,,,,,4,,,7
+39,ELECTIVE 3,,,,,,4,,,8
+40,MUIR UD ELECTIVE 2,,,,,,4,,,8
+41,ELECTIVE 4,,,,,,4,,,9
+42,MUIR UD ELECTIVE 3,,,,,,4,,,9
+43,ELECTIVE 5,,,,,,4,,,10
+44,ELECTIVE 6,,,,,,4,,,11
+45,ELECTIVE 7,,,,,,4,,,12

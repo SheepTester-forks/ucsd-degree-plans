@@ -1,0 +1,55 @@
+Curriculum,Judaic Studies
+Degree Plan,Judaic Studies/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JUDA 1,JUDA,1,,,,5,,,1
+2,JUDA 2,JUDA,2,1,,,5,,,2
+3,JUDA 3,JUDA,3,2,,,5,,,3
+4,JUDA 100,JUDA,100,,,,4,,,4
+5,JUDA 101,JUDA,101,3,,,4,,,4
+7,JUDA 102,JUDA,102,5,,,4,,,5
+6,HITO 104,HITO,104,13,,,4,,,5
+9,JUDA 103,JUDA,103,3,,,4,,,6
+8,HITO 105,HITO,105,,,,4,,,6
+21,UD JS ELECTIVE 1,,,,,,4,,,7
+22,UD JS ELECTIVE 2,,,,,,4,,,7
+23,UD JS ELECTIVE 3,,,,,,4,,,8
+24,UD JS ELECTIVE 4,,,,,,4,,,8
+25,UD JS ELECTIVE 5,,,,,,4,,,9
+26,UD JS ELECTIVE 6,,,,,,4,,,9
+27,UD JS ELECTIVE 7,,,,,,4,,,10
+28,UD JS ELECTIVE 8,,,,,,4,,,10
+29,UD JS ELECTIVE 9,,,,,,4,,,11
+30,UD JS ELECTIVE 10,,,,,,4,,,11
+31,UD JS ELECTIVE 11,,,,,,4,,,12
+32,UD JS ELECTIVE 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MATH 10A,MATH,10A,,,,4,,,1
+11,CHEM 11,CHEM,11,,,,4,,,1
+12,MATH 10B,MATH,10B,10,,,4,,,2
+13,HUM 1,HUM,1,,,,6,,,2
+14,CHEM 12,CHEM,12,,,,4,,,2
+15,MATH 10C,MATH,10C,12,,,4,,,3
+16,HUM 2,HUM,2,,,,6,,,3
+17,CHEM 13,CHEM,13,14,,,4,,,3
+18,HUM 3,HUM,3,,,,4,,,4
+19,HUM 4,HUM,4,,,,4,,,5
+20,HUM 5,HUM,5,,,,4,,,6
+33,ELECTIVE 1,,,,,,4,,,6
+34,SOCIAL SCIENCE / DEI,,,,,,4,,,7
+35,ELECTIVE 2,,,,,,4,,,7
+36,PHYSICS 10,,,,,,4,,,8
+37,ELECTIVE 3,,,,,,4,,,8
+38,"BIOLOGY 3, 7, / 10",,,,,,4,,,9
+39,ELECTIVE 4,,,,,,4,,,9
+40,SOCIAL SCIENCE,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,10
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,11
+44,FINE ARTS,,,,,,4,,,12
+45,ELECTIVE 8,,,,,,1,,,12

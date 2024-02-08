@@ -1,0 +1,55 @@
+Curriculum,Environmental Chemistry
+Degree Plan,Environmental Chemistry/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+3,MATH 20B,MATH,20B,2,,,4,,,2
+5,PHYS 2A,PHYS,2A,2,,,4,,,2
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+8,CHEM 7LM,CHEM,7LM,4,,,4,,,3
+9,CHEM 140A,CHEM,140A,,,,4,,,4
+11,CHEM 100A,CHEM,100A,7,,,4,,,4
+10,MATH 20D,MATH,20D,6,,,4,,,4
+12,CHEM 140B,CHEM,140B,9,,,4,,,5
+14,CHEM 143A,CHEM,143A,9,,,4,,,5
+13,PHYS 2B,PHYS,2B,5;2;3,,,4,,,5
+16,PHYS 2C / 2D,PHYS,2C,5;2;3;6,,,4,,,6
+15,PHYS 2CL,PHYS,2CL,5;13,,,2,,,6
+31,BILD 1,BILD,1,1,4,,4,,,6
+17,CHEM 171,CHEM,171,7,,,4,,,7
+18,CHEM 130,CHEM,130,7;16;10,,,4,,,7
+32,CHEM ELECTIVE 1,,,,,,4,,,7
+19,CHEM 172,CHEM,172,7,,,4,,,8
+20,CHEM 131,CHEM,131,7;16;6,,,4,,,8
+33,CHEM ELECTIVE 2,,,,,,4,,,8
+21,CHEM 173,CHEM,173,7,,,4,,,9
+22,CHEM 132,CHEM,132,18;20,,,4,,,9
+23,CHEM 105A,CHEM,105A,11;15;18,,,4,,,10
+34,CHEM ELECTIVE 3,,,,,,4,,,10
+24,CHEM 100B,CHEM,100B,11;16;15,,,5,,,11
+25,CHEM 174,CHEM,174,7,,,4,,,12
+35,CHEM ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+37,FINE ARTS,,,,,,4,,,1
+26,HUM 1,HUM,1,,,,6,,,2
+27,HUM 2,HUM,2,,,,6,,,3
+28,HUM 3,HUM,3,,,,4,,,4
+29,HUM 4,HUM,4,,,,4,,,5
+30,HUM 5,HUM,5,,,,4,,,6
+38,LANGUAGE 1,,,,,,5,,,7
+39,LANGUAGE 2,,,,,,5,,,8
+40,LANGUAGE 3,,,,,,5,,,9
+41,LANGUAGE 4,,,,,,5,,,10
+42,SOCIAL SCIENCE,,,,,,4,,,11
+43,ELECTIVE 1,,,,,,4,,,11
+44,ELECTIVE 2,,,,,,4,,,12
+45,ELECTIVE 3,,,,,,1,,,12

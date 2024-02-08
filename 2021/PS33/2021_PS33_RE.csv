@@ -1,0 +1,53 @@
+Curriculum,Political Science/International Affairs
+Degree Plan,Political Science/International Affairs/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 11D,POLI,11D,,,,4,,,1
+2,POLI 12D,POLI,12D,,,,4,,,2
+3,POLI 5D,POLI,5D,,,,4,,,2
+4,POLI 30D,POLI,30D,,,,4,,,3
+12,UD POLI 1,,,,,,4,,,4
+13,UD POLI - AMERICAN POLITICS 1,,,,,,4,,,4
+14,UD POLI - INTERNATIONAL POLITICAL ECONOMY 1,,,,,,4,,,5
+15,UD POLI - INTERNATIONAL RELATIONS / COMPARATIVE POLITICS 1,,,,,,4,,,5
+16,UD POLI - AMERICAN POLITICS 2,,,,,,4,,,6
+17,UD POLI - INTERNATIONAL RELATIONS / COMPARATIVE POLITICS 2,,,,,,4,,,6
+18,UD POLI 2,,,,,,4,,,7
+19,UD POLI - INTERNATIONAL POLITICAL ECONOMY 2,,,,,,4,,,7
+20,UD POLI 3,,,,,,4,,,8
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MATH 10A,MATH,10A,,,,4,,,1
+21,FINE ARTS GE,,,,,,4,,,1
+22,CHEMISTRY GE,,,,,,4,,,1
+6,MATH 10B,MATH,10B,5,,,4,,,2
+7,HUM 1,HUM,1,,,,6,,,2
+23,MATH GE,,,,,,4,,,3
+24,NATURAL SCIENCE GE 1,,,,,,4,,,3
+8,HUM 2,HUM,2,,,,6,,,3
+9,HUM 3,HUM,3,7,,,4,,,4
+25,LANGUAGE 1,,,,,,5,,,4
+10,HUM 4,HUM,4,,,,4,,,5
+26,LANGUAGE 2,,,,,,5,,,5
+11,HUM 5,HUM,5,,,,4,,,6
+27,LANGUAGE 3,,,,,,5,,,6
+28,DEI,,,,,,4,,,7
+29,LANGUAGE 4,,,,,,5,,,7
+30,NATURAL SCIENCE GE 2,,,,,,4,,,8
+31,BIOLOGY GE,,,,,,4,,,8
+32,PHYSICS GE,,,,,,4,,,9
+33,AHI / ELECTIVE,,,,,,4,,,9
+34,UD ELECTIVE,,,,,,4,,,9
+35,UD ELECTIVE / GRAD COURSE 1,,,,,,4,,,10
+36,UD ELECTIVE / GRAD COURSE 2,,,,,,4,,,10
+37,UD ELECTIVE / GRAD COURSE 3,,,,,,4,,,10
+38,UD ELECTIVE / GRAD COURSE 4,,,,,,4,,,11
+39,UD ELECTIVE / GRAD COURSE 5,,,,,,4,,,11
+40,UD ELECTIVE / GRAD COURSE 6,,,,,,4,,,11
+41,UD ELECTIVE / GRAD COURSE 7,,,,,,4,,,12
+42,UD ELECTIVE / GRAD COURSE 8,,,,,,4,,,12
+43,UD ELECTIVE / GRAD COURSE 9,,,,,,4,,,12

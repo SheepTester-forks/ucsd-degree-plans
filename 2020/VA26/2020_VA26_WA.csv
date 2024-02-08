@@ -1,0 +1,55 @@
+Curriculum,Visual Arts (Art History/Criticism)
+Degree Plan,Visual Arts (Art History/Criticism)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0703
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,FOUNDATION LEVEL: HISTORY 1,,,,,,4,,,1
+1,VIS 23,VIS,23,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 11,VIS,11,,,,4,,,2
+10,FOUNDATION LEVEL: HISTORY 2,,,,,,4,,,3
+11,FOUNDATION LEVEL: ART MAKING,,,,,,4,,,3
+12,INTERMEDIATE LEVEL: A - E 1,,,,,,4,,,4
+4,VIS 112,VIS,112,,,,4,,,5
+13,INTERMEDIATE LEVEL: A - E 2,,,,,,4,,,6
+14,GE / DEI,,,,,,4,,,6
+15,INTERMEDIATE LEVEL: A - E 3,,,,,,4,,,7
+16,INTERMEDIATE LEVEL: A - E 4,,,,,,4,,,7
+17,INTERMEDIATE LEVEL: A - E 5,,,,,,4,,,8
+18,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,9
+19,ADVANCED LEVEL: SEMINAR 1,,,,,,4,,,9
+20,ADVANCED LEVEL: THEORY,,,,,,4,,,10
+21,ADVANCED LEVEL: ELECTIVE,,,,,,4,,,10
+22,ADVANCED LEVEL: SEMINAR 2,,,,,,4,,,11
+23,ADVANCED LEVEL: SEMINAR 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,WCWP 10A,WCWP,10A,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+6,WCWP 10B,WCWP,10B,5,,,4,,,2
+25,GE 2,,,,,,4,,,2
+7,PHIL / POLI 27,POLI,27,5;6,,,4,,,3
+26,GE 3,,,,,,4,,,3
+8,PHIL / POLI 28,POLI,28,7,,,4,,,4
+27,GE 4,,,,,,4,,,4
+28,GE 5,,,,,,4,,,4
+29,GE 6,,,,,,4,,,5
+30,GE 7,,,,,,4,,,5
+31,GE 8,,,,,,4,,,5
+32,GE 9,,,,,,4,,,6
+33,GE 10,,,,,,4,,,6
+34,GE 11,,,,,,4,,,7
+35,ELECTIVE 1,,,,,,4,,,7
+36,GE 12,,,,,,4,,,8
+37,ELECTIVE 2,,,,,,4,,,8
+38,ELECTIVE 3,,,,,,4,,,8
+39,GE 13,,,,,,4,,,9
+40,ELECTIVE 4,,,,,,4,,,9
+41,ELECTIVE 5,,,,,,4,,,10
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12
+45,ELECTIVE 9,,,,,,4,,,12

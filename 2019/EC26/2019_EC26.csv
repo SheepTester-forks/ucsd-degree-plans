@@ -1,0 +1,42 @@
+Curriculum,Computer Engineering
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CSE 11,CSE,11,,,,4,,
+3,MATH 18,MATH,18,,,,4,,
+4,CSE 12,CSE,12,2,,,4,,
+5,CSE 15L,CSE,15L,2,,,2,,
+6,MATH 20B,MATH,20B,1,,,4,,
+7,PHYS 2A,PHYS,2A,1,,,4,,
+8,CSE 20,CSE,20,2,,,4,,
+9,CSE 30,CSE,30,4;5,,,4,,
+10,MATH 20C,MATH,20C,6,,,4,,
+11,PHYS 2B,PHYS,2B,7;6,,,4,,
+12,CSE 21,CSE,21,8,,,4,,
+13,ECE 35,ECE,35,3;1;6;7,,,4,,
+14,MATH 20D,MATH,20D,10,,,4,,
+15,PHYS 2C,PHYS,2C,7;10,,,4,,
+16,ECE 45,ECE,45,13,,,4,,
+17,CSE 100,CSE,100,12;4;5;9,,,4,,
+18,ECE 65,ECE,65,13,,,4,,
+19,ECE 109,ECE,109,1;6;10;14;3,,,4,,
+20,CSE 110,CSE,110,17,,,4,,
+21,CSE 101,CSE,101,17,,,4,,
+22,CSE 140,CSE,140,8;9,,,4,,
+23,CSE 140L,CSE,140L,8;9,,,2,,
+24,ECE 101,ECE,101,16,,,4,,
+25,CSE 141,CSE,141,9;22;23,,,4,,
+26,CSE 141L,CSE,141L,9;22;23,,,2,,
+27,ECE 111,ECE,111,22,,,4,,
+30,CSE / ECE ELECTIVE 1,,,,,,4,,
+28,ECE 108 (REPLACE WITH A CSE / ECE ELECTIVE),ECE,108,22;9;16;18,,,4,,
+29,CSE 120,CSE,120,9;21;20,,,4,,
+31,CSE / ECE ELECTIVE 2,,,,,,4,,
+32,CSE / ECE ELECTIVE 3,,,,,,4,,
+33,CSE / ECE ELECTIVE 4,,,,,,4,,
+34,CSE / ECE ELECTIVE 5,,,,,,4,,
+35,CSE TECHNICAL ELECTIVE,,,,,,4,,

@@ -1,0 +1,58 @@
+Curriculum,Aerospace Engineering with a Specialization in Aerothermodynamics
+Degree Plan,Aerospace Engineering with a Specialization in Aerothermodynamics/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MAE 2,MAE,2,,,,4,,,1
+6,MATH 20B,MATH,20B,2,,,4,,,2
+7,PHYS 2A,PHYS,2A,2;2,,,4,,,2
+9,MATH 20C,MATH,20C,6,,,4,,,3
+10,PHYS 2B,PHYS,2B,7;6,,,4,,,3
+11,MATH 20D,MATH,20D,9,,,4,,,4
+12,PHYS 2C,PHYS,2C,7;9,,,4,,,4
+13,PHYS 2CL,PHYS,2CL,7;10,,,2,,,4
+14,MAE 21,MAE,21,7;3;6,,,4,,,4
+15,MATH 18,MATH,18,,,,4,,,5
+16,MAE 8,MAE,8,2;6,,,4,,,5
+17,MAE 30A,MAE,30A,7;9,,,4,,,5
+18,MATH 20E,MATH,20E,15;9,,,4,,,6
+19,MAE 30B,MAE,30B,17,,,4,,,6
+20,MAE 131A,MAE,131A,17;11,,,4,,,6
+40,TE 1,,,,,,4,,,6
+21,MAE 11,MAE,11,12;3,,,4,,,7
+22,MAE 101A,MAE,101A,7;11;18,,,4,,,7
+24,MAE 105,MAE,105,7;10;11,,,4,,,7
+23,MAE 107,MAE,107,16;15,,,4,,,7
+26,MAE 143A,MAE,143A,11;18;15,,,4,,,8
+27,SE 160A,SE,160A,14;19;20,,,4,,,8
+25,MAE 101B,MAE,101B,22;21,,,4,,,8
+41,TE 2,,,,,,4,,,8
+29,MAE 143B,MAE,143B,26,,,4,,,9
+30,MAE 170,MAE,170,12;13,,,4,,,9
+28,MAE 104,MAE,104,22;25,,,4,,,9
+31,MAE 113,MAE,113,21;22;25,,,4,,,10
+32,MAE 142,MAE,142,28;29,,,4,,,10
+42,TE 3,,,,,,4,,,10
+33,MAE 155A,MAE,155A,4;14;28;19;27,,,4,,,11
+34,MAE 175A,MAE,175A,29;30,,,4,,,11
+43,TE 4,,,,,,4,,,11
+35,MAE 155B,MAE,155B,31;32;33;30,,,4,,,12
+44,TE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,CAT 1,CAT,1,,,,4,,,1
+37,CAT 2,CAT,2,36,,,6,,,2
+45,GE 1,,,,,,4,,,2
+38,CAT 3,CAT,3,37,,,6,,,3
+46,GE 2,,,,,,4,,,3
+47,GE 3,,,,,,4,,,4
+48,GE / DEI,,,,,,4,,,5
+39,CAT 125,CAT,125,,,,4,,,10
+49,GE 4,,,,,,4,,,11
+50,GE 5,,,,,,4,,,12
+51,GE 6,,,,,,4,,,12

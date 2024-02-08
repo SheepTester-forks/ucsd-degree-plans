@@ -1,0 +1,28 @@
+Curriculum,Public Health
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+12,SBE 1,,,,,,4,,
+13,SBE 2,,,,,,4,,
+1,BILD 3,BILD,3,,,,4,,
+14,STATISTICS,,,,,,4,,
+15,LD BIOLOGY 1,,,,,,4,,
+2,FMPH 40,FMPH,40,,,,4,,
+3,FMPH 50,FMPH,50,,,,4,,
+16,LD BIOLOGY 2,,,,,,4,,
+4,FMPH 101,FMPH,101,2,,,4,,
+17,UDE 1,,,,,,4,,
+5,FMPH 102,FMPH,102,2,,,4,,
+6,FMPH 110,FMPH,110,2,,,4,,
+7,FMPH 120,FMPH,120,2,,,4,,
+18,UDE 2,,,,,,4,,
+8,FMPH 130,FMPH,130,3;4,,,4,,
+19,UDE 3,,,,,,4,,
+20,UDE 4,,,,,,4,,
+9,FMPH 193,FMPH,193,,,,4,,
+10,USP 143,USP,143,,,,4,,
+11,FMPH 194,FMPH,194,9,,,4,,
+21,UDE 5,,,,,,4,,

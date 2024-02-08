@@ -1,0 +1,53 @@
+Curriculum,"Russian, East European and Eurasian Studies"
+Degree Plan,"Russian, East European and Eurasian Studies/ Revelle"
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0105
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTRU 1A,LTRU,1A,,,,5,,,1
+2,LTRU 1B,LTRU,1B,1,,,5,,,2
+3,LTRU 1C,LTRU,1C,2,,,5,,,3
+4,LTRU 2A,LTRU,2A,3,,,5,,,4
+5,LTRU 2B,LTRU,2B,4,,,5,,,5
+16,LTRU UD ELECTIVE 1,,,,,,4,,,6
+6,LTRU 104A,LTRU,104A,5,,,4,,,7
+17,HIEU UD ELECTIVE 1,,,,,,4,,,7
+7,LTRU 104B,LTRU,104B,6,,,4,,,8
+18,HIEU UD ELECTIVE 2,,,,,,4,,,8
+8,LTRU 104C,LTRU,104C,6,,,4,,,9
+19,LTRU UD ELECTIVE 2,,,,,,4,,,9
+20,LTRU UD ELECTIVE 3,,,,,,4,,,10
+21,REEES UD ELECTIVE 1,,,,,,4,,,10
+22,REEES UD ELECTIVE 2,,,,,,4,,,11
+23,REEES UD ELECTIVE 3,,,,,,4,,,11
+24,REEES UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,FINE ARTS GE,,,,,,4,,,1
+9,MATH 10A / 20A,MATH,10A,,,,4,,,1
+10,HUM 1,HUM,1,,,,6,,,2
+11,MATH 10B / 20B,MATH,10B,9,,,4,,,2
+12,HUM 2,HUM,2,,,,6,,,3
+26,MATH GE,,,,,,4,,,3
+13,HUM 3,HUM,3,10,,,4,,,4
+27,PHYSICS GE,,,,,,4,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+28,CHEMISTRY GE,,,,,,4,,,5
+29,SOCIAL SCIENCE GE,,,,,,4,,,5
+15,HUM 5,HUM,5,,,,4,,,6
+30,BIOLOGY GE,,,,,,4,,,6
+31,ELECTIVE 1,,,,,,4,,,6
+32,SOCIAL SCIENCE GE / DEI,,,,,,4,,,7
+33,ELECTIVE 2,,,,,,4,,,7
+34,NATURAL SCIENCE GE 1,,,,,,4,,,8
+35,NATURAL SCIENCE GE 2,,,,,,4,,,9
+36,ELECTIVE 3,,,,,,4,,,9
+37,UD ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 4,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,11
+40,ELECTIVE 5,,,,,,4,,,11
+41,UD ELECTIVE 3,,,,,,4,,,12
+42,AHI / ELECTIVE,,,,,,4,,,12
+43,ELECTIVE 6,,,,,,4,,,12

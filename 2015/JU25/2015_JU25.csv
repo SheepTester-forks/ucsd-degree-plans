@@ -1,0 +1,28 @@
+Curriculum,Judaic Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,JUDA 1,JUDA,1,,,,5,,
+2,JUDA 2,JUDA,2,1,,,5,,
+3,JUDA 3,JUDA,3,2,,,5,,
+4,JUDA 100,JUDA,100,,,,4,,
+5,JUDA 101,JUDA,101,3,,,4,,
+6,HITO 104,HITO,104,,,,4,,
+7,JUDA 102,JUDA,102,5,,,4,,
+8,HITO 105,HITO,105,,,,4,,
+9,JUDA 103,JUDA,103,3,,,4,,
+10,UD JS ELECTIVE 1,,,,,,4,,
+11,UD JS ELECTIVE 2,,,,,,4,,
+12,UD JS ELECTIVE 3,,,,,,4,,
+13,UD JS ELECTIVE 4,,,,,,4,,
+14,UD JS ELECTIVE 5,,,,,,4,,
+15,UD JS ELECTIVE 6,,,,,,4,,
+16,UD JS ELECTIVE 7,,,,,,4,,
+17,UD JS ELECTIVE 8,,,,,,4,,
+18,UD JS ELECTIVE 9,,,,,,4,,
+19,UD JS ELECTIVE 10,,,,,,4,,
+20,UD JS ELECTIVE 11,,,,,,4,,
+21,UD JS ELECTIVE 12,,,,,,4,,

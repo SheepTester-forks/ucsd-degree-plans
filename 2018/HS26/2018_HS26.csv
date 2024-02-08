@@ -1,0 +1,31 @@
+Curriculum,Human Developmental Sciences
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+8,LD FORMAL SKILLS 1,,,,,,4,,
+9,LD SOC SCI 1,,,,,,4,,
+10,LD BIOLOGY SCI 1,,,,,,4,,
+11,LD FORMAL SKILLS 2,,,,,,4,,
+12,LD SOC SCI 2,,,,,,4,,
+13,LD BIOLOGY SCI 2,,,,,,4,,
+1,HDP 1,HDP,1,,,,4,,
+14,LD STATISTICS,,,,,,4,,
+15,CORE COURSE 1,,,,,,4,,
+16,CORE COURSE 2,,,,,,4,,
+17,CORE COURSE 3,,,,,,4,,
+18,CORE COURSE 4,,,,,,4,,
+19,DEVELOPMENT 1,,,,,,4,,
+20,DEVELOPMENT 2,,,,,,4,,
+21,DEVELOPMENT 3,,,,,,4,,
+2,HDP 181,HDP,181,,,,6,,
+22,DEVELOPMENT 4,,,,,,4,,
+3,HDP 191,HDP,191,,,,6,,
+23,DEVELOPMENT 5,,,,,,4,,
+4,HDP 194A,HDP,194A,,,,4,,
+24,METHODS ELECTIVE,,,,,,4,,
+5,HDP 194B,HDP,194B,,,,4,,
+6,HDP 150,HDP,150,,,,4,,
+7,HDP 194C,HDP,194C,,,,4,,

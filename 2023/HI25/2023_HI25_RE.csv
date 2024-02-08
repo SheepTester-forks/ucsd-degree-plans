@@ -1,0 +1,53 @@
+Curriculum,History
+Degree Plan,History/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,HUM 1 (MAJOR OVERLAP),HUM,1,,,,6,,,2
+5,HUM 2 (MAJOR OVERLAP),HUM,2,,,,6,,,3
+1,HITO 100 / HIUD 1,HITO,100,,,,4,,,4
+6,HUM 3 (MAJOR OVERLAP),HUM,3,3,,,4,,,4
+9,HITO 100 / HIUD 2,HITO,100,,,,4,,,5
+10,HITO 100 / HIUD 3,HITO,100,,,,4,,,6
+11,ELECTIVE 1,,,,,,4,,,6
+12,HIUD 1,,,,,,4,,,7
+13,HIUD 2,,,,,,4,,,7
+14,HIUD 3,,,,,,4,,,8
+15,HIUD 4,,,,,,4,,,8
+16,HIUD 5,,,,,,4,,,9
+17,HIUD 6,,,,,,4,,,9
+18,ELECTIVE 2,,,,,,4,,,9
+19,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 1,,,,,,4,,,10
+20,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 2,,,,,,4,,,11
+21,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 3,,,,,,4,,,12
+22,ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+23,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+24,LANGUAGE 1,,,,,,5,,,1
+4,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+25,LANGUAGE 2,,,,,,5,,,2
+26,MATH GE,,,,,,4,,,3
+27,LANGUAGE 3,,,,,,5,,,3
+28,FINE ARTS GE,,,,,,4,,,4
+29,LANGUAGE 4,,,,,,5,,,4
+7,HUM 4,HUM,4,,,,4,,,5
+30,SOCIAL SCIENCE GE,,,,,,4,,,5
+31,PHYSICS GE,,,,,,4,,,5
+8,HUM 5,HUM,5,,,,4,,,6
+32,BIOLOGY GE,,,,,,4,,,6
+33,ELECTIVE 4,,,,,,4,,,7
+34,NATURAL SCIENCE GE 1,,,,,,4,,,7
+35,CHEMISTRY GE,,,,,,4,,,8
+36,ELECTIVE 5,,,,,,4,,,8
+37,UD ELECTIVE 1,,,,,,4,,,9
+38,UD ELECTIVE 2,,,,,,4,,,10
+39,NATURAL SCIENCE GE 2,,,,,,4,,,10
+40,UD ELECTIVE 3,,,,,,4,,,11
+41,ELECTIVE 6,,,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

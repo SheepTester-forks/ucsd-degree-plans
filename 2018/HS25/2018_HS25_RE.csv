@@ -1,0 +1,52 @@
+Curriculum,Human Developmental Sciences
+Degree Plan,Human Developmental Sciences/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,LD MAJOR PREP 1,,,,,,4,,,1
+14,LD MAJOR PREP 2,,,,,,4,,,1
+15,LD MAJOR PREP 3,,,,,,4,,,2
+16,LD MAJOR PREP 4,,,,,,4,,,2
+17,LD MAJOR PREP 5,,,,,,4,,,3
+18,LD MAJOR PREP 6,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+19,CORE COURSE 1,,,,,,4,,,5
+20,CORE COURSE 2,,,,,,4,,,5
+21,CORE COURSE 3,,,,,,4,,,6
+22,CORE COURSE 4,,,,,,4,,,6
+23,DEVELOPMENT 1,,,,,,4,,,7
+24,DEVELOPMENT 2,,,,,,4,,,7
+25,DEVELOPMENT 3,,,,,,4,,,8
+26,DEVELOPMENT 4,,,,,,4,,,8
+2,HDP 181,HDP,181,,,,6,,,9
+27,DEVELOPMENT 5,,,,,,4,,,9
+3,HDP 191,HDP,191,,,,6,,,10
+28,HDP HONORS THESIS 1,,,,,,4,,,10
+29,HDP HONORS THESIS 2,,,,,,4,,,11
+30,HDP HONORS THESIS 3,,,,,,4,,,12
+4,HDP 150,HDP,150,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MATH 10A,MATH,10A,,,,4,,,1
+6,HUM 1,HUM,1,,,,6,,,2
+7,MATH 10B,MATH,10B,5,,,4,,,2
+8,HUM 2,HUM,2,,,,6,,,3
+31,MATH GE,,,,,,4,,,3
+9,CHEM 11,CHEM,11,,,,4,,,4
+10,HUM 3,HUM,3,6,,,4,,,4
+32,SOCIAL SCIENCE / DEI,,,,,,4,,,4
+33,PHYSICS GE,,,,,,4,,,5
+11,HUM 4,HUM,4,,,,4,,,5
+34,BIOLOGY GE,,,,,,4,,,6
+12,HUM 5,HUM,5,,,,4,,,6
+35,LANGUAGE 1,,,,,,5,,,7
+36,FINE ARTS,,,,,,4,,,7
+37,LANGUAGE 2,,,,,,5,,,8
+38,LANGUAGE 3,,,,,,5,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,ELECTIVE,,,,,,4,,,11
+41,NATURAL SCIENCE GE 1,,,,,,4,,,11
+42,NATURAL SCIENCE GE 2,,,,,,4,,,12

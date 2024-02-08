@@ -1,0 +1,30 @@
+Curriculum,
+Degree Plan,/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MATH 1,,,,,,4,,,1
+7,CHEM 1,,,,,,4,,,1
+8,MATH 2,,,,,,4,,,2
+9,CHEM 2,,,,,,4,,,2
+10,GE / MAJOR EXPLORATION / PREP 1,,,,,,4,,,4
+11,GE / MAJOR EXPLORATION / PREP 2,,,,,,4,,,4
+12,GE / MAJOR EXPLORATION / PREP 3,,,,,,4,,,5
+13,GE / MAJOR EXPLORATION / PREP 4,,,,,,4,,,5
+14,GE / MAJOR EXPLORATION / PREP 5,,,,,,4,,,6
+15,GE / MAJOR EXPLORATION / PREP 6,,,,,,4,,,6
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MMW 11,MMW,11,,,,4,,,1
+16,GE,,,,,,4,,,1
+2,MMW 12,MMW,12,,,,6,,,2
+17,GE / DEI,,,,,,4,,,2
+3,MMW 13,MMW,13,2,,,6,,,3
+18,MATH 3,,,,,,4,,,3
+19,CHEM 3,,,,,,4,,,3
+4,MMW 14 / GE 1,MMW,14,2;3,,,4,,,4
+20,MMW 14 / GE 2,MMW,14,2;3,,,4,,,5
+5,MMW 15,MMW,15,2;3,,,4,,,6

@@ -1,0 +1,54 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Climate and Environmental Sciences
+Degree Plan,Bachelor of Science in Public Health with Concentration in Climate and Environmental Sciences/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2202
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,BILD 1,BILD,1,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+4,BILD 2,BILD,2,2,,,4,,,2
+5,MATH 11,MATH,11,3,,,4,,,3
+6,BILD 3,BILD,3,,,,4,,,3
+20,SBE 1,,,,,,4,,,3
+7,CHEM 6A,CHEM,6A,,,,4,,,4
+8,FMPH 40,FMPH,40,,,,4,,,4
+21,SBE 2,,,,,,4,,,4
+9,CHEM 6B,CHEM,6B,7;1,,,4,,,5
+10,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
+11,CHEM 6C,CHEM,6C,9,,,4,,,6
+22,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
+12,FMPH 101 / FMPH 102 1,FMPH,101,8;5,,,4,,,7
+23,CONCENTRATION UDE 1,,,,,,4,,,7
+24,FMPH 101 / FMPH 102 2,FMPH,101,8;5,,,4,,,8
+13,USP 143,USP,143,,,,4,,,8
+14,FMPH 120 / FMPH 130 1,FMPH,120,8,,,4,,,9
+25,CONCENTRATION UDE 2,,,,,,4,,,9
+26,FMPH 120 / FMPH 130 2,FMPH,120,8,,,4,,,10
+27,FMPH UDE,,,,,,4,,,10
+15,FMPH 193,FMPH,193,,,,4,,,11
+28,UDE 1,,,,,,4,,,11
+16,FMPH 194,FMPH,194,15,,,4,,,12
+29,UDE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,DOC 1 / DEI,DOC,1,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+18,DOC 2,DOC,2,17,,,6,,,2
+31,GE 2,,,,,,4,,,2
+19,DOC 3,DOC,3,18,,,6,,,3
+32,GE 3,,,,,,4,,,4
+33,GE 4,,,,,,4,,,5
+34,GE 5,,,,,,4,,,5
+35,GE 6,,,,,,4,,,6
+36,ELECTIVE 1,,,,,,4,,,6
+37,UD GE 1,,,,,,4,,,7
+38,ELECTIVE 2,,,,,,4,,,7
+39,UD GE 2,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,4,,,8
+41,ELECTIVE 4,,,,,,4,,,9
+42,ELECTIVE 5,,,,,,4,,,10
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12

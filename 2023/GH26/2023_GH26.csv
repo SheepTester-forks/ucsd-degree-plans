@@ -1,0 +1,31 @@
+Curriculum,Global Health
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 10A,MATH,10A,,,,4,,
+2,BILD 1,BILD,1,,,,4,,
+3,MATH 10B,MATH,10B,1,,,4,,
+4,BILD 2,BILD,2,2,,,4,,
+11,STATISTICS COURSE,,,,,,4,,
+5,BILD 3,BILD,3,,,,4,,
+6,CHEM 6A,CHEM,6A,,,,4,,
+12,LOWER DIVISION CORE 1,,,,,,4,,
+7,CHEM 6B,CHEM,6B,6;1,,,4,,
+13,LOWER DIVISION CORE 2,,,,,,4,,
+8,CHEM 6C,CHEM,6C,7,,,4,,
+9,CHEM 7L,CHEM,7L,7,,,4,,
+10,UD GH CORE COURSE (EG GLBH 148),GLBH,148,,,,4,,
+14,UD GH CORE COURSE 1,,,,,,4,,
+15,UD GH CORE COURSE 2,,,,,,4,,
+16,UD GLOBAL HEALTH ELECTIVE 1,,,,,,4,,
+17,UD GH CORE COURSE 3,,,,,,4,,
+18,UD GLOBAL HEALTH ELECTIVE 2,,,,,,4,,
+19,UD GLOBAL HEALTH ELECTIVE 3,,,,,,4,,
+20,UD GLOBAL HEALTH ELECTIVE 4,,,,,,4,,
+21,UD GLOBAL HEALTH ELECTIVE 5,,,,,,4,,
+22,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,
+23,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,
+24,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,

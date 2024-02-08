@@ -1,0 +1,35 @@
+Curriculum,Environmental Systems (Environmental Policy)
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 10A,MATH,10A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,ECON 1,ECON,1,,,,4,,
+4,MATH 10B,MATH,10B,1,,,4,,
+5,CHEM 6B,CHEM,6B,2;1,,,4,,
+6,BILD 3,BILD,3,,,,4,,
+7,MATH 11,MATH,11,4,,,5,,
+8,CHEM 6C,CHEM,6C,5,,,4,,
+9,ECON 2,ECON,2,3,,,4,,
+10,PHYS 1A,PHYS,1A,1,,,3,,
+11,PHYS 1AL,PHYS,1AL,1,,,2,,
+12,ESYS 101,ESYS,101,6,,,4,,
+13,PHYS 1B,PHYS,1B,4;10,,,3,,
+14,PHYS 1BL,PHYS,1BL,4;10;11,,,2,,
+15,ESYS 102,ESYS,102,1;2;10,,,4,,
+16,PHYS 1C,PHYS,1C,4;13,,,3,,
+17,PHYS 1CL,PHYS,1CL,4;13;14,,,2,,
+18,ESYS 103,ESYS,103,7,,,4,,
+19,POLI 160AA,POLI,160AA,,,,4,,
+20,ECON 131,ECON,131,9,,,4,,
+24,ESYS MAJOR ELECTIVE 1,,,,,,4,,
+25,ESYS MAJOR ELECTIVE 2,,,,,,4,,
+26,ESYS MAJOR ELECTIVE 3,,,,,,4,,
+21,ESYS 187A,ESYS,187A,18,,,4,,
+27,ESYS MAJOR ELECTIVE 4,,,,,,4,,
+22,ESYS 187B,ESYS,187B,21,,,4,,
+28,ESYS MAJOR ELECTIVE 5,,,,,,4,,
+23,ESYS 187C,ESYS,187C,22,,,4,,

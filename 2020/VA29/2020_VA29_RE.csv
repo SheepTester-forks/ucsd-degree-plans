@@ -1,0 +1,53 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 4,MUS,4,,,,4,,,1
+22,FOUNDATION ART MAKING,,,,,,4,,,1
+14,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 41 1,VIS,41,,,,4,,,2
+15,MATH 10B / 20B,MATH,10B,14,,,4,,,2
+4,VIS 10,VIS,10,,,,4,,,3
+17,MATH 10C / 20C,MATH,10C,15,,,4,,,3
+23,HISTORY & THEORY UD,,,,,,4,,,4
+5,CSE 11,CSE,11,,,,4,,,4
+6,MATH 15A,MATH,15A,5,,,4,,,5
+7,MUS 171,MUS,171,,,,4,,,5
+8,VIS 159,VIS,159,,,,4,,,6
+9,VIS 70N,VIS,70N,,,,6,,,6
+10,VIS 142,VIS,142,,,,4,,,7
+24,INTERMEDIATE INTERDISCIPLINARY UD,,,,,,4,,,7
+25,INTERMEDIATE ART MAKING UD 1,,,,,,4,,,8
+11,VIS 145A,VIS,145A,10,,,4,,,8
+26,INTERMEDIATE ART MAKING UD 2,,,,,,4,,,9
+27,ADVANCED ART MAKING UD,,,,,,4,,,9
+28,ADVANCED INTERDISCIPLINARY UD,,,,,,4,,,10
+12,VIS 160A,VIS,160A,11,,,4,,,11
+13,VIS 160B,VIS,160B,12,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,CHEMISTRY GE,,,,,,4,,,1
+16,HUM 1,HUM,1,,,,6,,,2
+30,PHYSICS GE,,,,,,4,,,3
+18,HUM 2,HUM,2,,,,6,,,3
+31,VIS 41 2,VIS,41,,,,4,,,4
+19,HUM 3,HUM,3,16,,,4,,,4
+32,BIOLOGY GE,,,,,,4,,,5
+20,HUM 4,HUM,4,,,,4,,,5
+21,HUM 5,HUM,5,,,,4,,,6
+33,NATURAL SCIENCE GE 1,,,,,,4,,,7
+34,LANGUAGE 1,,,,,,5,,,7
+35,NATURAL SCIENCE GE 2,,,,,,4,,,8
+36,LANGUAGE 2,,,,,,5,,,8
+37,LANGUAGE 3,,,,,,5,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,LANGUAGE 4,,,,,,5,,,10
+40,DEI / SOCIAL SCIENCE,,,,,,4,,,11
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,SOCIAL SCIENCE,,,,,,4,,,12
+43,UD ELECTIVE 3,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Media)
+Degree Plan,Visual Arts (Media)/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,VIS 70N,VIS,70N,,,,6,,,1
+3,VIS 84,VIS,84,,,,4,,,1
+4,VIS 60,VIS,60,,,,4,,,2
+5,VIS 40,VIS,40,,,,4,,,3
+6,VIS 174,VIS,174,2,,,4,,,4
+7,VIS 111,VIS,111,,,,4,,,5
+8,VIS 22,VIS,22,,,,4,,,6
+14,MEDIA EMPHASIS 1,,,,,,4,,,6
+15,MEDIA HIST / CRIT / THEORY 1,,,,,,4,,,7
+16,MEDIA EMPHASIS 2,,,,,,4,,,7
+17,MEDIA EMPHASIS 3,,,,,,4,,,8
+18,OUT OF EMPHASIS,,,,,,4,,,8
+19,MEDIA HIST / CRIT / THEORY 2,,,,,,4,,,9
+20,MEDIA ADVANCED LEVEL 1,,,,,,4,,,9
+21,MEDIA HIST / CRIT / THEORY 3,,,,,,4,,,10
+22,MEDIA ADVANCED LEVEL 2,,,,,,4,,,10
+23,MEDIA ADVANCED ELECTIVE 1,,,,,,4,,,11
+24,MEDIA ADVANCED LEVEL 3,,,,,,4,,,11
+25,MEDIA ADVANCED ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,MMW 11,MMW,11,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+10,MMW 12,MMW,12,,,,6,,,2
+1,"VIS 1, 2, / 3",VIS,1,,,,4,,,2
+27,GE 2,,,,,,4,,,2
+11,MMW 13,MMW,13,,,,6,,,3
+28,GE 3,,,,,,4,,,3
+12,MMW 14 / GE 1,MMW,14,10,,,4,,,4
+29,GE / DEI,,,,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,MMW 14 / GE 2,MMW,14,10,,,4,,,5
+32,GE 5,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+13,MMW 15,MMW,15,10,,,4,,,6
+34,GE 6,,,,,,4,,,6
+35,GE 7,,,,,,4,,,7
+36,GE 8,,,,,,4,,,7
+37,GE 9,,,,,,4,,,8
+38,GE 10,,,,,,4,,,8
+39,ELECTIVE 2,,,,,,4,,,9
+40,ELECTIVE 3,,,,,,4,,,9
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,2,,,12

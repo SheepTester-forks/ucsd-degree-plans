@@ -1,0 +1,58 @@
+Curriculum,Physiology and Neuroscience
+Degree Plan,Physiology and Neuroscience/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1503
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BILD 4,BILD,4,,,,2,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+6,BILD 3,BILD,3,,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+4,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+7,MATH 11,MATH,11,4,,,5,,,3
+9,CHEM 7L,CHEM,7L,5,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+13,CHEM 40A,CHEM,40A,5,,,4,,,4
+10,PHYS 1A,PHYS,1A,1,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,1,,,2,,,4
+12,BILD 1,BILD,1,,,,4,,,4
+14,PHYS 1B,PHYS,1B,4;10;11,,,3,,,5
+15,PHYS 1BL,PHYS,1BL,4;10;11,,,2,,,5
+17,CHEM 40B,CHEM,40B,13,,,4,,,5
+16,BILD 2,BILD,2,12,,,4,,,5
+18,PHYS 1C,PHYS,1C,7;14;15,,,3,,,6
+19,PHYS 1CL,PHYS,1CL,7;14;15,,,2,,,6
+20,BICD 100,BICD,100,12,,,4,,,6
+22,CHEM 43A,CHEM,43A,9;13,,,4,,,7
+21,BIBC 102,BIBC,102,13;17,,,4,,,7
+23,BIMM 100,BIMM,100,12;3;13;17,,,4,,,8
+24,BIPN 100,BIPN,100,12;16,,,4,,,8
+26,UD P&N CORE 1,,,,,,4,,,9
+25,BIPN 105,BIPN,105,24,,,6,,,9
+27,UD BIOLOGY ELECTIVE 1,,,,,,4,,,10
+28,UD P&N CORE 2,,,,,,4,,,10
+29,UD BIOLOGY ELECTIVE 2,,,,,,4,,,11
+30,UD BIOLOGY ELECTIVE 3,,,,,,4,,,11
+31,UD BIOLOGY ELECTIVE 4,,,,,,2,,,12
+32,UD BIOLOGY ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+33,GE / WRITING 1,,,,,,4,,,1
+34,GE / WRITING 2,,,,,,4,,,2
+35,GE 1,,,,,,4,,,3
+36,GE 2,,,,,,4,,,4
+37,GE 3,,,,,,4,,,5
+38,GE 4,,,,,,4,,,6
+39,GE 5,,,,,,4,,,6
+40,GE 6,,,,,,4,,,7
+41,GE 7,,,,,,4,,,7
+42,GE 8,,,,,,4,,,8
+43,GE 9,,,,,,4,,,8
+44,DEI,,,,,,4,,,9
+45,MUIR UD ELECTIVE 1,,,,,,4,,,10
+46,MUIR UD ELECTIVE 2,,,,,,4,,,11
+47,ELECTIVE,,,,,,2,,,12
+48,MUIR UD ELECTIVE 3,,,,,,4,,,12

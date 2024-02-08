@@ -1,0 +1,57 @@
+Curriculum,General Biology
+Degree Plan,General Biology/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+1,BILD 4,BILD,4,,,,2,,,1
+5,CHEM 6B,CHEM,6B,2;3,,,4,,,2
+4,BILD 1,BILD,1,,,,4,,,2
+6,MATH 10B / 20B,MATH,10B,3,,,4,,,2
+9,MATH 11,MATH,11,6,,,5,,,3
+8,CHEM 7L,CHEM,7L,5,,,4,,,3
+7,CHEM 6C,CHEM,6C,5,,,4,,,3
+10,PHYS 1A,PHYS,1A,3,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,3,,,2,,,4
+12,BILD 2,BILD,2,4,,,4,,,4
+13,CHEM 40A,CHEM,40A,5,,,4,,,4
+14,PHYS 1B,PHYS,1B,6;10,,,3,,,5
+15,PHYS 1BL,PHYS,1BL,6;10;11,,,2,,,5
+17,CHEM 40B,CHEM,40B,13,,,4,,,5
+16,BILD 3,BILD,3,,,,4,,,5
+20,BICD 100,BICD,100,4;16,,,4,,,6
+18,PHYS 1C,PHYS,1C,6;14,,,3,,,6
+19,PHYS 1CL,PHYS,1CL,6;14;15,,,2,,,6
+21,BIBC 100 / 102,BIBC,100,13;17,,,4,,,7
+22,BIPN 100,BIPN,100,4;12,,,4,,,7
+28,UD BIOLOGY LAB 1,,,,,,4,,,8
+29,UD EBE,,,,,,4,,,8
+30,UD BIOLOGY ELECTIVE 1,,,,,,4,,,9
+23,BIMM 100,BIMM,100,4;1;13;17,,,4,,,9
+31,UD BIOLOGY LAB 2,,,,,,4,,,10
+32,UD BIOLOGY ELECTIVE 2,,,,,,4,,,10
+33,UD BIOLOGY ELECTIVE 3,,,,,,4,,,11
+34,UD BIOLOGY ELECTIVE 4,,,,,,4,,,11
+35,UD BIOLOGY ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,CAT 1,CAT,1,,,,4,,,1
+25,CAT 2,CAT,2,24,,,6,,,2
+26,CAT 3,CAT,3,25,,,6,,,3
+36,GE / DEI,,,,,,4,,,4
+37,GE 1,,,,,,4,,,5
+38,GE 2,,,,,,4,,,6
+39,GE 3,,,,,,4,,,6
+27,CAT 125,CAT,125,,,,4,,,7
+40,GE 4,,,,,,4,,,7
+41,GE 5,,,,,,4,,,8
+42,ELECTIVE 1,,,,,,2,,,8
+43,GE 6,,,,,,4,,,9
+44,UD ELECTIVE 1,,,,,,4,,,10
+45,UD ELECTIVE 2,,,,,,4,,,11
+46,ELECTIVE 2,,,,,,4,,,12
+47,ELECTIVE 3,,,,,,4,,,12

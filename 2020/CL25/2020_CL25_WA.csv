@@ -1,0 +1,55 @@
+Curriculum,Classical Studies
+Degree Plan,Classical Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.1200
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,LTWL 19A / MMW 11,LTWL,19A,,,,4,,,1
+2,LTGK 1,LTGK,1,,,,4,,,1
+4,LTLA 1,LTLA,1,,,,4,,,1
+5,LTWL 19B / HUM 1 / MMW 12,LTWL,19B,,,,4,,,2
+6,LTGK 2,LTGK,2,2,,,4,,,2
+7,LTLA 2,LTLA,2,4,,,4,,,2
+10,LTWL 19C / HUM 2,LTWL,19C,,,,4,,,3
+9,LTGK 3,LTGK,3,6,,,4,,,3
+8,LTLA 3,LTLA,3,7,,,4,,,3
+15,UD LTGK / UD LTLA 1,,,,,,4,,,4
+16,UD LTGK / UD LTLA 2,,,,,,4,,,5
+17,UD LTGK / UD LTLA 3,,,,,,4,,,6
+18,GE / DEI,,,,,,4,,,6
+19,UD LTGK / UD LTLA 4,,,,,,4,,,7
+20,UD LTGK / UD LTLA 5,,,,,,4,,,8
+21,UD LTGK / UD LTLA 6,,,,,,4,,,9
+22,UD LTGK / UD LTLA 7,,,,,,4,,,10
+23,CS UD ELECTIVE 1,,,,,,4,,,10
+24,UD LTGK / UD LTLA 8,,,,,,4,,,11
+25,CS UD ELECTIVE 2,,,,,,4,,,11
+26,UD LTGK / UD LTLA 9,,,,,,4,,,12
+27,CS UD ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,WCWP 10A,WCWP,10A,,,,4,,,1
+12,WCWP 10B,WCWP,10B,11,,,4,,,2
+13,PHIL / POLI 27,POLI,27,11;12,,,4,,,3
+14,PHIL / POLI 28,POLI,28,13,,,4,,,4
+28,GE 1,,,,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,4
+30,GE 2,,,,,,4,,,5
+31,GE 3,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,GE 4,,,,,,4,,,6
+34,ELECTIVE 3,,,,,,4,,,6
+35,GE 5,,,,,,4,,,7
+36,GE 6,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+38,GE 7,,,,,,4,,,8
+39,GE 8,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,GE 9,,,,,,4,,,9
+42,GE 10,,,,,,4,,,9
+43,ELECTIVE 6,,,,,,4,,,9
+44,GE 11,,,,,,4,,,10
+45,GE 12,,,,,,4,,,11
+46,GE 13,,,,,,4,,,12

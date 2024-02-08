@@ -1,0 +1,54 @@
+Curriculum,Philosophy
+Degree Plan,Philosophy/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LD PHIL 1,,,,,,4,,,1
+12,LD PHIL 2,,,,,,4,,,2
+1,PHIL 10,PHIL,10,,,,4,,,3
+2,PHIL 120,PHIL,120,1,,,4,,,4
+13,UD PHIL 1,,,,,,4,,,5
+14,UD PHIL 2,,,,,,4,,,6
+15,UD PHIL 3,,,,,,4,,,7
+3,PHIL 110,PHIL,110,,,,4,,,7
+16,UD PHIL 4,,,,,,4,,,8
+4,PHIL 111,PHIL,111,3,,,4,,,8
+17,UD PHIL 5,,,,,,4,,,9
+5,PHIL 112,PHIL,112,4,,,4,,,9
+18,UD PHIL 6,,,,,,4,,,10
+19,UD PHIL 7,,,,,,4,,,11
+20,UD PHIL 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MMW 11,MMW,11,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+7,MMW 12,MMW,12,,,,6,,,2
+23,GE 3,,,,,,4,,,2
+8,MMW 13,MMW,13,7,,,6,,,3
+24,GE 4,,,,,,4,,,3
+9,MMW 14 / GE 1,MMW,14,7;8,,,4,,,4
+25,GE 5,,,,,,4,,,4
+26,GE / DEI,,,,,,4,,,4
+27,MMW 14 / GE 2,MMW,14,7;8,,,4,,,5
+28,GE 6,,,,,,4,,,5
+29,ELECTIVE 1,,,,,,4,,,5
+10,MMW 15,MMW,15,7;8,,,4,,,6
+30,GE 7,,,,,,4,,,6
+31,ELECTIVE 2,,,,,,4,,,6
+32,GE 8,,,,,,4,,,7
+33,ELECTIVE 3,,,,,,4,,,7
+34,GE 9,,,,,,4,,,8
+35,ELECTIVE 4,,,,,,4,,,8
+36,ELECTIVE 5,,,,,,4,,,9
+37,ELECTIVE 6,,,,,,4,,,9
+38,UD ELECTIVE,,,,,,4,,,10
+39,ELECTIVE 7,,,,,,4,,,10
+40,ELECTIVE 8,,,,,,4,,,10
+41,ELECTIVE 9,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,12
+44,ELECTIVE 12,,,,,,4,,,12

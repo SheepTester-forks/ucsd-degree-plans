@@ -1,0 +1,54 @@
+Curriculum,Political Science/Public Law
+Degree Plan,Political Science/Public Law/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 10D,POLI,10D,,,,4,,,1
+7,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+8,LD POLI 2,,,,,,4,,,4
+9,UD POLI 1,,,,,,4,,,5
+10,UD POLI / PUBLIC LAW 1,,,,,,4,,,6
+11,UD POLI / PUBLIC LAW 2,,,,,,4,,,7
+12,UD POLI 2,,,,,,4,,,7
+13,UD POLI / PUBLIC LAW 3,,,,,,4,,,8
+14,UD POLI 3,,,,,,4,,,8
+15,UD POLI / PUBLIC LAW 4,,,,,,4,,,9
+16,UD POLI 4,,,,,,4,,,9
+17,UD POLI / PUBLIC LAW 5,,,,,,4,,,10
+18,UD POLI 5,,,,,,4,,,10
+19,UD POLI 6,,,,,,4,,,11
+20,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+4,CAT 2,CAT,2,3,,,6,,,2
+23,GE 3,,,,,,4,,,2
+5,CAT 3,CAT,3,4,,,6,,,3
+24,GE / DEI,,,,,,4,,,3
+25,GE 4,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,GE 5,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,ELECTIVE 4,,,,,,4,,,5
+31,GE 6,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,6
+33,ELECTIVE 6,,,,,,4,,,6
+34,GE 7,,,,,,4,,,7
+35,ELECTIVE 7,,,,,,4,,,7
+36,GE 8,,,,,,4,,,8
+37,ELECTIVE 8,,,,,,4,,,8
+38,ELECTIVE 9,,,,,,4,,,9
+39,ELECTIVE 10,,,,,,4,,,9
+6,CAT 125 / EXPERIENTIAL LEARNING / PRACTICUM 1,CAT,125,,,,4,,,10
+40,ELECTIVE 11,,,,,,4,,,10
+41,CAT 125 / EXPERIENTIAL LEARNING / PRACTICUM 2,CAT,125,,,,4,,,11
+42,ELECTIVE 12,,,,,,4,,,11
+43,UD ELECTIVE,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

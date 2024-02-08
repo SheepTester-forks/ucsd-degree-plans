@@ -1,0 +1,55 @@
+Curriculum,Data Science
+Degree Plan,Data Science/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,11.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,COGS 9,COGS,9,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,DSC 10,DSC,10,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,MATH 20C,MATH,20C,4,,,4,,,3
+6,DSC 20,DSC,20,2,,,4,,,3
+8,DSC 30,DSC,30,6,,,4,,,4
+22,SUBJECT DOMAIN I,,,,,,4,,,4
+7,MATH 18,MATH,18,,,,4,,,4
+9,DSC 40,DSC,40,,,,4,,,5
+23,SUBJECT DOMAIN II,,,,,,4,,,5
+10,DSC 41,DSC,41,,,,4,,,6
+11,DSC 80,DSC,80,8,,,4,,,6
+24,SUBJECT DOMAIN III,,,,,,4,,,6
+12,MATH 183 / CSE103 / ECE 109,MATH,183,5,,,4,,,7
+13,DSC 110,DSC,110,,,,4,,,7
+25,ELECTIVE I,,,,,,4,,,7
+14,MATH 189,MATH,189,7;12;5,,,4,,,8
+16,DSC 120,DSC,120,7;5,,,4,,,8
+15,CSE 150,CSE,150,,,,4,,,8
+26,ELECTIVE II,,,,,,4,,,9
+18,DSC 196A,DSC,196A,,,,4,,,9
+17,CSE 151,CSE,151,,,,4,,,9
+19,CSE 158,CSE,158,11;12,,,4,,,10
+20,DSC 170L,DSC,170L,,,,4,,,10
+21,DSC 196B,DSC,196B,,,,4,,,10
+27,ELECTIVE IV,,,,,,4,,,11
+28,ELECTIVE III,,,,,,4,,,11
+29,ELECTIVE V,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,GE / WRITING 1,,,,,,4,,,1
+31,GE / WRITING 2,,,,,,4,,,2
+32,GE 1,,,,,,4,,,2
+33,GE 2,,,,,,4,,,2
+34,GE 3,,,,,,4,,,3
+35,GE 4,,,,,,4,,,3
+36,GE 5,,,,,,4,,,4
+37,GE 6,,,,,,4,,,5
+38,GE 7,,,,,,4,,,5
+39,GE 8,,,,,,4,,,6
+40,GE 9,,,,,,4,,,7
+41,DEI,,,,,,4,,,8
+42,ELECTIVE 1,,,,,,4,,,9
+43,ELECTIVE 2,,,,,,4,,,11
+44,ELECTIVE 3,,,,,,4,,,12
+45,ELECTIVE 4,,,,,,4,,,12

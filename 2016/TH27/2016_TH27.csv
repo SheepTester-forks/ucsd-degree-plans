@@ -1,0 +1,32 @@
+Curriculum,Dance
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+4,TDMV XXX 1,,,,,,4,,
+1,TDTR 10,TDTR,10,,,,4,,
+5,TDMV XXX 2,,,,,,4,,
+6,TDMV XXX 3,,,,,,4,,
+2,TDPR 6,TDPR,6,,,,4,,
+7,TDMV XXX 4,,,,,,4,,
+8,TDMV XXX 5,,,,,,4,,
+3,TDCH 40,TDCH,40,,,,4,,
+9,TDTR XXX,,,,,,4,,
+10,TDCH XXX 1,,,,,,4,,
+11,TDMV XXX 6,,,,,,4,,
+12,TDHD XXX 1,,,1,,,4,,
+13,TDMV XXX 7,,,,,,4,,
+14,TDHD XXX 2,,,1,,,4,,
+15,TDHD XXX 3,,,1,,,4,,
+16,TDMV XXX 8,,,,,,4,,
+17,TDDE XXX,,,,,,4,,
+18,TDCH XXX 2,,,,,,4,,
+19,TDMV XXX 9,,,,,,4,,
+20,TDMV XXX 10,,,,,,4,,
+21,UD DANCE ELECTIVE 1,,,,,,4,,
+22,TDMV XXX 11,,,,,,4,,
+23,TDHD XXX 4,,,1,,,4,,
+24,TDMV XXX 12,,,,,,4,,
+25,UD DANCE ELECTIVE 2,,,,,,4,,

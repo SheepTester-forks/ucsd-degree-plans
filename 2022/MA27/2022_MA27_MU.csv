@@ -1,0 +1,55 @@
+Curriculum,Mathematics (Applied)
+Degree Plan,Mathematics (Applied)/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+5,CSE 11,CSE,11,,,,4,,,4
+6,MATH 20D / MATH 109,MATH,20D,4,,,4,,,4
+7,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+11,UD MAJOR 1,,,,,,4,,,5
+8,MATH 20E,MATH,20E,3;4,,,4,,,6
+12,UD MAJOR 2,,,,,,4,,,7
+13,UD MAJOR 3,,,,,,4,,,7
+14,UD MAJOR 4,,,,,,4,,,8
+15,UD MAJOR 5,,,,,,4,,,8
+16,UD MAJOR 6,,,,,,4,,,9
+17,UD MAJOR 7,,,,,,4,,,9
+18,UD MAJOR 8,,,,,,4,,,10
+19,UD MAJOR 9,,,,,,4,,,10
+20,UD MAJOR 10,,,,,,4,,,11
+21,UD MAJOR 11,,,,,,4,,,11
+22,UD MAJOR 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,GE / MCWP 40,MCWP,40,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,GE 2,,,,,,4,,,1
+10,GE / MCWP 50,MCWP,50,9,,,4,,,2
+25,GE 3,,,,,,4,,,2
+26,ELECTIVE 1,,,,,,4,,,3
+27,ELECTIVE 2,,,,,,4,,,3
+28,ELECTIVE 3,,,,,,4,,,3
+29,GE 4,,,,,,4,,,4
+30,GE 5,,,,,,4,,,4
+31,DEI,,,,,,4,,,5
+32,GE / ELECTIVE 1,,,,,,4,,,5
+33,GE / ELECTIVE 2,,,,,,4,,,6
+34,ELECTIVE 4,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,6
+36,MUIR UD ELECTIVE 1,,,,,,4,,,7
+37,ELECTIVE 6,,,,,,4,,,7
+38,MUIR UD ELECTIVE 2,,,,,,4,,,8
+39,ELECTIVE 7,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,9
+41,ELECTIVE 9,,,,,,4,,,9
+42,ELECTIVE 10,,,,,,4,,,10
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12
+45,ELECTIVE 13,,,,,,4,,,12

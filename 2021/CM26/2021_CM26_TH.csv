@@ -1,0 +1,54 @@
+Curriculum,Communication
+Degree Plan,Communication/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,09.0100
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10,COMM,10,,,,4,,,4
+2,COMM 100B,COMM,100B,1,,,4,,,5
+9,COMM INTERMEDIATE ELECTIVE,,,,,,4,,,5
+3,COMM 100C,COMM,100C,1,,,4,,,6
+10,COMM INTERMEDIATE / ADVANCED ELECTIVE 1,,,,,,4,,,6
+4,COMM 100A,COMM,100A,1,,,4,,,7
+11,COMM INTERMEDIATE / ADVANCED ELECTIVE 2,,,,,,4,,,7
+5,COMM 190,COMM,190,1;2,,,4,,,8
+12,COMM INTERMEDIATE / ADVANCED ELECTIVE 3,,,,,,4,,,8
+13,COMM INTERMEDIATE / ADVANCED ELECTIVE 4,,,,,,4,,,9
+14,COMM INTERMEDIATE / ADVANCED ELECTIVE 5,,,,,,4,,,9
+15,COMM INTERMEDIATE / ADVANCED ELECTIVE 6,,,,,,4,,,10
+16,COMM INTERMEDIATE / ADVANCED ELECTIVE 7,,,,,,4,,,10
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,DOC 1 / DEI,DOC,1,,,,4,,,1
+17,GE 1,,,,,,4,,,1
+18,GE 2,,,,,,4,,,1
+19,ELECTIVE 1,,,,,,4,,,1
+7,DOC 2,DOC,2,6,,,6,,,2
+20,GE 3,,,,,,4,,,2
+21,GE 4,,,,,,4,,,2
+22,ELECTIVE 2,,,,,,4,,,2
+8,DOC 3,DOC,3,7,,,6,,,3
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,ELECTIVE 3,,,,,,4,,,3
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
+28,ELECTIVE 4,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,ELECTIVE 5,,,,,,4,,,5
+31,GE 10,,,,,,4,,,6
+32,ELECTIVE 6,,,,,,4,,,6
+33,UD GE 1,,,,,,4,,,7
+34,ELECTIVE 7,,,,,,4,,,7
+35,UD GE 2,,,,,,4,,,8
+36,ELECTIVE 8,,,,,,4,,,8
+37,UD ELECTIVE,,,,,,4,,,9
+38,ELECTIVE 9,,,,,,4,,,10
+39,ELECTIVE 10,,,,,,4,,,11
+40,ELECTIVE 11,,,,,,4,,,11
+41,ELECTIVE 12,,,,,,4,,,11
+42,ELECTIVE 13,,,,,,4,,,12
+43,ELECTIVE 14,,,,,,4,,,12
+44,ELECTIVE 15,,,,,,4,,,12

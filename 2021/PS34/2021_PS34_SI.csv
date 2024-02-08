@@ -1,0 +1,54 @@
+Curriculum,"Political Science/Race, Ethnicity, and Politics"
+Degree Plan,"Political Science/Race, Ethnicity, and Politics/ Sixth"
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 10D,POLI,10D,,,,4,,,1
+7,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+8,LD POLI 2,,,,,,4,,,4
+9,UD POLI 1,,,,,,4,,,5
+10,UD POLI 2,,,,,,4,,,6
+11,"UD POLI / RACE, ETHNICITY, AND POLITICS 1",,,,,,4,,,6
+12,"UD POLI / RACE, ETHNICITY, AND POLITICS 2",,,,,,4,,,7
+13,UD POLI 3,,,,,,4,,,7
+14,UD POLI 4,,,,,,4,,,8
+15,"UD POLI / RACE, ETHNICITY, AND POLITICS 3",,,,,,4,,,8
+16,"UD POLI / RACE, ETHNICITY, AND POLITICS 4",,,,,,4,,,9
+17,UD POLI 5,,,,,,4,,,9
+18,UD POLI 6,,,,,,4,,,10
+19,"UD POLI / RACE, ETHNICITY, AND POLITICS 5",,,,,,4,,,10
+20,UD POLI 7,,,,,,4,,,11
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+4,CAT 2,CAT,2,3,,,6,,,2
+22,GE 2,,,,,,4,,,2
+5,CAT 3,CAT,3,4,,,6,,,3
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,4
+25,GE / DEI,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,GE 5,,,,,,4,,,5
+28,GE 6,,,,,,4,,,5
+29,ELECTIVE 2,,,,,,4,,,5
+30,GE 7,,,,,,4,,,6
+31,ELECTIVE 3,,,,,,4,,,6
+6,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,7
+32,ELECTIVE 4,,,,,,4,,,7
+33,GE 8,,,,,,4,,,8
+34,ELECTIVE 5,,,,,,4,,,8
+35,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,9
+36,ELECTIVE 6,,,,,,4,,,9
+37,ELECTIVE 7,,,,,,4,,,10
+38,ELECTIVE 8,,,,,,4,,,10
+39,ELECTIVE 9,,,,,,4,,,11
+40,ELECTIVE 10,,,,,,4,,,11
+41,UD ELECTIVE,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,12
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

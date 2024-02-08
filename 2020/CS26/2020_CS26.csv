@@ -1,0 +1,40 @@
+Curriculum,Computer Science
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,11.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CSE 8A,CSE,8A,,,,4,,
+3,MATH 20B,MATH,20B,1,,,4,,
+4,CSE 8B,CSE,8B,2,,,4,,
+5,MATH 20C,MATH,20C,3,,,4,,
+6,CSE 20,CSE,20,4,,,4,,
+7,CSE 15L,CSE,15L,4,,,2,,
+8,CSE 12,CSE,12,4,,,4,,
+9,CSE 30,CSE,30,8;7,,,4,,
+10,CSE 21,CSE,21,6,,,4,,
+22,CSE GENERAL SCIENCE 1,,,,,,4,,
+23,CSE GENERAL SCIENCE 2,,,,,,4,,
+11,CSE 105,CSE,105,8;7;6;10,,,4,,
+12,CSE 100,CSE,100,10;8;7;9,,,4,,
+13,MATH 18,MATH,18,,,,4,,
+14,CSE 101,CSE,101,12,,,4,,
+15,CSE 110,CSE,110,12,,,2,,
+16,CSE 140L,CSE,140L,6;9,,,2,,
+17,CSE 140,CSE,140,6;9,,,4,,
+18,CSE 103 (OR MATH 183 / ECON 120A / ECE 109),CSE,103,1;3;10,,,4,,
+24,SYSTEMS / NETWORKS,,,,,,4,,
+19,CSE 141L,CSE,141L,9;17;16,,,2,,
+20,CSE 141,CSE,141,9;17;16,,,4,,
+25,LANG / DATABASES,,,,,,4,,
+26,CSE ELECTIVE 1,,,,,,4,,
+27,LEARNING / VISION / GRAPHICS,,,,,,4,,
+28,CSE ELECTIVE 2,,,,,,4,,
+21,CSE ELECTIVE (CSE 197),CSE,197,,,,4,,
+29,SECURITY / CRYPTOGRAPHY,,,,,,4,,
+30,CSE ELECTIVE 3,,,,,,4,,
+31,CSE ELECTIVE 4,,,,,,4,,
+32,CSE ELECTIVE (OR TECHNICAL ELECTIVE) 1,,,,,,4,,
+33,CSE ELECTIVE (OR TECHNICAL ELECTIVE) 2,,,,,,4,,

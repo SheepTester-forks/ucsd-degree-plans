@@ -1,0 +1,68 @@
+Curriculum,Music
+Degree Plan,Music/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUSIC 43 1,,,,,,1,,,1
+2,MUSIC 2AK,,,,,,2,,,1
+3,ENSEMBLE 1,,,,,,2,,,1
+4,MUSIC 2A,,,,,,4,,,1
+5,MUSIC 43 2,,,,,,1,,,2
+6,MUSIC 2BK,,,,,,2,,,2
+7,MUSIC 2B,,,,,,4,,,2
+8,ENSEMBLE 2,,,,,,2,,,2
+9,ENSEMBLE 3,,,,,,2,,,3
+10,MUSIC 2C,,,,,,4,,,3
+11,"MUSIC 2CK, / (JAZZ STUDENTS) 2JK",,,,,,2,,,3
+12,MUSIC 43 3,,,,,,1,,,3
+13,MUSIC 120A,,,,,,4,,,4
+14,MUSIC 101A,,,,,,4,,,4
+15,MUSIC 43 4,,,,,,1,,,4
+16,MUSIC 120B,,,,,,4,,,5
+17,MUSIC 43 5,,,,,,1,,,5
+18,MUSIC 101B,,,,,,4,,,5
+19,MUSIC 101C,,,,,,4,,,6
+20,MUSIC 120C,,,,,,4,,,6
+21,MUSIC 43 6,,,,,,1,,,6
+22,MUSIC 43 7,,,,,,1,,,7
+23,MUSIC UD ELECTIVE 1,,,,,,4,,,7
+24,MUSIC 43 8,,,,,,1,,,8
+25,MUSIC UD ELECTIVE 2,,,,,,4,,,8
+26,MUSIC UD ELECTIVE 3,,,,,,4,,,9
+27,MUSIC 43 9,,,,,,1,,,9
+28,MUSIC EMPHASIS COURSE 1,,,,,,4,,,10
+29,MUSIC 43 10,,,,,,1,,,10
+30,MUSIC 43 11,,,,,,1,,,11
+31,MUSIC EMPHASIS COURSE 2,,,,,,4,,,11
+32,MUSIC EMPHASIS COURSE 3,,,,,,4,,,12
+33,MUSIC 43 12,,,,,,1,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+34,GE 1,,,,,,4,,,1
+35,GE / WRITING 1,,,,,,4,,,1
+36,GE / WRITING 2,,,,,,4,,,2
+37,GE 2,,,,,,4,,,2
+38,GE 3,,,,,,4,,,3
+39,GE 4,,,,,,4,,,3
+40,GE 5,,,,,,4,,,4
+41,GE 6,,,,,,4,,,4
+42,GE 7,,,,,,4,,,5
+43,GE 8,,,,,,4,,,5
+44,GE 9,,,,,,4,,,6
+45,DEI,,,,,,4,,,6
+46,ELECTIVE 1,,,,,,4,,,7
+47,ELECTIVE 2,,,,,,4,,,7
+48,ELECTIVE 3,,,,,,2,,,8
+49,ELECTIVE 4,,,,,,4,,,8
+50,ELECTIVE 5,,,,,,2,,,8
+51,ELECTIVE 6,,,,,,4,,,9
+52,ELECTIVE 7,,,,,,4,,,9
+53,MUIR UD ELECTIVE 1,,,,,,4,,,10
+54,ELECTIVE 8,,,,,,4,,,10
+55,MUIR UD ELECTIVE 2,,,,,,4,,,11
+56,ELECTIVE 9,,,,,,4,,,11
+57,MUIR UD ELECTIVE 3,,,,,,4,,,12
+58,ELECTIVE 10,,,,,,4,,,12

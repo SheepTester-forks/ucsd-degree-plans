@@ -1,0 +1,53 @@
+Curriculum,Dance
+Degree Plan,Dance/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0301
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,TDTR 10,TDTR,10,,,,4,,,1
+1,TDDM 1,TDDM,1,,,,4,,,1
+20,CORE MOVEMENT 1,,,,,,4,,,2
+3,TDHD 20,TDHD,20,2,,,4,,,2
+5,TDHD 21,TDHD,21,2,,,4,,,3
+4,TDDM 5,TDDM,5,,,,4,,,3
+21,CORE MOVEMENT 2,,,,,,4,,,4
+6,TDPR 6,TDPR,6,,,,4,,,4
+7,TDTR 15,TDTR,15,,,,4,,,5
+8,TDDM 100,TDDM,100,1,,,4,,,5
+9,TDTR 20,TDTR,20,,,,4,,,6
+10,TDMV 20,TDMV,20,,,,4,,,6
+22,CORE MOVEMENT 3,,,,,,4,,,7
+11,TDTR 104,TDTR,104,,,,4,,,7
+23,TDHD XXX,,,2,,,4,,,8
+24,CORE MOVEMENT 4,,,,,,4,,,8
+12,TDDM 101,TDDM,101,1,,,4,,,9
+25,UD ELECTIVE MOVEMENT 1,,,,,,4,,,9
+26,UD ELECTIVE MOVEMENT 2,,,,,,4,,,10
+27,UD ELECTIVE MOVEMENT 3,,,,,,4,,,11
+28,UD ELECTIVE MOVEMENT 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,MATH 10A / 20A,MATH,10A,,,,4,,,1
+14,HUM 1,HUM,1,,,,6,,,2
+15,MATH 10B / 20B,MATH,10B,13,,,4,,,2
+16,HUM 2,HUM,2,,,,6,,,3
+29,MATH GE,,,,,,4,,,3
+17,HUM 3,HUM,3,14,,,4,,,4
+30,PHYSICS GE,,,,,,4,,,4
+18,HUM 4,HUM,4,,,,4,,,5
+31,CHEMISTRY GE,,,,,,4,,,5
+19,HUM 5,HUM,5,,,,4,,,6
+32,BIOLOGY GE,,,,,,4,,,6
+33,NATURAL SCIENCE GE 1,,,,,,4,,,7
+34,LANGUAGE 1,,,,,,5,,,7
+35,NATURAL SCIENCE GE 2,,,,,,4,,,8
+36,LANGUAGE 2,,,,,,5,,,8
+37,LANGUAGE 3,,,,,,5,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,LANGUAGE 4,,,,,,5,,,10
+40,SOCIAL SCIENCE / DEI,,,,,,4,,,11
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,SOCIAL SCIENCE,,,,,,4,,,12
+43,UD AHI / UD ELECTIVE,,,,,,4,,,12

@@ -1,0 +1,56 @@
+Curriculum,Environmental Chemistry
+Degree Plan,Environmental Chemistry/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+5,CHEM 6B,CHEM,6B,3;2,,,4,,,2
+4,MATH 20B,MATH,20B,2,,,4,,,2
+7,CHEM 6C,CHEM,6C,5,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+8,CHEM 7LM / 7L,CHEM,7LM,5,,,4,,,3
+11,CHEM 40A,CHEM,40A,5,,,4,,,4
+10,MATH 20D,MATH,20D,6,,,4,,,4
+9,PHYS 2A,PHYS,2A,2;2,,,4,,,4
+14,CHEM 40B,CHEM,40B,11,,,4,,,5
+13,CHEM 43AM / 43A,CHEM,43AM,8;11,,,4,,,5
+12,PHYS 2B,PHYS,2B,9;4,,,4,,,5
+15,PHYS 2BL / 2CL / 2DL,PHYS,2BL,9,,,2,,,6
+16,PHYS 2C / 2D,PHYS,2C,9;6,,,4,,,6
+19,CHEM 130,CHEM,130,7;16;10,,,4,,,7
+18,CHEM 171,CHEM,171,7,,,4,,,7
+17,CHEM 100A,CHEM,100A,7,,,4,,,7
+21,CHEM 131,CHEM,131,7;16;6,,,4,,,8
+20,CHEM 172,CHEM,172,7,,,4,,,8
+24,CHEM 132,CHEM,132,19;21,,,4,,,9
+22,CHEM 173,CHEM,173,7,,,4,,,9
+23,CHEM 105A,CHEM,105A,17;15;19,,,4,,,9
+30,CHEM ELECTIVE 1,,,,,,4,,,10
+31,CHEM ELECTIVE 2,,,,,,4,,,10
+25,CHEM 100B,CHEM,100B,17;16;15,,,5,,,11
+32,CHEM ELECTIVE 3,,,,,,4,,,11
+26,CHEM 174,CHEM,174,7,,,4,,,12
+33,CHEM ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+34,DEI,,,,,,4,,,1
+35,ALTERNATIVE 1,,,,,,4,,,1
+27,SYN 1,SYN,1,,,,4,,,2
+36,ALTERNATIVE 2,,,,,,4,,,2
+37,ALTERNATIVE 3,,,,,,4,,,3
+28,SYN 2,SYN,2,27,,,4,,,4
+38,ALTERNATIVE 4,,,,,,4,,,5
+39,ALTERNATIVE 5,,,,,,4,,,6
+40,ALTERNATIVE 6,,,,,,4,,,6
+41,ELECTIVE 1,,,,,,4,,,7
+42,ELECTIVE 2,,,,,,4,,,8
+43,ELECTIVE 3,,,,,,4,,,8
+29,SYN 100,SYN,100,27;28,,,4,,,9
+44,ELECTIVE 4,,,,,,4,,,10
+45,HIGH - IMPACT,,,,,,2,,,10
+46,ELECTIVE 5,,,,,,3,,,11
+47,ELECTIVE 6,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Psychology
+Degree Plan,Psychology/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,42.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,NATURAL SCIENCE 1,,,,,,4,,,1
+7,NATURAL SCIENCE 2,,,,,,4,,,2
+8,FORMAL SKILLS,,,,,,4,,,3
+1,PSYC 60,PSYC,60,,,,4,,,4
+2,PSYC 70,PSYC,70,1,,,4,,,5
+9,COMPUTER PROGRAMMING,,,,,,4,,,6
+10,PSYC CORE 1,,,,,,4,,,7
+11,PSYC CORE 2,,,,,,4,,,7
+12,PSYC CORE 3,,,,,,4,,,8
+13,PSYC CORE 4,,,,,,4,,,8
+14,PSYC UD ELECTIVE 1,,,,,,4,,,9
+15,PSYC UD ELECTIVE 2,,,,,,4,,,9
+16,PSYC UD ELECTIVE 3,,,,,,4,,,10
+17,PSYC UD ELECTIVE 4,,,,,,4,,,10
+18,PSYC UD ELECTIVE 5,,,,,,4,,,11
+19,PSYC UD ELECTIVE 6,,,,,,4,,,11
+20,PSYC UD ELECTIVE 7,,,,,,4,,,12
+21,PSYC UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,DOC 1 / DEI,DOC,1,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+4,DOC 2,DOC,2,3,,,6,,,2
+24,GE 3,,,,,,4,,,2
+25,GE 4,,,,,,4,,,2
+5,DOC 3,DOC,3,4,,,6,,,3
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,ELECTIVE 1,,,,,,4,,,4
+29,ELECTIVE 2,,,,,,4,,,4
+30,ELECTIVE 3,,,,,,4,,,4
+31,ELECTIVE 4,,,,,,4,,,5
+32,ELECTIVE 5,,,,,,4,,,5
+33,ELECTIVE 6,,,,,,4,,,5
+34,ELECTIVE 7,,,,,,4,,,6
+35,ELECTIVE 8,,,,,,4,,,6
+36,ELECTIVE 9,,,,,,4,,,6
+37,UD GE 1,,,,,,4,,,7
+38,ELECTIVE 10,,,,,,4,,,7
+39,UD GE 2,,,,,,4,,,8
+40,ELECTIVE 11,,,,,,4,,,8
+41,UD ELECTIVE,,,,,,4,,,9
+42,ELECTIVE 12,,,,,,4,,,10
+43,ELECTIVE 13,,,,,,4,,,11
+44,ELECTIVE 14,,,,,,4,,,12

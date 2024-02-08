@@ -1,0 +1,50 @@
+Curriculum,International Studies - International Business
+Degree Plan,International Studies - International Business/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,LANGUAGE 1,,,,,,5,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+19,LANGUAGE 2,,,,,,5,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+20,LANGUAGE 3,,,,,,5,,,3
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+21,LANGUAGE 4,,,,,,5,,,4
+4,ECON / MGT 4,MGT,4,,,,4,,,4
+6,MGT 5,MGT,5,,,,4,,,5
+5,INTL 101 / 102 1,INTL,101,13,,,4,,,5
+22,INTL 101 / 102 2,INTL,101,13,,,4,,,6
+23,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+7,DF2 - MGT 164,MGT,164,,,,4,,,8
+24,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,8
+8,DF1 - MGT 103,MGT,103,,,,4,,,8
+9,DF3 - MGT 181 / 187,MGT,181,1;6;4,,,4,,,9
+25,DF4 - MGT ELECTIVE,,,,,,4,,,9
+26,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,9
+10,DF5 - MGT 112,MGT,112,8;9,,,4,,,10
+11,INTL 190,INTL,190,5,,,4,,,10
+12,DF6 - MGT 166,MGT,166,,,,4,,,11
+27,DF7 - MGT ELECTIVE,,,,,,4,,,11
+28,DF8 - MGT ELECTIVE,,,,,,4,,,12
+29,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,FINE ARTS,,,,,,4,,,1
+13,HUM 1,HUM,1,,,,6,,,2
+14,HUM 2,HUM,2,,,,6,,,3
+31,CHEMISTRY GE,,,,,,4,,,4
+15,HUM 3,HUM,3,13,,,4,,,4
+32,PHYSICS GE,,,,,,4,,,5
+16,HUM 4,HUM,4,,,,4,,,5
+33,DEI,,,,,,4,,,6
+34,BIOLOGY GE,,,,,,4,,,6
+17,HUM 5,HUM,5,,,,4,,,6
+35,NATURAL SCIENCE GE 1,,,,,,4,,,8
+36,NATURAL SCIENCE GE 2,,,,,,4,,,9
+37,SOCIAL SCIENCE 1,,,,,,4,,,10
+38,UD ELECTIVE,,,,,,4,,,10
+39,SOCIAL SCIENCE 2,,,,,,4,,,11
+40,AHI / ELECTIVE,,,,,,4,,,12

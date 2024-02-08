@@ -1,0 +1,53 @@
+Curriculum,Critical Gender Studies
+Degree Plan,Critical Gender Studies/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CGS 2A,CGS,2A,,,,4,,,1
+2,CGS 2B,CGS,2B,,,,4,,,3
+12,CGS INTER COURSE 1,,,,,,4,,,4
+13,CGS INTER COURSE 2,,,,,,4,,,5
+14,CGS INTER COURSE 3,,,,,,4,,,6
+15,CGS UD ELECTIVE 1,,,,,,4,,,6
+3,CGS 100A,CGS,100A,1,,,4,,,7
+16,CGS UD ELECTIVE 2,,,,,,4,,,7
+17,CGS ADV COURSE 1,,,,,,4,,,7
+18,CGS UD ELECTIVE 3,,,,,,4,,,8
+19,CGS ADV COURSE 2,,,,,,4,,,8
+4,CGS 100B,CGS,100B,1,,,4,,,9
+20,CGS ADV COURSE 3,,,,,,4,,,9
+21,CGS UD ELECTIVE 4,,,,,,4,,,9
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MATH 10A,MATH,10A,,,,4,,,1
+22,CHEMISTRY GE,,,,,,4,,,1
+23,PHYSICS GE,,,,,,4,,,2
+6,MATH 10B,MATH,10B,5,,,4,,,2
+7,HUM 1,HUM,1,,,,6,,,2
+24,MATH GE,,,,,,4,,,3
+8,HUM 2,HUM,2,,,,6,,,3
+25,ELECTIVE 1,,,,,,4,,,4
+9,HUM 3,HUM,3,7,,,4,,,4
+26,LANGUAGE 1,,,,,,5,,,4
+27,ELECTIVE 2,,,,,,4,,,5
+10,HUM 4,HUM,4,,,,4,,,5
+28,LANGUAGE 2,,,,,,5,,,5
+11,HUM 5,HUM,5,,,,4,,,6
+29,LANGUAGE 3,,,,,,5,,,6
+30,LANGUAGE 4,,,,,,5,,,7
+31,BIOLOGY GE,,,,,,4,,,8
+32,ELECTIVE 3,,,,,,4,,,8
+33,FINE ARTS,,,,,,4,,,9
+34,NATURAL SCIENCE GE 1,,,,,,4,,,10
+35,UD ELECTIVE 1,,,,,,4,,,10
+36,UD ELECTIVE 2,,,,,,4,,,10
+37,ELECTIVE 4,,,,,,4,,,10
+38,NATURAL SCIENCE GE 2,,,,,,4,,,11
+39,UD ELECTIVE 3,,,,,,4,,,11
+40,ELECTIVE 5,,,,,,4,,,11
+41,ELECTIVE 6,,,,,,4,,,12
+42,ELECTIVE 7,,,,,,4,,,12
+43,ELECTIVE 8,,,,,,4,,,12

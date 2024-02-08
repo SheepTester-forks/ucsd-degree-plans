@@ -1,0 +1,57 @@
+Curriculum,Italian Literature
+Degree Plan,Italian Literature/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0902
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LIIT 1A,LIIT,1A,,,,2.5,,,1
+2,LIIT 1AX,LIIT,1AX,,,,2.5,,,1
+4,LIIT 1BX,LIIT,1BX,1;2,,,2.5,,,2
+3,LIIT 1B,LIIT,1B,1;2,,,2.5,,,2
+5,LIIT 1C,LIIT,1C,3;4,,,2.5,,,3
+6,LIIT 1CX,LIIT,1CX,3;4,,,2.5,,,3
+7,LTIT 2A,LTIT,2A,5;6,,,5,,,4
+8,LTIT 2B,LTIT,2B,7,,,5,,,5
+9,LTIT 50,LTIT,50,,,,4,,,6
+10,LTIT 100,LTIT,100,9,,,4,,,7
+13,UD LTEN 1,,,,,,4,,,7
+11,LTIT 115,LTIT,115,,,,4,,,8
+14,UD LTIT 1,,,,,,4,,,8
+12,LTIT 161,LTIT,161,10,,,4,,,9
+15,UD LTIT 2,,,,,,4,,,9
+16,UD LTIT 3,,,,,,4,,,10
+17,UD LTIT 4,,,,,,4,,,10
+18,UD LTIT 5,,,,,,4,,,11
+19,UD LTEN 2,,,,,,4,,,11
+20,UD LTIT 6,,,,,,4,,,12
+21,UD LTEN 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+22,GE / WRITING 1,,,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,GE / WRITING 2,,,,,,4,,,2
+25,GE 2,,,,,,4,,,2
+26,GE 3,,,,,,4,,,2
+27,GE 4,,,,,,4,,,3
+28,GE 5,,,,,,4,,,3
+29,ELECTIVE 1,,,,,,4,,,3
+30,GE 6,,,,,,4,,,4
+31,GE 7,,,,,,4,,,4
+32,ELECTIVE 2,,,,,,4,,,4
+33,DEI,,,,,,4,,,5
+34,GE 8,,,,,,4,,,5
+35,ELECTIVE 3,,,,,,4,,,5
+36,ELECTIVE 4,,,,,,4,,,6
+37,GE 9,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,6
+39,MUIR UDE 1,,,,,,4,,,7
+40,ELECTIVE 6,,,,,,4,,,7
+41,MUIR UDE 2,,,,,,4,,,8
+42,ELECTIVE 7,,,,,,3,,,8
+43,MUIR UDE 3,,,,,,4,,,9
+44,ELECTIVE 8,,,,,,4,,,9
+45,ELECTIVE 9,,,,,,4,,,10
+46,ELECTIVE 10,,,,,,4,,,11
+47,ELECTIVE 11,,,,,,4,,,12

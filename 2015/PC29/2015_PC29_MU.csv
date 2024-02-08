@@ -1,0 +1,55 @@
+Curriculum,Psychology with a Specialization in Cognitive Psychology
+Degree Plan,Psychology with a Specialization in Cognitive Psychology/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.2701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+6,NATURAL SCIENCE 1,,,,,,4,,,1
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+7,NATURAL SCIENCE 2,,,,,,4,,,2
+8,COMPUTER PROGRAMMING,,,,,,4,,,3
+9,NATURAL SCIENCE 3,,,,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,PSYC 70,PSYC,70,3,,,4,,,5
+5,PSYC 105,PSYC,105,,,,4,,,7
+10,PSYC CORE 1,,,,,,4,,,7
+11,PSYC CORE 2,,,,,,4,,,8
+12,PSYC CORE 3,,,,,,4,,,8
+13,UD PSYC ELECTIVE 1,,,,,,4,,,9
+14,UD PSYC ELECTIVE 2,,,,,,4,,,9
+15,UD RESEARCH LAB 1,,,,,,4,,,9
+16,UD PSYC AREA OF SPECIALIZATION 1,,,,,,4,,,10
+17,UD PSYC ELECTIVE 3,,,,,,4,,,10
+18,UD RESEARCH LAB 2,,,,,,4,,,10
+19,UD PSYC AREA OF SPECIALIZATION 2,,,,,,4,,,11
+20,UD PSYC ELECTIVE 4,,,,,,4,,,11
+21,UD PSYC AREA OF SPECIALIZATION 3,,,,,,4,,,12
+22,UD PSYC ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,GE / WRITING 1,,,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+25,GE / WRITING 2,,,,,,4,,,2
+26,GE 2,,,,,,4,,,2
+27,GE 3,,,,,,4,,,3
+28,GE 4,,,,,,4,,,3
+29,GE 5,,,,,,4,,,4
+30,GE 6,,,,,,4,,,4
+31,DEI,,,,,,4,,,4
+32,GE 7,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,5
+35,GE 8,,,,,,4,,,6
+36,GE 9,,,,,,4,,,6
+37,ELECTIVE 3,,,,,,4,,,6
+38,ELECTIVE 4,,,,,,4,,,6
+39,MUIR UDE,,,,,,4,,,7
+40,ELECTIVE 5,,,,,,4,,,7
+41,ELECTIVE 6,,,,,,4,,,8
+42,ELECTIVE 7,,,,,,4,,,8
+43,ELECTIVE 8,,,,,,4,,,9
+44,ELECTIVE 9,,,,,,4,,,11
+45,ELECTIVE 10,,,,,,4,,,12

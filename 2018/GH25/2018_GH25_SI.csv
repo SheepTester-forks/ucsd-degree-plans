@@ -1,0 +1,54 @@
+Curriculum,Global Health
+Degree Plan,Global Health/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,GE 1,,,,,,4,,,1
+12,GE 2,,,,,,4,,,2
+1,HILD 30 / GLBH 20 REQT,HILD,30,,,,4,,,3
+13,LD SOC COURSE,,,,,,4,,,4
+14,STATISTICS,,,,,,4,,,5
+2,GLBH 148 GLOBAL HEALTH & CULTURAL DIVERSITY,GLBH,148,,,,4,,,7
+3,GLBH 181 ESSENTIALS OF GLOBAL HEALTH,GLBH,181,,,,4,,,7
+15,POLICY ANALYSIS,,,,,,4,,,7
+4,MGT 173 PROJECT MANAGEMENT - HEALTH SERVICES,MGT,173,,,,4,,,9
+16,ELECTIVE 1,,,,,,4,,,10
+5,GLBH 150A SENIOR CAPSTONE I,GLBH,150A,,,,4,,,11
+6,GLBH 150B SENIOR CAPSTONE II,GLBH,150B,5,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,CAT 1,CAT,1,,,,4,,,1
+17,ELECTIVE 2,,,,,,4,,,1
+18,ELECTIVE 3,,,,,,4,,,1
+8,CAT 2,CAT,2,7,,,6,,,2
+19,GE 3,,,,,,4,,,2
+20,ELECTIVE 4,,,,,,4,,,2
+9,CAT 3,CAT,3,8,,,6,,,3
+21,GE / DEI,,,,,,4,,,3
+22,ELECTIVE 5,,,,,,4,,,3
+23,GE 4,,,,,,4,,,4
+24,ELECTIVE 6,,,,,,4,,,4
+25,ELECTIVE 7,,,,,,4,,,4
+26,GE 5,,,,,,4,,,5
+27,ELECTIVE 8,,,,,,4,,,5
+28,ELECTIVE 9,,,,,,4,,,5
+29,ELECTIVE 10,,,,,,4,,,6
+30,ELECTIVE 11,,,,,,4,,,6
+31,ELECTIVE 12,,,,,,4,,,6
+32,ELECTIVE 13,,,,,,4,,,6
+33,ELECTIVE 14,,,,,,4,,,7
+34,UD ELECTIVE 1,,,,,,4,,,8
+35,UD ELECTIVE 2,,,,,,4,,,8
+36,UD ELECTIVE 3,,,,,,4,,,8
+37,UD ELECTIVE 4,,,,,,4,,,9
+38,UD ELECTIVE 5,,,,,,4,,,9
+39,UD ELECTIVE 6,,,,,,4,,,10
+10,PRAC / CAT 125 1,CAT,125,,,,4,,,10
+40,ELECTIVE 15,,,,,,4,,,10
+41,PRAC / CAT 125 2,CAT,125,,,,4,,,11
+42,ELECTIVE 16,,,,,,4,,,11
+43,ELECTIVE 17,,,,,,4,,,12
+44,ELECTIVE 18,,,,,,4,,,12

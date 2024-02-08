@@ -1,0 +1,57 @@
+Curriculum,Education Sciences
+Degree Plan,Education Sciences/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,13.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,EDS LD,,,,,,2,,,4
+5,EDS UD ELECTIVE 1,,,,,,4,,,7
+6,EDS UD 1,,,,,,4,,,7
+1,EDS 103,EDS,103,,,,4,,,8
+7,EDS UD 2,,,,,,4,,,8
+2,EDS 102,EDS,102,,,,4,,,9
+8,EDS UD 3,,,,,,4,,,9
+9,EDS UD: INTRO TO LEARNING CONTEXTS,,,,,,4,,,10
+10,EDS UD ELECTIVE 2,,,,,,4,,,10
+3,EDS 139 1,EDS,139,,,,2,,,10
+11,EDS CAPSTONE 1,,,,,,4,,,11
+12,EDS UD ELECTIVE 3,,,,,,4,,,11
+13,EDS 139 2,EDS,139,,,,2,,,11
+14,EDS CAPSTONE 2,,,,,,4,,,12
+15,EDS 139 3,EDS,139,,,,2,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,GE 1,,,,,,4,,,1
+17,GE 2,,,,,,4,,,1
+18,GE 3,,,,,,4,,,1
+19,GE / WRITING 1,,,,,,4,,,1
+20,GE 4,,,,,,4,,,2
+21,GE 5,,,,,,4,,,2
+22,GE / WRITING 2,,,,,,4,,,2
+23,ELECTIVE 1,,,,,,4,,,2
+24,GE 6,,,,,,4,,,3
+25,GE 7,,,,,,4,,,3
+26,DEI,,,,,,4,,,3
+27,ELECTIVE 2,,,,,,4,,,3
+28,GE 8,,,,,,4,,,4
+29,ELECTIVE 3,,,,,,4,,,4
+30,ELECTIVE 4,,,,,,4,,,4
+31,GE 9,,,,,,4,,,5
+32,GE 10,,,,,,4,,,5
+33,ELECTIVE 5,,,,,,4,,,5
+34,ELECTIVE 6,,,,,,4,,,5
+35,GE 11,,,,,,4,,,6
+36,GE 12,,,,,,4,,,6
+37,ELECTIVE 7,,,,,,4,,,6
+38,ELECTIVE 8,,,,,,4,,,6
+39,MUIR UD ELECTIVE,,,,,,4,,,7
+40,ELECTIVE 9,,,,,,4,,,7
+41,ELECTIVE 10,,,,,,4,,,8
+42,ELECTIVE 11,,,,,,4,,,8
+43,ELECTIVE 12,,,,,,4,,,9
+44,ELECTIVE 13,,,,,,4,,,9
+45,ELECTIVE 14,,,,,,4,,,10
+46,ELECTIVE 15,,,,,,4,,,11
+47,ELECTIVE 16,,,,,,4,,,12

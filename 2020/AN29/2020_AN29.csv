@@ -1,0 +1,29 @@
+Curriculum,Biological Anthropology
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,45.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,BILD 1,BILD,1,,,,4,,
+2,MATH 10A / 20A,MATH,10A,,,,4,,
+3,BILD 2,BILD,2,1,,,4,,
+4,MATH 10B / 20B,MATH,10B,2,,,4,,
+5,MATH 11 / PSYC 60,MATH,11,4,,,4,,
+6,ANTH 2,ANTH,2,,,,4,,
+7,CHEM 6A,CHEM,6A,,,,4,,
+8,CHEM 6B,CHEM,6B,7;2,,,4,,
+9,ANTH 5 / ANTH 42 / ANTH 43 / SOCI 70 / PSYC 1,ANTH,5,,,,4,,
+10,CHEM 6C,CHEM,6C,8,,,4,,
+14,ANBI CONCENTRATION COURSE 1,,,,,,4,,
+11,ANTH 101,ANTH,101,,,,4,,
+15,ANBI CONCENTRATION COURSE 2,,,,,,4,,
+12,ANTH 102,ANTH,102,,,,4,,
+16,ANBI CONCENTRATION COURSE 3,,,,,,4,,
+13,ANTH 103,ANTH,103,,,,4,,
+17,ANBI CONCENTRATION COURSE 4,,,,,,4,,
+18,UPPER DIVISION METHODS COURSE (ANBI),,,,,,4,,
+19,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 1",,,,,,4,,
+20,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 2",,,,,,4,,
+21,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 3",,,,,,4,,
+22,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 4",,,,,,4,,

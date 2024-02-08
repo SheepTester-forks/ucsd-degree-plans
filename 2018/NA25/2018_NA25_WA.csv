@@ -1,0 +1,56 @@
+Curriculum,Nanoengineering
+Degree Plan,Nanoengineering/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,NANO 15,NANO,15,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+6,BILD 1,BILD,1,2,,,4,,,2
+7,NANO 1 (OR NANO 4),NANO,1,,,,1,,,2
+10,PHYS 2A,PHYS,2A,1,,,4,,,3
+9,CHEM 6C,CHEM,6C,5,,,4,,,3
+8,MATH 20C,MATH,20C,4,,,4,,,3
+11,CHEM 7L,CHEM,7L,5,,,4,,,4
+12,PHYS 2B,PHYS,2B,10;1;4,,,4,,,4
+13,MATH 18,MATH,18,,,,4,,,4
+14,NANO 101,NANO,101,5;12;8;3;7,,,4,,,5
+15,PHYS 2C,PHYS,2C,10;1;4;8,,,4,,,5
+16,MATH 20D,MATH,20D,8,,,4,,,5
+17,NANO 106,NANO,106,,,,4,,,6
+18,PHYS 2D,PHYS,2D,10;12;16,,,4,,,6
+19,MATH 20E,MATH,20E,13;8,,,4,,,6
+20,NANO 102,NANO,102,9;16;14;18;17,,,4,,,7
+29,FOCUS ELECTIVE 1,,,,,,4,,,7
+21,NANO 107,NANO,107,3;4;12;14,,,4,,,8
+22,NANO 104,NANO,104,16;14,,,4,,,8
+30,FOCUS ELECTIVE 2,,,,,,4,,,8
+31,FOCUS ELECTIVE 3,,,,,,4,,,9
+32,NANO ELECTIVE 1,,,,,,4,,,9
+23,NANO 103,NANO,103,6;9;14;20,,,4,,,9
+33,NANO ELECTIVE 2,,,,,,4,,,10
+34,FOCUS ELECTIVE 4,,,,,,4,,,10
+24,NANO 110,NANO,110,20;22;3,,,4,,,10
+25,NANO 111,NANO,111,20,,,4,,,11
+26,NANO 120A,NANO,120A,24,,,4,,,11
+35,FOCUS ELECTIVE 5,,,,,,4,,,12
+27,NANO 120B,NANO,120B,26,,,4,,,12
+28,NANO 112,NANO,112,20;22,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,GE 1,,,,,,4,,,1
+37,GE 2,,,,,,4,,,2
+38,GE 3,,,,,,4,,,3
+39,GE 4,,,,,,4,,,4
+40,GE 5,,,,,,4,,,5
+41,GE / DEI,,,,,,4,,,6
+42,GE 6,,,,,,4,,,7
+43,GE 7,,,,,,4,,,7
+44,GE 8,,,,,,4,,,8
+45,GE 9,,,,,,4,,,9
+46,ELECTIVE,,,,,,4,,,11

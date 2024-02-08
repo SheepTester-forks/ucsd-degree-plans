@@ -1,0 +1,59 @@
+Curriculum,Aerospace Engineering
+Degree Plan,Aerospace Engineering/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MAE 2,MAE,2,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,PHYS 2A,PHYS,2A,1,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 2B,PHYS,2B,5;1;4,,,4,,,3
+9,MATH 20D,MATH,20D,6,,,4,,,4
+8,MAE 21,MAE,21,5;2;4,,,4,,,4
+10,PHYS 2C,PHYS,2C,5;1;4;6,,,4,,,4
+11,MATH 18,MATH,18,,,,4,,,5
+12,MAE 8,MAE,8,1;4,,,4,,,5
+13,MAE 130A,MAE,130A,5;6,,,4,,,5
+14,MATH 20E,MATH,20E,11;6,,,4,,,6
+15,MAE 130B,MAE,130B,13,,,4,,,6
+16,MAE 131A,MAE,131A,13;9,,,4,,,6
+17,MAE 11,MAE,11,10;2,,,4,,,7
+20,MAE 105,MAE,105,5;7;9,,,4,,,7
+18,MAE 107,MAE,107,12;11,,,4,,,7
+19,MAE 180A,MAE,180A,,,,4,,,7
+21,MAE 101A,MAE,101A,5;9;14,,,4,,,8
+23,MAE 130C,MAE,130C,,,,4,,,8
+24,MAE 143A,MAE,143A,9;14;11,,,4,,,8
+22,SE 160A,SE,160A,15;16,,,4,,,8
+26,MAE 101B,MAE,101B,21;17,,,4,,,9
+27,MAE 143B,MAE,143B,24,,,4,,,9
+28,MAE 170,MAE,170,10,,,4,,,9
+25,SE 160B,SE,160B,22;23,,,4,,,9
+29,MAE 101C,MAE,101C,21;26;20,,,4,,,10
+30,MAE 104,MAE,104,21;26,,,4,,,10
+32,MAE 113,MAE,113,17;21;26,,,4,,,11
+33,MAE 142,MAE,142,30;27,,,4,,,11
+34,MAE 155A,MAE,155A,3;8;30;23;25,,,4,,,11
+31,MAE 175A,MAE,175A,29;27;28,,,4,,,11
+35,MAE 155B,MAE,155B,32;33;34;28,,,4,,,12
+41,MAE TE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,MMW 11,MMW,11,,,,4,,,1
+37,MMW 12,MMW,12,,,,6,,,2
+42,GE 1,,,,,,4,,,2
+43,GE 2,,,,,,4,,,3
+38,MMW 13,MMW,13,37,,,6,,,3
+44,GE 3,,,,,,4,,,4
+45,GE / DEI,,,,,,4,,,4
+39,MMW 14,MMW,14,37;38,,,4,,,5
+40,MMW 15,MMW,15,37;38,,,4,,,6
+46,GE 4,,,,,,4,,,10
+47,GE 5,,,,,,4,,,10
+48,GE 6,,,,,,4,,,12
+49,GE 7,,,,,,4,,,12

@@ -1,0 +1,53 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Biostatistics
+Degree Plan,Bachelor of Science in Public Health with Concentration in Biostatistics/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,SOCIAL / BEHAV SCIENCE (SOCIAL SCIENCE GE - SEE NOTE) 1,,,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+9,BILD 2 (NAT SCI GE),BILD,2,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+22,SOCIAL / BEHAV SCIENCE (SOCIAL SCIENCE GE - SEE NOTE) 2,,,,,,4,,,3
+7,MATH 11,MATH,11,2,,,5,,,4
+5,FMPH 40,FMPH,40,,,,4,,,4
+6,BILD 1 (BIOLOGY GE),BILD,1,,,,4,,,4
+3,MATH 18,MATH,18,,,,4,,,5
+8,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
+23,COMPUTER PROGRAMMING,,,,,,4,,,6
+24,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
+10,BILD 3 (NAT SCI GE),BILD,3,,,,4,,,6
+11,FMPH 101 / FMPH 102 1,FMPH,101,5;7,,,4,,,7
+25,MAJOR CONCENTRATION UDE 1,,,,,,4,,,7
+26,FMPH 101 / FMPH 102 2,FMPH,101,5;7,,,4,,,8
+12,USP 143,USP,143,,,,4,,,8
+13,FMPH 120 / FMPH 130 1,FMPH,120,5,,,4,,,9
+27,MAJOR CONCENTRATION UDE 2,,,,,,4,,,9
+28,FMPH 120 / FMPH 130 2,FMPH,120,5,,,4,,,10
+29,FMPH UDE,,,,,,4,,,10
+14,FMPH 193,FMPH,193,,,,4,,,11
+30,MAJOR UDE 1,,,,,,4,,,11
+15,FMPH 194,FMPH,194,14,,,4,,,12
+31,MAJOR UDE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+32,PHYSICS GE,,,,,,4,,,1
+16,HUM 1,HUM,1,,,,6,,,2
+17,HUM 2,HUM,2,,,,6,,,3
+18,HUM 3,HUM,3,16,,,4,,,4
+19,HUM 4,HUM,4,,,,4,,,5
+20,HUM 5,HUM,5,,,,4,,,6
+33,DEI,,,,,,4,,,7
+34,LANGUAGE GE 1,,,,,,5,,,7
+35,CHEMISTRY GE,,,,,,4,,,8
+36,LANGUAGE GE 2,,,,,,5,,,8
+37,ELECTIVE,,,,,,4,,,9
+38,LANGUAGE GE 3,,,,,,5,,,9
+39,UD ELECTIVE 1,,,,,,4,,,10
+40,LANGUAGE GE 4,,,,,,5,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,FINE ARTS GE,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

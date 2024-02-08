@@ -1,0 +1,58 @@
+Curriculum,"Ecology, Behavior and Evolution"
+Degree Plan,"Ecology, Behavior and Evolution/ Muir"
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1399
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+1,BILD 4,BILD,4,,,,2,,,1
+4,BILD 3,BILD,3,,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;3,,,4,,,2
+6,MATH 10B / 20B,MATH,10B,3,,,4,,,2
+9,MATH 11,MATH,11,6,,,5,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+7,BILD 1,BILD,1,,,,4,,,3
+10,PHYS 1A,PHYS,1A,3,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,3,,,2,,,4
+12,BILD 2,BILD,2,7,,,4,,,4
+13,PHYS 1B,PHYS,1B,6;10,,,3,,,5
+14,PHYS 1BL,PHYS,1BL,6;10;11,,,2,,,5
+15,BIEB 102,BIEB,102,4,,,4,,,5
+16,PHYS 1C,PHYS,1C,6;13,,,3,,,6
+17,PHYS 1CL,PHYS,1CL,6;13;14,,,2,,,6
+18,BICD 100,BICD,100,7;4,,,4,,,6
+19,BIEB 150,BIEB,150,4;7,,,4,,,7
+22,UD EBE LAB,,,,,,4,,,7
+23,UD BIOLOGY LAB,,,,,,4,,,8
+24,UD EBE CORE 1,,,,,,4,,,8
+25,UD BIOLOGY ELECTIVE 1,,,,,,4,,,9
+26,UD EBE CORE 2,,,,,,4,,,9
+27,UD EBE CORE 3,,,,,,4,,,10
+28,UD EBE CORE 4,,,,,,4,,,10
+29,UD BIOLOGY ELECTIVE 2,,,,,,4,,,11
+30,UD BIOLOGY ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,MCWP 40 / GE,MCWP,40,,,,4,,,1
+21,MCWP 50 / GE,MCWP,50,20,,,4,,,2
+31,DEI,,,,,,4,,,3
+32,GE 1,,,,,,4,,,4
+33,GE 2,,,,,,4,,,4
+34,GE 3,,,,,,4,,,5
+35,GE 4,,,,,,4,,,6
+36,GE 5,,,,,,4,,,6
+37,GE 6,,,,,,4,,,7
+38,GE 7,,,,,,4,,,7
+39,GE 8,,,,,,4,,,8
+40,ELECTIVE 1,,,,,,4,,,8
+41,GE 9,,,,,,4,,,9
+42,ELECTIVE 2,,,,,,2,,,9
+43,ELECTIVE 3,,,,,,4,,,10
+44,MUIR UD ELECTIVE 1,,,,,,4,,,10
+45,ELECTIVE 4,,,,,,4,,,11
+46,MUIR UD ELECTIVE 2,,,,,,4,,,11
+47,ELECTIVE 5,,,,,,4,,,12
+48,MUIR UD ELECTIVE 3,,,,,,4,,,12

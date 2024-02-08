@@ -1,0 +1,54 @@
+Curriculum,Human Developmental Sciences
+Degree Plan,Human Developmental Sciences/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LD MAJOR PREP 1,,,,,,4,,,1
+8,LD MAJOR PREP 2,,,,,,4,,,1
+9,LD MAJOR PREP 3,,,,,,4,,,2
+10,LD MAJOR PREP 4,,,,,,4,,,2
+11,LD MAJOR PREP 5,,,,,,4,,,3
+12,LD MAJOR PREP 6,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+13,CORE COURSE 1,,,,,,4,,,5
+14,CORE COURSE 2,,,,,,4,,,5
+15,CORE COURSE 3,,,,,,4,,,6
+16,CORE COURSE 4,,,,,,4,,,6
+17,DEVELOPMENT 1,,,,,,4,,,7
+18,DEVELOPMENT 2,,,,,,4,,,7
+19,DEVELOPMENT 3,,,,,,4,,,8
+20,DEVELOPMENT 4,,,,,,4,,,8
+21,DEVELOPMENT 5,,,,,,4,,,9
+2,HDP 181,HDP,181,,,,6,,,9
+3,HDP 191,HDP,191,,,,6,,,10
+22,HDP HONORS THESIS 1,,,,,,4,,,10
+23,HDP HONORS THESIS 2,,,,,,4,,,11
+4,HDP 150,HDP,150,,,,4,,,12
+24,HDP HONORS THESIS 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MCWP 40 / GE,MCWP,40,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+6,MCWP 50 / GE,MCWP,50,5,,,4,,,2
+26,GE 2,,,,,,4,,,2
+27,GE 3,,,,,,4,,,3
+28,GE 4,,,,,,4,,,3
+29,GE 5,,,,,,4,,,4
+30,GE 6,,,,,,4,,,4
+31,GE 7,,,,,,4,,,4
+32,GE 8,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+34,GE 9,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+38,ELECTIVE 5,,,,,,4,,,8
+39,ELECTIVE 6,,,,,,4,,,8
+40,ELECTIVE 7,,,,,,4,,,9
+41,ELECTIVE 8,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

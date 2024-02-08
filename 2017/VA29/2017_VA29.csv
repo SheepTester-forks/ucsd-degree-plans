@@ -1,0 +1,27 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+14,FOUNDATION LEVEL: ART MAKING,,,,,,4,,
+1,MUS 4,MUS,4,,,,4,,
+2,MATH 15A,MATH,15A,,,,4,,
+3,VIS 22,VIS,22,,,,4,,
+4,VIS 10,VIS,10,,,,4,,
+5,VIS 41,VIS,41,,,,4,,
+6,CSE 11,CSE,11,,,,4,,
+7,VIS 142,VIS,142,,,,4,,
+8,VIS 145A,VIS,145A,7,,,4,,
+9,MUS 171,MUS,171,,,,4,,
+10,VIS 70N,VIS,70N,,,,6,,
+15,INTERMEDIATE LEVEL: ART MAKING 1,,,,,,4,,
+16,INTERMEDIATE LEVEL: ART MAKING 2,,,,,,4,,
+17,HISTORY & THEORY,,,,,,4,,
+11,VIS 159,VIS,159,,,,4,,
+18,INTERMEDIATE LEVEL: INTERDISCIPLINARY,,,,,,4,,
+19,ADVANCED LEVEL: ART MAKING,,,,,,4,,
+20,ADVANCED LEVEL: INTERDISCIPLINARY,,,,,,4,,
+12,ICAM 160A,ICAM,160A,,,,4,,
+13,ICAM 160B,ICAM,160B,,,,4,,

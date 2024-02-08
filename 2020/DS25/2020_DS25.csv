@@ -1,0 +1,37 @@
+Curriculum,Data Science
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,11.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,DSC 96,DSC,96,,,,2,,
+3,DSC 10,DSC,10,,,,4,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,COGS 9,COGS,9,,,,4,,
+6,DSC 20,DSC,20,3,,,4,,
+7,MATH 20C,MATH,20C,4,,,4,,
+8,MATH 18,MATH,18,,,,4,,
+9,DSC 30,DSC,30,6,,,4,,
+10,DSC 40A,DSC,40A,3;7;8,,,4,,
+23,SUBJECT DOMAIN 1,,,,,,4,,
+11,DSC 40B,DSC,40B,10;6,,,4,,
+24,SUBJECT DOMAIN 2,,,,,,4,,
+12,DSC 80,DSC,80,9;10,,,4,,
+13,DSC 100,DSC,100,12;11,,,4,,
+14,MATH 183 / MATH 180A / ECON 120A,MATH,183,7,,,4,,
+15,MATH 189 / MATH 181A,MATH,189,8;14;7,,,4,,
+16,CSE 150A,CSE,150A,11;12;14;1;8,,,4,,
+17,DSC 102,DSC,102,13,,,4,,
+18,CSE 151A,CSE,151A,11;12;14;8;7,,,4,,
+25,MATH 189 (IF NOT YET COMPLETED),MATH,189,8;14;7,,,4,,
+19,DSC 106,DSC,106,12,,,4,,
+20,DSC 180A,DSC,180A,17;15;18;19,,,4,,
+21,CSE 158,CSE,158,11;12;14,,,4,,
+26,MAJOR UD ELECTIVE 1 (IF MATH 180A NOT TAKEN),,,,,,4,,
+22,DSC 180B,DSC,180B,20,,,4,,
+27,MAJOR UD ELECTIVE 2,,,,,,4,,
+28,MAJOR UD ELECTIVE 3,,,,,,4,,
+29,MAJOR UD ELECTIVE 4,,,,,,4,,
+30,MAJOR UD ELECTIVE 5,,,,,,4,,

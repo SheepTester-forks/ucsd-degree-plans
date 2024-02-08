@@ -1,0 +1,50 @@
+Curriculum,International Studies-Literature
+Degree Plan,International Studies-Literature/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,LANGUAGE 1,,,,,,5,,,1
+7,LANGUAGE 2,,,,,,5,,,2
+8,LANGUAGE 3,,,,,,5,,,3
+9,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,3,,,4,,,5
+10,INTL 101 / 102 2,INTL,101,3,,,4,,,6
+11,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+12,DF1 - LITERATURE,,,,,,4,,,8
+13,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+14,DF2 - LITERATURE (RR2),,,,,,4,,,9
+15,DF3 - LITERATURE,,,,,,4,,,9
+16,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+17,DF4 - LITERATURE (RR3),,,,,,4,,,10
+18,DF5 - LITERATURE,,,,,,4,,,10
+19,IE3 - INTERDISC ELECTIVE,,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,11
+20,DF6 - LITERATURE,,,,,,4,,,11
+21,DF7 - LITERATURE,,,,,,4,,,12
+22,DF8 - LITERATURE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,DOC 1 / DEI,DOC,1,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,GE 2,,,,,,4,,,1
+4,DOC 2,DOC,2,3,,,6,,,2
+25,ELECTIVE 1,,,,,,4,,,2
+5,DOC 3,DOC,3,,,,6,,,3
+26,GE 3,,,,,,4,,,3
+27,GE 4,,,,,,4,,,4
+28,GE 5,,,,,,4,,,4
+29,ELECTIVE 2,,,,,,4,,,4
+30,GE 6,,,,,,4,,,5
+31,GE 7,,,,,,4,,,5
+32,ELECTIVE 3,,,,,,4,,,5
+33,GE 8,,,,,,4,,,6
+34,GE 9,,,,,,4,,,6
+35,ELECTIVE 4,,,,,,4,,,6
+36,GE 10,,,,,,4,,,8
+37,UD GE 1,,,,,,4,,,8
+38,UD GE 2,,,,,,4,,,9
+39,ELECTIVE 5,,,,,,4,,,11
+40,ELECTIVE 6,,,,,,4,,,12

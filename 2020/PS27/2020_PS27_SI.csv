@@ -1,0 +1,54 @@
+Curriculum,Political Science/Comparative Politics
+Degree Plan,Political Science/Comparative Politics/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LD POLI 1,,,,,,4,,,1
+1,POLI 11D,POLI,11D,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+8,LD POLI 2,,,,,,4,,,4
+9,UD POLI 1,,,,,,4,,,5
+10,UD POLI / COMPARATIVE POLITICS 1,,,,,,4,,,6
+11,UD POLI / COMPARATIVE POLITICS 2,,,,,,4,,,7
+12,UD POLI 2,,,,,,4,,,7
+13,UD POLI / COMPARATIVE POLITICS 3,,,,,,4,,,8
+14,UD POLI 3,,,,,,4,,,8
+15,UD POLI 4,,,,,,4,,,9
+16,UD POLI / COMPARATIVE POLITICS 4,,,,,,4,,,9
+17,UD POLI / COMPARATIVE POLITICS 5,,,,,,4,,,10
+18,UD POLI 5,,,,,,4,,,10
+19,UD POLI 6,,,,,,4,,,11
+20,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+4,CAT 2,CAT,2,3,,,6,,,2
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+5,CAT 3,CAT,3,4,,,6,,,3
+25,GE 5,,,,,,4,,,3
+26,GE / DEI,,,,,,4,,,3
+27,GE 6,,,,,,4,,,4
+28,ELECTIVE 1,,,,,,4,,,4
+29,ELECTIVE 2,,,,,,4,,,4
+30,GE 7,,,,,,4,,,5
+31,ELECTIVE 3,,,,,,4,,,5
+32,ELECTIVE 4,,,,,,4,,,5
+33,GE 8,,,,,,4,,,6
+34,ELECTIVE 5,,,,,,4,,,6
+35,ELECTIVE 6,,,,,,4,,,6
+36,ELECTIVE 7,,,,,,4,,,7
+37,ELECTIVE 8,,,,,,4,,,7
+38,ELECTIVE 9,,,,,,4,,,8
+39,ELECTIVE 10,,,,,,4,,,8
+6,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,9
+40,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,10
+41,UD ELECTIVE,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

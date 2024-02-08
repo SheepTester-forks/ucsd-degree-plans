@@ -1,0 +1,53 @@
+Curriculum,Public Health
+Degree Plan,Public Health/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,MATH 10A,MATH,10A,,,,4,,,1
+19,SBE 1,,,,,,4,,,1
+13,MATH 10B,MATH,10B,12,,,4,,,2
+1,BILD 3,BILD,3,,,,4,,,2
+20,SBE 2,,,,,,4,,,2
+21,STATISTICS,,,,,,4,,,3
+22,LD BIOLOGY 1,,,,,,4,,,3
+2,FMPH 40,FMPH,40,,,,4,,,4
+3,FMPH 50,FMPH,50,,,,4,,,5
+23,LD BIOLOGY 2,,,,,,4,,,6
+4,FMPH 101,FMPH,101,2,,,4,,,7
+24,UDE 1,,,,,,4,,,7
+5,FMPH 102,FMPH,102,2,,,4,,,8
+6,FMPH 110,FMPH,110,2,,,4,,,8
+7,FMPH 120,FMPH,120,2,,,4,,,9
+25,UDE 2,,,,,,4,,,9
+8,FMPH 130,FMPH,130,3;4,,,4,,,10
+26,UDE 3,,,,,,4,,,10
+27,UDE 4,,,,,,4,,,10
+9,FMPH 193,FMPH,193,,,,4,,,11
+10,USP 143,USP,143,,,,4,,,11
+11,FMPH 194,FMPH,194,9,,,4,,,12
+28,UDE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+14,HUM 1,HUM,1,,,,6,,,2
+15,HUM 2,HUM,2,,,,6,,,3
+16,HUM 3,HUM,3,14,,,4,,,4
+30,CHEMISTRY GE,,,,,,4,,,4
+31,MATH GE,,,,,,4,,,4
+17,HUM 4,HUM,4,,,,4,,,5
+32,PHYSIC GE,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+18,HUM 5,HUM,5,,,,4,,,6
+34,NATURAL SCIENCE GE 1,,,,,,4,,,6
+35,FINE ARTS,,,,,,4,,,6
+36,LANGUAGE 1,,,,,,5,,,7
+37,NATURAL SCIENCE GE 2,,,,,,4,,,7
+38,LANGUAGE 2,,,,,,5,,,8
+39,LANGUAGE 3,,,,,,5,,,9
+40,LANGUAGE 4,,,,,,5,,,10
+41,SOCIAL SCIENCE GE,,,,,,4,,,11
+42,ELECTIVE 2,,,,,,4,,,11
+43,ELECTIVE 3,,,,,,4,,,12

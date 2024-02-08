@@ -1,0 +1,31 @@
+Curriculum,International Studies - International Business
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 10A / 20A,MATH,10A,,,,4,,
+13,LANGUAGE 1,,,,,,5,,
+2,MATH 10B / 20B,MATH,10B,1,,,4,,
+14,LANGUAGE 2,,,,,,5,,
+3,MATH 10C / 20C,MATH,10C,2,,,4,,
+15,LANGUAGE 3,,,,,,5,,
+16,LANGUAGE 4,,,,,,5,,
+4,ECON / MGT 4,MGT,4,,,,4,,
+5,MGT 5,MGT,5,,,,4,,
+6,INTL 101 / 102 1,INTL,101,,,,4,,
+17,INTL 101 / 102 2,INTL,101,,,,4,,
+18,EAP / OAP (RECOMMENDED),,,,,,16,,
+7,DF2 - MGT 164,MGT,164,,,,4,,
+19,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,
+8,DF1 - MGT 103,MGT,103,,,,4,,
+9,DF3 - MGT 181 / 187,MGT,181,1;5;4,,,4,,
+20,DF4 - MGT ELECTIVE,,,,,,4,,
+21,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,
+10,DF5 - MGT 112,MGT,112,8;9,,,4,,
+11,INTL 190,INTL,190,6,,,4,,
+12,DF6 - MGT 166,MGT,166,,,,4,,
+22,DF7 - MGT ELECTIVE,,,,,,4,,
+23,DF8 - MGT ELECTIVE,,,,,,4,,
+24,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,

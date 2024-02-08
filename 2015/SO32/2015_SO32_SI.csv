@@ -1,0 +1,54 @@
+Curriculum,Sociology-Science and Medicine
+Degree Plan,Sociology-Science and Medicine/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOCI 1,SOCI,1,,,,4,,,1
+2,SOCI 2,SOCI,2,,,,4,,,2
+3,SOCI 60,SOCI,60,,,,4,,,5
+4,"SOCI 10, 20, 30, 40, / 50",SOCI,10,,,,4,,,6
+5,SOCI 100,SOCI,100,,,,4,,,7
+10,SOC UD CONCENTRATION 1,,,,,,4,,,7
+11,SOCI - METHOD,,,,,,4,,,8
+12,SOC UD ELECTIVE 1,,,,,,4,,,8
+13,SOC UD CONCENTRATION 2,,,,,,4,,,9
+14,SOC UD ELECTIVE 2,,,,,,4,,,9
+15,SOC UD CONCENTRATION 3,,,,,,4,,,10
+16,SOC UD ELECTIVE 3,,,,,,4,,,10
+17,SOC UD CONCENTRATION 4,,,,,,4,,,11
+18,SOC UD ELECTIVE 4,,,,,,4,,,11
+19,SOC UD CONCENTRATION 5,,,,,,4,,,12
+20,SOC UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+7,CAT 2,CAT,2,6,,,6,,,2
+22,GE 2,,,,,,4,,,2
+8,CAT 3,CAT,3,7,,,6,,,3
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,3
+25,GE 5,,,,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,4
+28,ELECTIVE 2,,,,,,4,,,4
+29,GE 7,,,,,,4,,,5
+30,GE 8,,,,,,4,,,5
+31,ELECTIVE 3,,,,,,4,,,5
+32,GE 9,,,,,,4,,,6
+33,ELECTIVE 4,,,,,,4,,,6
+34,ELECTIVE 5,,,,,,4,,,6
+35,UD ELECTIVE,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+9,CAT 125,CAT,125,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+38,ELECTIVE 8,,,,,,4,,,9
+39,ELECTIVE 9,,,,,,4,,,9
+40,ELECTIVE 10,,,,,,4,,,10
+41,ELECTIVE 11,,,,,,4,,,10
+42,ELECTIVE 12,,,,,,4,,,11
+43,ELECTIVE 13,,,,,,4,,,11
+44,ELECTIVE 14,,,,,,4,,,12

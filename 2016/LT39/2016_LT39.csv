@@ -1,0 +1,28 @@
+Curriculum,Literature/Cultural Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+3,LD LIT LANG 1,,,,,,5,,
+4,LD LIT LANG 2,,,,,,5,,
+5,LD LIT LANG 3,,,,,,5,,
+1,LTCS 50,LTCS,50,,,,4,,
+6,LD LIT LANG 4,,,,,,5,,
+7,LD LIT LANG 5,,,,,,5,,
+2,LTCS 52,LTCS,52,,,,4,,
+8,LD LIT ELECTIVE,,,,,,4,,
+9,LD LIT LANG 6,,,,,,5,,
+10,UD LIT LANG,,,,,,4,,
+11,"UD LTCS (A, B, C / D) 1",,,,,,4,,
+12,"UD LTCS (A, B, C / D) 2",,,,,,4,,
+13,UD LIT ELECTIVE 1,,,,,,4,,
+14,"UD LTCS (A, B, C / D) 3",,,,,,4,,
+15,UD LIT ELECTIVE 2,,,,,,4,,
+16,"UD LTCS (A, B, C / D) 4",,,,,,4,,
+17,UD LTCS 1,,,,,,4,,
+18,UD LIT ELECTIVE 3,,,,,,4,,
+19,UD LTCS 2,,,,,,4,,
+20,UD LIT ELECTIVE 4,,,,,,4,,
+21,UD LIT ELECTIVE 5,,,,,,4,,

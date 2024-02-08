@@ -1,0 +1,56 @@
+Curriculum,Biochemistry
+Degree Plan,Biochemistry/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.0202
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+3,MATH 10B,MATH,10B,1,,,4,,,2
+5,BILD 1,BILD,1,,,,4,,,2
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+6,MATH 10C,MATH,10C,3,,,4,,,3
+8,CHEM 7LM / 7L,CHEM,7LM,4,,,4,,,3
+9,PHYS 1A,PHYS,1A,1,,,3,,,4
+10,PHYS 1AL,PHYS,1AL,1,,,2,,,4
+11,CHEM 41A,CHEM,41A,4,,,4,,,4
+12,MATH 11,MATH,11,3,,,5,,,4
+13,PHYS 1B,PHYS,1B,3;9,,,3,,,5
+15,CHEM 41B,CHEM,41B,11,,,4,,,5
+14,PHYS 1BL,PHYS,1BL,3;9;10,,,2,,,5
+16,BILD 2,BILD,2,5,,,4,,,5
+19,CHEM 41C,CHEM,41C,15,,,4,,,6
+20,CHEM 43A,CHEM,43A,8;11,,,4,,,6
+17,PHYS 1C,PHYS,1C,3;13,,,3,,,6
+18,PHYS 1CL,PHYS,1CL,3;13;14,,,2,,,6
+22,CHEM 114A,CHEM,114A,11,,,4,,,7
+21,CHEM 100A,CHEM,100A,7,,,4,,,7
+23,CHEM 114B,CHEM,114B,15;22,,,4,,,8
+32,BIOCHEM RESTRICTED ELECTIVE 1,,,,,,4,,,8
+25,CHEM 114C,CHEM,114C,22,,,4,,,9
+24,CHEM 108 / 109 1,CHEM,108,20;22,,,6,,,9
+26,CHEM 126A,CHEM,126A,7;17;6,,,4,,,10
+33,BIOCHEM RESTRICTED ELECTIVE 2,,,,,,4,,,10
+27,CHEM 126B,CHEM,126B,26,,,4,,,11
+34,CHEM 108 / 109 2,CHEM,108,20;22,,,6,,,11
+35,CHEM ELECTIVE,,,,,,4,,,12
+36,BIOCHEM RESTRICTED ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,BREADTH GE 1,,,,,,4,,,1
+38,DEI,,,,,,4,,,1
+28,CCE 1,CCE,1,,,,4,,,2
+39,BREADTH GE 2,,,,,,4,,,3
+29,CCE 2,CCE,2,,,,4,,,4
+30,CCE 3,CCE,3,,,,4,,,6
+40,BREADTH GE 3,,,,,,4,,,7
+41,BREADTH GE 4,,,,,,4,,,7
+42,BREADTH GE 5,,,,,,4,,,8
+43,BREADTH GE 6,,,,,,4,,,8
+31,CCE 120,CCE,120,,,,4,,,9
+44,UD ELECTIVE 1,,,,,,4,,,10
+45,UD ELECTIVE 2,,,,,,4,,,11
+46,ELECTIVE,,,,,,4,,,12

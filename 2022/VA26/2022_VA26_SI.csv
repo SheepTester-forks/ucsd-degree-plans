@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Art History/Criticism)
+Degree Plan,Visual Arts (Art History/Criticism)/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0703
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 23,VIS,23,,,,4,,,1
+8,FOUNDATION HISTORY 1,,,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+9,FOUNDATION HISTORY 2,,,,,,4,,,2
+10,FOUNDATION HISTORY 3,,,,,,4,,,3
+11,FOUNDATION HISTORY 4,,,,,,4,,,3
+12,FOUNDATION HISTORY 5,,,,,,4,,,4
+13,INTERMEDIATE LECTURE 1,,,,,,4,,,4
+3,VIS 112,VIS,112,1,,,4,,,5
+14,INTERMEDIATE LECTURE 2,,,,,,4,,,6
+15,INTERMEDIATE LECTURE 3,,,,,,4,,,7
+16,INTERMEDIATE LECTURE 4,,,,,,4,,,7
+17,INTERMEDIATE LECTURE 5,,,,,,4,,,8
+18,INTERMEDIATE LECTURE 6,,,,,,4,,,9
+19,ADVANCED SEMINAR 1,,,,,,4,,,9
+20,ADVANCED THEORY,,,,,,4,,,10
+21,ADVANCED ELECTIVE,,,,,,4,,,10
+22,ADVANCED SEMINAR 2,,,,,,4,,,11
+23,ADVANCED SEMINAR 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,CAT 1,CAT,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+5,CAT 2,CAT,2,4,,,6,,,2
+6,CAT 3,CAT,3,5,,,6,,,3
+25,GE 2,,,,,,4,,,4
+26,GE / DEI,,,,,,4,,,4
+27,GE 3,,,,,,4,,,5
+28,GE 4,,,,,,4,,,5
+29,GE 5,,,,,,4,,,5
+30,GE 6,,,,,,4,,,6
+31,GE 7,,,,,,4,,,6
+32,GE 8,,,,,,4,,,6
+33,UD ELECTIVE,,,,,,4,,,7
+34,ELECTIVE 1,,,,,,4,,,7
+7,EXPERIENTIAL LEARNING / PRACTICUM / CAT 125 1,CAT,125,,,,4,,,8
+35,ELECTIVE 2,,,,,,4,,,8
+36,ELECTIVE 3,,,,,,4,,,8
+37,EXPERIENTIAL LEARNING / PRACTICUM / CAT 125 2,CAT,125,,,,4,,,9
+38,ELECTIVE 4,,,,,,4,,,9
+39,ELECTIVE 5,,,,,,4,,,10
+40,ELECTIVE 6,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,12
+44,ELECTIVE 10,,,,,,4,,,12

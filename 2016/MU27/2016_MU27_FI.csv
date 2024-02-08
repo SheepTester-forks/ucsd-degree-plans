@@ -1,0 +1,54 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 1,VIS,1,,,,4,,,1
+17,MUSIC LD ELECTIVE 1,,,,,,4,,,1
+18,MUSIC LD ELECTIVE 2,,,,,,4,,,2
+2,CSE 11,CSE,11,,,,4,,,2
+19,MUSIC 4,,,,,,4,,,3
+3,VIS 41,VIS,41,,,,4,,,3
+4,MATH 20A,MATH,20A,,,,4,,,4
+5,MATH 20B,MATH,20B,4,,,4,,,5
+6,ICAM 110,ICAM,110,,,,4,,,6
+20,MUSIC 170,,,,,,4,,,7
+7,VIS 140,VIS,140,,,,4,,,7
+21,UD ADVANCED ELECTIVE 1,,,,,,4,,,8
+9,VIS 159,VIS,159,,,,4,,,8
+8,VIS 145A,VIS,145A,,,,4,,,8
+22,UD ADVANCED ELECTIVE 2,,,,,,4,,,9
+23,UD THEORY & HISTORY ELECTIVE,,,,,,4,,,9
+24,UD ADVANCE ELECTIVE 1,,,,,,4,,,10
+10,ICAM 160A,ICAM,160A,,,,4,,,11
+25,UD ADVANCE ELECTIVE 2,,,,,,4,,,11
+11,ICAM 160B,ICAM,160B,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,MMW 11,MMW,11,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+13,MMW 12,MMW,12,,,,6,,,2
+27,GE 2,,,,,,4,,,2
+14,MMW 13,MMW,13,,,,6,,,3
+28,GE 3,,,,,,4,,,3
+29,GE 4,,,,,,4,,,4
+15,MMW 14 / GE 1,MMW,14,13;14,,,4,,,4
+30,GE / DEI,,,,,,4,,,4
+31,MMW 14 / GE 2,MMW,14,13;14,,,4,,,5
+32,GE 5,,,,,,4,,,5
+33,GE 6,,,,,,4,,,5
+16,MMW 15,MMW,15,13;14,,,4,,,6
+34,GE 7,,,,,,4,,,6
+35,GE 8,,,,,,4,,,6
+36,ELECTIVE 1,,,,,,4,,,7
+37,ELECTIVE 2,,,,,,4,,,7
+38,ELECTIVE 3,,,,,,4,,,8
+39,ELECTIVE 4,,,,,,4,,,9
+40,ELECTIVE 5,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,11
+43,UD ELECTIVE,,,,,,4,,,12
+44,ELECTIVE 8,,,,,,4,,,12

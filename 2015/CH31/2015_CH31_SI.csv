@@ -1,0 +1,54 @@
+Curriculum,Biochemistry/Chemistry
+Degree Plan,Biochemistry/Chemistry/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.0202
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+5,BILD 1,BILD,1,2,,,4,,,2
+8,CHEM 7LM,CHEM,7LM,4,,,4,,,3
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+9,CHEM 140A,CHEM,140A,4,,,4,,,4
+11,PHYS 2A,PHYS,2A,1,,,4,,,4
+10,MATH 20D,MATH,20D,6,,,4,,,4
+13,CHEM 140B,CHEM,140B,9,,,4,,,5
+12,CHEM 143A,CHEM,143A,9,,,4,,,5
+14,PHYS 2B,PHYS,2B,11;3,,,4,,,5
+16,CHEM 140C,CHEM,140C,13,,,4,,,6
+15,CHEM 143B,CHEM,143B,12,13,,4,,,6
+18,PHYS 2C / 2D,PHYS,2C,11;14;6,,,4,,,6
+17,PHYS 2CL,PHYS,2CL,14;11,,,2,,,6
+19,CHEM 114A,CHEM,114A,9,,,4,,,7
+20,CHEM 127 / 126,CHEM,127,7;18;6,,,4,,,7
+21,CHEM 100A,CHEM,100A,7,,,4,,,7
+22,CHEM 114B,CHEM,114B,19;13,,,4,,,8
+23,CHEM 126 / 127,CHEM,126,4;18;10,,,4,,,8
+24,CHEM 114C,CHEM,114C,19,,,4,,,9
+25,CHEM 105A,CHEM,105A,21;17;20,,,4,,,9
+31,BIOCHEM LAB,,,,,,6,,,10
+26,CHEM 120A,CHEM,120A,7;9,,,4,,,10
+32,CHEM ELECTIVE LAB,,,,,,4,,,11
+33,BIOCHEM ELECTIVE 1,,,,,,4,,,11
+34,CHEM OPEN ELECTIVE,,,,,,4,,,12
+35,BIOCHEM ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,CAT 1,CAT,1,,,,4,,,1
+36,GE / DEI,,,,,,4,,,1
+28,CAT 2,CAT,2,27,,,6,,,2
+29,CAT 3,CAT,3,28,,,6,,,3
+37,GE 1,,,,,,4,,,4
+38,GE 2,,,,,,4,,,5
+39,GE 3,,,,,,4,,,7
+40,GE 4,,,,,,4,,,8
+41,GE 5,,,,,,4,,,8
+42,GE 6,,,,,,4,,,9
+30,CAT 125,CAT,125,,,,4,,,10
+43,ELECTIVE,,,,,,4,,,11
+44,GE 7,,,,,,4,,,12

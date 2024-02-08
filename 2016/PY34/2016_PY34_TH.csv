@@ -1,0 +1,55 @@
+Curriculum,Physics with Specialization in Astrophysics
+Degree Plan,Physics with Specialization in Astrophysics/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 18,MATH,18,,,,4,,,1
+3,CHEM 6A / PROGRAMMING,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,PHYS 4A,PHYS,4A,1,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 4B,PHYS,4B,5;4,,,4,,,3
+8,MATH 20E,MATH,20E,2;6,,,4,,,4
+9,PHYS 4C,PHYS,4C,5;7;6;2,,,4,,,4
+10,PHYS 4D,PHYS,4D,5;7;9;1;4;6;8;2,,,4,,,5
+11,PHYS 2CL,PHYS,2CL,5;9,,,2,,,5
+12,MATH 20D,MATH,20D,6,,,4,,,5
+13,PHYS 4E,PHYS,4E,5;7;9;10;1;4;6;12;8;2,,,4,,,6
+14,PHYS 2DL,PHYS,2DL,11,,,2,,,6
+15,PHYS 105A,PHYS,105A,9;7;10;13;1;4;6;12;8;2,,,4,,,7
+16,PHYS 100A,PHYS,100A,5;9;7;10;1;4;6;12;8;2,,,4,,,7
+17,PHYS 110A,PHYS,110A,5;9;7;10;1;4;6;12;8;2,,,4,,,7
+29,PHYS ELECTIVE 1,,,,,,4,,,8
+18,PHYS 100B,PHYS,100B,16;1;4;6;12;8;2,,,4,,,8
+19,PHYS 120,PHYS,120,5;9;7;11,,,5,,,9
+20,PHYS 130A,PHYS,130A,13;16;17,,,4,,,9
+21,PHYS 130B,PHYS,130B,20;18,,,4,,,10
+22,PHYS 160,PHYS,160,5;9;7;10;13,,,4,,,10
+23,PHYS 140A,PHYS,140A,20,,,4,,,10
+30,PHYS ELECTIVE 2,,,,,,4,,,11
+24,PHYS 161,PHYS,161,5;9;7;10;13,,,4,,,11
+25,PHYS 162,PHYS,162,5;9;7;10;13,,,4,,,12
+31,PHYS UD LAB,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,DOC 1 / DEI,DOC,1,,,,4,,,1
+27,DOC 2,DOC,2,26,,,6,,,2
+32,ELECTIVE 1,,,,,,4,,,2
+28,DOC 3,DOC,3,,,,6,,,3
+33,GE 1,,,,,,4,,,3
+34,GE 2,,,,,,4,,,4
+35,GE 3,,,,,,4,,,4
+36,GE 4,,,,,,4,,,5
+37,GE 5,,,,,,4,,,6
+38,GE 6,,,,,,4,,,6
+39,GE 7,,,,,,4,,,7
+40,UD GE 1,,,,,,4,,,8
+41,ELECTIVE 2,,,,,,4,,,8
+42,UD GE 2,,,,,,4,,,9
+43,ELECTIVE 3,,,,,,3,,,9
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12

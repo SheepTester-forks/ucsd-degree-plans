@@ -1,0 +1,28 @@
+Curriculum,Classical Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.1200
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LTGK 1,LTGK,1,,,,4,,
+2,LTWL 19A / MMW 11,LTWL,19A,,,,4,,
+3,LTLA 1,LTLA,1,,,,4,,
+4,LTWL 19B / HUM 1 / MMW 12,LTWL,19B,,,,4,,
+5,LTGK 2,LTGK,2,1,,,4,,
+6,LTLA 2,LTLA,2,3,,,4,,
+7,LTWL 19C / HUM 2,LTWL,19C,,,,4,,
+8,LTGK 3,LTGK,3,5,,,4,,
+9,LTLA 3,LTLA,3,6,,,4,,
+10,UD LTGK / UD LTLA 1,,,,,,4,,
+11,CLAS UD ELECTIVE 1,,,,,,4,,
+12,UD LTGK / UD LTLA 2,,,,,,4,,
+13,UD LTGK / UD LTLA 3,,,,,,4,,
+14,UD LTGK / UD LTLA 4,,,,,,4,,
+15,UD LTGK / UD LTLA 5,,,,,,4,,
+16,CLAS UD ELECTIVE 2,,,,,,4,,
+17,UD LTGK / UD LTLA 6,,,,,,4,,
+18,UD LTGK / UD LTLA 7,,,,,,4,,
+19,CLAS UD ELECTIVE 3,,,,,,4,,
+20,UD LTGK / UD LTLA 8,,,,,,4,,
+21,UD LTGK / UD LTLA 9,,,,,,4,,

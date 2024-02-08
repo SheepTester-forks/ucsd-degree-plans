@@ -1,0 +1,54 @@
+Curriculum,Philosophy
+Degree Plan,Philosophy/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,LD PHIL 1,,,,,,4,,,1
+20,LD PHIL 2,,,,,,4,,,2
+1,PHIL 10,PHIL,10,,,,4,,,3
+2,PHIL 120,PHIL,120,1,,,4,,,4
+21,UD PHIL 1,,,,,,4,,,5
+22,UD PHIL 2,,,,,,4,,,6
+3,PHIL 110,PHIL,110,,,,4,,,7
+23,UD PHIL 3,,,,,,4,,,7
+4,PHIL 111,PHIL,111,3,,,4,,,8
+24,UD PHIL 4,,,,,,4,,,8
+5,PHIL 112,PHIL,112,4,,,4,,,9
+25,UD PHIL 5,,,,,,4,,,9
+26,UD PHIL 6,,,,,,4,,,10
+27,UD PHIL 7,,,,,,4,,,11
+28,UD PHIL 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MATH 10A,MATH,10A,,,,4,,,1
+29,LANGUAGE 1,,,,,,5,,,1
+7,HUM 1,HUM,1,,,,6,,,2
+8,MATH 10B,MATH,10B,6,,,4,,,2
+30,LANGUAGE 2,,,,,,5,,,2
+9,HUM 2,HUM,2,,,,6,,,3
+10,MATH 10C,MATH,10C,8,,,4,,,3
+31,LANGUAGE 3,,,,,,5,,,3
+11,HUM 3,HUM,3,,,,4,,,4
+12,CHEM 11,CHEM,11,,,,4,,,4
+32,LANGUAGE 4,,,,,,5,,,4
+13,HUM 4,HUM,4,,,,4,,,5
+14,CHEM 12,CHEM,12,,,,4,,,5
+15,HUM 5,HUM,5,,,,4,,,6
+16,CHEM 13,CHEM,13,14,,,4,,,6
+33,DEI / SOCIAL SCIENCE,,,,,,4,,,7
+17,PHYS 10,PHYS,10,,,,4,,,8
+34,ELECTIVE 1,,,,,,4,,,8
+18,BILD 7 / 10,BILD,7,,,,4,,,9
+35,ELECTIVE 2,,,,,,4,,,9
+36,SOCIAL SCIENCE,,,,,,4,,,10
+37,ELECTIVE 3,,,,,,4,,,10
+38,ELECTIVE 4,,,,,,4,,,10
+39,ELECTIVE 5,,,,,,4,,,11
+40,ELECTIVE 6,,,,,,4,,,11
+41,ELECTIVE 7,,,,,,4,,,11
+42,FINE ARTS,,,,,,4,,,12
+43,ELECTIVE 8,,,,,,4,,,12
+44,ELECTIVE 9,,,,,,4,,,12

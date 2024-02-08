@@ -1,0 +1,55 @@
+Curriculum,Judaic Studies
+Degree Plan,Judaic Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JUDA 1,JUDA,1,,,,5,,,1
+2,JUDA 2,JUDA,2,1,,,5,,,2
+3,JUDA 3,JUDA,3,2,,,5,,,3
+4,JUDA 131,JUDA,131,,,,4,,,4
+5,JUDA 101,JUDA,101,3,,,4,,,4
+7,JUDA 102,JUDA,102,5,,,4,,,5
+6,HITO 104,HITO,104,,,,4,,,5
+8,HITO 105,HITO,105,,,,4,,,6
+9,JUDA 103,JUDA,103,3,,,4,,,6
+10,UD JS ELECTIVE 1,,,,,,4,,,7
+11,UD JS ELECTIVE 2,,,,,,4,,,7
+12,UD JS ELECTIVE 3,,,,,,4,,,8
+13,UD JS ELECTIVE 4,,,,,,4,,,8
+14,UD JS ELECTIVE 5,,,,,,4,,,9
+15,UD JS ELECTIVE 6,,,,,,4,,,9
+16,UD JS ELECTIVE 7,,,,,,4,,,10
+17,UD JS ELECTIVE 8,,,,,,4,,,10
+18,UD JS ELECTIVE 9,,,,,,4,,,11
+19,UD JS ELECTIVE 10,,,,,,4,,,11
+20,UD JS ELECTIVE 11,,,,,,4,,,12
+21,UD JS ELECTIVE 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+24,GE 3,,,,,,4,,,2
+25,GE 4,,,,,,4,,,2
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,GE 7,,,,,,4,,,4
+29,GE 8,,,,,,4,,,4
+30,GE 9,,,,,,4,,,5
+31,GE 10,,,,,,4,,,5
+32,GE 11,,,,,,4,,,6
+33,GE / DEI,,,,,,4,,,6
+34,GE 12,,,,,,4,,,7
+35,GE 13,,,,,,4,,,7
+36,GE 14,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,8
+38,GE 15,,,,,,4,,,9
+39,ELECTIVE 2,,,,,,4,,,9
+40,GE 16,,,,,,4,,,10
+41,ELECTIVE 3,,,,,,4,,,10
+42,GE 17,,,,,,4,,,11
+43,ELECTIVE 4,,,,,,4,,,11
+44,ELECTIVE 5,,,,,,4,,,12
+45,ELECTIVE 6,,,,,,1,,,12

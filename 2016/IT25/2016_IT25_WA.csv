@@ -1,0 +1,57 @@
+Curriculum,Italian Studies
+Degree Plan,Italian Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0126
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,LIIT 1AX,LIIT,1AX,,,,2.5,,,1
+1,LIIT 1A,LIIT,1A,,,,2.5,,,1
+3,LIIT 1B,LIIT,1B,1;2,,,2.5,,,2
+4,LIIT 1BX,LIIT,1BX,1;2,,,2.5,,,2
+5,LIIT 1CX,LIIT,1CX,3;4,,,2.5,,,3
+6,LIIT 1C,LIIT,1C,3;4,,,2.5,,,3
+7,LTIT 2A,LTIT,2A,6;5,,,5,,,4
+8,LTIT 2B,LTIT,2B,7,,,5,,,5
+9,LTIT 50,LTIT,50,,,,4,,,6
+10,LTIT 115,LTIT,115,,,,4,,,7
+11,IS VIS,,,,,,4,,,7
+12,IS UD ELECTIVE 1,,,,,,4,,,8
+13,IS LIT,,,,,,4,,,8
+14,IS HIST,,,,,,4,,,9
+15,IS UD ELECTIVE 2,,,,,,4,,,9
+16,IS UD ELECTIVE 3,,,,,,4,,,10
+17,IS UD ELECTIVE 4,,,,,,4,,,10
+18,IS UD ELECTIVE 5,,,,,,4,,,11
+19,IS UD ELECTIVE 6,,,,,,4,,,11
+20,IS UD ELECTIVE 7,,,,,,4,,,12
+21,IS UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+24,GE 3,,,,,,4,,,2
+25,GE 4,,,,,,4,,,2
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,GE 7,,,,,,4,,,4
+29,GE 8,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,4
+31,GE 9,,,,,,4,,,5
+32,GE 10,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,5
+34,GE 11,,,,,,4,,,6
+35,GE 12,,,,,,4,,,6
+36,GE / DEI,,,,,,4,,,6
+37,GE 13,,,,,,4,,,7
+38,GE 14,,,,,,4,,,7
+39,GE 15,,,,,,4,,,8
+40,GE 16,,,,,,4,,,8
+41,ELECTIVE 3,,,,,,4,,,9
+42,GE 17,,,,,,4,,,9
+43,ELECTIVE 4,,,,,,4,,,10
+44,ELECTIVE 5,,,,,,4,,,10
+45,ELECTIVE 6,,,,,,4,,,11
+46,ELECTIVE 7,,,,,,4,,,11
+47,ELECTIVE 8,,,,,,4,,,12

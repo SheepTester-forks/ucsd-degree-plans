@@ -1,0 +1,33 @@
+Curriculum,Mathematical Biology
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0306
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+13,PROGRAMMING COURSE,,,,,,4,,
+2,MATH 20B,MATH,20B,1,,,4,,
+3,MATH 18,MATH,18,,,,4,,
+4,MATH 20C,MATH,20C,2,,,4,,
+14,CHEMISTRY / PHYSICS COURSE 1,,,,,,4,,
+5,MATH 20D / MATH 109,MATH,20D,4,,,4,,
+6,MATH 11,MATH,11,2,,,4,,
+7,BILD 1,BILD,1,,,,4,,
+8,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,
+15,CHEMISTRY / PHYSICS COURSE 2,,,,,,4,,
+9,MATH 20E,MATH,20E,3;4,,,4,,
+10,BILD 2,BILD,2,7,,,4,,
+16,UD ELECTIVE 1,,,,,,4,,
+11,BILD 4,BILD,4,,,,2,,
+12,UD ELECTIVE (MATH 174),MATH,174,5,,,4,,
+17,UD ELECTIVE 2,,,,,,4,,
+18,UD ELECTIVE 3,,,,,,4,,
+19,UD ELECTIVE 4,,,,,,4,,
+20,UD ELECTIVE 5,,,,,,4,,
+21,UD ELECTIVE 6,,,,,,4,,
+22,UD ELECTIVE 7,,,,,,4,,
+23,UD ELECTIVE 8,,,,,,4,,
+24,UD ELECTIVE 9,,,,,,4,,
+25,UD ELECTIVE 10,,,,,,4,,
+26,UD ELECTIVE 11,,,,,,4,,

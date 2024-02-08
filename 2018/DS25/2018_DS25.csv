@@ -1,0 +1,36 @@
+Curriculum,Data Science
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,11.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,DSC 10,DSC,10,,,,4,,
+3,COGS 9,COGS,9,,,,4,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,MATH 20C,MATH,20C,4,,,4,,
+6,DSC 20,DSC,20,2,,,4,,
+7,MATH 18,MATH,18,,,,4,,
+22,SUBJECT DOMAIN I,,,,,,4,,
+8,DSC 30,DSC,30,6,,,4,,
+9,DSC 40,DSC,40,,,,4,,
+23,SUBJECT DOMAIN II,,,,,,4,,
+10,DSC 41,DSC,41,,,,4,,
+24,SUBJECT DOMAIN III,,,,,,4,,
+11,DSC 80,DSC,80,8,,,4,,
+12,MATH 183 / CSE103 / ECE 109,MATH,183,5,,,4,,
+13,DSC 110,DSC,110,,,,4,,
+25,MAJOR ELECTIVE I,,,,,,4,,
+14,MATH 189,MATH,189,7;12;5,,,4,,
+15,CSE 150,CSE,150,,,,4,,
+16,DSC 120,DSC,120,7;5,,,4,,
+17,CSE 151,CSE,151,,,,4,,
+18,DSC 196A,DSC,196A,,,,4,,
+26,MAJOR ELECTIVE II,,,,,,4,,
+19,CSE 158,CSE,158,11;12,,,4,,
+20,DSC 170L,DSC,170L,,,,4,,
+21,DSC 196B,DSC,196B,,,,4,,
+27,MAJOR ELECTIVE III,,,,,,4,,
+28,MAJOR ELECTIVE IV,,,,,,4,,
+29,MAJOR ELECTIVE V,,,,,,4,,

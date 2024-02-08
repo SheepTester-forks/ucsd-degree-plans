@@ -1,0 +1,28 @@
+Curriculum,German Literature
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LIGM 1A,LIGM,1A,,,,2.5,,
+2,LIGM 1AX,LIGM,1AX,,,,2.5,,
+3,LIGM 1B,LIGM,1B,1;2,,,2.5,,
+4,LIGM 1BX,LIGM,1BX,1;2,,,2.5,,
+5,LIGM 1C,LIGM,1C,3;4,,,2.5,,
+6,LIGM 1CX,LIGM,1CX,3;4,,,2.5,,
+7,LTGM 2A,LTGM,2A,5;6,,,5,,
+8,LTGM 2B,LTGM,2B,7,,,5,,
+9,LTGM 2C,LTGM,2C,8,,,4,,
+10,UD LTGM 1,,,,,,4,,
+11,UD LTGM 2,,,,,,4,,
+12,UD LTGM 3,,,,,,4,,
+13,UD LTGM 4,,,,,,4,,
+14,UD LTGM 5,,,,,,4,,
+15,UD LTGM 6,,,,,,4,,
+16,UD LTGM 7,,,,,,4,,
+17,UD LTEN 1,,,,,,4,,
+18,UD LTGM 8,,,,,,4,,
+19,UD LTEN 2,,,,,,4,,
+20,UD LTGM 9,,,,,,4,,
+21,UD LTEN 3,,,,,,4,,

@@ -1,0 +1,53 @@
+Curriculum,Psychology
+Degree Plan,Psychology/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,42.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A / 20A,MATH,10A,,,,4,,,1
+10,NATURAL SCIENCE 1,,,,,,4,,,1
+11,NATURAL SCIENCE 2,,,,,,4,,,2
+1,PSYC 60,PSYC,60,,,,4,,,4
+2,PSYC 70,PSYC,70,1,,,4,,,5
+12,COMPUTER PROGRAMMING,,,,,,4,,,6
+13,PSYC CORE 1,,,,,,4,,,7
+14,PSYC CORE 2,,,,,,4,,,7
+15,PSYC CORE 3,,,,,,4,,,8
+16,PSYC CORE 4,,,,,,4,,,8
+17,PSYC UD ELECTIVE 1,,,,,,4,,,9
+18,PSYC UD ELECTIVE 2,,,,,,4,,,9
+19,PSYC UD ELECTIVE 3,,,,,,4,,,10
+20,PSYC UD ELECTIVE 4,,,,,,4,,,10
+21,PSYC UD ELECTIVE 5,,,,,,4,,,11
+22,PSYC UD ELECTIVE 6,,,,,,4,,,11
+23,PSYC UD ELECTIVE 7,,,,,,4,,,12
+24,PSYC UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,DEI,,,,,,4,,,1
+4,MATH 10B / 20B,MATH,10B,3,,,4,,,2
+5,HUM 1,HUM,1,,,,6,,,2
+26,MATH GE,,,,,,4,,,3
+27,CHEMISTRY GE,,,,,,4,,,3
+6,HUM 2,HUM,2,,,,6,,,3
+7,HUM 3,HUM,3,5,,,4,,,4
+28,BIOLOGY GE,,,,,,4,,,4
+8,HUM 4,HUM,4,,,,4,,,5
+29,PHYSICS GE,,,,,,4,,,5
+30,ELECTIVE 1,,,,,,4,,,5
+9,HUM 5,HUM,5,,,,4,,,6
+31,FINE ARTS,,,,,,4,,,6
+32,ELECTIVE 2,,,,,,4,,,6
+33,ELECTIVE 3,,,,,,4,,,7
+34,LANGUAGE 1,,,,,,5,,,7
+35,ELECTIVE 4,,,,,,4,,,8
+36,LANGUAGE 2,,,,,,5,,,8
+37,ELECTIVE 5,,,,,,4,,,9
+38,LANGUAGE 3,,,,,,5,,,9
+39,UD ELECTIVE 1,,,,,,4,,,10
+40,LANGUAGE 4,,,,,,5,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 6,,,,,,4,,,11
+43,UD ELECTIVE 3,,,,,,4,,,12

@@ -1,0 +1,57 @@
+Curriculum,Computer Engineering
+Degree Plan,Computer Engineering/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CSE 8A,CSE,8A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+5,CSE 20,CSE,20,2,,,4,,,2
+4,CSE 8B,CSE,8B,2,,,4,,,2
+8,CSE 12,CSE,12,4,,,4,,,3
+9,CSE 15L,CSE,15L,4,,,2,,,3
+6,MATH 18,MATH,18,,,,4,,,3
+7,PHYS 2A,PHYS,2A,1;1,,,4,,,3
+10,ECE 35,ECE,35,6;1;3;7,,,4,,,4
+12,MATH 20C,MATH,20C,3,,,4,,,4
+11,PHYS 2B,PHYS,2B,7;3,,,4,,,4
+13,CSE 21,CSE,21,5,,,4,,,4
+16,CSE 30,CSE,30,8;9,,,4,,,5
+17,ECE 45,ECE,45,10,,,4,,,5
+14,MATH 20D,MATH,20D,12,,,4,,,5
+15,PHYS 2C,PHYS,2C,7;12,,,4,,,5
+19,ECE 109,ECE,109,1;3;12;14;6,,,4,,,6
+20,ECE 65,ECE,65,10,,,4,,,6
+18,CSE 100,CSE,100,13;8;9;16,,,4,,,6
+21,CSE 101,CSE,101,13;8,,,4,,,7
+22,CSE 110,CSE,110,18,,,4,,,7
+35,CSE / ECE ELECTIVE 1,,,,,,4,,,7
+36,GE / DEI,,,,,,4,,,7
+25,ECE 101,ECE,101,17,,,4,,,8
+23,CSE 140,CSE,140,5;16,,,4,,,8
+24,CSE 140L,CSE,140L,5;16,,,2,,,8
+26,CSE 141 (OR CSE 142),CSE,141,16;23;24,,,4,,,9
+37,TECHNICAL ELECTIVE,,,,,,4,,,9
+27,CSE 141L (OR CSE 142L),CSE,141L,16;23;24,,,2,,,9
+28,ECE 111 (OR ECE 140B),ECE,111,23,,,4,,,9
+29,CSE 120,CSE,120,16;21;22,,,4,,,10
+38,CSE / ECE ELECTIVE 2,,,,,,4,,,10
+30,ECE 108,ECE,108,23;16;17;20,,,4,,,11
+39,CSE / ECE ELECTIVE 3,,,,,,4,,,11
+40,CSE / ECE ELECTIVE 4,,,,,,4,,,12
+41,CSE / ECE ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+31,WCWP 10A,WCWP,10A,,,,4,,,1
+42,GE 1,,,,,,4,,,1
+32,WCWP 10B,WCWP,10B,31,,,4,,,2
+33,PHIL / POLI 27,POLI,27,31;32,,,4,,,3
+34,PHIL / POLI 28,POLI,28,33,,,4,,,6
+43,GE 2,,,,,,4,,,8
+44,GE 3,,,,,,4,,,10
+45,GE 4,,,,,,4,,,10
+46,GE 5,,,,,,4,,,11
+47,ELECTIVE,,,,,,4,,,12

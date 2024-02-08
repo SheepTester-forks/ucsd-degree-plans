@@ -1,0 +1,37 @@
+Curriculum,Environmental Systems (Environmental Chemistry)
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,ECON 1,ECON,1,,,,4,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,CHEM 6B,CHEM,6B,2;1,,,4,,
+6,BILD 3,BILD,3,,,,4,,
+7,MATH 20C,MATH,20C,4,,,4,,
+8,CHEM 6C,CHEM,6C,5,,,4,,
+9,CHEM 7L,CHEM,7L,5,,,4,,
+10,ESYS 101,ESYS,101,6,,,4,,
+11,PHYS 2A,PHYS,2A,1;1,,,4,,
+12,MATH 20D,MATH,20D,7,,,4,,
+13,ESYS 102,ESYS,102,1;2;11,,,4,,
+14,PHYS 2B,PHYS,2B,11;4,,,4,,
+15,CHEM 40A,CHEM,40A,5,,,4,,
+16,ESYS 103,ESYS,103,4,,,4,,
+17,PHYS 2C,PHYS,2C,11;7,,,4,,
+18,PHYS 2CL,PHYS,2CL,11;14,,,2,,
+19,CHEM 40B,CHEM,40B,15,,,4,,
+20,ECON 131,ECON,131,,,,4,,
+21,POLI 160AA,POLI,160AA,,,,4,,
+22,CHEM 43A,CHEM,43A,9;15,,,4,,
+23,CHEM 100A,CHEM,100A,8;9,,,4,,
+28,ESYS MAJOR ELECTIVE 1,,,,,,5,,
+24,CHEM 100B,CHEM,100B,23;17;18,,,4,,
+29,ESYS MAJOR ELECTIVE 2,,,,,,4,,
+30,ESYS MAJOR ELECTIVE 3,,,,,,4,,
+25,ESYS 187A,ESYS,187A,16,,,4,,
+26,ESYS 187B,ESYS,187B,25,,,4,,
+27,ESYS 187C,ESYS,187C,26,,,4,,

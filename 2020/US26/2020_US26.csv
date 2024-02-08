@@ -1,0 +1,24 @@
+Curriculum,Urban Studies and Planning
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,USP 4,USP,4,,,,4,,
+2,USP 1,USP,1,,,,4,,
+3,USP 2,USP,2,,,,4,,
+4,USP 3,USP,3,,,,4,,
+5,POLI 30D (OR EQUIVALENT STATS),POLI,30D,,,,4,,
+6,USP 124,USP,124,,,,4,,
+9,RESEARCH METHODS COURSE,,,,,,4,,
+10,USP UPPER DIVISION ELECTIVE 1,,,,,,4,,
+11,TECHNICAL ELECTIVE,,,,,,4,,
+12,FOUNDATION COURSE,,,,,,4,,
+13,USP UPPER DIVISION ELECTIVE 2,,,,,,4,,
+7,USP 186,USP,186,6,,,6,,
+14,USP UPPER DIVISION ELECTIVE 3,,,,,,4,,
+8,USP 187,USP,187,7,,,6,,
+15,USP UPPER DIVISION ELECTIVE 4,,,,,,4,,
+16,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,
+17,USP UPPER DIVISION ELECTIVE 6,,,,,,4,,

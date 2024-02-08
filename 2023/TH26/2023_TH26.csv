@@ -1,0 +1,29 @@
+Curriculum,Theatre
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,TDGE 1,TDGE,1,,,,4,,
+2,TDAC 1,TDAC,1,,,,4,,
+3,TDDE 1,TDDE,1,,,,4,,
+4,TDHT 22,TDHT,22,,,,4,,
+5,TDPR 6 1,TDPR,6,,,,4,,
+6,TDHT 23,TDHT,23,,,,4,,
+7,TDPW 1,TDPW,1,,,,4,,
+8,TDHT 21,TDHT,21,,,,4,,
+14,TDPR 6 2,TDPR,6,,,,4,,
+9,TDAC 101,TDAC,101,2,,,4,,
+10,TDHT 10,TDHT,10,,,,4,,
+15,TDDE 1XX,,,,,,4,,
+11,TDDR 101,TDDR,101,,,,4,,
+12,TDDR 111,TDDR,111,10,,,4,,
+13,TDPW 101,TDPW,101,7,,,4,,
+16,UD THEATRE ELECTIVE 1,,,,,,4,,
+17,TDHT 1XX 1,,,,,,4,,
+18,UD THEATRE ELECTIVE 2,,,,,,4,,
+19,TDHT 1XX 2,,,,,,4,,
+20,UD THEATRE ELECTIVE 3,,,,,,4,,
+21,TDHT 1XX 3,,,,,,4,,
+22,UD THEATRE ELECTIVE 4,,,,,,4,,

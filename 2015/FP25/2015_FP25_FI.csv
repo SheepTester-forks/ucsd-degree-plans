@@ -1,0 +1,57 @@
+Curriculum,Public Health
+Degree Plan,Public Health/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+1,FPMU 40,FPMU,40,,,,4,,,1
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+5,CHEM 6B,CHEM,6B,3;2,,,4,,,2
+20,LD BIOLOGY SCI 1,,,,,,4,,,2
+21,LD BIOLOGY SCI 2,,,,,,4,,,3
+22,MAJOR PREREQUISITE 1,,,,,,4,,,3
+23,MAJOR PREREQUISITE 2,,,,,,4,,,3
+7,FPMU 50,FPMU,50,,,,4,,,4
+6,PSYC 60 (OR MATH 11 / 11L IN SPRING),PSYC,60,,,,4,,,4
+24,LD SOCIAL & BEHAVIORAL SCI 1,,,,,,4,,,4
+25,LD BIOLOGY SCI 3,,,,,,4,,,5
+26,LD SOCIAL & BEHAVIORAL SCI 2,,,,,,4,,,5
+27,MAJOR PREREQUISITE 3,,,,,,4,,,5
+8,MATH 11 / 11L (OR PSYC 60 IN FALL),MATH,11,4,,,5,,,6
+28,LD SOCIAL & BEHAVIORAL SCI 3,,,,,,4,,,6
+29,MAJOR PREREQUISITE 4,,,,,,4,,,6
+30,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+31,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+32,MAJOR PREREQUISITE 5,,,,,,4,,,7
+9,FPMU 101A,FPMU,101A,,,,4,,,8
+10,FPMU 110,FPMU,110,1,,,4,,,8
+33,MAJOR PREREQUISITE 6,,,,,,4,,,8
+12,FPMU 101B,FPMU,101B,,,,4,,,9
+11,FPMU 120,FPMU,120,10,,,4,,,9
+34,MAJOR PREREQUISITE 7,,,,,,4,,,9
+35,UD MAJOR ELECTIVE 3,,,,,,4,,,10
+36,UD MAJOR ELECTIVE 4,,,,,,4,,,10
+13,USP 143,USP,143,,,,4,,,11
+37,UD MAJOR ELECTIVE 5,,,,,,4,,,11
+14,FPMU 130,FPMU,130,,,,4,,,12
+38,UD MAJOR ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,MMW 11,MMW,11,,,,4,,,1
+16,MMW 12,MMW,12,,,,6,,,2
+17,MMW 13,MMW,13,,,,6,,,3
+18,MMW 14 / GE 1,MMW,14,16,,,4,,,4
+39,MMW 14 / GE 2,MMW,14,16,,,4,,,5
+19,MMW 15,MMW,15,16,,,4,,,6
+40,GE / DEI,,,,,,4,,,7
+41,GE 1,,,,,,4,,,8
+42,GE 2,,,,,,4,,,9
+43,GE 3,,,,,,4,,,10
+44,GE 4,,,,,,4,,,10
+45,GE 5,,,,,,4,,,11
+46,GE 6,,,,,,4,,,11
+47,GE 7,,,,,,4,,,12

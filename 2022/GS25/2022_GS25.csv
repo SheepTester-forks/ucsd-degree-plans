@@ -1,0 +1,28 @@
+Curriculum,German Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0125
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LIGM 1AX,LIGM,1AX,,,,2.5,,
+2,LIGM 1A,LIGM,1A,,,,2.5,,
+3,LIGM 1B,LIGM,1B,2;1,,,2.5,,
+4,LIGM 1BX,LIGM,1BX,2;1,,,2.5,,
+5,LIGM 1C,LIGM,1C,3;4,,,2.5,,
+6,LIGM 1CX,LIGM,1CX,3;4,,,2.5,,
+7,LTGM 2A,LTGM,2A,5;6,,,5,,
+8,LTGM 2B,LTGM,2B,7,,,5,,
+9,LTGM 2C,LTGM,2C,8,,,4,,
+10,LTGM 100,LTGM,100,,,,4,,
+12,GS UD ELECTIVE 1,,,,,,4,,
+11,LTGM 101,LTGM,101,,,,4,,
+13,GS UD ELECTIVE 2,,,,,,4,,
+14,HISTORY ELECTIVE 1,,,,,,4,,
+15,GS UD ELECTIVE 3,,,,,,4,,
+16,LTGM ELECTIVE 1,,,,,,4,,
+17,GS UD ELECTIVE 4,,,,,,4,,
+18,LTGM ELECTIVE 2,,,,,,4,,
+19,GS UD ELECTIVE 5,,,,,,4,,
+20,LTGM ELECTIVE 3,,,,,,4,,
+21,HISTORY ELECTIVE 2,,,,,,4,,

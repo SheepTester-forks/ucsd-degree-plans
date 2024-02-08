@@ -1,0 +1,62 @@
+Curriculum,Computer Science with Specialization in Bioinformatics
+Degree Plan,Computer Science with Specialization in Bioinformatics/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.1103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CSE 8A,CSE,8A,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+5,CSE 8B,CSE,8B,2,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+6,CHEM 6B,CHEM,6B,3;1,,,4,,,2
+7,BILD 1,BILD,1,3,,,4,,,2
+9,CSE 12,CSE,12,5,,,4,,,3
+8,MATH 20C,MATH,20C,4,,,4,,,3
+10,CHEM 6C,CHEM,6C,6,,,4,,,3
+11,BILD 94 / CSE 191,BILD,94,,,,2,,,3
+12,CSE 21,CSE,21,,,,4,,,4
+13,PHYS 2A,PHYS,2A,1,,,4,,,4
+15,BILD 2,BILD,2,7,,,4,,,4
+19,CSE 100,CSE,100,12;9,,,4,,,5
+16,PHYS 2B,PHYS,2B,13;4,,,4,,,5
+18,CHEM 140A,CHEM,140A,6,,,4,,,5
+17,MATH 20F,MATH,20F,8,,,4,,,5
+22,BIBC 103,BIBC,103,7,,,4,,,6
+20,PHYS 2C,PHYS,2C,13;16;8,,,4,,,6
+21,CHEM 140B,CHEM,140B,18,,,4,,,6
+26,BIMM100 / CHEM114C,BIMM,100,7,,,4,,,7
+24,BIBC102 / CHEM114B,BIBC,102,18;21,,,4,,,7
+23,CSE 101,CSE,101,9;12;19,,,4,,,7
+25,CSE 181,CSE,181,19;23;26,,,4,,,8
+28,BICD 100 1,BICD,100,7,,,4,,,8
+27,MATH 186,MATH,186,8,,,4,,,8
+30,BIBC110 / CHEM127,BIBC,110,,,,4,,,9
+29,BIMM101 / CHEM112B,BIMM,101,7,,,4,,,9
+40,BICD 100 2,BICD,100,7,,,4,,,9
+31,CSE 182,CSE,182,19,,,4,,,10
+32,BENG 183,BENG,183,26,,,4,,,10
+41,CSE ELECTIVE 1,,,,,,4,,,10
+33,CSE 184 / CSE 151,CSE,184,25;31,,,4,,,11
+42,CSE ELECTIVE 2,,,,,,4,,,11
+43,CSE ELECTIVE 3,,,,,,4,,,11
+34,BIMM 185,BIMM,185,25;25;25;25;25;25;25;31;25;25,,,4,,,12
+44,CSE ELECTIVE 4,,,,,,4,,,12
+45,CSE ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+46,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+35,HUM 1,HUM,1,,,,6,,,2
+36,HUM 2,HUM,2,,,,6,,,3
+37,HUM 3,HUM,3,,,,4,,,4
+14,CHEM 7L,CHEM,7L,6,,,4,,,4
+38,HUM 4,HUM,4,,,,4,,,5
+39,HUM 5,HUM,5,,,,4,,,6
+47,FINE ARTS,,,,,,4,,,6
+48,LANGUAGE 1,,,,,,5,,,7
+49,LANGUAGE 2,,,,,,5,,,8
+50,LANGUAGE 3,,,,,,5,,,9
+51,LANGUAGE 4,,,,,,5,,,10
+52,SOCIAL SCIENCE,,,,,,4,,,11

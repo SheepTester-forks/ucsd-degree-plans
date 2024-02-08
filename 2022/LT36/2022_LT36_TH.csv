@@ -1,0 +1,53 @@
+Curriculum,Literatures in English
+Degree Plan,Literatures in English/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LD LANGUAGE 1,,,,,,5,,,1
+1,LTEN 21,LTEN,21,,,,4,,,1
+12,LD LANGUAGE 2,,,,,,5,,,2
+2,LTEN 22,LTEN,22,,,,4,,,2
+13,LD LANGUAGE 3,,,,,,5,,,3
+3,LTEN 23,LTEN,23,,,,4,,,3
+14,LD LANGUAGE 4,,,,,,5,,,4
+4,"LTEN 27, 28, / 29",LTEN,27,,,,4,,,4
+15,LD LANGUAGE 5,,,,,,5,,,5
+5,LTEN 25,LTEN,25,,,,4,,,5
+16,LD LANGUAGE 6,,,,,,5,,,6
+6,LTEN 26,LTEN,26,,,,4,,,6
+17,"UD LTEN (A, B, C, / D) 1",,,,,,4,,,7
+18,"UD LTEN (A, B, C, / D) 2",,,,,,4,,,7
+7,"LTCS 100, LTTH 110, / LTTH 115",LTCS,100,,,,4,,,8
+19,"UD LTEN (A, B, C, / D) 3",,,,,,4,,,8
+20,"UD LTEN (A, B, C, / D) 4",,,,,,4,,,9
+21,UD LTAM,,,,,,4,,,9
+22,UD LTEN 1,,,,,,4,,,10
+23,UD LTEU,,,,,,4,,,10
+24,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,11
+25,UD LTEN 2,,,,,,4,,,11
+26,UD LTEN 3,,,,,,4,,,12
+27,UD LTEN 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,DOC 1 / DEI,DOC,1,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+9,DOC 2,DOC,2,8,,,6,,,2
+29,GE 2,,,,,,4,,,2
+10,DOC 3,DOC,3,9,,,6,,,3
+30,GE 3,,,,,,4,,,3
+31,GE 4,,,,,,4,,,4
+32,GE 5,,,,,,4,,,4
+33,GE 6,,,,,,4,,,5
+34,GE 7,,,,,,4,,,5
+35,GE 8,,,,,,4,,,6
+36,ELECTIVE 1,,,,,,4,,,6
+37,GE 9,,,,,,4,,,7
+38,UD ELECTIVE,,,,,,4,,,7
+39,UD GE 1,,,,,,4,,,8
+40,UD GE 2,,,,,,4,,,9
+41,ELECTIVE 2,,,,,,4,,,10
+42,ELECTIVE 3,,,,,,4,,,11
+43,ELECTIVE 4,,,,,,2,,,12

@@ -1,0 +1,55 @@
+Curriculum,Physics-Biophysics
+Degree Plan,Physics-Biophysics/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0899
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM6A,CHEM,6A,,,,4,,,1
+3,MATH 18,MATH,18,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+6,PHYS 4A,PHYS,4A,1,,,4,,,2
+7,MATH 20C,MATH,20C,4,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+9,PHYS 4B,PHYS,4B,6;4,,,4,,,3
+10,MATH 20E,MATH,20E,3;7,,,4,,,4
+11,PHYS 4C,PHYS,4C,6;9;7;3,,,4,,,4
+12,CHEM 7L,CHEM,7L,5,,,4,,,4
+13,MATH 20D,MATH,20D,7,,,4,,,5
+15,BILD 1,BILD,1,2,5,,4,,,5
+14,PHYS 4D,PHYS,4D,6;11;9;1;4;7;10;3,,,4,,,5
+16,PHYS 2CL,PHYS,2CL,6;11,,,2,,,5
+17,PHYS 4E,PHYS,4E,6;9;11;14;1;4;7;13;10;3,,,4,,,6
+19,BILD 2,BILD,2,15,,,4,,,6
+18,PHYS 2DL,PHYS,2DL,16,,,2,,,6
+20,PHYS 100A,PHYS,100A,6;11;9;14;1;4;7;13;10;3,,,4,,,7
+21,PHYS 105A,PHYS,105A,11;9;14;17;1;4;7;13;10;3,,,4,,,7
+22,PHYS 110A,PHYS,110A,6;11;9;14;1;4;7;13;10;3,,,4,,,7
+35,PHYS RE 1,,,,,,4,,,8
+24,CHEM 40A,CHEM,40A,5,,,4,,,8
+23,PHYS 100B,PHYS,100B,20;1;4;7;13;10;3,,,4,,,8
+25,PHYS 120,PHYS,120,6;11;9;16,,,5,,,9
+26,PHYS 130A,PHYS,130A,17;20;22,,,4,,,9
+27,PHYS 140A,PHYS,140A,26,,,4,,,10
+28,PHYS 175,PHYS,175,20;22,,,4,,,10
+36,BIOPHYSICS ELECTIVE,,,,,,4,,,11
+29,PHYS 173,PHYS,173,25;15;12,,,4,,,12
+37,PHYS RE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,MMW 11,MMW,11,,,,4,,,1
+31,MMW 12,MMW,12,,,,6,,,2
+32,MMW 13,MMW,13,31,,,6,,,3
+33,MMW 14 / GE 1,MMW,14,31;32,,,4,,,4
+38,MMW 14 / GE 2,MMW,14,31;32,,,4,,,5
+34,MMW 15,MMW,15,31;32,,,4,,,6
+39,GE / DEI,,,,,,4,,,7
+40,GE 1,,,,,,4,,,8
+41,GE 2,,,,,,4,,,9
+42,GE 3,,,,,,4,,,10
+43,GE 4,,,,,,4,,,11
+44,GE 5,,,,,,4,,,11
+45,GE 6,,,,,,4,,,12

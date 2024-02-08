@@ -1,0 +1,55 @@
+Curriculum,Mathematical Biology
+Degree Plan,Mathematical Biology/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0306
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+16,PROGRAMMING COURSE,,,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+17,CHEMISTRY / PHYSICS COURSE 1,,,,,,4,,,3
+5,MATH 20D / MATH 109,MATH,20D,4,,,4,,,4
+6,MATH 11,MATH,11,2,,,4,,,4
+7,BILD 1,BILD,1,,,,4,,,4
+8,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+9,MATH 20E,MATH,20E,3;4,,,4,,,6
+10,BILD 2,BILD,2,7,,,4,,,6
+18,UD ELECTIVE 1,,,,,,4,,,6
+19,GE / DEI,,,,,,4,,,6
+12,UD ELECTIVE (MATH 174),MATH,174,5,,,4,,,7
+20,UD ELECTIVE 2,,,,,,4,,,8
+21,UD ELECTIVE 3,,,,,,4,,,8
+22,UD ELECTIVE 4,,,,,,4,,,9
+23,UD ELECTIVE 5,,,,,,4,,,9
+24,UD ELECTIVE 6,,,,,,4,,,10
+25,UD ELECTIVE 7,,,,,,4,,,10
+26,UD ELECTIVE 8,,,,,,4,,,11
+27,UD ELECTIVE 9,,,,,,4,,,11
+28,UD ELECTIVE 10,,,,,,4,,,12
+29,UD ELECTIVE 11,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,WCWP 10A,WCWP,10A,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+14,WCWP 10B,WCWP,10B,13,,,4,,,2
+31,ELECTIVE 1,,,,,,4,,,2
+15,PHIL / POLI 27,POLI,27,13;14,,,4,,,3
+32,ELECTIVE 2,,,,,,4,,,3
+33,GE 2,,,,,,4,,,4
+34,CHEMISTRY / PHYSICS COURSE 2,,,,,,4,,,5
+35,GE 3,,,,,,4,,,5
+36,GE 4,,,,,,4,,,5
+11,BILD 4,BILD,4,,,,4,,,7
+37,GE 5,,,,,,4,,,7
+38,UD ELECTIVE 12,,,,,,4,,,7
+39,GE 6,,,,,,4,,,8
+40,UD ELECTIVE 13,,,,,,4,,,8
+41,GE 7,,,,,,4,,,9
+42,GE 8,,,,,,4,,,9
+43,GE 9,,,,,,4,,,10
+44,GE 10,,,,,,4,,,11
+45,GE 11,,,,,,4,,,12

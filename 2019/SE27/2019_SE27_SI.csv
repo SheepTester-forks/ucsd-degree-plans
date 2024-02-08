@@ -1,0 +1,59 @@
+Curriculum,Structural Engineering
+Degree Plan,Structural Engineering/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0803
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,SE 1,SE,1,,,,4,,,1
+5,PHYS 2A,PHYS,2A,2,,,4,,,2
+4,MATH 20B,MATH,20B,2,,,4,,,2
+34,GE 1,,,,,,4,,,2
+8,PHYS 2B,PHYS,2B,5;2;4,,,4,,,3
+9,PHYS 2BL,PHYS,2BL,5,,,2,,,3
+7,MATH 20C,MATH,20C,4,,,4,,,3
+6,SE 3,SE,3,1,,,4,,,3
+11,PHYS 2C,PHYS,2C,5;7,,,4,,,4
+12,PHYS 2CL,PHYS,2CL,5;8,,,2,,,4
+10,MATH 20D,MATH,20D,7,,,4,,,4
+13,SE 101A,SE,101A,5;7,,,4,,,4
+14,MATH 18,MATH,18,,,,4,,,5
+16,SE 101B,SE,101B,13,,,4,,,5
+15,SE 110A,SE,110A,13;10,,,4,,,5
+35,GE 2,,,,,,4,,,5
+17,MATH 20E,MATH,20E,14;7,,,4,,,6
+18,SE 9,SE,9,10;14,,,4,,,6
+20,SE 104,SE,104,1;13,,,4,,,6
+21,SE 104L,SE,104L,,,,1,,,6
+19,SE 110B,SE,110B,15,,,4,,,6
+22,SE 101C,SE,101C,16;14,,,4,,,7
+23,SE 121A,SE,121A,,,,4,,,7
+24,SE 130A,SE,130A,15,,,4,,,7
+36,FOCUS SEQUENCE 1,,,,,,4,,,8
+26,SE 115,SE,115,5;10,,,4,,,8
+25,SE 121B,SE,121B,,,,4,,,8
+37,FOCUS SEQUENCE 2,,,,,,4,,,9
+28,SE 130B,SE,130B,24,,,4,,,9
+27,SE 131,SE,131,,,,4,,,9
+38,GE 3,,,,,,4,,,9
+39,FOCUS SEQUENCE 3,,,,,,4,,,10
+40,TECHNICAL ELECTIVE 1,,,,,,4,,,10
+29,SE 125,SE,125,10;14,,,4,,,10
+41,FOCUS SEQUENCE 4,,,,,,4,,,11
+42,FOCUS SEQUENCE CAPSTONE 1,,,,,,4,,,11
+43,TECHNICAL ELECTIVE 2,,,,,,4,,,11
+44,FOCUS SEQUENCE CAPSTONE 2,,,,,,4,,,12
+45,TECHNICAL ELECTIVE 3,,,,,,4,,,12
+46,GE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,CAT 1,CAT,1,,,,4,,,1
+31,CAT 2,CAT,2,30,,,6,,,2
+32,CAT 3,CAT,3,31,,,6,,,3
+47,GE / DEI,,,,,,4,,,4
+33,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,7
+48,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,8
+49,GE 5,,,,,,4,,,10

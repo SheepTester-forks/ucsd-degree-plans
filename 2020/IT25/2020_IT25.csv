@@ -1,0 +1,28 @@
+Curriculum,Italian Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0126
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LIIT 1AX,LIIT,1AX,,,,2.5,,
+2,LIIT 1A,LIIT,1A,,,,2.5,,
+3,LIIT 1B,LIIT,1B,2;1,,,2.5,,
+4,LIIT 1BX,LIIT,1BX,2;1,,,2.5,,
+5,LIIT 1C,LIIT,1C,3;4,,,2.5,,
+6,LIIT 1CX,LIIT,1CX,3;4,,,2.5,,
+7,LTIT 2A,LTIT,2A,5;6,,,5,,
+8,LTIT 2B,LTIT,2B,7,,,5,,
+9,LTIT 50,LTIT,50,,,,4,,
+10,IS UD ELECTIVE 1,,,,,,4,,
+11,IS DEPT 1,,,,,,4,,
+12,IS DEPT 2,,,,,,4,,
+13,IS UD ELECTIVE 2,,,,,,4,,
+14,IS DEPT 3,,,,,,4,,
+15,IS UD ELECTIVE 3,,,,,,4,,
+16,IS UD ELECTIVE 4,,,,,,4,,
+17,IS UD ELECTIVE 5,,,,,,4,,
+18,IS UD ELECTIVE 6,,,,,,4,,
+19,IS UD ELECTIVE 7,,,,,,4,,
+20,IS UD ELECTIVE 8,,,,,,4,,
+21,IS UD ELECTIVE 9,,,,,,4,,

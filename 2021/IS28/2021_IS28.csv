@@ -1,0 +1,26 @@
+Curriculum,International Studies-Linguistics
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+4,LANGUAGE 1,,,,,,5,,
+5,LANGUAGE 2,,,,,,5,,
+6,LANGUAGE 3,,,,,,5,,
+7,LANGUAGE 4,,,,,,5,,
+1,INTL 101 / 102 1,INTL,101,,,,4,,
+8,INTL 101 / 102 2,INTL,101,,,,4,,
+9,EAP / OAP (RECOMMENDED),,,,,,16,,
+10,DF2 - LINGUISTICS,,,,,,4,,
+11,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,
+2,DF1 - LINGUISTICS (LIGN 101),LIGN,101,,,,4,,
+12,DF4 - LINGUISTICS,,,,,,4,,
+13,DF3 - LINGUISTICS (RR2),,,,,,4,,
+14,IE2 - INTERDISC ELECTIVE,,,,,,4,,
+15,DF5 - LINGUISTICS (RR3),,,,,,4,,
+3,INTL 190,INTL,190,1,,,4,,
+16,IE3 - INTERDISC ELECTIVE,,,,,,4,,
+17,DF6 - LINGUISTICS,,,,,,4,,
+18,DF7 - LINGUISTICS,,,,,,4,,
+19,DF8 - LINGUISTICS,,,,,,4,,

@@ -1,0 +1,51 @@
+Curriculum,International Studies - Philosophy
+Degree Plan,International Studies - Philosophy/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,LANGUAGE 1,,,,,,5,,,1
+7,LANGUAGE 2,,,,,,5,,,2
+8,LANGUAGE 3,,,,,,5,,,3
+9,LANGUAGE 4,,,,,,5,,,4
+1,PHIL 10,PHIL,10,,,,4,,,4
+2,INTL 101 / 102 1,INTL,101,4,,,4,,,5
+10,INTL 101 / 102 2,INTL,101,4,,,4,,,6
+11,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+12,DF - 1 - PHILOSOPHY,,,,,,4,,,8
+13,DF - 2 - PHILOSOPHY,,,,,,4,,,8
+14,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,8
+15,DF - 3 - PHILOSOPHY,,,,,,4,,,9
+16,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,9
+17,DF - 4 - PHILOSOPHY,,,,,,4,,,9
+18,DF - 5 - PHILOSOPHY,,,,,,4,,,10
+3,INTL 190,INTL,190,2,,,4,,,10
+19,DF - 6 - PHILOSOPHY,,,,,,4,,,11
+20,DF - 7 - PHILOSOPHY,,,,,,4,,,11
+21,DF - 8 - PHILOSOPHY,,,,,,4,,,12
+22,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,GE 1,,,,,,4,,,1
+4,GE / MCWP 40,MCWP,40,,,,4,,,1
+24,ELECTIVE 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,2
+5,GE / MCWP 50,MCWP,50,4,,,4,,,2
+26,ELECTIVE 2,,,,,,4,,,2
+27,GE 3,,,,,,4,,,3
+28,GE 4,,,,,,4,,,3
+29,DEI,,,,,,4,,,3
+30,GE 5,,,,,,4,,,4
+31,GE 6,,,,,,4,,,4
+32,GE 7,,,,,,4,,,5
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 3,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,6
+37,ELECTIVE 5,,,,,,4,,,6
+38,MUIR UD ELECTIVE,,,,,,4,,,8
+39,ELECTIVE 6,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,11
+41,ELECTIVE 8,,,,,,4,,,12

@@ -1,0 +1,63 @@
+Curriculum,Music Humanities
+Degree Plan,Music Humanities/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MUSIC 1A / 2A,,,,,,4,,,1
+7,MUSIC 43 1,,,,,,1,,,1
+8,MUSIC 1B / 2B,,,,,,4,,,2
+9,MUSIC 43 2,,,,,,1,,,2
+10,MUSIC 1C / 2C,,,,,,4,,,3
+11,MUSIC 43 3,,,,,,1,,,3
+12,MUSIC 43 4,,,,,,1,,,4
+13,MUSIC 120A,,,,,,4,,,4
+14,MUSIC 120B,,,,,,4,,,5
+15,MUSIC 43 5,,,,,,1,,,5
+16,MUSIC 120C,,,,,,4,,,6
+17,MUSIC UD ELECTIVE 1,,,,,,4,,,6
+18,MUSIC 43 6,,,,,,1,,,6
+19,MUSIC 43 7,,,,,,1,,,7
+20,MUSIC UD ELECTIVE 2,,,,,,4,,,7
+21,MUSIC UD HUMANITIES / FINE ARTS 1,,,,,,4,,,7
+22,MUSIC UD HUMANITIES / FINE ARTS 2,,,,,,4,,,8
+23,MUSIC 43 8,,,,,,1,,,8
+24,MUSIC 43 9,,,,,,1,,,9
+25,"MUSIC UD ELECTIVE 107, 110, 116 / 150",,,,,,4,,,9
+26,MUSIC UD HUMANITIES / FINE ARTS 3,,,,,,4,,,9
+27,MUSIC UD HUMANITIES / FINE ARTS 4,,,,,,4,,,10
+28,MUSIC 43 10,,,,,,1,,,10
+29,MUSIC UD HUMANITIES / FINE ARTS 5,,,,,,4,,,11
+30,MUSIC 43 11,,,,,,1,,,11
+31,MUSIC UD HUMANITIES / FINE ARTS 6,,,,,,4,,,12
+32,MUSIC 43 12,,,,,,1,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MMW 11,MMW,11,,,,4,,,1
+33,GE 1,,,,,,4,,,1
+2,MMW 12,MMW,12,,,,6,,,2
+34,GE 2,,,,,,4,,,2
+3,MMW 13,MMW,13,2,,,6,,,3
+35,GE 3,,,,,,4,,,3
+4,MMW 14 / GE 1,MMW,14,2;3,,,4,,,4
+36,GE 4,,,,,,4,,,4
+37,GE / DEI,,,,,,4,,,4
+38,MMW 14 / GE 2,MMW,14,2;3,,,4,,,5
+39,GE 5,,,,,,4,,,5
+40,GE 6,,,,,,4,,,5
+5,MMW 15,MMW,15,2;3,,,4,,,6
+41,GE 7,,,,,,4,,,6
+42,GE 8,,,,,,4,,,7
+43,GE 9,,,,,,4,,,7
+44,ELECTIVE 1,,,,,,4,,,8
+45,ELECTIVE 2,,,,,,4,,,8
+46,ELECTIVE 3,,,,,,4,,,8
+47,UD ELECTIVE,,,,,,4,,,9
+48,ELECTIVE 4,,,,,,4,,,10
+49,ELECTIVE 5,,,,,,4,,,10
+50,ELECTIVE 6,,,,,,4,,,11
+51,ELECTIVE 7,,,,,,4,,,11
+52,ELECTIVE 8,,,,,,4,,,12
+53,ELECTIVE 9,,,,,,4,,,12

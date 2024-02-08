@@ -1,0 +1,65 @@
+Curriculum,Bioengineering: BioSystems
+Degree Plan,Bioengineering: BioSystems/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.4501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+3,BENG 2,BENG,2,,,,2,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+7,BENG 1,BENG,1,,,,2,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+6,PHYS 2A,PHYS,2A,1;1,,,4,,,2
+8,MATH 20C / 31BH,MATH,20C,4,,,4,,,3
+9,MATH 18 / 31AH,MATH,18,,,,4,,,3
+11,PHYS 2BL,PHYS,2BL,6,,,2,,,3
+10,PHYS 2B,PHYS,2B,6;4,,,4,,,3
+12,PHYS 2CL,PHYS,2CL,6;10,,,2,,,4
+13,PHYS 2C,PHYS,2C,6;8,,,4,,,4
+14,MATH 20D,MATH,20D,8,,,4,,,4
+15,ECE 35,ECE,35,9;1;4;6,,,4,,,5
+16,BENG 120,BENG,120,2;5,,,4,,,5
+17,MATH 20E / 31CH,MATH,20E,9;8,,,4,,,6
+18,BENG 100,BENG,100,7;9;8,,,4,,,6
+19,BENG 102,BENG,102,16,,,4,,,6
+20,ECE 45,ECE,45,15,,,4,,,6
+21,BENG 134,BENG,134,14;9;18,,,4,,,7
+22,BENG 110,BENG,110,13;14;17;9,,,4,,,7
+23,BENG 141,BENG,141,18,,,4,,,7
+24,BENG 152,BENG,152,19,,,4,,,8
+25,BENG 130,BENG,130,5;1;4;6;10;14;13,,,4,,,8
+26,BENG 186B,BENG,186B,15;20,,,4,,,8
+27,BENG 140A,BENG,140A,2;5;6;10;13;19,,,4,,,8
+28,BENG 140B,BENG,140B,27,,,4,,,9
+29,BENG 133,BENG,133,14;9,,,4,,,9
+30,BENG 187A,BENG,187A,24,,,1,,,9
+31,BENG 187B,BENG,187B,30,,,1,,,10
+43,BENG DE COURSE (ASSIGNED) 1,,,,,,3,,,10
+32,BENG 122A,BENG,122A,21,,,4,,,10
+33,BENG 135,BENG,135,20;29,,,4,,,10
+34,BENG 187C,BENG,187C,31,,,1,,,11
+44,BENG DE COURSE (ASSIGNED) 2,,,,,,3,,,11
+45,TECHNICAL ELECTIVE 1,,,,,,4,,,11
+35,BENG 187D,BENG,187D,34,,,1,,,12
+36,BENG 125,BENG,125,32,,,4,,,12
+37,BENG 189,BENG,189,29;21;33;27;28,,,4,,,12
+46,TECHNICAL ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+47,FINE ARTS GE,,,,,,4,,,1
+38,HUM 1,HUM,1,,,,6,,,2
+39,HUM 2,HUM,2,,,,6,,,3
+40,HUM 3,HUM,3,38,,,4,,,4
+48,BIOLOGY GE,,,,,,4,,,4
+49,SOCIAL SCIENCE GE,,,,,,4,,,5
+41,HUM 4,HUM,4,,,,4,,,5
+42,HUM 5,HUM,5,,,,4,,,6
+50,LANGUAGE 1,,,,,,5,,,7
+51,LANGUAGE 2,,,,,,5,,,8
+52,LANGUAGE 3,,,,,,5,,,9
+53,LANGUAGE 4,,,,,,5,,,10
+54,SOCIAL SCIENCE / DEI,,,,,,4,,,11
+55,AHI,,,,,,4,,,12

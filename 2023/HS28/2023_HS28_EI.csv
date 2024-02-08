@@ -1,0 +1,54 @@
+Curriculum,Human Developmental Sciences with a Specialization in Healthy Aging
+Degree Plan,Human Developmental Sciences with a Specialization in Healthy Aging/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LD MAJOR PREP 1,,,,,,4,,,1
+11,LD MAJOR PREP 2,,,,,,4,,,1
+12,LD MAJOR PREP 3,,,,,,4,,,2
+13,LD MAJOR PREP 4,,,,,,4,,,2
+14,LD MAJOR PREP 5,,,,,,4,,,3
+15,LD MAJOR PREP 6,,,,,,4,,,3
+1,HDS 1,HDS,1,,,,4,,,4
+16,HDS CORE COURSE 1,,,,,,4,,,5
+17,HDS CORE COURSE 2,,,,,,4,,,5
+18,HDS CORE COURSE 3,,,,,,4,,,6
+19,HDS CORE COURSE 4,,,,,,4,,,6
+20,HDS DEVELOPMENT COURSE 1,,,,,,4,,,7
+8,HDS 60,HDS,60,,,,4,,,7
+21,HDS AGING SPECIALIZATION 1,,,,,,4,,,8
+22,HDS DEVELOPMENT COURSE 2,,,,,,4,,,9
+2,HDS 181,HDS,181,1;8,,,6,,,9
+23,HDS DEVELOPMENT COURSE 3,,,,,,4,,,10
+3,HDS 191,HDS,191,1;2,,,6,,,10
+24,HDS AGING SPECIALIZATION 2,,,,,,4,,,11
+25,HDS AGING PRACTICUM,,,,,,4,,,12
+4,HDS 150,HDS,150,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,DEI,,,,,,4,,,1
+5,CCE 1,CCE,1,,,,4,,,2
+27,BREADTH GE 1,,,,,,4,,,2
+28,BREADTH GE 2,,,,,,4,,,3
+29,BREADTH GE 3,,,,,,4,,,3
+6,CCE 2,CCE,2,,,,4,,,4
+30,BREADTH GE 4,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,BREADTH GE 5,,,,,,4,,,5
+33,BREADTH GE 6,,,,,,4,,,5
+7,CCE 3,CCE,3,,,,4,,,6
+34,ELECTIVE 2,,,,,,4,,,6
+35,BREADTH GE 7,,,,,,4,,,7
+36,ELECTIVE 3,,,,,,4,,,7
+37,BREADTH GE 8,,,,,,4,,,8
+38,ELECTIVE 4,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,8
+9,CCE 120,CCE,120,,,,4,,,9
+40,UD ELECTIVE 1,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,10
+42,UD ELECTIVE 2,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

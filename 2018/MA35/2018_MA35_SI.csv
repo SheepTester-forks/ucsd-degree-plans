@@ -1,0 +1,54 @@
+Curriculum,Probability & Statistics
+Degree Plan,Probability & Statistics/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,27.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 18,MATH,18,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,MATH 20C,MATH,20C,3,,,4,,,3
+6,CSE 11,CSE,11,,,,4,,,4
+5,MATH 109,MATH,109,2;4,,,4,,,4
+7,MATH 20D,MATH,20D,4,,,4,,,5
+19,UD MAJOR 1,,,,,,4,,,6
+8,MATH 20E,MATH,20E,2;4,,,4,,,6
+9,MATH 180A,MATH,180A,4,,,4,,,7
+20,UD MAJOR 2,,,,,,4,,,7
+10,MATH 181A,MATH,181A,9;2;4,,,4,,,8
+11,MATH 180B,MATH,180B,7;2;5;9,,,4,,,8
+12,MATH 181B,MATH,181B,10,,,4,,,9
+13,MATH 180C,MATH,180C,11,,,4,,,9
+21,UD MAJOR 3,,,,,,4,,,10
+14,MATH 181C / 181E,MATH,181C,12,,,4,,,10
+22,UD MAJOR 4,,,,,,4,,,11
+23,UD MAJOR 5,,,,,,4,,,11
+24,UD MAJOR 6,,,,,,4,,,12
+25,UD MAJOR 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,CAT 1,CAT,1,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+16,CAT 2,CAT,2,15,,,6,,,2
+27,GE 2,,,,,,4,,,2
+17,CAT 3,CAT,3,16,,,6,,,3
+28,GE 3,,,,,,4,,,3
+29,GE / DEI,,,,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,GE 5,,,,,,4,,,5
+32,GE 6,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+34,GE 7,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+18,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,8
+38,ELECTIVE 5,,,,,,4,,,8
+39,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,9
+40,ELECTIVE 6,,,,,,4,,,9
+41,ELECTIVE 7,,,,,,4,,,10
+42,ELECTIVE 8,,,,,,4,,,10
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12

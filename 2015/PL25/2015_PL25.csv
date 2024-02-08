@@ -1,0 +1,22 @@
+Curriculum,Philosophy
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+6,LD PHIL 1,,,,,,4,,
+7,LD PHIL 2,,,,,,4,,
+1,PHIL 10,PHIL,10,,,,4,,
+2,PHIL 120,PHIL,120,1,,,4,,
+8,UD PHIL 1,,,,,,4,,
+9,UD PHIL 2,,,,,,4,,
+10,UD PHIL 3,,,,,,4,,
+3,PHIL 110,PHIL,110,,,,4,,
+11,UD PHIL 4,,,,,,4,,
+4,PHIL 111,PHIL,111,3,,,4,,
+5,PHIL 112,PHIL,112,4,,,4,,
+12,UD PHIL 5,,,,,,4,,
+13,UD PHIL 6,,,,,,4,,
+14,UD PHIL 7,,,,,,4,,
+15,UD PHIL 8,,,,,,4,,

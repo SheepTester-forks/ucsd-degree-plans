@@ -1,0 +1,54 @@
+Curriculum,Latin American Studies
+Degree Plan,Latin American Studies/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,LANGUAGE COURSE 1,,,,,,5,,,1
+18,LANGUAGE COURSE 2,,,,,,5,,,2
+19,LANGUAGE COURSE 3,,,,,,5,,,3
+20,LANGUAGE COURSE 4,,,,,,5,,,4
+1,LATI 50,LATI,50,,,,4,,,5
+21,LANGUAGE COURSE 5,,,,,,5,,,5
+22,LANGUAGE COURSE 6,,,,,,4,,,6
+23,LATI UD ELECTIVE 1,,,,,,4,,,7
+24,LATI METHODS,,,,,,4,,,7
+25,CORE COURSE 1,,,,,,4,,,8
+26,LATI UD ELECTIVE 2,,,,,,4,,,8
+2,LATI 180,LATI,180,,,,4,,,9
+27,CORE COURSE 2,,,,,,4,,,9
+28,LATI UD ELECTIVE 3,,,,,,4,,,10
+29,LATI UD ELECTIVE 4,,,,,,4,,,10
+3,LATI 190,LATI,190,,,,4,,,11
+30,CORE COURSE 3,,,,,,4,,,11
+31,LATI UD ELECTIVE 5,,,,,,4,,,12
+32,LATI UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MATH 10A,MATH,10A,,,,4,,,1
+33,SOCIAL SCIENCE / DEI,,,,,,4,,,1
+5,MATH 10B,MATH,10B,4,,,4,,,2
+6,HUM 1,HUM,1,,,,6,,,2
+7,MATH 10C,MATH,10C,5,,,4,,,3
+8,HUM 2,HUM,2,,,,6,,,3
+9,HUM 3,HUM,3,,,,4,,,4
+34,SOCIAL SCIENCE,,,,,,4,,,4
+10,HUM 4,HUM,4,,,,4,,,5
+35,ELECTIVE 1,,,,,,4,,,5
+11,HUM 5,HUM,5,,,,4,,,6
+12,BILD 7 / 10,BILD,7,,,,4,,,6
+36,ELECTIVE 2,,,,,,4,,,6
+13,CHEM 11,CHEM,11,,,,4,,,7
+37,ELECTIVE 3,,,,,,4,,,7
+14,CHEM 12,CHEM,12,,,,4,,,8
+38,ELECTIVE 4,,,,,,4,,,8
+15,CHEM 13,CHEM,13,14,,,4,,,9
+39,ELECTIVE 5,,,,,,4,,,9
+40,FINE ARTS,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,10
+16,PHYS 10,PHYS,10,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,11
+43,ELECTIVE 8,,,,,,4,,,12
+44,ELECTIVE 9,,,,,,3,,,12

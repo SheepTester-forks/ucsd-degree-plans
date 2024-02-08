@@ -1,0 +1,31 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MUS 1A,MUS,1A,,,,4,,
+2,VIS 41,VIS,41,,,,4,,
+3,MUS 1B,MUS,1B,1,,,4,,
+4,CSE 11,CSE,11,,,,4,,
+5,MUS 6,MUS,6,,,,4,,
+6,MUS 4,MUS,4,,,,4,,
+7,MUS 43 1,MUS,43,,,,1,,
+8,MATH 20A,MATH,20A,,,,4,,
+20,MUS 43 2,MUS,43,,,,1,,
+9,MATH 20B,MATH,20B,8,,,4,,
+21,MUS 43 3,MUS,43,,,,1,,
+22,UD HISTORY ELECTIVE,,,,,,4,,
+23,MUS 43 4,MUS,43,,,,1,,
+10,VIS 142,VIS,142,,,,4,,
+11,MUS 170,MUS,170,1,,,4,,
+12,MUS 114 / VIS 159,MUS,114,,,,4,,
+13,MUS 171,MUS,171,,,,4,,
+24,UD MUSIC PRACTICE / HISTORY ELECTIVE,,,,,,4,,
+14,MUS 172,MUS,172,13,,,4,,
+15,MUS 174A,MUS,174A,11,,,4,,
+16,MUS 174B,MUS,174B,11;15,,,4,,
+17,MUS 160A,MUS,160A,14,,,4,,
+18,MUS 160B,MUS,160B,17,,,4,,
+19,MUS 174C,MUS,174C,11;16,,,4,,

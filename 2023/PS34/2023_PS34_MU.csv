@@ -1,0 +1,55 @@
+Curriculum,"Political Science/Race, Ethnicity, and Politics"
+Degree Plan,"Political Science/Race, Ethnicity, and Politics/ Muir"
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 10D,POLI,10D,,,,4,,,1
+5,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+6,LD POLI 2,,,,,,4,,,4
+7,UD POLI 1,,,,,,4,,,5
+8,"UD POLI / RACE, ETHNICITY, AND POLITICS 1",,,,,,4,,,6
+9,UD POLI 2,,,,,,4,,,6
+10,"UD POLI / RACE, ETHNICITY, AND POLITICS 2",,,,,,4,,,7
+11,UD POLI 3,,,,,,4,,,7
+12,"UD POLI / RACE, ETHNICITY, AND POLITICS 3",,,,,,4,,,8
+13,UD POLI 4,,,,,,4,,,8
+14,"UD POLI / RACE, ETHNICITY, AND POLITICS 4",,,,,,4,,,9
+15,UD POLI 5,,,,,,4,,,9
+16,"UD POLI / RACE, ETHNICITY, AND POLITICS 5",,,,,,4,,,10
+17,UD POLI 6,,,,,,4,,,10
+18,UD POLI 7,,,,,,4,,,11
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MCWP 40,MCWP,40,,,,4,,,1
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+4,MCWP 50,MCWP,50,3,,,4,,,2
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,2
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,GE 7,,,,,,4,,,3
+26,GE 8,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,4
+28,DEI,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,ELECTIVE 2,,,,,,4,,,5
+31,ELECTIVE 3,,,,,,4,,,5
+32,ELECTIVE 4,,,,,,4,,,6
+33,ELECTIVE 5,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,7
+35,ELECTIVE 7,,,,,,4,,,7
+36,MUIR UD ELECTIVE 1,,,,,,4,,,8
+37,ELECTIVE 8,,,,,,4,,,8
+38,MUIR UD ELECTIVE 2,,,,,,4,,,9
+39,ELECTIVE 9,,,,,,4,,,9
+40,ELECTIVE 10,,,,,,4,,,10
+41,MUIR UD ELECTIVE 3,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12
+45,ELECTIVE 14,,,,,,4,,,12

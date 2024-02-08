@@ -1,0 +1,20 @@
+Curriculum,Education Sciences
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,13.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+3,EDS FRESHMAN SEMINAR,,,,,,1,,
+4,EDS LD,,,,,,2,,
+1,EDS 102,EDS,102,,,,4,,
+5,EDS UD 1,,,,,,4,,
+2,EDS 103,EDS,103,,,,4,,
+6,EDS UD 2,,,,,,4,,
+7,EDS UD 3,,,,,,4,,
+8,EDS UD 4,,,,,,4,,
+9,EDS UD: INTRO TO LEARNING CONTEXTS,,,,,,6,,
+10,EDS UD ELECTIVE 1,,,,,,4,,
+11,EDS CAPSTONE 1,,,,,,6,,
+12,EDS UD ELECTIVE 2,,,,,,4,,
+13,EDS CAPSTONE 2,,,,,,6,,

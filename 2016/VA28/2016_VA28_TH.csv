@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Studio)
+Degree Plan,Visual Arts (Studio)/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0702
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,FOUNDATION LEVEL: HISTORY,,,,,,4,,,1
+8,FOUNDATION LEVEL: ART MAKING 1,,,,,,4,,,1
+1,VIS 80,VIS,80,,,,4,,,2
+2,VIS 22,VIS,22,,,,4,,,3
+9,FOUNDATION LEVEL: ART MAKING 2,,,,,,4,,,4
+10,INTERMEDIATE: GROUP A 1,,,,,,4,,,5
+3,VIS 11,VIS,11,,,,4,,,5
+11,HISTORY & THEORY 1,,,,,,4,,,6
+12,INTERMEDIATE: GROUP A 2,,,,,,4,,,6
+13,INTERMEDIATE: GROUP A 3,,,,,,4,,,7
+14,HISTORY & THEORY 2,,,,,,4,,,7
+15,INTERMEDIATE: GROUP B 1,,,,,,4,,,8
+16,HISTORY & THEORY 3,,,,,,4,,,8
+17,INTERMEDIATE: INTERDISCIPLINARY,,,,,,4,,,9
+18,INTERMEDIATE: GROUP B 2,,,,,,4,,,9
+19,ADVANCED LEVEL: ART MAKING,,,,,,4,,,10
+20,ADVANCED LEVEL: INTERDISCIPLINARY 1,,,,,,4,,,11
+21,ADVANCED LEVEL: INTERDISCIPLINARY 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,DOC 1 / DEI,DOC,1,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+5,DOC 2,DOC,2,4,,,6,,,2
+23,ELECTIVE 1,,,,,,4,,,2
+6,DOC 3,DOC,3,,,,6,,,3
+24,GE 2,,,,,,4,,,3
+25,GE 3,,,,,,4,,,4
+26,GE 4,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,GE 5,,,,,,4,,,5
+29,GE 6,,,,,,4,,,5
+30,GE 7,,,,,,4,,,6
+31,GE 8,,,,,,4,,,6
+32,GE 9,,,,,,4,,,7
+33,ELECTIVE 3,,,,,,4,,,7
+34,ELECTIVE 4,,,,,,4,,,8
+35,ELECTIVE 5,,,,,,4,,,8
+36,UD ELECTIVE 1,,,,,,4,,,9
+37,ELECTIVE 6,,,,,,4,,,10
+38,UD GE 1,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,11
+41,UD GE 2,,,,,,4,,,11
+42,UD ELECTIVE 3,,,,,,4,,,11
+43,UD ELECTIVE 4,,,,,,4,,,12
+44,ELECTIVE 8,,,,,,4,,,12

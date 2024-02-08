@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Art History/Criticism)
+Degree Plan,Visual Arts (Art History/Criticism)/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0703
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 20,VIS,20,,,,4,,,1
+2,VIS 23,VIS,23,,,,4,,,1
+3,VIS 21A / 21B,VIS,21A,,,,4,,,2
+4,VIS 22,VIS,22,,,,4,,,2
+20,ART MAKING OPTION,,,,,,4,,,3
+21,GROUP II (A - F) 1,,,,,,4,,,4
+5,VIS 111,VIS,111,,,,4,,,5
+6,VIS 112,VIS,112,,,,4,,,5
+22,GROUP II (A - F) 2,,,,,,4,,,6
+23,GROUP II (A - F) 3,,,,,,4,,,7
+24,GROUP II (A - F) 4,,,,,,4,,,8
+25,GROUP II (A - F) 5,,,,,,4,,,9
+26,GROUP III 1,,,,,,4,,,10
+27,GROUP II (A - F) 6,,,,,,4,,,10
+28,GROUP III 2,,,,,,4,,,11
+29,GROUP III 3,,,,,,4,,,11
+30,GROUP III 4,,,,,,4,,,12
+31,GROUP III 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,MATH 10A,MATH,10A,,,,4,,,1
+32,DEI / SOCIAL SCIENCE,,,,,,4,,,1
+8,MATH 10B,MATH,10B,7,,,4,,,2
+9,HUM 1,HUM,1,,,,6,,,2
+10,MATH 10C,MATH,10C,8,,,4,,,3
+11,HUM 2,HUM,2,,,,6,,,3
+12,HUM 3,HUM,3,,,,4,,,4
+13,CHEM 11,CHEM,11,,,,4,,,4
+33,SOCIAL SCIENCE,,,,,,4,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+15,CHEM 12,CHEM,12,,,,4,,,5
+16,HUM 5,HUM,5,,,,4,,,6
+17,CHEM 13,CHEM,13,15,,,4,,,6
+34,ELECTIVE 1,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+18,PHYS 10,PHYS,10,,,,4,,,8
+36,LANGUAGE 2,,,,,,5,,,8
+19,BILD 7 / 10,BILD,7,,,,4,,,9
+37,LANGUAGE 3,,,,,,5,,,9
+38,ELECTIVE 2,,,,,,4,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,ELECTIVE 3,,,,,,4,,,10
+41,ELECTIVE 4,,,,,,4,,,11
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,4,,,12

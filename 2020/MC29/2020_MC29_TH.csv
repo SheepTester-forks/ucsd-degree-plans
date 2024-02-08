@@ -1,0 +1,57 @@
+Curriculum,Environmental Engineering
+Degree Plan,Environmental Engineering/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+4,MATH 20B,MATH,20B,2,,,4,,,2
+5,PHYS 2A,PHYS,2A,2;2,,,4,,,2
+6,CHEM 6C,CHEM,6C,3,,,4,,,3
+7,MATH 20C,MATH,20C,4,,,4,,,3
+8,PHYS 2B,PHYS,2B,5;4,,,4,,,3
+9,PHYS 2C,PHYS,2C,5;7,,,6,,,4
+10,MAE 3,MAE,3,5,,,4,,,4
+11,ESYS 101,ESYS,101,,,,4,,,4
+12,MATH 20D,MATH,20D,7,,,4,,,4
+13,MAE 8,MAE,8,2;4,,,4,,,5
+14,MATH 18,MATH,18,,,,4,,,5
+15,MAE 30A,MAE,30A,5;7,,,4,,,5
+16,MAE 108,MAE,108,14,,,4,,,6
+17,MATH 20E,MATH,20E,14;7,,,4,,,6
+18,MAE 30B,MAE,30B,15,,,4,,,6
+19,CHEM 171,CHEM,171,6,,,4,,,7
+20,MAE 107,MAE,107,13;14,,,4,,,7
+21,CENG 100,CENG,100,3,,,4,,,7
+22,MAE 105,MAE,105,5;8;12,,,4,,,7
+23,MAE 101A,MAE,101A,5;12;17,,,4,,,8
+24,MAE 119,MAE,119,9,,,4,,,8
+25,MAE 11,MAE,11,9;1,,,4,,,8
+36,TE 1,,,,,,4,,,9
+26,MAE 101B,MAE,101B,23;25,,,4,,,9
+27,MAE 170,MAE,170,9,,,4,,,9
+28,MAE 101C,MAE,101C,23;26;22,,,4,,,10
+29,MAE 122,MAE,122,23,,,4,,,10
+37,TE 2,,,,,,4,,,10
+30,MAE 123,MAE,123,22,,,4,,,11
+38,TE 3,,,,,,4,,,11
+31,MAE 126A,MAE,126A,23;27,,,4,,,11
+39,TE (SIO),,,,,,4,,,12
+32,MAE 126B,MAE,126B,31,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+33,DOC 1 / DEI,DOC,1,,,,4,,,1
+40,GE 1,,,,,,4,,,1
+34,DOC 2,DOC,2,33,,,6,,,2
+35,DOC 3,DOC,3,34,,,6,,,3
+41,GE 2,,,,,,4,,,5
+42,GE 3,,,,,,4,,,6
+43,GE 4,,,,,,4,,,8
+44,GE 5,,,,,,4,,,9
+45,GE 6,,,,,,4,,,10
+46,UD GE 1,,,,,,4,,,11
+47,UD GE 2,,,,,,4,,,12

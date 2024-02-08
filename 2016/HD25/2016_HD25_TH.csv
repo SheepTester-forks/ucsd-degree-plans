@@ -1,0 +1,53 @@
+Curriculum,Human Development
+Degree Plan,Human Development/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LD SOC SCI 1,,,,,,4,,,1
+12,LD FORMAL SKILLS,,,,,,4,,,1
+13,LD SOC SCI 2,,,,,,4,,,2
+14,LD BIOLOGY SCI 1,,,,,,4,,,2
+15,LD BIOLOGY SCI 2,,,,,,4,,,3
+16,LD COMPUTER,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+17,LD STATISTICS,,,,,,4,,,4
+18,HDP CORE 1,,,,,,4,,,5
+19,HDP CORE 2,,,,,,4,,,5
+20,HDP CORE 3,,,,,,4,,,6
+21,HDP CORE 4,,,,,,4,,,6
+22,DEVELOPMENT 1,,,,,,4,,,7
+23,DEVELOPMENT 2,,,,,,4,,,7
+24,DEVELOPMENT 3,,,,,,4,,,8
+2,HDP 181,HDP,181,1,,,6,,,8
+25,DEVELOPMENT 4,,,,,,4,,,9
+3,HDP 191,HDP,191,1;2,,,6,,,9
+4,HDP 194A,HDP,194A,,,,4,,,10
+26,DEVELOPMENT 5,,,,,,4,,,10
+5,HDP 194B,HDP,194B,,,,4,,,11
+27,DEVELOPMENT 6,,,,,,4,,,11
+28,HONORS METHODS,,,,,,4,,,11
+6,HDP 194C,HDP,194C,,,,4,,,12
+7,HDP 150,HDP,150,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,DOC 1 / DEI,DOC,1,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+9,DOC 2,DOC,2,8,,,6,,,2
+30,GE 2,,,,,,4,,,2
+10,DOC 3,DOC,3,,,,6,,,3
+31,GE 3,,,,,,4,,,3
+32,GE 4,,,,,,4,,,4
+33,GE 5,,,,,,4,,,4
+34,GE 6,,,,,,4,,,5
+35,GE 7,,,,,,4,,,5
+36,GE 8,,,,,,4,,,6
+37,ELECTIVE 1,,,,,,4,,,6
+38,GE 9,,,,,,4,,,7
+39,ELECTIVE 2,,,,,,4,,,7
+40,UD GE 1,,,,,,4,,,8
+41,GE 10,,,,,,4,,,9
+42,UD GE 2,,,,,,4,,,10
+43,ELECTIVE 3,,,,,,4,,,12

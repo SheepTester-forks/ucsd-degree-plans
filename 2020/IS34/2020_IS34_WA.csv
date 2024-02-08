@@ -1,0 +1,51 @@
+Curriculum,International Studies - International Business
+Degree Plan,International Studies - International Business/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+17,LANGUAGE 1,,,,,,5,,,1
+18,LANGUAGE 2,,,,,,5,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+19,LANGUAGE 3,,,,,,5,,,3
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+20,LANGUAGE 4,,,,,,5,,,4
+4,ECON / MGT 4,MGT,4,,,,4,,,4
+5,MGT 5,MGT,5,,,,4,,,5
+6,INTL 101 / 102 1,INTL,101,13,,,4,,,5
+21,INTL 101 / 102 2,INTL,101,13,,,4,,,6
+22,GE / DEI,,,,,,4,,,6
+23,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+7,DF2 - MGT 164,MGT,164,,,,4,,,8
+24,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,8
+8,DF1 - MGT 103,MGT,103,,,,4,,,8
+9,DF3 - MGT 181 / 187,MGT,181,1;5;4,,,4,,,9
+25,DF4 - MGT ELECTIVE,,,,,,4,,,9
+26,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,9
+10,DF5 - MGT 112,MGT,112,8;9,,,4,,,10
+11,INTL 190,INTL,190,6,,,4,,,10
+12,DF6 - MGT 166,MGT,166,,,,4,,,11
+27,DF7 - MGT ELECTIVE,,,,,,4,,,11
+28,DF8 - MGT ELECTIVE,,,,,,4,,,12
+29,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,WCWP 10A,WCWP,10A,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+14,WCWP 10B,WCWP,10B,13,,,4,,,2
+31,GE 2,,,,,,4,,,2
+15,PHIL / POLI 27,POLI,27,13;14,,,4,,,3
+32,GE 3,,,,,,4,,,3
+16,PHIL / POLI 28,POLI,28,15,,,4,,,4
+33,GE 4,,,,,,4,,,4
+34,GE 5,,,,,,4,,,5
+35,GE 6,,,,,,4,,,5
+36,GE 7,,,,,,4,,,6
+37,GE 8,,,,,,4,,,6
+38,GE 9,,,,,,4,,,8
+39,GE 10,,,,,,4,,,10
+40,GE 11,,,,,,4,,,11
+41,ELECTIVE,,,,,,4,,,12

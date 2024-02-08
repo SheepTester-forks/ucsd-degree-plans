@@ -1,0 +1,50 @@
+Curriculum,International Studies-Economics
+Degree Plan,International Studies-Economics/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,LANGUAGE 1,,,,,,5,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+15,LANGUAGE 2,,,,,,5,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+16,LANGUAGE 3,,,,,,5,,,3
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+17,LANGUAGE 4,,,,,,5,,,4
+4,ECON 1,ECON,1,,,,4,,,4
+6,INTL 101 / 102 1,INTL,101,9,,,4,,,5
+5,ECON 2,ECON,2,4,,,4,,,5
+18,INTL 101 / 102 2,INTL,101,9,,,4,,,6
+7,ECON 3,ECON,3,4,,,4,,,6
+19,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+20,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+21,DF1 - ECONOMICS,,,,,,4,,,8
+22,DF2 - ECONOMICS,,,,,,4,,,9
+23,DF3 - ECONOMICS,,,,,,4,,,9
+24,IE2 - INTERDISC ELECTIVE (RR2),,,,,,4,,,9
+25,IE3 - INTERDISC ELECTIVE (RR3),,,,,,4,,,10
+26,DF4 - ECONOMICS,,,,,,4,,,10
+27,DF5 - ECONOMICS,,,,,,4,,,10
+8,INTL 190,INTL,190,6,,,4,,,11
+28,DF6 - ECONOMICS,,,,,,4,,,11
+29,DF8 - ECONOMICS,,,,,,4,,,12
+30,DF7 - ECONOMICS,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+31,FINE ARTS,,,,,,4,,,1
+9,HUM 1,HUM,1,,,,6,,,2
+10,HUM 2,HUM,2,,,,6,,,3
+32,CHEMISTRY GE,,,,,,4,,,4
+11,HUM 3,HUM,3,9,,,4,,,4
+33,PHYSICS GE,,,,,,4,,,5
+12,HUM 4,HUM,4,,,,4,,,5
+34,BIOLOGY GE,,,,,,4,,,6
+13,HUM 5,HUM,5,,,,4,,,6
+35,DEI,,,,,,4,,,8
+36,NATURAL SCIENCE GE 1,,,,,,4,,,8
+37,NATURAL SCIENCE GE 2,,,,,,4,,,9
+38,ELECTIVE 1,,,,,,4,,,10
+39,UD ELECTIVE,,,,,,4,,,11
+40,ELECTIVE 2,,,,,,4,,,12

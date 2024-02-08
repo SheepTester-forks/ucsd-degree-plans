@@ -1,0 +1,55 @@
+Curriculum,Cognitive and Behavioral Neuroscience
+Degree Plan,Cognitive and Behavioral Neuroscience/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,COGS 17,COGS,17,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+12,NATURAL SCIENCE 1,,,,,,4,,,2
+4,MATH 10C / 20C,MATH,10C,3,,,4,,,3
+13,NATURAL SCIENCE 2,,,,,,4,,,3
+5,PSYC 60 / COGS 14B,PSYC,60,,,,4,,,4
+6,PSYC 70 / COGS 14A,PSYC,70,5,,,4,,,5
+14,COMPUTER PROGRAMMING,,,,,,4,,,6
+15,GE / DEI,,,,,,4,,,6
+7,COGS 107A,COGS,107A,2,,,4,,,7
+16,CBN UD CORE 1,,,,,,4,,,7
+17,CBN UD CORE 2,,,,,,4,,,8
+18,CBN UD ELECTIVE 1,,,,,,4,,,8
+19,CBN UD CORE 3,,,,,,4,,,9
+20,CBN UD ELECTIVE 2,,,,,,4,,,9
+21,COGS / PSYC UD ELECTIVE 1,,,,,,4,,,10
+22,CBN UD ELECTIVE 3,,,,,,4,,,10
+23,CBN UD ELECTIVE 4,,,,,,4,,,10
+24,COGS / PSYC UD ELECTIVE 2,,,,,,4,,,11
+25,CBN RESEARCH 1,,,,,,4,,,11
+26,CBN UD ELECTIVE 5,,,,,,4,,,11
+27,CBN RESEARCH 2,,,,,,4,,,12
+28,CBN UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,WCWP 10A,WCWP,10A,,,,4,,,1
+9,WCWP 10B,WCWP,10B,8,,,4,,,2
+29,GE 1,,,,,,4,,,2
+10,PHIL 27 / POLI 27,PHIL,27,8;9,,,4,,,3
+30,GE 2,,,,,,4,,,3
+11,PHIL 28 / POLI 28,PHIL,28,10,,,4,,,4
+31,GE 3,,,,,,4,,,4
+32,GE 4,,,,,,4,,,4
+33,GE 5,,,,,,4,,,5
+34,GE 6,,,,,,4,,,5
+35,ELECTIVE 1,,,,,,4,,,5
+36,GE 7,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,6
+38,GE 8,,,,,,4,,,7
+39,ELECTIVE 3,,,,,,4,,,7
+40,GE 9,,,,,,4,,,8
+41,ELECTIVE 4,,,,,,4,,,8
+42,GE 10,,,,,,4,,,9
+43,ELECTIVE 5,,,,,,4,,,9
+44,ELECTIVE 6,,,,,,4,,,10
+45,GE 11,,,,,,4,,,12

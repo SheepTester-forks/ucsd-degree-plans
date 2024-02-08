@@ -1,0 +1,54 @@
+Curriculum,History
+Degree Plan,History/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MMW 11,MMW,11,,,,4,,,1
+3,MMW 12,MMW,12,,,,6,,,2
+4,MMW 13,MMW,13,3,,,6,,,3
+1,HITO 100,HITO,100,,,,4,,,4
+7,HIUD 1,,,,,,4,,,5
+8,HIUD 2,,,,,,4,,,6
+9,HIUD 3,,,,,,4,,,7
+10,HIUD 4,,,,,,4,,,7
+11,HIUD 5,,,,,,4,,,8
+12,HIUD 6,,,,,,4,,,8
+13,HIUD 7,,,,,,4,,,9
+14,HILD,,,,,,4,,,9
+15,HIUD 8,,,,,,4,,,10
+16,COLLOQUIUM COURSE NUMBERED 160 - 190,,,,,,4,,,11
+17,HIUD 9,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,GE 1,,,,,,4,,,1
+19,GE 2,,,,,,4,,,1
+20,ELECTIVE 1,,,,,,4,,,1
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,2
+23,GE 5,,,,,,4,,,3
+24,ELECTIVE 2,,,,,,4,,,3
+5,MMW 14 / GE 1,MMW,14,3;4,,,4,,,4
+25,GE 6,,,,,,4,,,4
+26,GE / DEI,,,,,,4,,,4
+27,MMW 14 / GE 2,MMW,14,3;4,,,4,,,5
+28,GE 7,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+6,MMW 15,MMW,15,3;4,,,4,,,6
+30,GE 8,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,6
+32,GE 9,,,,,,4,,,7
+33,ELECTIVE 5,,,,,,4,,,7
+34,GE 10,,,,,,4,,,8
+35,ELECTIVE 6,,,,,,4,,,8
+36,UD ELECTIVE,,,,,,4,,,9
+37,ELECTIVE 7,,,,,,4,,,9
+38,ELECTIVE 8,,,,,,4,,,10
+39,ELECTIVE 9,,,,,,4,,,10
+40,ELECTIVE 10,,,,,,4,,,10
+41,ELECTIVE 11,,,,,,4,,,11
+42,ELECTIVE 12,,,,,,4,,,11
+43,ELECTIVE 13,,,,,,4,,,12
+44,ELECTIVE 14,,,,,,4,,,12

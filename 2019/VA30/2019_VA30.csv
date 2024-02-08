@@ -1,0 +1,27 @@
+Curriculum,Speculative Design
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,"VIS 1, 2, / 3",VIS,1,,,,4,,
+2,VIS 30,VIS,30,,,,4,,
+3,VIS 11,VIS,11,,,,4,,
+4,VIS 41,VIS,41,,,,4,,
+5,VIS 10,VIS,10,,,,4,,
+6,VIS 22,VIS,22,,,,4,,
+12,FOUNDATION LEVEL: ELECTIVE 1,,,,,,4,,
+13,HISTORY & THEORY,,,,,,4,,
+7,VIS 135,VIS,135,2,,,4,,
+14,FOUNDATION LEVEL: ELECTIVE 2,,,,,,4,,
+8,VIS 159,VIS,159,,,,4,,
+9,VIS 142,VIS,142,,,,4,,
+15,INTERMEDIATE LEVEL: EMPHASIS 1,,,,,,4,,
+10,VIS 100,VIS,100,,,,4,,
+16,INTERMEDIATE LEVEL: EMPHASIS 2,,,,,,4,,
+17,ADVANCED LEVEL: ELECTIVE 1,,,,,,4,,
+18,ADVANCED LEVEL: ELECTIVE 2,,,,,,4,,
+19,INTERMEDIATE LEVEL: EMPHASIS 3,,,,,,4,,
+20,ADVANCED LEVEL: ELECTIVE 3,,,,,,4,,
+11,VIS 190,VIS,190,7,,,8,,

@@ -1,0 +1,55 @@
+Curriculum,Business Psychology
+Degree Plan,Business Psychology/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,NATURAL SCIENCE 1,,,,,,4,,,1
+14,NATURAL SCIENCE 2,,,,,,4,,,2
+1,MATH 10A / 20A,MATH,10A,,,,4,,,2
+15,NATURAL SCIENCE 3,,,,,,4,,,3
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,MGT 16,MGT,16,,,,4,,,4
+5,PSYC 70,PSYC,70,3,,,4,,,5
+16,COMPUTER PROGRAMMING,,,,,,4,,,6
+6,MGT 18 (FULFILLS DEI),MGT,18,,,,4,,,6
+7,PSYC 104,PSYC,104,,,,4,,,7
+17,PSYC CORE 1,,,,,,4,,,7
+8,PSYC 105,PSYC,105,,,,4,,,8
+18,PSYC CORE 2,,,,,,4,,,8
+19,BUS MGT 1,,,,,,4,,,9
+20,BUS PSYC ELECTIVE 1,,,,,,4,,,9
+21,BUS MGT 2,,,,,,4,,,10
+22,BUS PSYC ELECTIVE 2,,,,,,4,,,10
+23,PSYC UD ELECTIVE,,,,,,4,,,10
+24,BUS MGT 3,,,,,,4,,,11
+25,BUS PSYC RESEARCH 1,,,,,,4,,,11
+26,BUS PSYC ELECTIVE 3,,,,,,4,,,12
+27,BUS PSYC RESEARCH 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+28,BREADTH GE 1,,,,,,4,,,1
+29,BREADTH GE 2,,,,,,4,,,1
+9,CCE 1,CCE,1,,,,4,,,2
+30,ELECTIVE 1,,,,,,4,,,2
+31,BREADTH GE 3,,,,,,4,,,3
+32,ELECTIVE 2,,,,,,4,,,3
+10,CCE 2,CCE,2,,,,4,,,4
+33,ELECTIVE 3,,,,,,4,,,4
+34,BREADTH GE 4,,,,,,4,,,5
+35,BREADTH GE 5,,,,,,4,,,5
+36,ELECTIVE 4,,,,,,4,,,5
+11,CCE 3,CCE,3,,,,4,,,6
+37,ELECTIVE 5,,,,,,4,,,6
+38,BREADTH GE 6,,,,,,4,,,7
+39,ELECTIVE 6,,,,,,4,,,7
+40,BREADTH GE 7,,,,,,4,,,8
+41,UD ELECTIVE 1,,,,,,4,,,8
+12,CCE 120,CCE,120,,,,4,,,9
+42,ELECTIVE 7,,,,,,4,,,10
+43,UD ELECTIVE 2,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,4,,,12

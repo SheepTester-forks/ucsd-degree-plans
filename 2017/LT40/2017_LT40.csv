@@ -1,0 +1,30 @@
+Curriculum,U.S. Latino/a and Latin American Literatures
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0908
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LISP 1A,LISP,1A,,,,2.5,,
+2,LISP 1AX,LISP,1AX,,,,2.5,,
+3,LISP 1B,LISP,1B,1;2,,,2.5,,
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,
+5,LISP 1C,LISP,1C,3;4,,,2.5,,
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,
+7,LTSP 2A,LTSP,2A,5;6,,,5,,
+8,LTEN 29 / TWS 22,LTEN,29,,,,4,,
+9,LTSP 2B,LTSP,2B,7,,,5,,
+10,LTSP 2C,LTSP,2C,9,,,4,,
+12,UD LTAM 1,,,,,,4,,
+13,UD LTAM 2,,,,,,4,,
+14,UD LTAM 3,,,,,,4,,
+11,LTSP 50B / LTSP 50C,LTSP,50B,10,,,4,,
+15,UD PRE - 1900 LTSP,,,,,,4,,
+16,UD LTSP 1,,,,,,4,,
+17,UD LTSP 2,,,,,,4,,
+18,UD LTAM 4,,,,,,4,,
+19,UD LTSP 3,,,,,,4,,
+20,UD LTSP 4,,,,,,4,,
+21,UD LTAM 5,,,,,,4,,
+22,UD LIT ELECTIVE 1,,,,,,4,,
+23,UD LIT ELECTIVE 2,,,,,,4,,

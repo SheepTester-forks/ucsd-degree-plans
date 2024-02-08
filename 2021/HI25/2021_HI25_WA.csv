@@ -1,0 +1,55 @@
+Curriculum,History
+Degree Plan,History/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,HILD 1,,,,,,4,,,1
+7,HILD 2,,,,,,4,,,2
+8,HILD 3,,,,,,4,,,3
+1,HITO 100,HITO,100,,,,4,,,4
+9,HIUD 1,,,,,,4,,,5
+10,HIUD 2,,,,,,4,,,6
+11,GE / DEI,,,,,,4,,,6
+12,HIUD 3,,,,,,4,,,7
+13,HIUD 4,,,,,,4,,,7
+14,HIUD 5,,,,,,4,,,8
+15,HIUD 6,,,,,,4,,,8
+16,HIUD 7,,,,,,4,,,9
+17,HILD 4,,,,,,4,,,9
+18,HIUD 8,,,,,,4,,,10
+19,COLLOQUIUM COURSE NUMBERED 160 - 190,,,,,,4,,,11
+20,HIUD 9,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,WCWP 10A,WCWP,10A,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+3,WCWP 10B,WCWP,10B,2,,,4,,,2
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+4,PHIL / POLI 27,POLI,27,2;3,,,4,,,3
+25,GE 5,,,,,,4,,,3
+26,GE 6,,,,,,4,,,3
+5,PHIL / POLI 28,POLI,28,4,,,4,,,4
+27,GE 7,,,,,,4,,,4
+28,GE 8,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,GE 10,,,,,,4,,,5
+31,GE 11,,,,,,4,,,5
+32,GE 12,,,,,,4,,,6
+33,GE 13,,,,,,4,,,6
+34,ELECTIVE 1,,,,,,4,,,7
+35,ELECTIVE 2,,,,,,4,,,7
+36,ELECTIVE 3,,,,,,4,,,8
+37,ELECTIVE 4,,,,,,4,,,8
+38,ELECTIVE 5,,,,,,4,,,9
+39,ELECTIVE 6,,,,,,4,,,9
+40,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12
+45,ELECTIVE 12,,,,,,4,,,12

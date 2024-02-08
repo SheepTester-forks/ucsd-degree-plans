@@ -1,0 +1,54 @@
+Curriculum,Literatures of the World
+Degree Plan,Literatures of the World/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,24.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,LD LIT LANG 1,,,,,,5,,,1
+4,LD LIT LANG 2,,,,,,5,,,2
+5,LD LIT LANG 3,,,,,,5,,,3
+6,LD LIT SEQUENCE 1,,,,,,4,,,4
+7,LD LIT LANG 4,,,,,,5,,,4
+8,LD LIT SEQUENCE 2,,,,,,4,,,5
+9,LD LIT LANG 5,,,,,,5,,,5
+10,LD LIT SEQUENCE 3,,,,,,4,,,6
+11,LD LIT LANG 6,,,,,,5,,,6
+12,UD LIT COURSE - NON - US / NON - EU 1,,,,,,4,,,7
+13,UD LIT COURSE (THEME 1) 1,,,,,,4,,,7
+14,UD LIT COURSE - NON - US / NON - EU 2,,,,,,4,,,8
+15,UD LIT COURSE (THEME 1) 2,,,,,,4,,,8
+16,UD LIT COURSE (THEME 2) 1,,,,,,4,,,9
+17,UD LIT COURSE (THEME 1) 3,,,,,,4,,,9
+18,UD LIT COURSE (THEME 2) 2,,,,,,4,,,10
+19,UD LIT COURSE (THEME 1) 4,,,,,,4,,,10
+20,UD LIT COURSE (THEME 2) 3,,,,,,4,,,11
+21,UD LIT COURSE (THEME 1) 5,,,,,,4,,,11
+22,UD LIT COURSE (THEME 2) 4,,,,,,4,,,12
+23,UD LIT COURSE (THEME 1) 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,GE 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,1
+1,GE / MCWP 40,MCWP,40,,,,4,,,1
+26,GE 3,,,,,,4,,,2
+27,GE 4,,,,,,4,,,2
+2,GE / MCWP 50,MCWP,50,1,,,4,,,2
+28,DEI,,,,,,4,,,3
+29,GE 5,,,,,,4,,,3
+30,GE 6,,,,,,4,,,3
+31,GE 7,,,,,,4,,,4
+32,ELECTIVE 1,,,,,,4,,,4
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,6
+37,MUIR UD ELECTIVE 1,,,,,,4,,,7
+38,ELECTIVE 4,,,,,,4,,,7
+39,ELECTIVE 5,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,2,,,8
+41,MUIR UD ELECTIVE 2,,,,,,4,,,9
+42,MUIR UD ELECTIVE 3,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

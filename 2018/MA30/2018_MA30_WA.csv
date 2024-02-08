@@ -1,0 +1,56 @@
+Curriculum,Mathematics-Computer Science
+Degree Plan,Mathematics-Computer Science/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.0801
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CSE 11,CSE,11,,,,4,,,1
+2,MATH 18,MATH,18,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+7,CSE 15L,CSE,15L,3,,,2,,,3
+6,CSE 12,CSE,12,3,,,4,,,3
+5,MATH 20C,MATH,20C,4,,,4,,,3
+8,CSE 30,CSE,30,6;7,,,4,,,4
+9,MATH 109,MATH,109,2;5,,,4,,,4
+10,MATH 20D,MATH,20D,5,,,4,,,5
+11,MATH 184A,MATH,184A,9,,,4,,,5
+12,MATH 20E,MATH,20E,2;5,,,4,,,6
+13,UD MAJOR 1,,,,,,4,,,7
+14,UD MAJOR 2,,,,,,4,,,7
+15,UD MAJOR 3,,,,,,4,,,8
+16,UD MAJOR 4,,,,,,4,,,8
+17,UD MAJOR 5,,,,,,4,,,9
+18,UD MAJOR 6,,,,,,4,,,9
+19,UD MAJOR 7,,,,,,4,,,10
+20,UD MAJOR 8,,,,,,4,,,10
+21,UD MAJOR 9,,,,,,4,,,11
+22,UD MAJOR 10,,,,,,4,,,11
+23,UD MAJOR 11,,,,,,4,,,12
+24,UD MAJOR 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,GE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,2
+27,GE 3,,,,,,4,,,2
+28,ELECTIVE 1,,,,,,4,,,2
+29,GE 4,,,,,,4,,,3
+30,GE 5,,,,,,4,,,4
+31,GE 6,,,,,,4,,,4
+32,ELECTIVE 2,,,,,,4,,,5
+33,GE 7,,,,,,4,,,5
+34,ELECTIVE 3,,,,,,4,,,6
+35,GE 8,,,,,,4,,,6
+36,GE / DEI,,,,,,4,,,6
+37,GE 9,,,,,,4,,,7
+38,GE 10,,,,,,4,,,7
+39,GE 11,,,,,,4,,,8
+40,GE 12,,,,,,4,,,8
+41,GE 13,,,,,,4,,,9
+42,ELECTIVE 4,,,,,,4,,,9
+43,GE 14,,,,,,4,,,10
+44,ELECTIVE 5,,,,,,4,,,10
+45,GE 15,,,,,,4,,,11
+46,ELECTIVE 6,,,,,,4,,,12

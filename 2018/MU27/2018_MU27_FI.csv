@@ -1,0 +1,57 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 1A,MUS,1A,,,,4,,,1
+2,VIS 41,VIS,41,,,,4,,,1
+3,MUS 1B,MUS,1B,1,,,4,,,2
+4,CSE 11,CSE,11,,,,4,,,2
+6,MUS 4,MUS,4,,,,4,,,3
+5,MUS 6,MUS,6,,,,4,,,3
+7,MUS 43 1,MUS,43,,,,1,,,4
+8,MATH 20A,MATH,20A,,,,4,,,4
+25,MUS 43 2,MUS,43,,,,1,,,5
+9,MATH 20B,MATH,20B,8,,,4,,,5
+26,MUS 43 3,MUS,43,,,,1,,,6
+27,UD HISTORY ELECTIVE,,,,,,4,,,6
+10,VIS 142,VIS,142,,,,4,,,7
+28,MUS 43 4,MUS,43,,,,1,,,7
+11,MUS 170,MUS,170,1,,,4,,,7
+12,MUS 114 / VIS 159,MUS,114,,,,4,,,8
+13,MUS 171,MUS,171,,,,4,,,8
+29,UD MUSIC PRACTICE / HISTORY ELECTIVE,,,,,,4,,,9
+14,MUS 172,MUS,172,13,,,4,,,9
+15,MUS 174A,MUS,174A,11,,,4,,,10
+16,MUS 174B,MUS,174B,11;15,,,4,,,11
+17,MUS 160A,MUS,160A,14,,,4,,,11
+19,MUS 174C,MUS,174C,11;16,,,4,,,12
+18,MUS 160B,MUS,160B,17,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,MMW 11,MMW,11,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+21,MMW 12,MMW,12,,,,6,,,2
+31,GE 2,,,,,,4,,,2
+22,MMW 13,MMW,13,21,,,6,,,3
+32,GE 3,,,,,,4,,,3
+23,MMW 14 / GE 1,MMW,14,21;22,,,4,,,4
+33,GE 4,,,,,,4,,,4
+34,GE / DEI,,,,,,4,,,4
+35,MMW 14 / GE 2,MMW,14,21;22,,,4,,,5
+36,GE 5,,,,,,4,,,5
+37,GE 6,,,,,,4,,,5
+24,MMW 15,MMW,15,21;22,,,4,,,6
+38,GE 7,,,,,,4,,,6
+39,ELECTIVE 1,,,,,,4,,,6
+40,ELECTIVE 2,,,,,,4,,,7
+41,ELECTIVE 3,,,,,,4,,,7
+42,ELECTIVE 4,,,,,,4,,,8
+43,ELECTIVE 5,,,,,,4,,,9
+44,ELECTIVE 6,,,,,,4,,,10
+45,UD ELECTIVE,,,,,,4,,,10
+46,ELECTIVE 7,,,,,,4,,,11
+47,ELECTIVE 8,,,,,,4,,,12

@@ -1,0 +1,57 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 1A,MUS,1A,,,,4,,,1
+15,MUSIC 4,,,,,,4,,,1
+16,MUSIC 1B,,,,,,4,,,2
+2,CSE 11,CSE,11,,,,4,,,2
+17,MUSIC 6,,,,,,4,,,3
+3,VIS 41,VIS,41,,,,4,,,3
+4,MATH 20A,MATH,20A,,,,4,,,4
+5,MUS 43 1,MUS,43,,,,1,,,4
+6,MATH 20B,MATH,20B,4,,,4,,,5
+18,MUS 43 2,MUS,43,,,,1,,,5
+19,UD HISTORY ELECTIVE,,,,,,4,,,6
+20,MUS 43 3,MUS,43,,,,1,,,6
+7,VIS 142,VIS,142,,,,4,,,7
+21,MUSIC 170,,,,,,4,,,7
+8,VIS 145A,VIS,145A,7,,,4,,,8
+22,UD ADVANCED ELECTIVE 1,,,,,,4,,,8
+9,VIS 159,VIS,159,,,,4,,,8
+23,UD THEORY & HISTORY ELECTIVE,,,,,,4,,,9
+24,UD ADVANCED ELECTIVE 2,,,,,,4,,,9
+25,UD ADVANCED ELECTIVE 3,,,,,,4,,,10
+10,ICAM 160A,ICAM,160A,,,,4,,,11
+26,UD ADVANCED ELECTIVE 4,,,,,,4,,,11
+11,ICAM 160B,ICAM,160B,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,DOC 1 / DEI,DOC,1,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+13,DOC 2,DOC,2,12,,,6,,,2
+28,GE 2,,,,,,4,,,2
+14,DOC 3,DOC,3,,,,6,,,3
+29,GE 3,,,,,,4,,,3
+30,GE 4,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,ELECTIVE 2,,,,,,4,,,4
+33,GE 5,,,,,,4,,,5
+34,GE 6,,,,,,4,,,5
+35,ELECTIVE 3,,,,,,4,,,5
+36,GE 7,,,,,,4,,,6
+37,ELECTIVE 4,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,6
+39,ELECTIVE 6,,,,,,4,,,7
+40,ELECTIVE 7,,,,,,4,,,7
+41,UD GE 1,,,,,,4,,,8
+42,ELECTIVE 8,,,,,,4,,,9
+43,UD GE 2,,,,,,4,,,10
+44,ELECTIVE 9,,,,,,4,,,10
+45,ELECTIVE 10,,,,,,4,,,11
+46,UD ELECTIVE,,,,,,4,,,12
+47,ELECTIVE 11,,,,,,4,,,12

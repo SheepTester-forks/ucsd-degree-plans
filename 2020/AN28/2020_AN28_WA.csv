@@ -1,0 +1,55 @@
+Curriculum,Anthropology (Concentration in Sociocultural Anthropology)
+Degree Plan,Anthropology (Concentration in Sociocultural Anthropology)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,GE / DEI,,,,,,4,,,6
+1,ANTH 101: FOUNDATIONS OF SOCIAL COMPLEXITY,ANTH,101,,,,4,,,7
+9,ANSC CONC ELECTIVE 1,,,,,,4,,,7
+2,ANTH 102: HUMAN ARE CULTURAL ANIMALS,ANTH,102,,,,4,,,8
+10,ANSC CONC ELECTIVE 2,,,,,,4,,,8
+3,ANTH 103: SOCIOCULTURAL ANTHRO,ANTH,103,,,,4,,,9
+11,ANSC CONC ELECTIVE 3,,,,,,4,,,9
+12,ANSC REGIONAL,,,,,,4,,,10
+13,ANTH UD ELECTIVE 1,,,,,,4,,,10
+14,ANTH UD ELECTIVE 2,,,,,,4,,,11
+15,ANTH UD ELECTIVE 3,,,,,,4,,,11
+16,ANTH UD ELECTIVE 4,,,,,,4,,,12
+17,ANTH UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,WCWP 10A,WCWP,10A,,,,4,,,1
+18,GE 1,,,,,,4,,,1
+19,GE 2,,,,,,4,,,1
+20,ELECTIVE 1,,,,,,4,,,1
+5,WCWP 10B,WCWP,10B,4,,,4,,,2
+21,GE 3,,,,,,4,,,2
+22,ELECTIVE 2,,,,,,4,,,2
+23,ELECTIVE 3,,,,,,4,,,2
+6,PHIL / POLI 27,POLI,27,4;5,,,4,,,3
+24,GE 4,,,,,,4,,,3
+25,ELECTIVE 4,,,,,,4,,,3
+26,ELECTIVE 5,,,,,,4,,,3
+7,PHIL / POLI 28,POLI,28,6,,,4,,,4
+27,GE 5,,,,,,4,,,4
+28,ELECTIVE 6,,,,,,4,,,4
+29,ELECTIVE 7,,,,,,4,,,4
+30,GE 6,,,,,,4,,,5
+31,GE 7,,,,,,4,,,5
+32,ELECTIVE 8,,,,,,4,,,5
+33,ELECTIVE 9,,,,,,4,,,5
+34,GE 8,,,,,,4,,,6
+35,ELECTIVE 10,,,,,,4,,,6
+36,ELECTIVE 11,,,,,,4,,,6
+37,GE 9,,,,,,4,,,7
+38,ELECTIVE 12,,,,,,4,,,7
+39,GE 10,,,,,,4,,,8
+40,ELECTIVE 13,,,,,,4,,,8
+41,GE 11,,,,,,4,,,9
+42,ELECTIVE 14,,,,,,4,,,9
+43,GE 12,,,,,,4,,,10
+44,GE 13,,,,,,4,,,11
+45,ELECTIVE 15,,,,,,4,,,12

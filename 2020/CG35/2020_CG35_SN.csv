@@ -1,0 +1,55 @@
+Curriculum,Cognitive Science with a Specialization in Machine Learning and Neural Computation
+Degree Plan,Cognitive Science with a Specialization in Machine Learning and Neural Computation/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+4,COGS 1,COGS,1,,,,4,,,2
+5,IF MATH 10 SERIES THEN MATH 10C,MATH,10,,,,4,,,3
+6,COGS 13,COGS,13,,,,4,,,3
+7,MATH 18,MATH,18,,,,4,,,4
+8,COGS 17,COGS,17,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+10,COGS 18 / CSE (8A / 11) / MAE 8,COGS,18,,,,4,,,6
+11,COGS 14B,COGS,14B,9,,,4,,,6
+12,COGS 107A,COGS,107A,8,,,4,,,7
+13,COGS 100,COGS,100,2,,,4,,,7
+14,COGS 101A / 101B / 101C 1,COGS,101A,4,,,4,,,8
+15,COGS 107B,COGS,107B,12,,,4,,,8
+20,COGS 101A / 101B / 101C 2,COGS,101A,4,,,4,,,9
+16,COGS 108,COGS,108,10,,,4,,,9
+21,COGS UD ELECTIVE 1,,,,,,4,,,10
+22,COGS UD ELECTIVE 2,,,,,,4,,,10
+23,COGS UD ELECTIVE 3,,,,,,4,,,11
+24,COGS UD ELECTIVE 4,,,,,,4,,,11
+25,COGS UD ELECTIVE 5,,,,,,4,,,12
+26,COGS UD ELECTIVE 6,,,,,,4,,,12
+27,COGS UD ELECTIVE 7,,,,,,4,,,12
+28,COGS UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,ALTERNATIVE 1,,,,,,4,,,1
+30,ELECTIVE 1,,,,,,4,,,1
+17,SYN 1,SYN,1,,,,4,,,2
+31,ELECTIVE 2,,,,,,4,,,2
+32,ALTERNATIVE 2,,,,,,4,,,3
+33,ELECTIVE 3,,,,,,4,,,3
+18,SYN 2,SYN,2,17,,,4,,,4
+34,ELECTIVE 4,,,,,,4,,,4
+35,DEI,,,,,,4,,,5
+36,ALTERNATIVE 3,,,,,,4,,,5
+37,ELECTIVE 5,,,,,,4,,,5
+38,ALTERNATIVE 4,,,,,,4,,,6
+39,ELECTIVE 6,,,,,,4,,,6
+40,ALTERNATIVE 5,,,,,,4,,,7
+41,ALTERNATIVE 6,,,,,,4,,,7
+42,ALTERNATIVE 7,,,,,,4,,,8
+19,SYN 100,SYN,100,17;18,,,4,,,9
+43,ELECTIVE 7,,,,,,4,,,10
+44,ALTERNATIVE 8,,,,,,4,,,11
+45,ELECTIVE 8,,,,,,4,,,12

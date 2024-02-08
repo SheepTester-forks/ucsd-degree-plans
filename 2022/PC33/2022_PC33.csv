@@ -1,0 +1,29 @@
+Curriculum,Psychology with a Specialization in Social Psychology
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.2707
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+6,NATURAL SCIENCE 1,,,,,,4,,
+7,NATURAL SCIENCE 2,,,,,,4,,
+1,MATH 10A / 20A,MATH,10A,,,,4,,
+8,NATURAL SCIENCE 3,,,,,,4,,
+2,MATH 10B / 20B,MATH,10B,1,,,4,,
+3,PSYC 60,PSYC,60,,,,4,,
+4,PSYC 70,PSYC,70,3,,,4,,
+9,COMPUTER PROGRAMMING,,,,,,4,,
+5,PSYC 104,PSYC,104,,,,4,,
+10,PSYC CORE 1,,,,,,4,,
+11,PSYC CORE 2,,,,,,4,,
+12,PSYC CORE 3,,,,,,4,,
+13,PSYC UD ELECTIVE 1,,,,,,4,,
+14,PSYC UD ELECTIVE 2,,,,,,4,,
+15,PSYC RESEARCH 1,,,,,,4,,
+16,PSYC UD ELECTIVE 3,,,,,,4,,
+17,PSYC UD SPECIALIZATION 1,,,,,,4,,
+18,PSYC RESEARCH 2,,,,,,4,,
+19,PSYC UD ELECTIVE 4,,,,,,4,,
+20,PSYC UD SPECIALIZATION 2,,,,,,4,,
+21,PSYC UD ELECTIVE 5,,,,,,4,,
+22,PSYC UD SPECIALIZATION 3,,,,,,4,,

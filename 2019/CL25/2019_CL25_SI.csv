@@ -1,0 +1,54 @@
+Curriculum,Classical Studies
+Degree Plan,Classical Studies/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.1200
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,LTGK 1 / LTLA 1,LTGK,1,,,,4,,,1
+3,LTWL 19A,LTWL,19A,,,,4,,,1
+4,LTGK 2 / LTLA 2,LTGK,2,2,,,4,,,2
+5,LTWL 19B,LTWL,19B,,,,4,,,2
+6,LTGK 3 / LTLA 3,LTGK,3,4,,,4,,,3
+7,LTWL 19C,LTWL,19C,,,,4,,,3
+12,UD LTGK / UD LTLA 1,,,,,,4,,,4
+13,UD LTGK / UD LTLA 2,,,,,,4,,,5
+14,UD LTGK / UD LTLA 3,,,,,,4,,,6
+15,UD LTGK / UD LTLA 4,,,,,,4,,,7
+16,UD LTGK / UD LTLA 5,,,,,,4,,,8
+17,UD LTGK / UD LTLA 6,,,,,,4,,,9
+18,UD LTGK / UD LTLA 7,,,,,,4,,,10
+19,CS UD ELECTIVE 1,,,,,,4,,,10
+20,UD LTGK / UD LTLA 8,,,,,,4,,,11
+21,CS UD ELECTIVE 2,,,,,,4,,,11
+22,UD LTGK / UD LTLA 9,,,,,,4,,,12
+23,CS UD ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,CAT 1,CAT,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+9,CAT 2,CAT,2,8,,,6,,,2
+10,CAT 3,CAT,3,9,,,6,,,3
+25,GE / DEI,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,GE 2,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,ELECTIVE 4,,,,,,4,,,5
+31,GE 3,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,6
+33,ELECTIVE 6,,,,,,4,,,6
+34,GE 4,,,,,,4,,,7
+35,ELECTIVE 7,,,,,,4,,,7
+36,ELECTIVE 8,,,,,,4,,,7
+37,GE 5,,,,,,4,,,8
+38,UD ELECTIVE,,,,,,4,,,8
+39,ELECTIVE 9,,,,,,4,,,8
+11,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,9
+40,GE 6,,,,,,4,,,9
+41,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,10
+42,GE 7,,,,,,4,,,10
+43,GE 8,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,11
+45,ELECTIVE 11,,,,,,4,,,12

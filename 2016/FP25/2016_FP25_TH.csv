@@ -1,0 +1,54 @@
+Curriculum,Public Health
+Degree Plan,Public Health/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,SBE 1,,,,,,4,,,1
+16,SBE 2,,,,,,4,,,2
+1,BILD 3,BILD,3,,,,4,,,2
+17,STATISTICS,,,,,,4,,,3
+18,LD BIOLOGY 1,,,,,,4,,,3
+2,FMPH 40,FMPH,40,,,,4,,,4
+3,FMPH 50,FMPH,50,,,,4,,,5
+19,LD BIOLOGY 2,,,,,,4,,,6
+4,FMPH 101,FMPH,101,2,,,4,,,7
+20,UDE 1,,,,,,4,,,7
+5,FMPH 102,FMPH,102,2,,,4,,,8
+6,FMPH 110,FMPH,110,2,,,4,,,8
+7,FMPH 120,FMPH,120,2,,,4,,,9
+21,UDE 2,,,,,,4,,,9
+8,FMPH 130,FMPH,130,3;4,,,4,,,10
+22,UDE 3,,,,,,4,,,10
+23,UDE 4,,,,,,4,,,10
+9,FMPH 193,FMPH,193,,,,4,,,11
+10,USP 143,USP,143,,,,4,,,11
+11,FMPH 194,FMPH,194,9,,,4,,,12
+24,UDE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,DOC 1 / DEI,DOC,1,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,1
+13,DOC 2,DOC,2,12,,,6,,,2
+27,GE 3,,,,,,4,,,2
+14,DOC 3,DOC,3,,,,6,,,3
+28,GE 4,,,,,,4,,,3
+29,GE 5,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,4
+31,ELECTIVE 2,,,,,,4,,,4
+32,GE 6,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,ELECTIVE 4,,,,,,4,,,5
+35,GE 7,,,,,,4,,,6
+36,ELECTIVE 5,,,,,,4,,,6
+37,ELECTIVE 6,,,,,,4,,,6
+38,GE 8,,,,,,4,,,7
+39,ELECTIVE 7,,,,,,4,,,7
+40,GE 9,,,,,,4,,,8
+41,ELECTIVE 8,,,,,,4,,,8
+42,ELECTIVE 9,,,,,,4,,,9
+43,UD GE 1,,,,,,4,,,11
+44,UD GE 2,,,,,,4,,,12

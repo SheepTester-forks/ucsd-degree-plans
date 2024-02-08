@@ -1,0 +1,53 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,FOUNDATION ART MAKING,,,,,,4,,,1
+1,VIS 41 1,VIS,41,,,,4,,,1
+10,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 10,VIS,10,,,,4,,,3
+4,VIS 70N,VIS,70N,,,,6,,,3
+18,FOUNDATION CSE,,,,,,4,,,4
+19,FOUNDATION INTERDISCIPLINARY,,,,,,4,,,4
+20,HISTORY & THEORY,,,,,,4,,,5
+5,VIS 159,VIS,159,,,,4,,,6
+6,VIS 142,VIS,142,,,,4,,,7
+21,INTERMEDIATE ART MAKING,,,,,,4,,,7
+22,INTERMEDIATE COMPUTING 1,,,,,,4,,,8
+7,VIS 145A,VIS,145A,6,,,4,,,8
+23,ADVANCED COMPUTING,,,,,,4,,,9
+24,INTERMEDIATE COMPUTING 2,,,,,,4,,,9
+25,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,10
+26,ADVANCED INTERDISCIPLINARY,,,,,,4,,,11
+8,VIS 160A,VIS,160A,7,,,4,,,11
+9,VIS 160B,VIS,160B,8,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,HUM 1,HUM,1,,,,6,,,2
+12,MATH 10B / 20B,MATH,10B,10,,,4,,,2
+13,HUM 2,HUM,2,,,,6,,,3
+27,MATH GE,,,,,,4,,,3
+28,VIS 41 2,VIS,41,,,,4,,,4
+14,HUM 3,HUM,3,11,,,4,,,4
+29,BIOLOGY GE,,,,,,4,,,5
+15,HUM 4,HUM,4,,,,4,,,5
+30,PHYSICS GE,,,,,,4,,,6
+16,HUM 5,HUM,5,,,,4,,,6
+31,NATURAL SCIENCE GE 1,,,,,,4,,,7
+32,LANGUAGE 1,,,,,,5,,,7
+33,NATURAL SCIENCE GE 2,,,,,,4,,,8
+34,LANGUAGE 2,,,,,,5,,,8
+35,CHEMISTRY GE,,,,,,4,,,9
+36,LANGUAGE 3,,,,,,5,,,9
+37,UD AHI / UD ELECTIVE,,,,,,4,,,10
+38,LANGUAGE 4,,,,,,5,,,10
+39,ELECTIVE,,,,,,2,,,10
+40,DEI / SOCIAL SCIENCE,,,,,,4,,,11
+41,UD ELECTIVE 1,,,,,,4,,,11
+42,SOCIAL SCIENCE,,,,,,4,,,12
+43,UD ELECTIVE 2,,,,,,4,,,12

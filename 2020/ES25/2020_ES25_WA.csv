@@ -1,0 +1,55 @@
+Curriculum,Environmental Systems (Earth Sciences)
+Degree Plan,Environmental Systems (Earth Sciences)/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,BILD 3,BILD,3,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+6,ECON 1,ECON,1,,,,4,,,2
+5,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+7,MATH 20C,MATH,20C,4,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+9,SIO 50,SIO,50,,,,6,,,3
+10,ESYS 101,ESYS,101,3,,,4,,,4
+11,PHYS 2A,PHYS,2A,1;1,,,4,,,4
+13,PHYS 2B,PHYS,2B,11;4,,,4,,,5
+14,MATH 20D,MATH,20D,7,,,4,,,5
+12,ESYS 102,ESYS,102,1;2;11,,,4,,,5
+15,ESYS 103,ESYS,103,4;4;4,,,4,,,6
+27,ESYS MAJOR ELECTIVE 1,,,,,,4,,,6
+16,PHYS 2C,PHYS,2C,11;7,,,4,,,6
+28,GE / DEI,,,,,,4,,,6
+17,ECON 131,ECON,131,,,,4,,,7
+18,POLI 160AA,POLI,160AA,,,,4,,,7
+19,SIO 102,SIO,102,9;2;5;8,,,4,,,8
+29,ESYS MAJOR ELECTIVE 2,,,,,,4,,,8
+30,ESYS MAJOR ELECTIVE 3,,,,,,4,,,9
+31,ESYS MAJOR ELECTIVE 4,,,,,,4,,,10
+20,ESYS 187A,ESYS,187A,15,,,4,,,10
+21,ESYS 187B,ESYS,187B,20,,,4,,,11
+32,ESYS MAJOR ELECTIVE 5,,,,,,4,,,11
+22,ESYS 187C,ESYS,187C,21,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,WCWP 10A,WCWP,10A,,,,4,,,1
+24,WCWP 10B,WCWP,10B,23,,,4,,,2
+25,PHIL / POLI 27,POLI,27,23;24,,,4,,,3
+26,PHIL / POLI 28,POLI,28,25,,,4,,,4
+33,GE 1,,,,,,4,,,4
+34,GE 2,,,,,,4,,,7
+35,GE 3,,,,,,4,,,7
+36,GE 4,,,,,,4,,,8
+37,GE 5,,,,,,4,,,8
+38,GE 6,,,,,,4,,,9
+39,GE 7,,,,,,4,,,9
+40,ELECTIVE 1,,,,,,4,,,9
+41,GE 8,,,,,,4,,,10
+42,ELECTIVE 2,,,,,,4,,,10
+43,GE 9,,,,,,4,,,11
+44,GE 10,,,,,,4,,,12
+45,GE 11,,,,,,4,,,12

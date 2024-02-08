@@ -1,0 +1,55 @@
+Curriculum,Chinese Studies
+Degree Plan,Chinese Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0123
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHIN 10A (M / D / N),CHIN,10A,,,,5,,,1
+2,CHIN 10B (M / D / N),CHIN,10B,,,,5,,,2
+3,CHIN 10C (M / D / N),CHIN,10C,,,,5,,,3
+7,CHINESE STUDIES UD ELECTIVE 1,,,,,,4,,,3
+8,CHINESE STUDIES UD ELECTIVE 2,,,,,,4,,,4
+4,CHIN 20A (M / D / N),CHIN,20A,,,,4,,,4
+9,CHINESE STUDIES UD ELECTIVE 3,,,,,,4,,,5
+5,CHIN 20B (M / D / N),CHIN,20B,,,,4,,,5
+10,CHINESE STUDIES UD ELECTIVE 4,,,,,,4,,,6
+6,CHIN 20C (M / D / N),CHIN,20C,,,,4,,,6
+11,CHINESE STUDIES UD ELECTIVE 5,,,,,,4,,,7
+12,CHINESE STUDIES COLLOQUIUM,,,,,,4,,,7
+13,CHINESE STUDIES UD ELECTIVE 6,,,,,,4,,,8
+14,CHINESE STUDIES UD ELECTIVE 7,,,,,,4,,,8
+15,CHINESE STUDIES UD ELECTIVE 8,,,,,,4,,,9
+16,CHINESE STUDIES UD ELECTIVE 9,,,,,,4,,,9
+17,CHINESE STUDIES UD ELECTIVE 10,,,,,,4,,,10
+18,CHINESE STUDIES UD ELECTIVE 11,,,,,,4,,,11
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+21,ELECTIVE 1,,,,,,4,,,1
+22,GE 3,,,,,,4,,,2
+23,GE 4,,,,,,4,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+25,GE 5,,,,,,4,,,3
+26,GE 6,,,,,,4,,,3
+27,GE 7,,,,,,4,,,4
+28,GE 8,,,,,,4,,,4
+29,GE 9,,,,,,4,,,5
+30,GE 10,,,,,,4,,,5
+31,GE / DEI,,,,,,4,,,6
+32,GE 11,,,,,,4,,,6
+33,GE 12,,,,,,4,,,7
+34,GE 13,,,,,,4,,,7
+35,GE 14,,,,,,4,,,8
+36,GE 15,,,,,,4,,,8
+37,GE 16,,,,,,4,,,9
+38,ELECTIVE 3,,,,,,1,,,9
+39,GE 17,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,11
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,12
+44,ELECTIVE 8,,,,,,4,,,12
+45,ELECTIVE 9,,,,,,4,,,12

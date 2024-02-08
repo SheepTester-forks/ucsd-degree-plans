@@ -1,0 +1,23 @@
+Curriculum,Linguistics
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+7,LANGUAGE REQUIREMENT 1,,,,,,5,,
+8,LANGUAGE REQUIREMENT 2,,,,,,5,,
+9,LANGUAGE REQUIREMENT 3,,,,,,5,,
+10,LANGUAGE REQUIREMENT 4,,,,,,5,,
+1,LIGN 101,LIGN,101,,,,4,,
+11,LIGN ELECTIVE 1,,,,,,4,,
+12,LIGN ELECTIVE 2,,,,,,4,,
+2,LIGN 110,LIGN,110,1,,,4,,
+13,LIGN ELECTIVE 3,,,,,,4,,
+3,LIGN 111,LIGN,111,2,,,4,,
+4,LIGN 120,LIGN,120,,,,4,,
+14,LIGN ELECTIVE 4,,,,,,4,,
+15,LIGN ELECTIVE 5,,,,,,4,,
+5,LIGN 121,LIGN,121,,,,4,,
+16,LIGN ELECTIVE 6,,,,,,4,,
+6,LIGN 130,LIGN,130,1,,,4,,

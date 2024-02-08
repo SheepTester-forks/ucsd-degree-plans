@@ -1,0 +1,54 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 1,USP,1,,,,4,,,4
+2,USP 2,USP,2,,,,4,,,5
+3,USP 3,USP,3,,,,4,,,6
+4,POLI 30,POLI,30,,,,4,,,6
+7,USP RM,,,,,,4,,,7
+8,USP UD 1,,,,,,4,,,7
+9,USP UD 2,,,,,,4,,,7
+10,USP FD 1,,,,,,4,,,8
+11,USP UD 3,,,,,,4,,,8
+12,USP FD 2,,,,,,4,,,9
+13,USP UD 4,,,,,,4,,,9
+14,USP UD 5,,,,,,4,,,10
+5,USP 186,USP,186,,,,6,,,10
+15,USP UD 6,,,,,,4,,,11
+6,USP 187,USP,187,5,,,6,,,11
+16,USP UD 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,GE / WRITING 1,,,,,,4,,,1
+18,GE 1,,,,,,4,,,1
+19,GE 2,,,,,,4,,,1
+20,ELECTIVE 1,,,,,,4,,,1
+21,GE / WRITING 2,,,,,,4,,,2
+22,GE 3,,,,,,4,,,2
+23,GE 4,,,,,,4,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+25,GE 5,,,,,,4,,,3
+26,ELECTIVE 3,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,ELECTIVE 4,,,,,,4,,,3
+29,GE 7,,,,,,4,,,4
+30,ELECTIVE 5,,,,,,4,,,4
+31,ELECTIVE 6,,,,,,4,,,4
+32,ELECTIVE 7,,,,,,4,,,5
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 8,,,,,,4,,,5
+35,ELECTIVE 9,,,,,,4,,,6
+36,GE 9,,,,,,4,,,6
+37,ELECTIVE 10,,,,,,4,,,7
+38,MUIR UDE 1,,,,,,4,,,8
+39,ELECTIVE 11,,,,,,4,,,8
+40,MUIR UDE 2,,,,,,4,,,9
+41,ELECTIVE 12,,,,,,4,,,10
+42,ELECTIVE 13,,,,,,4,,,11
+43,ELECTIVE 14,,,,,,4,,,12
+44,ELECTIVE 15,,,,,,4,,,12

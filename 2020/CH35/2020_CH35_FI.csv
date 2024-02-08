@@ -1,0 +1,55 @@
+Curriculum,Pharmacological Chemistry
+Degree Plan,Pharmacological Chemistry/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,2,,,4,,,2
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+7,MATH 20C,MATH,20C,4,,,4,,,3
+5,CHEM 6C,CHEM,6C,3,,,4,,,3
+6,CHEM 7LM / 7L,CHEM,7LM,3,,,4,,,3
+9,MATH 20D,MATH,20D,7,,,4,,,4
+8,CHEM 40A,CHEM,40A,3,,,4,,,4
+10,PHYS 2A,PHYS,2A,2;2,,,4,,,4
+11,CHEM 40B,CHEM,40B,8,,,4,,,5
+12,CHEM 43AM / 43A,CHEM,43AM,6;8,,,4,,,5
+13,PHYS 2B,PHYS,2B,10;4,,,4,,,5
+14,CHEM 40C,CHEM,40C,11,,,4,,,6
+15,"PHYS 2BL, 2CL, / 2DL",PHYS,2BL,10,,,2,,,6
+16,PHYS 2C / 2D,PHYS,2C,10;7,,,4,,,6
+17,BILD 1,BILD,1,,,,4,,,7
+19,CHEM 100A,CHEM,100A,5,,,4,,,7
+18,CHEM 114A,CHEM,114A,8,,,4,,,7
+20,BILD 2,BILD,2,17,,,4,,,8
+21,CHEM 114B,CHEM,114B,11;18,,,4,,,8
+22,CHEM 143B,CHEM,143B,12;11,,,4,,,8
+24,CHEM 114C,CHEM,114C,18,,,4,,,9
+23,CHEM 167,CHEM,167,14;18,,,4,,,9
+26,CHEM 108 / 109 / 143C,CHEM,108,12;18,,,5,,,10
+25,CHEM 126A,CHEM,126A,5;16;7,,,4,,,10
+27,CHEM 126B,CHEM,126B,25,,,4,,,11
+28,CHEM 168,CHEM,168,14;18,,,4,,,11
+29,CHEM 118,CHEM,118,18,,,4,,,12
+35,CHEM ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,MMW 11,MMW,11,,,,4,,,1
+36,GE 1,,,,,,4,,,1
+31,MMW 12,MMW,12,,,,6,,,2
+37,GE / DEI,,,,,,4,,,2
+32,MMW 13,MMW,13,31,,,6,,,3
+33,MMW 14 / GE 1,MMW,14,31;32,,,4,,,4
+38,MMW 14 / GE 2,MMW,14,31;32,,,4,,,5
+34,MMW 15,MMW,15,31;32,,,4,,,6
+39,GE 2,,,,,,4,,,7
+40,GE 3,,,,,,4,,,8
+41,UD ELECTIVE,,,,,,4,,,9
+42,GE 4,,,,,,4,,,9
+43,GE 5,,,,,,1,,,10
+44,GE 6,,,,,,4,,,11
+45,ELECTIVE,,,,,,4,,,12

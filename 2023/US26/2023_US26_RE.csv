@@ -1,0 +1,52 @@
+Curriculum,Urban Studies and Planning
+Degree Plan,Urban Studies and Planning/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,USP 4 INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS,USP,4,,,,4,,,4
+1,USP 1: HISTORY OF US URBAN COMMUNITIES,USP,1,,,,4,,,4
+3,USP 2 URBAN WORLD SYSTEM,USP,2,,,,4,,,5
+4,USP 3 THE CITY AND SOCIAL THEORY,USP,3,,,,4,,,6
+5,LOWER DIVISION STATISTICS (POLI 30D / PSYC 60 / SOCI 60),POLI,30D,,,,4,,,6
+6,USP 124 LAND USE PLANNING,USP,124,,,,4,,,7
+16,USP UPPER DIVISION ELECTIVE 1,,,,,,4,,,7
+17,USP SECOND FOUNDATION,,,,,,4,,,8
+18,USP TECHNICAL ELECTIVE,,,,,,4,,,8
+19,USP RESEARCH METHODS,,,,,,4,,,9
+20,USP UPPER DIVISION ELECTIVE 2,,,,,,4,,,9
+21,USP UPPER DIVISION ELECTIVE 3,,,,,,4,,,10
+7,USP 186 SENIOR SEQUENCE RESEARCH PROPOSAL (FALL ONLY),USP,186,6,,,6,,,10
+22,USP UPPER DIVISION ELECTIVE 4,,,,,,4,,,11
+8,USP 187 SENIOR SEQUENCE RESEARCH PROJECT (WINTER ONLY),USP,187,7,,,6,,,11
+23,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,,12
+24,USP UPPER DIVISION ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,FINE ARTS GE,,,,,,4,,,1
+9,MATH 10A / 20A,MATH,10A,,,,4,,,1
+26,LANGUAGE 1,,,,,,5,,,1
+10,HUM 1,HUM,1,,,,6,,,2
+11,MATH 10B / 20B,MATH,10B,9,,,4,,,2
+27,LANGUAGE 2,,,,,,5,,,2
+12,HUM 2,HUM,2,,,,6,,,3
+28,MATH GE,,,,,,4,,,3
+29,LANGUAGE 3,,,,,,5,,,3
+13,HUM 3,HUM,3,10,,,4,,,4
+30,LANGUAGE 4,,,,,,5,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+31,CHEMISTRY GE,,,,,,4,,,5
+32,ELECTIVE 1,,,,,,4,,,5
+15,HUM 5,HUM,5,,,,4,,,6
+33,BIOLOGY GE,,,,,,4,,,6
+34,NATURAL SCIENCE GE 1,,,,,,4,,,7
+35,NATURAL SCIENCE GE 2,,,,,,4,,,8
+36,ELECTIVE 2,,,,,,4,,,8
+37,PHYSICS GE,,,,,,4,,,9
+38,AHI / ELECTIVE,,,,,,4,,,9
+39,UD ELECTIVE 1,,,,,,4,,,10
+40,UD ELECTIVE 2,,,,,,4,,,11
+41,ELECTIVE 3,,,,,,4,,,12
+42,ELECTIVE 4,,,,,,4,,,12

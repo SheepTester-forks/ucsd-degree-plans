@@ -1,0 +1,28 @@
+Curriculum,Latin American Studies with a Concentration in Migration and Border Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LISP 1A,LISP,1A,,,,2.5,,
+2,LISP 1AX,LISP,1AX,,,,2.5,,
+3,LISP 1B,LISP,1B,1;2,,,2.5,,
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,
+5,LISP 1C,LISP,1C,3;4,,,2.5,,
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,
+7,LATI 10,LATI,10,,,,4,,
+8,LTSP 2A,LTSP,2A,5;6,,,5,,
+9,LATI 50,LATI,50,,,,4,,
+12,LATI METHOD,,,,,,4,,
+13,LATI UG ELECTIVE (CON IN MIG&BORDER) 1,,,,,,4,,
+14,LATI CORE 1,,,,,,4,,
+15,LATI UG ELECTIVE (CON IN MIG&BORDER) 2,,,,,,4,,
+10,LATI 180,LATI,180,,,,4,,
+16,LATI CORE 2,,,,,,4,,
+17,LATI CORE 3,,,,,,4,,
+18,LATI UG ELECTIVE (CON IN MIG&BORDER) 3,,,,,,4,,
+11,LATI 190,LATI,190,,,,4,,
+19,LATI UG ELECTIVE (CON IN MIG&BORDER) 4,,,,,,4,,
+20,LATI UG ELECTIVE,,,,,,4,,
+21,LATI UG ELECTIVE (CON IN MIG&BORDER) 5,,,,,,4,,

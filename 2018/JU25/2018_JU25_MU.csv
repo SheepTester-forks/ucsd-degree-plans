@@ -1,0 +1,55 @@
+Curriculum,Judaic Studies
+Degree Plan,Judaic Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,38.0206
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JUDA 1,JUDA,1,,,,5,,,1
+2,JUDA 2,JUDA,2,1,,,5,,,2
+3,JUDA 3,JUDA,3,2,,,5,,,3
+4,JUDA 131,JUDA,131,,,,4,,,4
+5,JUDA 101,JUDA,101,,,,4,,,4
+6,JUDA 102,JUDA,102,5,,,4,,,5
+7,HITO 104,HITO,104,,,,4,,,5
+8,HITO 105,HITO,105,,,,4,,,6
+9,JUDA 103,JUDA,103,3,,,4,,,6
+10,UD JS ELECTIVE 1,,,,,,4,,,7
+11,UD JS ELECTIVE 2,,,,,,4,,,8
+12,UD JS ELECTIVE 3,,,,,,4,,,9
+13,UD JS ELECTIVE 4,,,,,,4,,,10
+14,UD JS ELECTIVE 5,,,,,,4,,,11
+15,UD JS ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,ELECTIVE 1,,,,,,4,,,1
+17,GE 1,,,,,,4,,,1
+18,GE / WRITING 1,,,,,,4,,,1
+19,GE / WRITING 2,,,,,,4,,,2
+20,ELECTIVE 2,,,,,,4,,,2
+21,GE 2,,,,,,4,,,2
+22,ELECTIVE 3,,,,,,4,,,3
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,3
+25,GE 5,,,,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,GE 7,,,,,,4,,,5
+28,GE 8,,,,,,4,,,5
+29,DEI,,,,,,4,,,6
+30,GE 9,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,7
+32,ELECTIVE 5,,,,,,4,,,7
+33,ELECTIVE 6,,,,,,4,,,8
+34,ELECTIVE 7,,,,,,4,,,8
+35,ELECTIVE 8,,,,,,4,,,9
+36,ELECTIVE 9,,,,,,1,,,9
+37,MUIR UD ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 10,,,,,,4,,,10
+39,ELECTIVE 11,,,,,,4,,,10
+40,MUIR UD ELECTIVE 2,,,,,,4,,,11
+41,ELECTIVE 12,,,,,,4,,,11
+42,ELECTIVE 13,,,,,,4,,,11
+43,MUIR UD ELECTIVE 3,,,,,,4,,,12
+44,ELECTIVE 14,,,,,,4,,,12
+45,ELECTIVE 15,,,,,,4,,,12

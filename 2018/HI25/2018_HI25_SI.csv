@@ -1,0 +1,54 @@
+Curriculum,History
+Degree Plan,History/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,HILD 1,,,,,,4,,,1
+6,HILD 2,,,,,,4,,,2
+7,HILD 3,,,,,,4,,,3
+8,HIUD 1,,,,,,4,,,7
+9,HIUD 2,,,,,,4,,,7
+10,HIUD 3,,,,,,4,,,8
+11,HIUD 4,,,,,,4,,,8
+12,HIUD 5,,,,,,4,,,9
+13,HIUD 6,,,,,,4,,,9
+14,HIUD 7,,,,,,4,,,10
+15,HIUD 8,,,,,,4,,,10
+16,HIUD 9,,,,,,4,,,11
+17,HIUD 10,,,,,,4,,,11
+18,HIUD 11,,,,,,4,,,12
+19,HIUD 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CAT 1,CAT,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,ELECTIVE 1,,,,,,4,,,1
+2,CAT 2,CAT,2,1,,,6,,,2
+22,GE 2,,,,,,4,,,2
+3,CAT 3,CAT,3,2,,,6,,,3
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,4
+25,GE / DEI,,,,,,4,,,4
+26,ELECTIVE 2,,,,,,4,,,4
+27,ELECTIVE 3,,,,,,4,,,4
+28,GE 5,,,,,,4,,,5
+29,GE 6,,,,,,4,,,5
+30,ELECTIVE 4,,,,,,4,,,5
+31,ELECTIVE 5,,,,,,4,,,5
+32,GE 7,,,,,,4,,,6
+33,GE 8,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,6
+35,ELECTIVE 7,,,,,,4,,,6
+36,ELECTIVE 8,,,,,,4,,,7
+37,ELECTIVE 9,,,,,,4,,,7
+38,ELECTIVE 10,,,,,,4,,,8
+39,ELECTIVE 11,,,,,,4,,,8
+40,ELECTIVE 12,,,,,,4,,,9
+41,ELECTIVE 13,,,,,,4,,,9
+4,PRACTICUM / CAT 125 1,CAT,125,,,,4,,,10
+42,ELECTIVE 14,,,,,,4,,,10
+43,PRACTICUM / CAT 125 2,CAT,125,,,,4,,,11
+44,UD ELECTIVE,,,,,,4,,,12

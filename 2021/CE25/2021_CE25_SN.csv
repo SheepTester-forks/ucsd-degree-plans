@@ -1,0 +1,57 @@
+Curriculum,Chemical Engineering
+Degree Plan,Chemical Engineering/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CENG 15,CENG,15,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+4,CENG 4,CENG,4,,,,1,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+5,MATH 20B,MATH,20B,1,,,4,,,2
+7,PHYS 2A,PHYS,2A,1;1,,,4,,,2
+6,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+9,CHEM 6C,CHEM,6C,6,,,4,,,3
+11,CHEM 7L,CHEM,7L,6,,,4,,,3
+10,PHYS 2B,PHYS,2B,7;5,,,4,,,3
+8,MATH 20C,MATH,20C,5,,,4,,,3
+12,MATH 20D,MATH,20D,8,,,4,,,4
+13,CENG 100,CENG,100,4;6,,,4,,,4
+14,PHYS 2C,PHYS,2C,7;8,,,4,,,4
+15,PHYS 2CL,PHYS,2CL,7;10,,,2,,,4
+16,MATH 18,MATH,18,,,,4,,,5
+17,CENG 102,CENG,102,8;13;9,,,4,,,5
+37,ADV CHEM 1,,,,,,4,,,5
+18,MATH 20E,MATH,20E,16;8,,,4,,,6
+38,ADV CHEM 2,,,,,,4,,,6
+19,CENG 113,CENG,113,13;12;3,,,4,,,6
+20,MAE 170,MAE,170,14;15,,,4,,,7
+39,ADV CHEM 3,,,,,,4,,,7
+21,CENG 101A,CENG,101A,7;12;18,,,4,,,7
+22,CENG 114,CENG,114,16;3,,,4,,,8
+23,CENG 101B,CENG,101B,21,,,4,,,8
+24,CENG 101C,CENG,101C,21,,,4,,,9
+25,AS 1,AS,1,,,,4,,,9
+26,CENG 120,CENG,120,12;13;3;23;19,,,4,,,10
+27,AS 2,AS,2,,,,4,,,10
+28,CENG 122,CENG,122,13;17;24,,,4,,,10
+29,CENG 124A,CENG,124A,19;28,,,4,,,11
+30,CENG 176A,CENG,176A,28;19;20,,,4,,,11
+31,AS 3,AS,3,,,,4,,,11
+32,CENG 176B,CENG,176B,30,,,4,,,12
+33,CENG 124B,CENG,124B,29,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+34,SYN 1,SYN,1,,,,4,,,2
+35,SYN 2,SYN,2,34,,,4,,,4
+40,DEI,,,,,,4,,,5
+41,ALTERNATIVE 1,,,,,,4,,,6
+42,ALTERNATIVE 2,,,,,,4,,,7
+43,ALTERNATIVE 3,,,,,,4,,,8
+44,ALTERNATIVE 4,,,,,,4,,,8
+36,SYN 100,SYN,100,34;35,,,4,,,9
+45,ALTERNATIVE 5,,,,,,4,,,9
+46,ALTERNATIVE 6,,,,,,4,,,10
+47,HIGH - IMPACT,,,,,,4,,,12

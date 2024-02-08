@@ -1,0 +1,22 @@
+Curriculum,History
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+2,HILD 1,,,,,,4,,
+3,HILD 2,,,,,,4,,
+4,HILD 3,,,,,,4,,
+1,HITO 100,HITO,100,,,,4,,
+5,HIUD 1,,,,,,4,,
+6,HIUD 2,,,,,,4,,
+7,HIUD 3,,,,,,4,,
+8,HIUD 4,,,,,,4,,
+9,HIUD 5,,,,,,4,,
+10,HIUD 6,,,,,,4,,
+11,HIUD 7,,,,,,4,,
+12,HILD 4,,,,,,4,,
+13,HIUD 8,,,,,,4,,
+14,COLLOQUIUM COURSE NUMBERED 160 - 190,,,,,,4,,
+15,HIUD 9,,,,,,4,,

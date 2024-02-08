@@ -1,0 +1,54 @@
+Curriculum,Political Science/Political Theory
+Degree Plan,Political Science/Political Theory/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD POLI 1,,,,,,4,,,1
+6,LD POLI 2,,,,,,4,,,2
+7,LD POLI 3,,,,,,4,,,3
+8,LD POLI 4,,,,,,4,,,4
+9,UD POLI 1,,,,,,4,,,5
+10,UD POLI 2,,,,,,4,,,6
+11,UD POLI 3,,,,,,4,,,7
+12,UD POLI 4,,,,,,4,,,7
+13,UD POLI 5,,,,,,4,,,8
+14,UD POLI 6,,,,,,4,,,8
+15,UD POLI 7,,,,,,4,,,9
+16,UD POLI 8,,,,,,4,,,9
+17,UD POLI 9,,,,,,4,,,10
+18,UD POLI 10,,,,,,4,,,10
+19,UD POLI 11,,,,,,4,,,11
+20,UD POLI 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+2,CAT 2,CAT,2,1,,,6,,,2
+22,GE 2,,,,,,4,,,2
+3,CAT 3,CAT,3,2,,,6,,,3
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,4
+25,GE 5,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,GE 6,,,,,,4,,,5
+28,GE 7,,,,,,4,,,5
+29,ELECTIVE 2,,,,,,4,,,5
+30,GE 8,,,,,,4,,,6
+31,GE 9,,,,,,4,,,6
+32,ELECTIVE 3,,,,,,4,,,6
+33,ELECTIVE 4,,,,,,4,,,7
+34,ELECTIVE 5,,,,,,4,,,7
+35,ELECTIVE 6,,,,,,4,,,8
+36,ELECTIVE 7,,,,,,4,,,8
+4,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,9
+37,ELECTIVE 8,,,,,,4,,,9
+38,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,10
+39,ELECTIVE 9,,,,,,4,,,10
+40,UD ELECTIVE,,,,,,4,,,11
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

@@ -1,0 +1,53 @@
+Curriculum,Black Diaspora & African American Studies
+Degree Plan,Black Diaspora & African American Studies/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD CORE COURSE,,,,,,4,,,1
+10,UD CORE COURSE 1,,,,,,4,,,7
+11,UD CONCENTRATION ELECTIVE 1,,,,,,4,,,7
+12,UD CORE COURSE 2,,,,,,4,,,8
+13,UD HUMAN RESEARCH METHODS COURSE,,,,,,4,,,8
+14,UD CORE COURSE 3,,,,,,4,,,9
+15,UD CONCENTRATION ELECTIVE 2,,,,,,4,,,9
+16,UD CONCENTRATION ELECTIVE 3,,,,,,4,,,10
+17,ADDITIONAL UD ELECTIVE,,,,,,4,,,10
+18,UD CONCENTRATION ELECTIVE 4,,,,,,4,,,11
+19,UD CONCENTRATION ELECTIVE 5,,,,,,4,,,11
+20,UD CORE COURSE - CAPSTONE,,,,,,4,,,12
+21,UD CONCENTRATION ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+22,PHYSICS GE,,,,,,4,,,1
+2,HUM 1,HUM,1,,,,6,,,2
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+23,CHEMISTRY GE,,,,,,4,,,2
+4,HUM 2,HUM,2,,,,6,,,3
+5,MATH 10C / 20C / 11 / MATH GE,MATH,10C,3,,,4,,,3
+24,BIOLOGY GE,,,,,,4,,,3
+6,HUM 3,HUM,3,2,,,4,,,4
+25,LANGUAGE 1,,,,,,5,,,4
+26,NATURAL SCIENCE GE 1,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,4
+7,HUM 4,HUM,4,,,,4,,,5
+28,NATURAL SCIENCE GE 2,,,,,,4,,,5
+29,LANGUAGE 2,,,,,,5,,,5
+30,ELECTIVE 2,,,,,,4,,,5
+8,HUM 5,HUM,5,,,,4,,,6
+31,SOCIAL SCIENCE GE 1,,,,,,4,,,6
+32,LANGUAGE 3,,,,,,5,,,6
+33,ELECTIVE 3,,,,,,4,,,6
+34,LANGUAGE 4,,,,,,5,,,7
+35,ELECTIVE 4,,,,,,4,,,7
+36,SOCIAL SCIENCE GE 2,,,,,,4,,,8
+37,ELECTIVE 5,,,,,,4,,,8
+38,FINE ARTS GE,,,,,,4,,,9
+39,ELECTIVE 6,,,,,,4,,,9
+40,UD DEI,,,,,,4,,,10
+41,UD ELECTIVE 1,,,,,,4,,,10
+42,UD ELECTIVE 2,,,,,,4,,,11
+43,AHI / ELECTIVE,,,,,,4,,,12

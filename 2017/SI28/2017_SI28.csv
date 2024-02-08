@@ -1,0 +1,31 @@
+Curriculum,Earth Sciences
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,MATH 20B,MATH,20B,1,,,4,,
+4,CHEM 6B,CHEM,6B,2;1,,,4,,
+5,PHYS 2A,PHYS,2A,1,,,4,,
+6,MATH 20C,MATH,20C,3,,,4,,
+7,CHEM 6C,CHEM,6C,4,,,4,,
+8,PHYS 2B,PHYS,2B,5;1;3,,,4,,
+9,SIO 50,SIO,50,,,,6,,
+10,MATH 20D,MATH,20D,6,,,4,,
+11,PHYS 2C,PHYS,2C,5;1;3;6,,,4,,
+12,SIO 102,SIO,102,9;2;4;7,,,4,,
+13,BILD 3,BILD,3,,,,4,,
+17,SIO ELECTIVE GROUP B 1,,,,,,4,,
+14,SIO 100,SIO,100,9,,,4,,
+18,SIO ELECTIVE GROUP B 2,,,,,,4,,
+19,SIO ELECTIVE GROUP B / C 1,,,,,,4,,
+15,SIO 103,SIO,103,1;3;6;10;5;8;11;9,,,4,,
+16,SIO 104,SIO,104,13,,,6,,
+20,SIO ELECTIVE GROUP B / C 2,,,,,,4,,
+21,SIO ELECTIVE GROUP B 3,,,,,,4,,
+22,SIO ELECTIVE GROUP B / C 3,,,,,,4,,
+23,SIO ELECTIVE GROUP B / C 4,,,,,,4,,
+24,SIO ELECTIVE GROUP B / C 5,,,,,,4,,

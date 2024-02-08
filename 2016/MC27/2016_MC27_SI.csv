@@ -1,0 +1,59 @@
+Curriculum,Mechanical Engineering
+Degree Plan,Mechanical Engineering/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.1901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+5,PHYS 2A,PHYS,2A,1,,,4,,,2
+6,MATH 20C,MATH,20C,3,,,4,,,3
+8,PHYS 2B,PHYS,2B,5;3,,,4,,,3
+7,MAE 3,MAE,3,5,,,4,,,3
+9,MATH 20D,MATH,20D,6,,,4,,,4
+12,MAE 20,MAE,20,2;5;6,,,4,,,4
+10,PHYS 2C,PHYS,2C,5;1;3;6,,,4,,,4
+11,PHYS 2CL,PHYS,2CL,5;8,,,2,,,4
+15,MAE 130A,MAE,130A,5;6,,,4,,,5
+13,MATH 18,MATH,18,,,,4,,,5
+14,MAE 8,MAE,8,1;3,,,4,,,5
+17,MAE 108,MAE,108,13,,,4,,,6
+18,MAE 130B,MAE,130B,15,,,4,,,6
+19,MAE 131A,MAE,131A,15;9,,,4,,,6
+16,MATH 20E,MATH,20E,13;6,,,4,,,6
+20,MAE 105,MAE,105,5;8;9,,,4,,,7
+21,MAE 107,MAE,107,14;13,,,4,,,7
+22,MAE 110A,MAE,110A,,,,4,,,7
+23,MAE 140,MAE,140,9;8,,,4,,,7
+24,MAE 101A,MAE,101A,5;9;16,,,4,,,8
+25,MAE 143A,MAE,143A,9;16;13;20,,,4,,,8
+26,MAE 130C,MAE,130C,18,,,4,,,8
+27,MAE 160,MAE,160,12;15;19,,,4,,,8
+28,MAE 101B,MAE,101B,24;22,,,4,,,9
+39,CAT 125,CAT,125,,,,4,,,9
+29,MAE 143B,MAE,143B,25,,,4,,,9
+30,MAE 170,MAE,170,11,,,4,,,9
+31,MAE 101C,MAE,101C,24;20,,,4,,,10
+32,MAE 150,MAE,150,7;21;15,,,4,,,10
+40,MAE TE 1,,,,,,4,,,10
+33,MAE 156A,MAE,156A,7;19;30;32;18;29,,,4,,,11
+34,MAE 171A,MAE,171A,30;24;29,,,4,,,11
+41,MAE TE 2,,,,,,4,,,11
+42,MAE TE 3,,,,,,4,,,12
+35,MAE 156B,MAE,156B,31;33;27;26,,,4,,,12
+43,MAE TE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,CAT 1,CAT,1,,,,4,,,1
+44,GE 1,,,,,,4,,,1
+37,CAT 2,CAT,2,36,,,6,,,2
+38,CAT 3,CAT,3,37,,,6,,,3
+45,GE / DEI,,,,,,4,,,4
+46,GE 2,,,,,,4,,,5
+47,GE 3,,,,,,4,,,10
+48,GE 4,,,,,,4,,,11
+49,GE 5,,,,,,4,,,12

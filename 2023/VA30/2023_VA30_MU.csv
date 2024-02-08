@@ -1,0 +1,54 @@
+Curriculum,Speculative Design
+Degree Plan,Speculative Design/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0401
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 30,VIS,30,,,,4,,,1
+8,FOUNDATION ELECTIVE 1,,,,,,4,,,1
+2,VIS 11,VIS,11,,,,4,,,2
+9,FOUNDATION ELECTIVE 2,,,,,,4,,,2
+3,VIS 41,VIS,41,,,,4,,,3
+10,FOUNDATION HISTORY,,,,,,4,,,3
+11,HISTORY & THEORY 1,,,,,,4,,,4
+12,INTERMEDIATE LECTURE 1,,,,,,4,,,4
+4,VIS 135,VIS,135,1;3,,,4,,,5
+13,INTERMEDIATE LECTURE 2,,,,,,4,,,5
+14,INTERMEDIATE LECTURE 3,,,,,,4,,,6
+15,HISTORY & THEORY 2,,,,,,4,,,6
+16,INTERMEDIATE STUDIO 1,,,,,,4,,,7
+17,INTERMEDIATE STUDIO 2,,,,,,4,,,8
+18,ADVANCED ELECTIVE 1,,,,,,4,,,9
+19,ADVANCED ELECTIVE 2,,,,,,4,,,10
+20,ADVANCED ELECTIVE 3,,,,,,4,,,11
+5,VIS 190,VIS,190,4,,,8,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MCWP 40,MCWP,40,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+7,MCWP 50,MCWP,50,6,,,4,,,2
+22,GE 2,,,,,,4,,,2
+23,GE 3,,,,,,4,,,3
+24,GE 4,,,,,,4,,,3
+25,GE 5,,,,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,5
+28,GE 7,,,,,,4,,,5
+29,GE 8,,,,,,4,,,6
+30,GE 9,,,,,,4,,,6
+31,MUIR UD ELECTIVE 1,,,,,,4,,,7
+32,ELECTIVE 2,,,,,,4,,,7
+33,ELECTIVE 3,,,,,,4,,,7
+34,MUIR UD ELECTIVE 2,,,,,,4,,,8
+35,ELECTIVE 4,,,,,,4,,,8
+36,DEI,,,,,,4,,,8
+37,MUIR UD ELECTIVE 3,,,,,,4,,,9
+38,ELECTIVE 5,,,,,,4,,,9
+39,ELECTIVE 6,,,,,,4,,,9
+40,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

@@ -1,0 +1,51 @@
+Curriculum,International Studies-Anthropology
+Degree Plan,International Studies-Anthropology/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LANGUAGE 1,,,,,,5,,,1
+8,LANGUAGE 2,,,,,,5,,,2
+9,LANGUAGE 3,,,,,,5,,,3
+10,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,3,,,4,,,5
+11,INTL 101 / 102 2,INTL,101,3,,,4,,,6
+12,GE / DEI,,,,,,4,,,6
+13,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+14,DF2 - ANTHROPOLOGY,,,,,,4,,,8
+15,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+16,DF1 - ANTHROPOLOGY,,,,,,4,,,8
+17,DF4 - ANTHROPOLOGY,,,,,,4,,,9
+18,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+19,DF3 - ANTHROPOLOGY (RR2),,,,,,4,,,9
+20,DF5 - ANTHROPOLOGY (RR3),,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,10
+21,IE3 - INTERDISC ELECTIVE,,,,,,4,,,11
+22,DF6 - ANTHROPOLOGY,,,,,,4,,,11
+23,DF8 - ANTHROPOLOGY,,,,,,4,,,12
+24,DF7 - ANTHROPOLOGY,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+26,ELECTIVE 1,,,,,,4,,,1
+4,WCWP 10B,WCWP,10B,3,,,4,,,2
+27,GE 2,,,,,,4,,,2
+28,ELECTIVE 2,,,,,,4,,,2
+5,PHIL / POLI 27,POLI,27,3;4,,,4,,,3
+29,GE 3,,,,,,4,,,3
+30,ELECTIVE 3,,,,,,4,,,3
+6,PHIL / POLI 28,POLI,28,5,,,4,,,4
+31,GE 4,,,,,,4,,,4
+32,GE 5,,,,,,4,,,4
+33,GE 6,,,,,,4,,,5
+34,GE 7,,,,,,4,,,5
+35,ELECTIVE 4,,,,,,4,,,5
+36,GE 8,,,,,,4,,,6
+37,GE 9,,,,,,4,,,8
+38,GE 10,,,,,,4,,,9
+39,GE 11,,,,,,4,,,10
+40,GE 12,,,,,,4,,,11
+41,GE 13,,,,,,4,,,12

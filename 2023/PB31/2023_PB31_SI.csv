@@ -1,0 +1,54 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Medicine Sciences
+Degree Plan,Bachelor of Science in Public Health with Concentration in Medicine Sciences/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,BILD 1,BILD,1,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+4,BILD 2,BILD,2,2,,,4,,,2
+3,CHEM 6B,CHEM,6B,1,,,4,,,2
+19,SBE 1,,,,,,4,,,2
+6,BILD 3,BILD,3,,,,4,,,3
+5,CHEM 6C,CHEM,6C,3,,,4,,,3
+20,SBE 2,,,,,,4,,,3
+8,CHEM 7L,CHEM,7L,3,,,4,,,4
+7,FMPH 40,FMPH,40,,,,4,,,4
+21,NATURAL SCIENCE 1,,,,,,4,,,4
+22,STATISTICS (QUANTITATIVE METHODS),,,,,,4,,,5
+9,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
+23,NATURAL SCIENCE 2,,,,,,4,,,5
+24,NATURAL SCIENCE 3,,,,,,4,,,6
+25,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
+26,CONCENTRATION UDE 1,,,,,,4,,,7
+10,FMPH 101 / FMPH 102 1,FMPH,101,7,,,4,,,7
+11,USP 143,USP,143,,,,4,,,8
+27,FMPH 101 / FMPH 102 2,FMPH,101,7,,,4,,,8
+12,FMPH 120 / FMPH 130 1,FMPH,120,7,,,4,,,9
+28,CONCENTRATION UDE 2,,,,,,4,,,9
+29,FMPH 120 / FMPH 130 2,FMPH,120,7,,,4,,,10
+30,FMPH UDE,,,,,,4,,,10
+13,FMPH 193,FMPH,193,,,,4,,,11
+31,UDE - MAJOR 1,,,,,,4,,,11
+14,FMPH 194,FMPH,194,13,,,4,,,12
+32,UDE - MAJOR 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,CAT 1,CAT,1,,,,4,,,1
+16,CAT 2,CAT,2,15,,,6,,,2
+17,CAT 3,CAT,3,16,,,6,,,3
+33,GE 1,,,,,,4,,,4
+34,GE 2,,,,,,4,,,5
+35,GE / DEI,,,,,,4,,,6
+36,GE 3,,,,,,4,,,6
+37,GE 4,,,,,,4,,,7
+38,ELECTIVE 1,,,,,,4,,,7
+39,GE 5,,,,,,4,,,8
+40,ELECTIVE 2,,,,,,4,,,8
+41,ELECTIVE 3,,,,,,4,,,9
+42,ELECTIVE 4,,,,,,4,,,9
+18,CAT 125,CAT,125,,,,4,,,10
+43,UD ELECTIVE,,,,,,4,,,11
+44,ELECTIVE 5,,,,,,4,,,12

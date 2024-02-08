@@ -1,0 +1,54 @@
+Curriculum,Japanese Studies
+Degree Plan,Japanese Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0127
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JAPN 10A,JAPN,10A,,,,5,,,1
+2,HILD 10,HILD,10,,,,4,,,1
+3,JAPN 10B,JAPN,10B,1,,,5,,,2
+4,HILD 11,HILD,11,,,,4,,,2
+5,JAPN 10C,JAPN,10C,3,,,5,,,3
+6,HILD 12,HILD,12,,,,4,,,3
+7,JAPN 20A,JAPN,20A,5,,,5,,,4
+8,JAPN 20B,JAPN,20B,7,,,5,,,5
+9,JAPN 20C,JAPN,20C,8,,,5,,,6
+19,UD JS NON - LANG ELECTIVE 1,,,,,,4,,,7
+10,JAPN 130A,JAPN,130A,9,,,4,,,7
+11,JAPN 130B,JAPN,130B,10,,,4,,,8
+12,JAPN 190,JAPN,190,,,,4,,,8
+20,UD JS NON - LANG ELECTIVE 2,,,,,,4,,,9
+13,JAPN 130C,JAPN,130C,11,,,4,,,9
+21,UD JS NON - LANG ELECTIVE 3,,,,,,4,,,10
+14,JAPN 140A,JAPN,140A,13,,,4,,,10
+22,UD JS NON - LANG ELECTIVE 4,,,,,,4,,,11
+15,JAPN 140B,JAPN,140B,14,,,4,,,11
+23,UD JS NON - LANG ELECTIVE 5,,,,,,4,,,12
+16,JAPN 140C,JAPN,140C,15,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,GE 1,,,,,,4,,,1
+17,MCWP 40 / GE,MCWP,40,,,,4,,,1
+25,GE 2,,,,,,4,,,2
+18,MCWP 50 / GE,MCWP,50,17,,,4,,,2
+26,GE 3,,,,,,4,,,3
+27,GE 4,,,,,,4,,,3
+28,GE 5,,,,,,4,,,4
+29,GE 6,,,,,,4,,,4
+30,DEI / GE,,,,,,4,,,4
+31,GE 7,,,,,,4,,,5
+32,GE 8,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+34,GE 9,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,6
+37,MUIR UD ELECTIVE 1,,,,,,4,,,7
+38,ELECTIVE 4,,,,,,4,,,7
+39,MUIR UD ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,2,,,8
+41,MUIR UD ELECTIVE 3,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

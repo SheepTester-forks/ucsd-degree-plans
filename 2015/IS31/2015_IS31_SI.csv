@@ -1,0 +1,50 @@
+Curriculum,International Studies-Sociology
+Degree Plan,International Studies-Sociology/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LANGUAGE 1,,,,,,5,,,1
+8,LANGUAGE 2,,,,,,5,,,2
+9,LANGUAGE 3,,,,,,5,,,3
+10,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,3,,,4,,,5
+11,INTL 101 / 102 2,INTL,101,3,,,4,,,6
+12,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+13,DF1 - SOCIOLOGY,,,,,,4,,,8
+14,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+15,IE2 - INTERDISC ELECTIVE,,,,,,4,,,8
+16,DF2 - SOCIOLOGY (RR2),,,,,,4,,,9
+17,DF3 - SOCIOLOGY,,,,,,4,,,9
+18,IE3 - INTERDISC ELECTIVE,,,,,,4,,,9
+19,DF4 - SOCIOLOGY (RR3),,,,,,4,,,10
+20,DF5 - SOCIOLOGY,,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,11
+21,DF6 - SOCIOLOGY,,,,,,4,,,11
+22,DF7 - SOCIOLOGY,,,,,,4,,,12
+23,DF8 - SOCIOLOGY,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CAT 1,CAT,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+4,CAT 2,CAT,2,3,,,6,,,2
+25,GE 2,,,,,,4,,,2
+5,CAT 3,CAT,3,4,,,6,,,3
+26,GE 3,,,,,,4,,,3
+27,GE 4,,,,,,4,,,4
+28,GE 5,,,,,,4,,,4
+29,GE 6,,,,,,4,,,5
+30,DEI,,,,,,4,,,5
+31,ELECTIVE 1,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,6
+33,GE 7,,,,,,4,,,6
+34,ELECTIVE 3,,,,,,4,,,6
+35,ELECTIVE 4,,,,,,4,,,8
+36,ELECTIVE 5,,,,,,4,,,9
+6,CAT 125,CAT,125,,,,4,,,10
+37,ELECTIVE 6,,,,,,4,,,10
+38,ELECTIVE 7,,,,,,4,,,11
+39,ELECTIVE 8,,,,,,4,,,11
+40,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Latin American Studies
+Degree Plan,Latin American Studies/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LANGUAGE COURSE 1,,,,,,4,,,1
+9,LANGUAGE COURSE 2,,,,,,4,,,2
+10,LANGUAGE COURSE 3,,,,,,4,,,3
+11,LANGUAGE COURSE 4,,,,,,4,,,4
+12,LANGUAGE COURSE 5,,,,,,4,,,5
+1,LATI 50,LATI,50,,,,4,,,5
+13,LANGUAGE COURSE 6,,,,,,4,,,6
+14,LATI UD ELECTIVE 1,,,,,,4,,,7
+15,LATI METHODS,,,,,,4,,,7
+16,LATI UD ELECTIVE 2,,,,,,4,,,8
+17,CORE COURSE 1,,,,,,4,,,8
+18,CORE COURSE 2,,,,,,4,,,9
+2,LATI 180,LATI,180,,,,4,,,9
+19,LATI UD ELECTIVE 3,,,,,,4,,,10
+20,LATI UD ELECTIVE 4,,,,,,4,,,10
+21,CORE COURSE 3,,,,,,4,,,11
+3,LATI 190,LATI,190,,,,4,,,11
+22,LATI UD ELECTIVE 5,,,,,,4,,,12
+23,LATI UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,CAT 1,CAT,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+5,CAT 2,CAT,2,4,,,6,,,2
+25,GE 2,,,,,,4,,,2
+6,CAT 3,CAT,3,5,,,6,,,3
+26,GE 3,,,,,,4,,,3
+27,ELECTIVE 1,,,,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,GE 5,,,,,,4,,,4
+30,GE 6,,,,,,4,,,5
+31,ELECTIVE 2,,,,,,4,,,5
+32,GE 7,,,,,,4,,,6
+33,ELECTIVE 3,,,,,,4,,,6
+34,ELECTIVE 4,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+7,PRACTICUM / CAT 125 1,CAT,125,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+38,ELECTIVE 8,,,,,,4,,,9
+39,PRACTICUM / CAT 125 2,CAT,125,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,10
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,11
+44,UD ELECTIVE,,,,,,4,,,12

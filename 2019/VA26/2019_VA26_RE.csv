@@ -1,0 +1,53 @@
+Curriculum,Visual Arts (Art History/Criticism)
+Degree Plan,Visual Arts (Art History/Criticism)/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0703
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 23,VIS,23,,,,4,,,1
+12,FOUNDATION LEVEL: HISTORY 1,,,,,,4,,,1
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 11,VIS,11,,,,4,,,2
+13,FOUNDATION LEVEL: HISTORY 2,,,,,,4,,,3
+14,FOUNDATION LEVEL: ART MAKING,,,,,,4,,,3
+15,INTERMEDIATE LEVEL: A - E 1,,,,,,4,,,4
+4,VIS 112,VIS,112,,,,4,,,5
+16,INTERMEDIATE LEVEL: A - E 2,,,,,,4,,,6
+17,INTERMEDIATE LEVEL: A - E 3,,,,,,4,,,7
+18,INTERMEDIATE LEVEL: A - E 4,,,,,,4,,,7
+19,INTERMEDIATE LEVEL: A - E 5,,,,,,4,,,8
+20,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,9
+21,ADVANCED LEVEL: THEORY,,,,,,4,,,10
+22,ADVANCED LEVEL: ELECTIVE,,,,,,4,,,10
+23,ADVANCED LEVEL: SEMINAR 1,,,,,,4,,,11
+24,ADVANCED LEVEL: SEMINAR 2,,,,,,4,,,11
+25,ADVANCED LEVEL: SEMINAR 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MATH 10A,MATH,10A,,,,4,,,1
+26,DEI / SOCIAL SCIENCE,,,,,,4,,,1
+6,MATH 10B,MATH,10B,5,,,4,,,2
+7,HUM 1,HUM,1,,,,6,,,2
+27,MATH GE,,,,,,4,,,3
+8,HUM 2,HUM,2,,,,6,,,3
+28,SOCIAL SCIENCE,,,,,,4,,,4
+29,CHEMISTRY GE,,,,,,4,,,4
+9,HUM 3,HUM,3,7,,,4,,,4
+30,PHYSICS GE,,,,,,4,,,5
+10,HUM 4,HUM,4,,,,4,,,5
+31,BIOLOGY GE,,,,,,4,,,6
+11,HUM 5,HUM,5,,,,4,,,6
+32,ELECTIVE 1,,,,,,4,,,7
+33,LANGUAGE 1,,,,,,5,,,7
+34,NATURAL SCIENCE GE 1,,,,,,4,,,8
+35,LANGUAGE 2,,,,,,5,,,8
+36,NATURAL SCIENCE GE 2,,,,,,4,,,9
+37,ELECTIVE 2,,,,,,4,,,9
+38,LANGUAGE 3,,,,,,5,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,UD ELECTIVE 1,,,,,,4,,,11
+41,ELECTIVE 3,,,,,,4,,,11
+42,UD ELECTIVE 2,,,,,,4,,,12
+43,UD ELECTIVE 3,,,,,,4,,,12

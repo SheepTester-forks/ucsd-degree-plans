@@ -1,0 +1,54 @@
+Curriculum,Psychology
+Degree Plan,Psychology/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,42.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,NATURAL SCIENCE 1,,,,,,4,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,2
+11,NATURAL SCIENCE 2,,,,,,4,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,3
+12,NATURAL SCIENCE 3,,,,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,PSYC 70,PSYC,70,3,,,4,,,5
+13,COMPUTER PROGRAMMING,,,,,,4,,,6
+14,PSYC CORE 1,,,,,,4,,,7
+15,PSYC CORE 2,,,,,,4,,,7
+16,PSYC CORE 3,,,,,,4,,,8
+17,PSYC CORE 4,,,,,,4,,,8
+18,PSYC UD ELECTIVE 1,,,,,,4,,,9
+19,PSYC UD ELECTIVE 2,,,,,,4,,,9
+20,PSYC UD ELECTIVE 3,,,,,,4,,,10
+21,PSYC UD ELECTIVE 4,,,,,,4,,,10
+22,PSYC RESEARCH 1,,,,,,4,,,11
+23,PSYC UD ELECTIVE 5,,,,,,4,,,11
+24,PSYC UD ELECTIVE 6,,,,,,4,,,11
+25,PSYC UD ELECTIVE 7,,,,,,4,,,12
+26,PSYC UD ELECTIVE 8,,,,,,4,,,12
+27,PSYC RESEARCH 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MMW 11,MMW,11,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+6,MMW 12,MMW,12,,,,6,,,2
+7,MMW 13,MMW,13,6,,,6,,,3
+8,MMW 14 / GE 1,MMW,14,6;7,,,4,,,4
+29,GE 2,,,,,,4,,,4
+30,GE 3,,,,,,4,,,4
+31,MMW 14 / GE 2,MMW,14,6;7,,,4,,,5
+32,GE 4,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+9,MMW 15,MMW,15,6;7,,,4,,,6
+34,GE 5,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,GE 6,,,,,,4,,,7
+37,ELECTIVE 3,,,,,,4,,,7
+38,GE / DEI,,,,,,4,,,8
+39,ELECTIVE 4,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,9
+41,ELECTIVE 6,,,,,,4,,,9
+42,ELECTIVE 7,,,,,,4,,,10
+43,UD ELECTIVE,,,,,,4,,,10
+44,ELECTIVE 8,,,,,,4,,,11

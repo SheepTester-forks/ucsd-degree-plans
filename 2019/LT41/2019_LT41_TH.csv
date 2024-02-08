@@ -1,0 +1,53 @@
+Curriculum,World Literature and Culture
+Degree Plan,World Literature and Culture/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,24.0199
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DOC 1 / DEI,DOC,1,,,,4,,,1
+4,LD LIT LANG 1,,,,,,5,,,1
+5,LD LIT LANG 2,,,,,,5,,,2
+6,LD LIT LANG 3,,,,,,5,,,3
+7,LD LIT LANG 4,,,,,,5,,,4
+8,LD LIT SEQUENCE 1,,,,,,4,,,4
+9,LD LIT LANG 5,,,,,,5,,,5
+10,LD LIT SEQUENCE 2,,,,,,4,,,5
+11,LD LIT LANG 6,,,,,,5,,,6
+12,LD LIT SEQUENCE 3,,,,,,4,,,6
+13,UD LTAM,,,,,,4,,,7
+14,UD LIT COURSE (CONCENTRATION) 1,,,,,,4,,,7
+15,UD LTEU,,,,,,4,,,8
+16,UD LIT COURSE (CONCENTRATION) 2,,,,,,4,,,8
+17,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,9
+18,UD LIT COURSE (CONCENTRATION) 3,,,,,,4,,,9
+19,UD LIT COURSE (CONCENTRATION) 4,,,,,,4,,,10
+20,UD LIT COURSE (CONCENTRATION) 5,,,,,,4,,,10
+21,UD LIT ELECTIVE 1,,,,,,4,,,11
+22,UD LIT COURSE (CONCENTRATION) 6,,,,,,4,,,11
+23,UD LIT ELECTIVE 2,,,,,,4,,,12
+24,UD LIT ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,GE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,1
+2,DOC 2,DOC,2,1,,,6,,,2
+27,GE 3,,,,,,4,,,2
+28,GE 4,,,,,,4,,,2
+3,DOC 3,DOC,3,,,,6,,,3
+29,GE 5,,,,,,4,,,3
+30,GE 6,,,,,,4,,,3
+31,GE 7,,,,,,4,,,4
+32,ELECTIVE 1,,,,,,4,,,4
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,6
+37,GE 10,,,,,,4,,,7
+38,ELECTIVE 4,,,,,,4,,,7
+39,UD GE 1,,,,,,4,,,8
+40,UD GE 2,,,,,,4,,,9
+41,UD ELECTIVE,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,2,,,12

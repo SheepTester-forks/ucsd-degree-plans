@@ -1,0 +1,24 @@
+Curriculum,Global Health
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,HILD 30,HILD,30,,,,4,,
+2,PSYC 60,PSYC,60,,,,4,,
+3,SOC 40,SOC,40,,,,4,,
+9,EPIDEMIOLOGY COURSE,,,,,,4,,
+4,ANSC 148,ANSC,148,,,,4,,
+10,ELECTIVE 1,,,,,,4,,
+11,ELECTIVE 2,,,,,,4,,
+12,POLICY ANALYSIS,,,,,,4,,
+5,MGT 173,MGT,173,,,,4,,
+6,GLBH 181,GLBH,181,,,,4,,
+13,ELECTIVE 3,,,,,,4,,
+14,ELECTIVE 4,,,,,,4,,
+15,ELECTIVE 5,,,,,,4,,
+16,ELECTIVE 6,,,,,,4,,
+7,GLBH 150A,GLBH,150A,,,,4,,
+8,GLBH 150B,GLBH,150B,7,,,4,,
+17,ELECTIVE 7,,,,,,4,,

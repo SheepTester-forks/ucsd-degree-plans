@@ -1,0 +1,54 @@
+Curriculum,Language Studies
+Degree Plan,Language Studies/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0102
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+7,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+8,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+9,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+1,LIGN 101,LIGN,101,,,,4,,,4
+10,LANGUAGE REQUIREMENT 5,,,,,,4,,,5
+11,LANGUAGE REQUIREMENT 6,,,,,,4,,,6
+12,UD AREA STUDIES / UD LIGN ELECTIVE,,,,,,4,,,6
+13,LANGUAGE REQUIREMENT 7,,,,,,4,,,7
+14,LIGN CORE COURSE 1,,,,,,4,,,7
+15,LIGN CORE COURSE 2,,,,,,4,,,8
+16,UD LIT ELECTIVE 1,,,,,,4,,,8
+17,LIGN CORE COURSE 3,,,,,,4,,,9
+18,UD LIT ELECTIVE 2,,,,,,4,,,9
+19,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 1",,,,,,4,,,10
+20,"LIGN ""STRUCTURE OF""",,,,,,4,,,10
+21,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 2",,,,,,4,,,11
+22,LIGN ELECTIVE,,,,,,4,,,11
+23,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 3",,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,BREADTH GE 1,,,,,,4,,,1
+25,DEI,,,,,,4,,,1
+2,CCE 1,CCE,1,,,,4,,,2
+26,BREADTH GE 2,,,,,,4,,,2
+27,BREADTH GE 3,,,,,,4,,,2
+28,BREADTH GE 4,,,,,,4,,,3
+29,BREADTH GE 5,,,,,,4,,,3
+30,ELECTIVE 1,,,,,,4,,,3
+3,CCE 2,CCE,2,,,,4,,,4
+31,ELECTIVE 2,,,,,,4,,,4
+32,BREADTH GE 6,,,,,,4,,,5
+33,BREADTH GE 7,,,,,,4,,,5
+34,ELECTIVE 3,,,,,,4,,,5
+4,CCE 3,CCE,3,,,,4,,,6
+35,BREADTH GE 8,,,,,,4,,,6
+36,BREADTH GE 9,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+38,BREADTH GE 10,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,8
+5,CCE 120,CCE,120,,,,4,,,9
+40,UD ELECTIVE 1,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,10
+42,UD ELECTIVE 2,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,12
+44,ELECTIVE 8,,,,,,4,,,12

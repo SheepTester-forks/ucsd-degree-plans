@@ -1,0 +1,43 @@
+Curriculum,Aerospace Engineering
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0201
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,MAE 2,MAE,2,,,,4,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,PHYS 2A,PHYS,2A,1,,,4,,
+6,MATH 20C,MATH,20C,4,,,4,,
+7,PHYS 2B,PHYS,2B,5;1;4,,,4,,
+8,MATH 20D,MATH,20D,6,,,4,,
+9,PHYS 2C,PHYS,2C,5;6,,,4,,
+10,MAE 21,MAE,21,5;2;4,,,4,,
+11,MATH 18,MATH,18,,,,4,,
+12,MAE 8,MAE,8,1;4,,,4,,
+13,MAE 130A,MAE,130A,,,,4,,
+14,MATH 20E,MATH,20E,11;6,,,4,,
+15,MAE 130B,MAE,130B,,,,4,,
+16,MAE 131A,MAE,131A,13;8,,,4,,
+17,MAE 11,MAE,11,9;2,,,4,,
+18,MAE 105,MAE,105,5;7;8,,,4,,
+19,MAE 107,MAE,107,12;11,,,4,,
+20,MAE 180A,MAE,180A,,,,4,,
+21,MAE 101A,MAE,101A,5;8;14,,,4,,
+22,SE 160A,SE,160A,10;15;16,,,4,,
+23,MAE 130C,MAE,130C,,,,4,,
+24,MAE 143A,MAE,143A,8;14;11,,,4,,
+25,MAE 101B,MAE,101B,21;17,,,4,,
+26,SE 160B,SE,160B,22,,,4,,
+27,MAE 170,MAE,170,9,,,4,,
+28,MAE 143B,MAE,143B,24,,,4,,
+29,MAE 101C,MAE,101C,21;25;18,,,4,,
+30,MAE 104,MAE,104,21;25,,,4,,
+31,MAE 113,MAE,113,17;21;25,,,4,,
+32,MAE 142,MAE,142,30;28,,,4,,
+33,MAE 155A,MAE,155A,3;10;30;23;22,,,4,,
+34,MAE 175A,MAE,175A,29;28;27,,,4,,
+35,MAE 155B,MAE,155B,31;32;33;27,,,4,,
+36,MAE TE,,,,,,4,,

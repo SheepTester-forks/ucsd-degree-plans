@@ -1,0 +1,23 @@
+Curriculum,Ethnic Studies
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,ETHN 1,ETHN,1,,,,4,,
+2,ETHN 2,ETHN,2,,,,4,,
+3,ETHN 3,ETHN,3,,,,4,,
+7,ETHN UD 1,,,,,,4,,
+8,ETHN UD 2,,,,,,4,,
+9,ETHN UD 3,,,,,,4,,
+10,ETHN UD 4,,,,,,4,,
+11,ETHN UD 5,,,,,,4,,
+12,ETHN UD 6,,,,,,4,,
+13,ETHN UD 7,,,,,,4,,
+4,ETHN 100A,ETHN,100A,1,,,4,,
+14,ETHN UD 8,,,,,,4,,
+5,ETHN 100B,ETHN,100B,4,,,4,,
+15,ETHN UD 9,,,,,,4,,
+6,ETHN 100C,ETHN,100C,4;5,,,4,,
+16,ETHN UD 10,,,,,,4,,

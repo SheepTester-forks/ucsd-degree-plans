@@ -1,0 +1,54 @@
+Curriculum,Earth Sciences
+Degree Plan,Earth Sciences/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0601
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,SIO 50,SIO,50,,,,6,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+6,PHYS 2A,PHYS,2A,2,,,4,,,2
+4,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+5,MATH 20B,MATH,20B,2,,,4,,,2
+8,MATH 20C,MATH,20C,5,,,4,,,3
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+9,PHYS 2B,PHYS,2B,6;5,,,4,,,3
+11,MATH 20D,MATH,20D,8,,,4,,,4
+12,PHYS 2C,PHYS,2C,6;2;5;8,,,4,,,4
+10,SIO 100,SIO,100,3,,,4,,,4
+13,SIO 102,SIO,102,3;1;4;7,,,4,,,5
+14,BILD 3,BILD,3,,,,4,,,5
+17,SIO ELECTIVE GROUP B 1,,,,,,4,,,6
+18,SIO ELECTIVE GROUP B 2,,,,,,4,,,7
+15,SIO 104,SIO,104,14,,,6,,,7
+19,SIO ELECTIVE GROUP B / C 1,,,,,,4,,,8
+16,SIO 103,SIO,103,2;5;8;11;6;9;12;3,,,4,,,8
+20,SIO ELECTIVE GROUP B / C 2,,,,,,4,,,9
+21,SIO ELECTIVE GROUP B 3,,,,,,4,,,10
+22,SIO ELECTIVE GROUP B / C 3,,,,,,4,,,10
+23,SIO ELECTIVE GROUP B / C 4,,,,,,4,,,11
+24,SIO ELECTIVE GROUP B / C 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,GE 1,,,,,,4,,,2
+26,GE 2,,,,,,4,,,3
+27,GE 3,,,,,,4,,,4
+28,GE 4,,,,,,4,,,5
+29,GE 5,,,,,,4,,,5
+30,GE / DEI,,,,,,4,,,6
+31,GE 6,,,,,,4,,,6
+32,ELECTIVE 1,,,,,,4,,,6
+33,GE 7,,,,,,4,,,7
+34,GE 8,,,,,,4,,,8
+35,GE 9,,,,,,4,,,8
+36,ELECTIVE 2,,,,,,4,,,9
+37,GE 10,,,,,,4,,,9
+38,GE 11,,,,,,4,,,9
+39,GE 12,,,,,,4,,,10
+40,GE 13,,,,,,4,,,10
+41,GE 14,,,,,,4,,,11
+42,GE 15,,,,,,4,,,11
+43,ELECTIVE 3,,,,,,4,,,12
+44,ELECTIVE 4,,,,,,4,,,12

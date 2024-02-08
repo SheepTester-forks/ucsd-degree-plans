@@ -1,0 +1,37 @@
+Curriculum,Environmental Chemistry
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,DOC 1 / DEI,DOC,1,,,,4,,
+2,MATH 20A,MATH,20A,,,,4,,
+3,CHEM 6A,CHEM,6A,,,,4,,
+4,MATH 20B,MATH,20B,2,,,4,,
+5,CHEM 6B,CHEM,6B,3;2,,,4,,
+6,MATH 20C,MATH,20C,4,,,4,,
+7,CHEM 6C,CHEM,6C,5,,,4,,
+8,CHEM 7LM / 7L,CHEM,7LM,5,,,4,,
+9,PHYS 2A,PHYS,2A,2;2,,,4,,
+10,MATH 20D,MATH,20D,6,,,4,,
+11,CHEM 40A,CHEM,40A,5,,,4,,
+12,PHYS 2B,PHYS,2B,9;4,,,4,,
+13,CHEM 43AM / 43A,CHEM,43AM,8;11,,,4,,
+14,CHEM 40B,CHEM,40B,11,,,4,,
+15,PHYS 2BL / 2CL / 2DL,PHYS,2BL,9,,,2,,
+16,PHYS 2C / 2D,PHYS,2C,9;6,,,4,,
+17,CHEM 100A,CHEM,100A,7,,,4,,
+18,CHEM 171,CHEM,171,7,,,4,,
+19,CHEM 130,CHEM,130,7;16;10,,,4,,
+20,CHEM 172,CHEM,172,7,,,4,,
+21,CHEM 131,CHEM,131,7;16;6,,,4,,
+22,CHEM 173,CHEM,173,7,,,4,,
+23,CHEM 105A,CHEM,105A,17;15;19,,,4,,
+24,CHEM 132,CHEM,132,19;21,,,4,,
+27,CHEM ELECTIVE 1,,,,,,4,,
+28,CHEM ELECTIVE 2,,,,,,4,,
+29,CHEM ELECTIVE 3,,,,,,4,,
+25,CHEM 100B,CHEM,100B,17;16;15,,,5,,
+30,CHEM ELECTIVE 4,,,,,,4,,
+26,CHEM 174,CHEM,174,7,,,4,,

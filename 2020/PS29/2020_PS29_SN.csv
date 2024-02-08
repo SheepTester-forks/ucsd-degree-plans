@@ -1,0 +1,55 @@
+Curriculum,Political Science/Political Theory
+Degree Plan,Political Science/Political Theory/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.1099
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LD POLI 1,,,,,,4,,,1
+9,LD POLI 2,,,,,,4,,,2
+1,POLI 30D,POLI,30D,,,,4,,,3
+10,LD POLI 3,,,,,,4,,,4
+11,UD POLI 1,,,,,,4,,,5
+12,UD POLI 2,,,,,,4,,,6
+13,UD POLI 3,,,,,,4,,,7
+2,POLI 110A,POLI,110A,,,,4,,,7
+14,UD POLI 4,,,,,,4,,,8
+3,POLI 110B,POLI,110B,,,,4,,,8
+4,POLI 110C,POLI,110C,,,,4,,,9
+15,UD POLI 5,,,,,,4,,,9
+16,UD POLI 6,,,,,,4,,,10
+17,UD / POLITICAL THEORY,,,,,,4,,,10
+18,UD POLITICAL THEORY,,,,,,4,,,11
+19,UD POLI 7,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,DEI,,,,,,4,,,1
+21,ALTERNATIVE 1,,,,,,4,,,1
+22,ELECTIVE 1,,,,,,4,,,1
+5,SYN 1,SYN,1,,,,4,,,2
+23,ALTERNATIVE 2,,,,,,4,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+25,ALTERNATIVE 3,,,,,,4,,,3
+26,ELECTIVE 3,,,,,,4,,,3
+27,ELECTIVE 4,,,,,,4,,,3
+6,SYN 2,SYN,2,5,,,4,,,4
+28,ALTERNATIVE 4,,,,,,4,,,4
+29,ELECTIVE 5,,,,,,4,,,4
+30,ALTERNATIVE 5,,,,,,4,,,5
+31,ALTERNATIVE 6,,,,,,4,,,5
+32,ELECTIVE 6,,,,,,4,,,5
+33,ALTERNATIVE 7,,,,,,4,,,6
+34,ALTERNATIVE 8,,,,,,4,,,6
+35,ELECTIVE 7,,,,,,4,,,6
+36,ALTERNATIVE 9,,,,,,4,,,7
+37,ELECTIVE 8,,,,,,4,,,7
+38,ELECTIVE 9,,,,,,4,,,8
+39,ELECTIVE 10,,,,,,4,,,8
+7,SYN 100,SYN,100,5;6,,,4,,,9
+40,ELECTIVE 11,,,,,,4,,,9
+41,HIGH - IMPACT,,,,,,4,,,10
+42,ELECTIVE 12,,,,,,4,,,11
+43,ELECTIVE 13,,,,,,4,,,11
+44,UD ELECTIVE,,,,,,4,,,12
+45,ELECTIVE 14,,,,,,4,,,12

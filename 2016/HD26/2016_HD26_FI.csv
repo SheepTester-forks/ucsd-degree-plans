@@ -1,0 +1,53 @@
+Curriculum,Human Development
+Degree Plan,Human Development/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,LD FORMAL SKILLS 1,,,,,,4,,,1
+14,LD SOC SCI 1,,,,,,4,,,1
+15,LD FORMAL SKILLS 2,,,,,,4,,,2
+16,LD BIOLOGY SCI 1,,,,,,4,,,2
+17,LD SOC SCI 2,,,,,,4,,,3
+18,LD BIOLOGY SCI 2,,,,,,4,,,3
+19,LD STATISTICS,,,,,,4,,,4
+1,HDP 1,HDP,1,,,,4,,,4
+20,CORE COURSE 1,,,,,,4,,,5
+21,CORE COURSE 2,,,,,,4,,,5
+22,CORE COURSE 3,,,,,,4,,,6
+23,CORE COURSE 4,,,,,,4,,,6
+24,DEVELOPMENT 1,,,,,,4,,,7
+25,DEVELOPMENT 2,,,,,,4,,,7
+26,DEVELOPMENT 3,,,,,,4,,,8
+2,HDP 181,HDP,181,1,,,6,,,8
+3,HDP 191,HDP,191,1;2,,,6,,,9
+27,DEVELOPMENT 4,,,,,,4,,,9
+4,HDP 194A,HDP,194A,,,,4,,,10
+28,DEVELOPMENT 5,,,,,,4,,,10
+29,METHODS ELECTIVE,,,,,,4,,,11
+5,HDP 194B,HDP,194B,,,,4,,,11
+6,HDP 150,HDP,150,2,,,4,,,12
+7,HDP 194C,HDP,194C,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,MMW 11,MMW,11,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+9,MMW 12,MMW,12,,,,6,,,2
+31,GE 2,,,,,,4,,,2
+10,MMW 13,MMW,13,,,,6,,,3
+32,GE 3,,,,,,4,,,3
+11,MMW 14 / GE 1,MMW,14,9;10,,,4,,,4
+33,GE / DEI,,,,,,4,,,4
+34,MMW 14 / GE 2,MMW,14,9;10,,,4,,,5
+35,GE 4,,,,,,4,,,5
+12,MMW 15,MMW,15,9;10,,,4,,,6
+36,GE 5,,,,,,4,,,6
+37,GE 6,,,,,,4,,,7
+38,GE 7,,,,,,4,,,7
+39,ELECTIVE 1,,,,,,4,,,8
+40,ELECTIVE 2,,,,,,4,,,9
+41,ELECTIVE 3,,,,,,4,,,10
+42,ELECTIVE 4,,,,,,4,,,11
+43,ELECTIVE 5,,,,,,4,,,12

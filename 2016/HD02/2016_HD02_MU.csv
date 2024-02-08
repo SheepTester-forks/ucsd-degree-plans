@@ -1,0 +1,55 @@
+Curriculum,
+Degree Plan,/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LD PRE - MAJOR 1,,,,,,4,,,1
+9,LD PRE - MAJOR 2,,,,,,4,,,1
+10,LD PRE - MAJOR 3,,,,,,4,,,2
+11,LD PRE - MAJOR 4,,,,,,4,,,2
+12,LD PRE - MAJOR 5,,,,,,4,,,3
+13,LD PRE - MAJOR 6,,,,,,4,,,3
+14,LD PRE - MAJOR 7,,,,,,4,,,4
+1,HDP 1,HDP,1,,,,4,,,4
+15,HDP CORE 1,,,,,,4,,,5
+16,HDP CORE 2,,,,,,4,,,5
+17,HDP CORE 3,,,,,,4,,,6
+18,HDP CORE 4,,,,,,4,,,6
+19,HDP DEVELOPMENT 1,,,,,,4,,,7
+20,HDP DEVELOPMENT 2,,,,,,4,,,7
+21,HDP DEVELOPMENT 3,,,,,,4,,,8
+2,HDP 181,HDP,181,1,,,4,,,8
+3,HDP 191,HDP,191,1;2,,,4,,,9
+22,HDP DEVELOPMENT 4,,,,,,4,,,9
+4,HDP 194A,HDP,194A,,,,4,,,10
+23,HDP DEVELOPMENT 5,,,,,,4,,,10
+5,HDP 194B,HDP,194B,,,,4,,,11
+24,HDP METHODS ELECTIVE,,,,,,4,,,11
+6,HDP 194C,HDP,194C,,,,4,,,12
+7,HDP 150,HDP,150,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+25,GE / WRITING 1,,,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+27,GE / WRITING 2,,,,,,4,,,2
+28,GE 2,,,,,,4,,,2
+29,GE 3,,,,,,4,,,3
+30,GE 4,,,,,,4,,,3
+31,GE 5,,,,,,4,,,4
+32,GE 6,,,,,,4,,,4
+33,GE 7,,,,,,4,,,5
+34,GE 8,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,DEI,,,,,,4,,,6
+37,ELECTIVE 1,,,,,,4,,,7
+38,ELECTIVE 2,,,,,,4,,,7
+39,ELECTIVE 3,,,,,,4,,,8
+40,ELECTIVE 4,,,,,,4,,,8
+41,ELECTIVE 5,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,9
+43,ELECTIVE 7,,,,,,4,,,10
+44,ELECTIVE 8,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,30 @@
+Curriculum,Cognitive Science
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 10A / 20A,MATH,10A,,,,4,,
+2,COGS 10 / DSGN 1,COGS,10,,,,4,,
+3,MATH 10B / 20B,MATH,10B,1,,,4,,
+4,COGS 1,COGS,1,,,,4,,
+5,MATH 10C IF CHOOSING MATH 10 SERIES,MATH,10C,3,,,4,,
+6,COGS 13,COGS,13,,,,4,,
+7,MATH 18,MATH,18,,,,4,,
+8,COGS 17,COGS,17,,,,4,,
+9,COGS 14A,COGS,14A,,,,4,,
+10,COGS 14B,COGS,14B,9,,,4,,
+11,COGS 18 / CSE (8A / 11),COGS,18,,,,4,,
+14,COGS CORE 1,,,,,,4,,
+15,COGS CORE 2,,,,,,4,,
+12,COGS CORE (BA) / COGS 108 (BS),COGS,108,11,,,4,,
+16,COGS CORE 3,,,,,,4,,
+13,COGS CORE (BA) / COGS 100 (BS),COGS,100,2,,,4,,
+17,COGS CORE 4,,,,,,4,,
+18,COGS UD ELECTIVE 1,,,,,,4,,
+19,COGS UD ELECTIVE 2,,,,,,4,,
+20,COGS UD ELECTIVE 3,,,,,,4,,
+21,COGS UD ELECTIVE 4,,,,,,4,,
+22,COGS UD ELECTIVE 5,,,,,,4,,
+23,COGS UD ELECTIVE 6,,,,,,4,,

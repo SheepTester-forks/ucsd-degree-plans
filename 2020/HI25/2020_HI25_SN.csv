@@ -1,0 +1,55 @@
+Curriculum,History
+Degree Plan,History/ Seventh
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,HILD 1,,,,,,4,,,1
+5,HILD 2,,,,,,4,,,2
+6,HILD 3,,,,,,4,,,3
+7,HIUD 1,,,,,,4,,,4
+8,HIUD 2,,,,,,4,,,4
+9,HIUD 3,,,,,,4,,,5
+10,HIUD 4,,,,,,4,,,5
+11,HILD 4,,,,,,4,,,6
+12,HIUD 5,,,,,,4,,,6
+13,HIUD 6,,,,,,4,,,7
+14,HIUD 7,,,,,,4,,,7
+15,HIUD 8,,,,,,4,,,8
+16,HIUD 9,,,,,,4,,,8
+17,HIUD 10,,,,,,4,,,9
+18,HILD 5,,,,,,4,,,9
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,DEI,,,,,,4,,,1
+20,ALTERNATIVE 1,,,,,,4,,,1
+21,ALTERNATIVE 2,,,,,,4,,,1
+1,SYN 1,SYN,1,,,,4,,,2
+22,ALTERNATIVE 3,,,,,,4,,,2
+23,ALTERNATIVE 4,,,,,,4,,,2
+24,ALTERNATIVE 5,,,,,,4,,,3
+25,ALTERNATIVE 6,,,,,,4,,,3
+26,ELECTIVE 1,,,,,,4,,,3
+2,SYN 2,SYN,2,1,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,ALTERNATIVE 7,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,ALTERNATIVE 8,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,6
+32,ALTERNATIVE 9,,,,,,4,,,7
+3,SYN 100,SYN,100,1;2,,,4,,,7
+33,ALTERNATIVE 10,,,,,,4,,,8
+34,ELECTIVE 5,,,,,,4,,,8
+35,ELECTIVE 6,,,,,,4,,,9
+36,ELECTIVE 7,,,,,,4,,,9
+37,HIGH - IMPACT,,,,,,4,,,10
+38,ELECTIVE 8,,,,,,4,,,10
+39,ELECTIVE 9,,,,,,4,,,10
+40,UD ELECTIVE 1,,,,,,4,,,11
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,11
+43,UD ELECTIVE 3,,,,,,4,,,12
+44,ELECTIVE 11,,,,,,4,,,12
+45,ELECTIVE 12,,,,,,4,,,12

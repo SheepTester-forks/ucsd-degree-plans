@@ -1,0 +1,55 @@
+Curriculum,Pharmacological Chemistry
+Degree Plan,Pharmacological Chemistry/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0599
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+5,BILD 1,BILD,1,2,,,4,,,2
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+8,CHEM 7LM / 7L,CHEM,7LM,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+9,CHEM 40A,CHEM,40A,4,,,4,,,4
+11,MATH 20D,MATH,20D,6,,,4,,,4
+10,CHEM 100A,CHEM,100A,7,,,4,,,4
+13,CHEM 43A,CHEM,43A,8;9,,,4,,,5
+12,CHEM 40B,CHEM,40B,9,,,4,,,5
+14,PHYS 2A 1,PHYS,2A,1,,,4,,,5
+17,PHYS 2B,PHYS,2B,14;1;3,,,4,,,6
+15,CHEM 40C,CHEM,40C,12,,,4,,,6
+16,CHEM 143B,CHEM,143B,13;12,,,4,,,6
+18,CHEM 114A,CHEM,114A,9,,,4,,,7
+19,PHYS 2C / 2D,PHYS,2C,14;1;3;6,,,4,,,7
+20,CHEM 114B,CHEM,114B,12,,,4,,,8
+21,PHYS 2CL,PHYS,2CL,14;17,,,2,,,8
+22,BILD 2,BILD,2,5,,,4,,,8
+23,CHEM 114C,CHEM,114C,18,,,4,,,9
+24,CHEM 126 / 127 1,CHEM,126,4;19;11,,,4,,,9
+34,CHEM 126 / 127 2,CHEM,126,,,,4,,,10
+25,CHEM 108,CHEM,108,13;18,,,6,,,10
+27,CHEM 118,CHEM,118,18,,,4,,,11
+26,CHEM 168,CHEM,168,15;18,,,4,,,11
+35,CHEM ELECTIVE,,,,,,4,,,12
+28,CHEM 167,CHEM,167,15;18,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,CAT 1,CAT,1,,,,4,,,1
+36,GE 1,,,,,,4,,,1
+30,CAT 2,CAT,2,29,,,6,,,2
+31,CAT 3,CAT,3,30,,,6,,,3
+37,PHYS 2A 2,PHYS,2A,1,,,4,,,4
+38,GE / DEI,,,,,,4,,,5
+39,GE 2,,,,,,4,,,6
+40,CHEM 126,CHEM,126,,,,4,,,7
+32,CHEM 127,CHEM,127,7;19;6,,,4,,,8
+41,GE 3,,,,,,4,,,9
+42,GE 4,,,,,,4,,,10
+43,GE 5,,,,,,4,,,10
+33,CAT 125,CAT,125,,,,4,,,11
+44,GE 6,,,,,,4,,,12
+45,GE 7,,,,,,4,,,12

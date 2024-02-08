@@ -1,0 +1,53 @@
+Curriculum,Human Developmental Sciences
+Degree Plan,Human Developmental Sciences/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MMW 11,MMW,11,,,,4,,,1
+10,LD MAJOR PREP 1,,,,,,4,,,1
+11,LD MAJOR PREP 2,,,,,,4,,,1
+6,MMW 12,MMW,12,,,,6,,,2
+12,LD MAJOR PREP 3,,,,,,4,,,2
+13,LD MAJOR PREP 4,,,,,,4,,,2
+14,LD MAJOR PREP 5,,,,,,4,,,3
+15,LD MAJOR PREP 6,,,,,,4,,,3
+1,HDS 1,HDS,1,,,,4,,,4
+16,HDS CORE COURSE 1,,,,,,4,,,5
+17,HDS CORE COURSE 2,,,,,,4,,,5
+18,HDS CORE COURSE 3,,,,,,4,,,6
+19,HDS CORE COURSE 4,,,,,,4,,,6
+20,HDS DEVELOPMENTCOURSE 1,,,,,,4,,,7
+21,LD HDS STATISTICS,,,,,,4,,,7
+22,HDS DEVELOPMENTCOURSE 2,,,,,,4,,,8
+23,HDS METHODS ELECTIVE,,,,,,4,,,8
+24,HDS DEVELOPMENTCOURSE 3,,,,,,4,,,9
+2,HDS 181,HDS,181,1,,,6,,,9
+25,HDS DEVELOPMENTCOURSE 4,,,,,,4,,,10
+3,HDS 191,HDS,191,1;2,,,6,,,10
+26,HDS DEVELOPMENTCOURSE 5,,,,,,4,,,11
+4,HDS 150,HDS,150,2,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,GE 1,,,,,,4,,,1
+7,MMW 13,MMW,13,6,,,6,,,3
+8,MMW 14 / GE 1,MMW,14,6;7,,,4,,,4
+28,GE 2,,,,,,4,,,4
+29,GE / DEI,,,,,,4,,,4
+30,MMW 14 / GE 2,MMW,14,6;7,,,4,,,5
+31,GE 3,,,,,,4,,,5
+9,MMW 15,MMW,15,6;7,,,4,,,6
+32,ELECTIVE 1,,,,,,4,,,6
+33,ELECTIVE 2,,,,,,4,,,7
+34,GE 4,,,,,,4,,,7
+35,ELECTIVE 3,,,,,,4,,,8
+36,GE 5,,,,,,4,,,8
+37,GE 6,,,,,,4,,,9
+38,ELECTIVE 4,,,,,,4,,,10
+39,ELECTIVE 5,,,,,,4,,,10
+40,ELECTIVE 6,,,,,,4,,,11
+41,ELECTIVE 7,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,12
+43,ELECTIVE 9,,,,,,4,,,12

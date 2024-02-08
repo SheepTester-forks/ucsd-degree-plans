@@ -1,0 +1,54 @@
+Curriculum,History
+Degree Plan,History/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,54.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,HILD 1,,,,,,4,,,1
+5,HILD 2,,,,,,4,,,2
+6,HILD 3,,,,,,4,,,3
+7,HIUD 1,,,,,,4,,,7
+8,HIUD 2,,,,,,4,,,7
+9,HIUD 3,,,,,,4,,,8
+10,HIUD 4,,,,,,4,,,8
+11,HIUD 5,,,,,,4,,,9
+12,HIUD 6,,,,,,4,,,9
+13,HIUD 7,,,,,,4,,,10
+14,HIUD 8,,,,,,4,,,10
+15,HIUD 9,,,,,,4,,,11
+16,HIUD 10,,,,,,4,,,11
+17,HIUD 11,,,,,,4,,,12
+18,HIUD 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DOC 1 / DEI,DOC,1,,,,4,,,1
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+2,DOC 2,DOC,2,1,,,6,,,2
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,2
+3,DOC 3,DOC,3,,,,6,,,3
+23,GE 5,,,,,,4,,,3
+24,ELECTIVE 1,,,,,,4,,,3
+25,GE 6,,,,,,4,,,4
+26,GE 7,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,ELECTIVE 3,,,,,,4,,,4
+29,GE 8,,,,,,4,,,5
+30,GE 9,,,,,,4,,,5
+31,ELECTIVE 4,,,,,,4,,,5
+32,ELECTIVE 5,,,,,,4,,,5
+33,GE 10,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,6
+35,ELECTIVE 7,,,,,,4,,,6
+36,ELECTIVE 8,,,,,,4,,,6
+37,ELECTIVE 9,,,,,,4,,,7
+38,ELECTIVE 10,,,,,,4,,,7
+39,UD GE 1,,,,,,4,,,8
+40,ELECTIVE 11,,,,,,4,,,8
+41,UD GE 2,,,,,,4,,,9
+42,UD COLLEGE ELECTIVE,,,,,,4,,,10
+43,ELECTIVE 12,,,,,,4,,,11
+44,ELECTIVE 13,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,"Russian, East European and Eurasian Studies"
+Degree Plan,"Russian, East European and Eurasian Studies/ Warren"
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0105
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTRU 1A,LTRU,1A,,,,5,,,1
+2,LTRU 1B,LTRU,1B,,,,5,,,2
+3,LTRU 1C,LTRU,1C,,,,5,,,3
+4,LTRU 2A,LTRU,2A,,,,5,,,4
+5,LTRU 2B,LTRU,2B,,,,5,,,5
+6,LTRU 2C,LTRU,2C,,,,5,,,6
+8,LTRU 104A,LTRU,104A,,,,4,,,7
+7,HIEU 134,HIEU,134,,,,4,,,7
+10,LTRU 104B,LTRU,104B,8,,,4,,,8
+9,HIEU 156,HIEU,156,,,,4,,,8
+11,LTRU 104C,LTRU,104C,,,,4,,,9
+15,SOCIAL SCI ELECTIVE 1,,,,,,4,,,9
+12,LTRU 110A,LTRU,110A,,,,4,,,10
+16,SOCIAL SCI ELECTIVE 2,,,,,,4,,,10
+13,LTRU 110B,LTRU,110B,,,,4,,,11
+17,REEES UD ELECTIVE 1,,,,,,4,,,11
+14,LTRU 110C,LTRU,110C,,,,4,,,12
+18,REEES UD ELECTIVE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,2
+23,ELECTIVE 1,,,,,,4,,,2
+24,GE 5,,,,,,4,,,3
+25,GE 6,,,,,,4,,,3
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
+28,GE 9,,,,,,4,,,5
+29,GE 10,,,,,,4,,,5
+30,ELECTIVE 2,,,,,,4,,,5
+31,GE / DEI,,,,,,4,,,6
+32,GE 11,,,,,,4,,,6
+33,GE 12,,,,,,4,,,7
+34,GE 13,,,,,,4,,,7
+35,GE 14,,,,,,4,,,8
+36,GE 15,,,,,,4,,,8
+37,GE 16,,,,,,4,,,9
+38,GE 17,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,11
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,12
+44,ELECTIVE 8,,,,,,4,,,12

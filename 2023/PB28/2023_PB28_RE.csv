@@ -1,0 +1,53 @@
+Curriculum,Bachelor of Science in Public Health with Concentration in Community Health Sciences
+Degree Plan,Bachelor of Science in Public Health with Concentration in Community Health Sciences/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,51.2208
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,FMPH 40,FMPH,40,,,,4,,,1
+18,SOCIAL / BEHAV SCIENCE (SOCIAL SCIENCE GE - SEE NOTE) 1,,,,,,4,,,1
+2,FMPH 50,FMPH,50,,,,4,,,2
+19,SOCIAL / BEHAV SCIENCE (SOCIAL SCIENCE GE - SEE NOTE) 2,,,,,,4,,,3
+20,LD BIOLOGY (NAT SCI GE) 1,,,,,,4,,,3
+21,LD BIOLOGY (NAT SCI GE) 2,,,,,,4,,,4
+3,BILD 3 (BIOLOGY GE),BILD,3,,,,4,,,5
+4,FMPH 110,FMPH,110,1,,,4,,,5
+17,QUANTITATIVE METHODS - MATH 11 (MATH GE),MATH,11,12,,,5,,,6
+5,FMPH 101 / FMPH 102 1,FMPH,101,1;17,,,4,,,7
+22,MAJOR CONCENTRATION UDE 1,,,,,,4,,,7
+23,FMPH 101 / FMPH 102 2,FMPH,101,1;17,,,4,,,8
+6,USP 143,USP,143,,,,4,,,8
+7,FMPH 120 / FMPH 130 1,FMPH,120,1,,,4,,,9
+24,MAJOR CONCENTRATION UDE 2,,,,,,4,,,9
+25,FMPH 120 / FMPH 130 2,FMPH,120,1,,,4,,,10
+26,FMPH UDE,,,,,,4,,,10
+8,FMPH 193,FMPH,193,,,,4,,,11
+27,MAJOR UDE 1,,,,,,4,,,11
+9,FMPH 194,FMPH,194,8,,,4,,,12
+28,MAJOR UDE 2,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MATH 10A / 20A,MATH,10A,,,,4,,,1
+11,HUM 1,HUM,1,,,,6,,,2
+12,MATH 10B / 20B,MATH,10B,10,,,4,,,2
+13,HUM 2,HUM,2,,,,6,,,3
+14,HUM 3,HUM,3,11,,,4,,,4
+29,FINE ARTS GE,,,,,,4,,,4
+30,DEI,,,,,,4,,,4
+15,HUM 4,HUM,4,,,,4,,,5
+31,PHYSICS GE,,,,,,4,,,5
+16,HUM 5,HUM,5,,,,4,,,6
+32,CHEMISTRY GE,,,,,,4,,,6
+33,ELECTIVE 1,,,,,,4,,,6
+34,ELECTIVE 2,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,LANGUAGE 2,,,,,,5,,,8
+37,LANGUAGE 3,,,,,,5,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,LANGUAGE 4,,,,,,5,,,10
+40,UD ELECTIVE 2,,,,,,4,,,11
+41,ELECTIVE 3,,,,,,4,,,11
+42,ELECTIVE 4,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

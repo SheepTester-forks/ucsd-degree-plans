@@ -1,0 +1,38 @@
+Curriculum,Biochemistry/Chemistry
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,26.0202
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,CHEM 6A,CHEM,6A,,,,4,,
+2,MATH 20A,MATH,20A,,,,4,,
+3,CHEM 6B,CHEM,6B,1;2,,,4,,
+4,MATH 20B,MATH,20B,2,,,4,,
+5,BILD 1,BILD,1,1,,,4,,
+6,CHEM 6C,CHEM,6C,3,,,4,,
+7,MATH 20C,MATH,20C,4,,,4,,
+8,CHEM 7LM,CHEM,7LM,3,,,4,,
+9,CHEM 140A,CHEM,140A,,,,4,,
+10,PHYS 2A,PHYS,2A,2,,,4,,
+11,MATH 20D,MATH,20D,7,,,4,,
+12,CHEM 140B,CHEM,140B,9,,,4,,
+13,PHYS 2B,PHYS,2B,10;2;4,,,4,,
+14,CHEM 143A,CHEM,143A,9,,,4,,
+15,CHEM 140C,CHEM,140C,12,,,4,,
+16,PHYS 2C / 2D,PHYS,2C,10;2;4;7,,,4,,
+17,CHEM 143B,CHEM,143B,14,12,,4,,
+18,PHYS 2CL,PHYS,2CL,10;13,,,2,,
+19,CHEM 114A,CHEM,114A,9,,,4,,
+20,CHEM 127 / 126,CHEM,127,6;16;7,,,4,,
+21,CHEM 100A,CHEM,100A,6,,,4,,
+22,CHEM 114B,CHEM,114B,12,,,4,,
+23,CHEM 126 / 127,CHEM,126,3;16;11,,,4,,
+24,CHEM 105A,CHEM,105A,21;18;20,,,4,,
+25,CHEM 114C,CHEM,114C,19,,,4,,
+27,BIOCHEM LAB,,,,,,6,,
+26,CHEM 120A,CHEM,120A,6;9,,,4,,
+28,BIOCHEM ELECTIVE 1,,,,,,4,,
+29,CHEM ELECTIVE LAB,,,,,,4,,
+30,BIOCHEM ELECTIVE 2,,,,,,4,,
+31,CHEM OPEN ELECTIVE,,,,,,4,,

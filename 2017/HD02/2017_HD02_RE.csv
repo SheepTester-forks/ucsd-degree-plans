@@ -1,0 +1,53 @@
+Curriculum,
+Degree Plan,/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,MATH 10A,MATH,10A,,,,4,,,1
+16,LD PRE - MAJOR 1,,,,,,4,,,1
+17,LD PRE - MAJOR 2,,,,,,4,,,1
+10,MATH 10B,MATH,10B,8,,,4,,,2
+18,LD PRE - MAJOR 3,,,,,,4,,,2
+19,LD PRE - MAJOR 4,,,,,,4,,,2
+20,LD PRE - MAJOR 5,,,,,,4,,,3
+21,LD PRE - MAJOR 6,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+22,LD PRE - MAJOR 7,,,,,,4,,,4
+23,HDP CORE 1,,,,,,4,,,5
+24,HDP CORE 2,,,,,,4,,,5
+25,HDP CORE 3,,,,,,4,,,6
+26,HDP CORE 4,,,,,,4,,,6
+27,HDP DEVELOPMENT 1,,,,,,4,,,7
+28,HDP DEVELOPMENT 2,,,,,,4,,,7
+2,HDP 181,HDP,181,1,,,4,,,8
+29,HDP DEVELOPMENT 3,,,,,,4,,,8
+3,HDP 191,HDP,191,1;2,,,4,,,9
+30,HDP DEVELOPMENT 4,,,,,,4,,,9
+4,HDP 194A,HDP,194A,,,,4,,,10
+31,HDP DEVELOPMENT 5,,,,,,4,,,10
+5,HDP 194B,HDP,194B,,,,4,,,11
+32,HDP METHODS ELECTIVE,,,,,,4,,,11
+6,HDP 194C,HDP,194C,,,,4,,,12
+7,HDP 150,HDP,150,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,CHEM 11,CHEM,11,,,,4,,,1
+11,HUM 1,HUM,1,,,,6,,,2
+33,MATH GE,,,,,,4,,,3
+12,HUM 2,HUM,2,,,,6,,,3
+34,LANGUAGE 1,,,,,,5,,,4
+13,HUM 3,HUM,3,11,,,4,,,4
+35,LANGUAGE 2,,,,,,5,,,5
+14,HUM 4,HUM,4,,,,4,,,5
+36,LANGUAGE 3,,,,,,5,,,6
+15,HUM 5,HUM,5,,,,4,,,6
+37,LANGUAGE 4,,,,,,5,,,7
+38,SOCIAL SCIENCE / DEI,,,,,,4,,,7
+39,BIOLOGY GE,,,,,,4,,,8
+40,NATURAL SCIENCE GE 1,,,,,,4,,,9
+41,FINE ARTS,,,,,,4,,,10
+42,PHYSICS GE,,,,,,4,,,11
+43,NATURAL SCIENCE GE 2,,,,,,4,,,12

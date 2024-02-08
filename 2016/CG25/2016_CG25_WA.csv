@@ -1,0 +1,55 @@
+Curriculum,Cognitive Science
+Degree Plan,Cognitive Science/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,COGS 1,COGS,1,,,,4,,,1
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+1,COGS 10 / DSGN 1,COGS,10,,,,4,,,2
+4,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+5,COGS 13,COGS,13,,,,4,,,3
+12,IF MATH 10A 10B THEN MATH 10C / 18,MATH,10A,,,,4,,,3
+6,MATH 18 (BS),MATH,18,,,,4,,,4
+7,COGS 17,COGS,17,,,,4,,,4
+8,COGS 14A,COGS,14A,,,,4,,,5
+9,COGS 14B (BS),COGS,14B,8,,,4,,,6
+13,COMPUTER PROGRAMMING,,,,,,4,,,6
+14,CORE 1,,,,,,4,,,7
+15,CORE 2,,,,,,4,,,7
+16,CORE 3,,,,,,4,,,8
+17,CORE 4,,,,,,4,,,8
+11,CORE / COGS 108 (BS),COGS,108,,,,4,,,9
+10,CORE / COGS 100 (BS),COGS,100,3,,,4,,,9
+18,UD ELECTIVE 1,,,,,,4,,,10
+19,COGS UD ELECTIVE 1,,,,,,4,,,10
+20,UD ELECTIVE 2,,,,,,4,,,11
+21,COGS UD ELECTIVE 2,,,,,,4,,,11
+22,UD ELECTIVE 3,,,,,,4,,,12
+23,COGS UD ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,GE 1,,,,,,4,,,1
+25,ELECTIVE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,2
+27,ELECTIVE 2,,,,,,4,,,2
+28,GE 3,,,,,,4,,,3
+29,GE 4,,,,,,4,,,3
+30,GE 5,,,,,,4,,,4
+31,GE 6,,,,,,4,,,4
+32,GE 7,,,,,,4,,,5
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 3,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,GE / DEI,,,,,,4,,,6
+37,GE 10,,,,,,4,,,7
+38,GE 11,,,,,,4,,,7
+39,GE 12,,,,,,4,,,8
+40,ELECTIVE 4,,,,,,4,,,8
+41,GE 13,,,,,,4,,,9
+42,ELECTIVE 5,,,,,,4,,,9
+43,GE 14,,,,,,4,,,10
+44,ELECTIVE 6,,,,,,4,,,11
+45,GE 15,,,,,,4,,,12

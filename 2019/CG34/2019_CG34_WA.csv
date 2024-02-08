@@ -1,0 +1,55 @@
+Curriculum,Cognitive Science with a Specialization in Language and Culture
+Degree Plan,Cognitive Science with a Specialization in Language and Culture/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+4,COGS 1,COGS,1,,,,4,,,2
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+6,COGS 13,COGS,13,,,,4,,,3
+5,IF MATH 10 SERIES THEN MATH 10C,MATH,10,,,,4,,,3
+7,COGS 17,COGS,17,,,,4,,,4
+8,MATH 18,MATH,18,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+10,COGS 14B,COGS,14B,9,,,4,,,6
+11,COGS 18 / CSE (8A / 11) / MAE 8,COGS,18,,,,4,,,6
+12,COGS 107A,COGS,107A,7,,,4,,,7
+13,COGS 101A / 101B / 101C 1,COGS,101A,4,,,4,,,7
+14,COGS 107B,COGS,107B,12,,,4,,,8
+15,COGS 108,COGS,108,11,,,4,,,8
+17,COGS 101A / 101B / 101C 2,COGS,101A,4,,,4,,,9
+16,COGS 100,COGS,100,2,,,4,,,9
+18,COGS UD ELECTIVE 1,,,,,,4,,,10
+19,COGS UD ELECTIVE 2,,,,,,4,,,10
+20,COGS UD ELECTIVE 3,,,,,,4,,,11
+21,COGS UD ELECTIVE 4,,,,,,4,,,11
+22,COGS UD ELECTIVE 5,,,,,,4,,,12
+23,COGS UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,GE 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,1
+26,GE 3,,,,,,4,,,2
+27,GE 4,,,,,,4,,,2
+28,GE 5,,,,,,4,,,3
+29,GE 6,,,,,,4,,,3
+30,GE 7,,,,,,4,,,4
+31,GE 8,,,,,,4,,,4
+32,GE 9,,,,,,4,,,5
+33,GE 10,,,,,,4,,,5
+34,ELECTIVE 1,,,,,,4,,,5
+35,GE / DEI,,,,,,4,,,6
+36,GE 11,,,,,,4,,,6
+37,GE 12,,,,,,4,,,7
+38,GE 13,,,,,,4,,,7
+39,GE 14,,,,,,4,,,8
+40,GE 15,,,,,,4,,,8
+41,ELECTIVE 2,,,,,,4,,,9
+42,ELECTIVE 3,,,,,,4,,,9
+43,ELECTIVE 4,,,,,,4,,,10
+44,ELECTIVE 5,,,,,,4,,,11
+45,ELECTIVE 6,,,,,,4,,,12

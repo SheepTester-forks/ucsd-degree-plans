@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Media)
+Degree Plan,Visual Arts (Media)/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,FOUNDATION LEVEL: HISTORY,,,,,,4,,,1
+10,FOUNDATION LEVEL: ART MAKING 1,,,,,,4,,,1
+1,VIS 11,VIS,11,,,,4,,,2
+2,VIS 84,VIS,84,,,,4,,,2
+3,VIS 70N,VIS,70N,,,,6,,,3
+4,VIS 22,VIS,22,,,,4,,,3
+11,FOUNDATION LEVEL: ART MAKING 2,,,,,,4,,,4
+5,VIS 174,VIS,174,3,,,4,,,4
+12,INTERMEDIATE LEVEL: ART MAKING 1,,,,,,4,,,5
+13,HISTORY & THEORY 1,,,,,,4,,,5
+14,INTERMEDIATE LEVEL: ART MAKING 2,,,,,,4,,,6
+15,HISTORY & THEORY 2,,,,,,4,,,6
+16,INTERMEDIATE LEVEL: ART MAKING 3,,,,,,4,,,7
+17,HISTORY & THEORY 3,,,,,,4,,,7
+18,INTERMEDIATE LEVEL: ART MAKING 4,,,,,,4,,,8
+19,INTERMEDIATE LEVEL: INTERDISCIPLINARY,,,,,,4,,,8
+20,ADVANCED LEVEL: ART MAKING 1,,,,,,4,,,9
+21,ADVANCED LEVEL: ART MAKING 2,,,,,,4,,,10
+22,ADVANCED LEVEL: ART MAKING 3,,,,,,4,,,11
+23,ADVANCED LEVEL: INTERDISCIPLINARY,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,DOC 1 / DEI,DOC,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+7,DOC 2,DOC,2,6,,,6,,,2
+25,GE 2,,,,,,4,,,2
+8,DOC 3,DOC,3,,,,6,,,3
+26,GE 3,,,,,,4,,,4
+27,GE 4,,,,,,4,,,4
+28,GE 5,,,,,,4,,,5
+29,GE 6,,,,,,4,,,5
+30,GE 7,,,,,,4,,,6
+31,GE 8,,,,,,4,,,6
+32,GE 9,,,,,,4,,,7
+33,ELECTIVE 1,,,,,,4,,,7
+34,UD GE 1,,,,,,4,,,8
+35,ELECTIVE 2,,,,,,2,,,8
+36,UD GE 2,,,,,,4,,,9
+37,ELECTIVE 3,,,,,,4,,,9
+38,ELECTIVE 4,,,,,,4,,,9
+39,ELECTIVE 5,,,,,,4,,,10
+40,ELECTIVE 6,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,12
+44,ELECTIVE 10,,,,,,4,,,12

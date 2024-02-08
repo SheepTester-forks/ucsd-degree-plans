@@ -1,0 +1,37 @@
+Curriculum,Environmental Systems (Earth Sciences)
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,03.0103
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,SIO 50,SIO,50,,,,6,,
+4,MATH 20B,MATH,20B,1,,,4,,
+5,CHEM 6B,CHEM,6B,2;1,,,4,,
+6,BILD 3,BILD,3,,,,4,,
+7,MATH 20C,MATH,20C,4,,,4,,
+8,CHEM 6C,CHEM,6C,5,,,4,,
+9,CHEM 7L,CHEM,7L,5,,,4,,
+10,ESYS 101,ESYS,101,,,,4,,
+11,PHYS 2A,PHYS,2A,1,,,4,,
+12,ESYS 102,ESYS,102,1;2;11,,,4,,
+13,ECON 1,ECON,1,,,,4,,
+14,PHYS 2B,PHYS,2B,11;4,,,4,,
+15,PHYS 2C,PHYS,2C,11;14;7,,,4,,
+16,ESYS 103,ESYS,103,4;4;4,,,4,,
+23,ESYS ELECTIVE 1,,,,,,4,,
+17,ECON 131,ECON,131,,,,4,,
+18,POLI 160AA,POLI,160AA,,,,4,,
+19,MATH 183,MATH,183,7,,,4,,
+20,SIO 102,SIO,102,3;2;5;8,,,4,,
+24,ESYS ELECTIVE 2,,,,,,4,,
+25,ESYS ELECTIVE 3,,,,,,4,,
+26,ESYS ELECTIVE 4,,,,,,4,,
+21,ESYS 190A 1,ESYS,190A,16,,,4,,
+27,ESYS ELECTIVE 5,,,,,,4,,
+28,ESYS 190A 2,ESYS,190A,16,,,4,,
+29,ESYS ELECTIVE 6,,,,,,4,,
+22,ESYS 190B,ESYS,190B,21,,,4,,
+30,ESYS ELECTIVE 7,,,,,,4,,

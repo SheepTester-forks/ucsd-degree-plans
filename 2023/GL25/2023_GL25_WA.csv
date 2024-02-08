@@ -1,0 +1,55 @@
+Curriculum,Global South Studies
+Degree Plan,Global South Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LD GSS 20 - 27 1,GSS,20,,,,4,,,1
+6,LD GSS 20 - 27 2,GSS,20,,,,4,,,2
+7,LD GSS 20 - 27 3,GSS,20,,,,4,,,3
+8,UD MAJOR - ELECTIVE 1,,,,,,4,,,4
+9,UD MAJOR - ELECTIVE 2,,,,,,4,,,5
+10,UD MAJOR - ELECTIVE 3,,,,,,4,,,6
+11,GE / DEI,,,,,,4,,,6
+12,UD MAJOR - ELECTIVE 4,,,,,,4,,,7
+13,UD MAJOR - ELECTIVE 5,,,,,,4,,,7
+14,UD MAJOR - ELECTIVE 6,,,,,,4,,,8
+15,UD MAJOR - ELECTIVE 7,,,,,,4,,,8
+16,UD MAJOR - ELECTIVE 8,,,,,,4,,,9
+17,UD MAJOR - ELECTIVE 9,,,,,,4,,,9
+18,UD MAJOR - ELECTIVE 10,,,,,,4,,,10
+19,UD MAJOR - ELECTIVE 11,,,,,,4,,,11
+20,UD MAJOR - ELECTIVE 12,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,WCWP 10A,WCWP,10A,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+3,WCWP 10B,WCWP,10B,2,,,4,,,2
+22,GE 2,,,,,,4,,,2
+23,GE 3,,,,,,4,,,2
+4,PHIL / POLI 27,POLI,27,2;3,,,4,,,3
+24,GE 4,,,,,,4,,,3
+25,GE 5,,,,,,4,,,3
+5,PHIL / POLI 28,POLI,28,4,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,GE 7,,,,,,4,,,4
+28,GE 8,,,,,,4,,,5
+29,GE 9,,,,,,4,,,5
+30,GE 10,,,,,,4,,,5
+31,GE 11,,,,,,4,,,6
+32,GE 12,,,,,,4,,,6
+33,UD MAJOR - ELECTIVE 13,,,,,,4,,,7
+34,GE 13,,,,,,4,,,7
+35,UD MAJOR - ELECTIVE 14,,,,,,4,,,8
+36,ELECTIVE 1,,,,,,4,,,8
+37,UD MAJOR - ELECTIVE 15,,,,,,4,,,9
+38,ELECTIVE 2,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,10
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12
+45,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,53 @@
+Curriculum,Linguistics
+Degree Plan,Linguistics/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2501
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+11,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+12,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+13,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+1,LIGN 101,LIGN,101,,,,4,,,4
+14,LIGN ELECTIVE 1,,,,,,4,,,5
+15,LIGN ELECTIVE 2,,,,,,4,,,6
+2,LIGN 110,LIGN,110,1,,,4,,,7
+16,LIGN ELECTIVE 3,,,,,,4,,,7
+3,LIGN 111,LIGN,111,2,,,4,,,8
+4,LIGN 120,LIGN,120,1,,,4,,,9
+17,LIGN ELECTIVE 4,,,,,,4,,,9
+18,LIGN ELECTIVE 5,,,,,,4,,,10
+5,LIGN 121,LIGN,121,1,,,4,,,11
+19,LIGN ELECTIVE / OTHER,,,,,,4,,,12
+6,LIGN 130,LIGN,130,1,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,DOC 1 / DEI,DOC,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+8,DOC 2,DOC,2,7,,,6,,,2
+22,GE 3,,,,,,4,,,2
+23,GE 4,,,,,,4,,,2
+9,DOC 3,DOC,3,,,,6,,,3
+24,GE 5,,,,,,4,,,3
+25,GE 6,,,,,,4,,,3
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
+28,GE 9,,,,,,4,,,5
+29,GE 10,,,,,,4,,,5
+30,ELECTIVE 1,,,,,,4,,,5
+31,ELECTIVE 2,,,,,,4,,,6
+32,ELECTIVE 3,,,,,,4,,,6
+33,UD GE 1,,,,,,4,,,7
+34,ELECTIVE 4,,,,,,4,,,7
+35,UD GE 2,,,,,,4,,,8
+36,ELECTIVE 5,,,,,,4,,,8
+37,ELECTIVE 6,,,,,,4,,,8
+38,ELECTIVE 7,,,,,,4,,,9
+39,UD ELECTIVE,,,,,,4,,,10
+40,ELECTIVE 8,,,,,,4,,,10
+41,ELECTIVE 9,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,12

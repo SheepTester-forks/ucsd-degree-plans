@@ -1,0 +1,57 @@
+Curriculum,Latin American Studies
+Degree Plan,Latin American Studies/ Warren
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0107
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+7,LTSP 2A,LTSP,2A,5;6,,,5,,,4
+8,LATI 50,LATI,50,,,,4,,,5
+11,LATI METHOD,,,,,,4,,,7
+12,LATI UD ELECTIVE 1,,,,,,4,,,7
+13,LATI CORE COURSE 1,,,,,,4,,,8
+14,LATI UD ELECTIVE 2,,,,,,4,,,8
+15,LATI CORE COURSE 2,,,,,,4,,,9
+9,LATI 180,LATI,180,,,,4,,,9
+16,LATI CORE COURSE 3,,,,,,4,,,10
+17,LATI UD ELECTIVE 3,,,,,,4,,,10
+10,LATI 190,LATI,190,,,,4,,,11
+18,LATI UD ELECTIVE 4,,,,,,4,,,11
+19,LATI UD ELECTIVE 5,,,,,,4,,,12
+20,LATI UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+23,ELECTIVE 1,,,,,,4,,,1
+24,GE 3,,,,,,4,,,2
+25,GE 4,,,,,,4,,,2
+26,ELECTIVE 2,,,,,,4,,,2
+27,GE 5,,,,,,4,,,3
+28,GE 6,,,,,,4,,,3
+29,ELECTIVE 3,,,,,,4,,,3
+30,GE 7,,,,,,4,,,4
+31,GE 8,,,,,,4,,,4
+32,ELECTIVE 4,,,,,,4,,,4
+33,ELECTIVE 5,,,,,,4,,,5
+34,GE 9,,,,,,4,,,5
+35,GE 10,,,,,,4,,,5
+36,ELECTIVE 6,,,,,,4,,,6
+37,GE / DEI,,,,,,4,,,6
+38,GE 11,,,,,,4,,,6
+39,ELECTIVE 7,,,,,,4,,,6
+40,GE 12,,,,,,4,,,7
+41,GE 13,,,,,,4,,,7
+42,GE 14,,,,,,4,,,8
+43,GE 15,,,,,,4,,,8
+44,GE 16,,,,,,4,,,9
+45,GE 17,,,,,,4,,,10
+46,ELECTIVE 8,,,,,,4,,,11
+47,ELECTIVE 9,,,,,,4,,,12

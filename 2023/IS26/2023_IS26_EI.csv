@@ -1,0 +1,51 @@
+Curriculum,International Studies-Economics
+Degree Plan,International Studies-Economics/ Eighth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,LANGUAGE 1,,,,,,5,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+14,LANGUAGE 2,,,,,,5,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+15,LANGUAGE 3,,,,,,5,,,3
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+16,LANGUAGE 4,,,,,,5,,,4
+4,ECON 1,ECON,1,,,,4,,,4
+6,INTL 101 / 102 1,INTL,101,,,,4,,,5
+5,ECON 2,ECON,2,4,,,4,,,5
+17,INTL 101 / 102 2,INTL,101,,,,4,,,6
+7,ECON 3,ECON,3,4,,,4,,,6
+18,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+19,DF1 - ECONOMICS,,,,,,4,,,8
+20,DF2 - ECONOMICS,,,,,,4,,,8
+21,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+22,DF3 - ECONOMICS,,,,,,4,,,9
+23,DF4 - ECONOMICS,,,,,,4,,,9
+24,IE2 - INTERDISC ELECTIVE (RR2),,,,,,4,,,9
+8,INTL 190,INTL,190,6,,,4,,,10
+25,DF5 - ECONOMICS,,,,,,4,,,10
+26,DF6 - ECONOMICS,,,,,,4,,,11
+27,DF7 - ECONOMICS,,,,,,4,,,11
+28,DF8 - ECONOMICS,,,,,,4,,,12
+29,IE3 - INTERDISC ELECTIVE (RR3),,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,DEI,,,,,,4,,,1
+9,CCE 1,CCE,1,,,,4,,,2
+31,BREADTH GE 1,,,,,,4,,,2
+32,BREADTH GE 2,,,,,,4,,,3
+33,ELECTIVE 1,,,,,,4,,,3
+10,CCE 2,CCE,2,,,,4,,,4
+34,ELECTIVE 2,,,,,,4,,,4
+35,BREADTH GE 3,,,,,,4,,,5
+36,BREADTH GE 4,,,,,,4,,,5
+11,CCE 3,CCE,3,,,,4,,,6
+37,ELECTIVE 3,,,,,,4,,,6
+38,BREADTH GE 5,,,,,,4,,,8
+12,CCE 120,CCE,120,,,,4,,,9
+39,BREADTH GE 6,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,11
+41,ELECTIVE 5,,,,,,4,,,12

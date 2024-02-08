@@ -1,0 +1,54 @@
+Curriculum,Political Science/International Affairs
+Degree Plan,Political Science/International Affairs/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 11D,POLI,11D,,,,4,,,1
+2,POLI 12D,POLI,12D,,,,4,,,2
+3,POLI 5D,POLI,5D,,,,4,,,2
+4,POLI 30D,POLI,30D,,,,4,,,3
+8,UD POLI 1,,,,,,4,,,4
+9,UD POLI - AMERICAN POLITICS 1,,,,,,4,,,4
+10,UD POLI - INTERNATIONAL POLITICAL ECONOMY 1,,,,,,4,,,5
+11,UD POLI - INTERNATIONAL RELATIONS / COMPARATIVE POLITICS 1,,,,,,4,,,5
+12,UD POLI - AMERICAN POLITICS 2,,,,,,4,,,6
+13,UD POLI - INTERNATIONAL RELATIONS / COMPARATIVE POLITICS 2,,,,,,4,,,6
+14,UD POLI 2,,,,,,4,,,7
+15,UD POLI - INTERNATIONAL POLITICAL ECONOMY 2,,,,,,4,,,7
+16,UD POLI 3,,,,,,4,,,8
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,DOC 1 / DEI,DOC,1,,,,4,,,1
+17,GE 1,,,,,,4,,,1
+18,GE 2,,,,,,4,,,1
+6,DOC 2,DOC,2,5,,,6,,,2
+19,GE 3,,,,,,4,,,2
+7,DOC 3,DOC,3,6,,,6,,,3
+20,GE 4,,,,,,4,,,3
+21,GE 5,,,,,,4,,,3
+22,GE 6,,,,,,4,,,4
+23,GE 7,,,,,,4,,,4
+24,GE 8,,,,,,4,,,5
+25,ELECTIVE 1,,,,,,4,,,5
+26,GE 9,,,,,,4,,,6
+27,ELECTIVE 2,,,,,,4,,,6
+28,UD GE 1,,,,,,4,,,7
+29,UD ELECTIVE 1,,,,,,4,,,7
+30,UD GE 2,,,,,,4,,,8
+31,UD ELECTIVE 2,,,,,,4,,,8
+32,ELECTIVE 3,,,,,,4,,,8
+33,UD ELECTIVE 3,,,,,,4,,,9
+34,UD ELECTIVE 4,,,,,,4,,,9
+35,ELECTIVE 4,,,,,,4,,,9
+36,ELECTIVE 5,,,,,,4,,,9
+37,ELECTIVE 6,,,,,,4,,,10
+38,ELECTIVE 7,,,,,,4,,,10
+39,ELECTIVE 8,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,11
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

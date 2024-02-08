@@ -1,0 +1,51 @@
+Curriculum,International Studies-Literature
+Degree Plan,International Studies-Literature/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,LANGUAGE 1,,,,,,5,,,1
+4,LANGUAGE 2,,,,,,5,,,2
+5,LANGUAGE 3,,,,,,5,,,3
+6,LANGUAGE 4,,,,,,5,,,4
+1,INTL 101 / 102 1,INTL,101,,,,4,,,5
+7,INTL 101 / 102 2,INTL,101,,,,4,,,6
+8,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+9,DF1 - LITERATURE,,,,,,4,,,8
+10,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+11,IE2 - INTERDISC ELECTIVE,,,,,,4,,,9
+12,DF2 - LITERATURE (RR2),,,,,,4,,,9
+13,DF3 - LITERATURE,,,,,,4,,,9
+14,DF5 - LITERATURE,,,,,,4,,,10
+15,DF4 - LITERATURE (RR3),,,,,,4,,,10
+16,IE3 - INTERDISC ELECTIVE,,,,,,4,,,10
+2,INTL 190,INTL,190,1,,,4,,,11
+17,DF6 - LITERATURE,,,,,,4,,,11
+18,DF7 - LITERATURE,,,,,,4,,,12
+19,DF8 - LITERATURE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,ELECTIVE 1,,,,,,4,,,1
+21,GE / WRITING 1,,,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,ELECTIVE 2,,,,,,4,,,2
+24,GE / WRITING 2,,,,,,4,,,2
+25,GE 2,,,,,,4,,,2
+26,DEI,,,,,,4,,,3
+27,ELECTIVE 3,,,,,,4,,,3
+28,GE 3,,,,,,4,,,3
+29,ELECTIVE 4,,,,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,GE 5,,,,,,4,,,4
+32,ELECTIVE 5,,,,,,4,,,5
+33,GE 6,,,,,,4,,,5
+34,GE 7,,,,,,4,,,5
+35,ELECTIVE 6,,,,,,4,,,6
+36,GE 8,,,,,,4,,,6
+37,GE 9,,,,,,4,,,6
+38,MUIR UDE,,,,,,4,,,8
+39,ELECTIVE 7,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,11
+41,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,40 @@
+Curriculum,Music
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MUSIC 2A,,,,,,4,,
+2,MUSIC 43 1,,,,,,1,,
+3,MUSIC 2AK,,,,,,2,,
+4,ENSEMBLE 1,,,,,,2,,
+5,MUSIC 2B,,,,,,4,,
+6,MUSIC 43 2,,,,,,1,,
+7,MUSIC 2BK,,,,,,2,,
+8,ENSEMBLE 2,,,,,,2,,
+9,MUSIC 2C,,,,,,4,,
+10,MUSIC 43 3,,,,,,1,,
+11,"MUSIC 2CK, / (JAZZ STUDENTS) 2JK",,,,,,2,,
+12,ENSEMBLE 3,,,,,,2,,
+13,MUSIC 120A,,,,,,4,,
+14,MUSIC 101A,,,,,,4,,
+15,MUSIC 43 4,,,,,,1,,
+16,MUSIC 120B,,,,,,4,,
+17,MUSIC 101B,,,,,,4,,
+18,MUSIC 43 5,,,,,,1,,
+19,MUSIC 101C,,,,,,4,,
+20,MUSIC 120C,,,,,,4,,
+21,MUSIC 43 6,,,,,,1,,
+22,MUSIC UD ELECTIVE 1,,,,,,4,,
+23,MUSIC 43 7,,,,,,1,,
+24,MUSIC UD ELECTIVE 2,,,,,,4,,
+25,MUSIC 43 8,,,,,,1,,
+26,MUSIC UD ELECTIVE 3,,,,,,4,,
+27,MUSIC 43 9,,,,,,1,,
+28,MUSIC EMPHASIS COURSE 1,,,,,,4,,
+29,MUSIC 43 10,,,,,,1,,
+30,MUSIC EMPHASIS COURSE 2,,,,,,4,,
+31,MUSIC 43 11,,,,,,1,,
+32,MUSIC EMPHASIS COURSE 3,,,,,,4,,
+33,MUSIC 43 12,,,,,,1,,

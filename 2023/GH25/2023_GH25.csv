@@ -1,0 +1,24 @@
+Curriculum,Global Health
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,51.2210
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,LD INTRO COURSE (EG GLBH 20),GLBH,20,,,,4,,
+4,STATISTICS COURSE,,,,,,4,,
+2,LD INTRO COURSE (EG SOCI 30),SOCI,30,,,,4,,
+5,UD GH CORE COURSE 1,,,,,,4,,
+3,UD GH CORE COURSE (EG GLBH 148),GLBH,148,,,,4,,
+6,UD GLOBAL HEALTH ELECTIVE 1,,,,,,4,,
+7,UD GLOBAL HEALTH ELECTIVE 2,,,,,,4,,
+8,UD GH CORE COURSE 2,,,,,,4,,
+9,UD GH CORE COURSE 3,,,,,,4,,
+10,UD GLOBAL HEALTH ELECTIVE 3,,,,,,4,,
+11,UD GLOBAL HEALTH ELECTIVE 4,,,,,,4,,
+12,UD GLOBAL HEALTH ELECTIVE 5,,,,,,4,,
+13,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,
+14,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,
+15,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,
+16,UD GLOBAL HEALTH ELECTIVE 9,,,,,,4,,
+17,UD GLOBAL HEALTH ELECTIVE 10,,,,,,4,,

@@ -1,0 +1,50 @@
+Curriculum,International Studies - Philosophy
+Degree Plan,International Studies - Philosophy/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LANGUAGE 1,,,,,,5,,,1
+12,LANGUAGE 2,,,,,,5,,,2
+13,LANGUAGE 3,,,,,,5,,,3
+2,INTL 101 / 102 1,INTL,101,5,,,4,,,4
+1,PHIL 10 (MATH GE),PHIL,10,,,,4,,,4
+14,LANGUAGE 4,,,,,,5,,,4
+15,INTL 101 / 102 2,INTL,101,5,,,4,,,5
+16,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+17,DF - 1 - PHILOSOPHY,,,,,,4,,,8
+18,DF - 2 - PHILOSOPHY,,,,,,4,,,8
+19,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,8
+20,DF - 3 - PHILOSOPHY,,,,,,4,,,9
+21,DF - 4 - PHILOSOPHY,,,,,,4,,,9
+22,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,9
+23,DF - 5 - PHILOSOPHY,,,,,,4,,,10
+3,INTL 190,INTL,190,2,,,4,,,10
+24,DF - 6 - PHILOSOPHY,,,,,,4,,,11
+25,DF - 7 - PHILOSOPHY,,,,,,4,,,11
+26,DF - 8 - PHILOSOPHY,,,,,,4,,,12
+27,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MATH 10A / 20A,MATH,10A,,,,4,,,1
+28,FINE ARTS GE,,,,,,4,,,1
+5,HUM 1,HUM,1,,,,6,,,2
+6,MATH 10B / 20B,MATH,10B,4,,,4,,,2
+7,HUM 2,HUM,2,,,,6,,,3
+29,DEI,,,,,,4,,,3
+8,HUM 3,HUM,3,5,,,4,,,4
+9,HUM 4,HUM,4,,,,4,,,5
+30,SOCIAL SCIENCE GE 1,,,,,,4,,,5
+31,PHYSICS GE,,,,,,4,,,5
+10,HUM 5,HUM,5,,,,4,,,6
+32,ELECTIVE 1,,,,,,4,,,6
+33,SOCIAL SCIENCE GE 2,,,,,,4,,,6
+34,BIOLOGY GE,,,,,,4,,,6
+35,NATURAL SCIENCE GE 1,,,,,,4,,,8
+36,NATURAL SCIENCE GE 2,,,,,,4,,,9
+37,UD ELECTIVE,,,,,,4,,,10
+38,CHEMISTRY GE,,,,,,4,,,10
+39,ELECTIVE 2,,,,,,4,,,11
+40,AHI / ELECTIVE,,,,,,4,,,12

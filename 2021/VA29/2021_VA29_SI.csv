@@ -1,0 +1,54 @@
+Curriculum,Interdisciplinary Computing and the Arts
+Degree Plan,Interdisciplinary Computing and the Arts/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,FOUNDATION ART MAKING,,,,,,4,,,1
+1,VIS 41,VIS,41,,,,4,,,1
+15,FOUNDATION MATH,,,,,,4,,,2
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 10,VIS,10,,,,4,,,3
+4,VIS 70N,VIS,70N,,,,6,,,3
+16,FOUNDATION CSE,,,,,,4,,,4
+17,FOUNDATION INTERDISCIPLINARY,,,,,,4,,,4
+18,HISTORY & THEORY,,,,,,4,,,5
+5,VIS 159,VIS,159,,,,4,,,6
+6,VIS 142,VIS,142,,,,4,,,7
+19,INTERMEDIATE ART MAKING,,,,,,4,,,7
+20,INTERMEDIATE COMPUTING 1,,,,,,4,,,8
+7,VIS 145A,VIS,145A,6,,,4,,,8
+21,ADVANCED COMPUTING,,,,,,4,,,9
+22,INTERMEDIATE COMPUTING 2,,,,,,4,,,9
+23,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,10
+24,ADVANCED INTERDISCIPLINARY / SIXTH PRACTICUM,,,,,,4,,,11
+8,VIS 160A,VIS,160A,7,,,4,,,11
+9,VIS 160B,VIS,160B,8,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,CAT 1,CAT,1,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+11,CAT 2,CAT,2,10,,,6,,,2
+12,CAT 3,CAT,3,11,,,6,,,3
+26,GE 2,,,,,,4,,,4
+27,GE / DEI,,,,,,4,,,4
+28,GE 3,,,,,,4,,,5
+29,ELECTIVE 1,,,,,,4,,,5
+30,ELECTIVE 2,,,,,,2,,,5
+31,GE 4,,,,,,4,,,6
+32,ELECTIVE 3,,,,,,4,,,6
+33,ELECTIVE 4,,,,,,4,,,7
+34,ELECTIVE 5,,,,,,4,,,7
+35,UD ELECTIVE 1,,,,,,4,,,8
+36,ELECTIVE 6,,,,,,4,,,8
+13,CAT 125,CAT,125,,,,4,,,9
+37,ELECTIVE 7,,,,,,4,,,9
+38,UD ELECTIVE 2,,,,,,4,,,10
+39,ELECTIVE 8,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

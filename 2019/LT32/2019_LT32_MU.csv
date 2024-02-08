@@ -1,0 +1,54 @@
+Curriculum,Russian Literature
+Degree Plan,Russian Literature/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,16.0402
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTRU 1A,LTRU,1A,,,,5,,,1
+2,LTRU 1B,LTRU,1B,,,,5,,,2
+3,LTRU 1C,LTRU,1C,,,,5,,,3
+4,LTRU 2A,LTRU,2A,3,,,5,,,4
+12,LD LTEN,,,,,,4,,,4
+5,LTRU 2B,LTRU,2B,4,,,5,,,5
+6,LTRU 104A,LTRU,104A,5,,,4,,,6
+7,LTRU 104B,LTRU,104B,6,,,4,,,7
+8,LTRU 104C,LTRU,104C,6,,,4,,,8
+13,UD LTRU 1,,,,,,4,,,8
+14,UD LTRU 2,,,,,,4,,,9
+9,LTRU 110C,LTRU,110C,,,,4,,,9
+15,UD LTRU 3,,,,,,4,,,10
+10,LTRU 110A,LTRU,110A,,,,4,,,10
+16,UD LTRU 4,,,,,,4,,,11
+11,LTRU 110B,LTRU,110B,,,,4,,,11
+17,UD LTRU 5,,,,,,4,,,12
+18,UD LTRU 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+21,GE / WRITING 1,,,,,,4,,,1
+22,GE 3,,,,,,4,,,2
+23,GE 4,,,,,,4,,,2
+24,GE / WRITING 2,,,,,,4,,,2
+25,GE 5,,,,,,4,,,3
+26,DEI,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,ELECTIVE 1,,,,,,4,,,4
+29,GE 7,,,,,,4,,,4
+30,ELECTIVE 2,,,,,,4,,,5
+31,GE 8,,,,,,4,,,5
+32,ELECTIVE 3,,,,,,4,,,5
+33,ELECTIVE 4,,,,,,4,,,6
+34,GE 9,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,6
+36,MUIR UD ELECTIVE 1,,,,,,4,,,7
+37,ELECTIVE 6,,,,,,4,,,7
+38,ELECTIVE 7,,,,,,3,,,8
+39,MUIR UD ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,9
+41,MUIR UD ELECTIVE 3,,,,,,4,,,9
+42,ELECTIVE 9,,,,,,4,,,10
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Visual Arts (Media)
+Degree Plan,Visual Arts (Media)/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,50.0101
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,FOUNDATION ART MAKING 1,,,,,,4,,,1
+1,VIS 60,VIS,60,,,,4,,,1
+8,FOUNDATION MEDIA STUDIES 1,,,,,,4,,,2
+9,FOUNDATION ART MAKING 2,,,,,,4,,,2
+2,VIS 70N,VIS,70N,,,,6,,,3
+10,FOUNDATION HISTORY,,,,,,4,,,3
+3,VIS 174,VIS,174,2,,,4,,,4
+11,FOUNDATION MEDIA STUDIES 2,,,,,,4,,,4
+12,UD INTERMEDIATE MEDIA STUDIES 1,,,,,,4,,,5
+4,VIS 164,VIS,164,1,,,4,,,5
+13,UD INTERMEDIATE MEDIA PRACTICE 1,,,,,,4,,,6
+14,UD INTERMEDIATE MEDIA STUDIES 2,,,,,,4,,,6
+15,UD INTERMEDIATE MEDIA PRACTICE 2,,,,,,4,,,7
+16,UD INTERMEDIATE MEDIA STUDIES 3,,,,,,4,,,7
+17,UD INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,8
+18,UD ADVANCED MEDIA PRACTICE 1,,,,,,4,,,8
+19,UD ADVANCED MEDIA PRACTICE 2,,,,,,4,,,9
+20,UD SENIOR MEDIA PRACTICE 1,,,,,,4,,,10
+21,UD SENIOR MEDIA PRACTICE 2,,,,,,4,,,11
+22,UD SENIOR INTERDISCIPLINARY,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MCWP 40 / GE,MCWP,40,,,,4,,,1
+6,MCWP 50 / GE,MCWP,50,5,,,4,,,2
+23,GE 1,,,,,,4,,,2
+24,GE 2,,,,,,4,,,3
+25,GE 3,,,,,,4,,,3
+26,GE 4,,,,,,4,,,4
+27,GE 5,,,,,,4,,,4
+28,GE 6,,,,,,4,,,5
+29,GE 7,,,,,,4,,,5
+30,DEI,,,,,,4,,,6
+31,GE 8,,,,,,4,,,6
+32,GE 9,,,,,,4,,,7
+33,ELECTIVE 1,,,,,,4,,,7
+34,MUIR UD ELECTIVE 1,,,,,,4,,,8
+35,ELECTIVE 2,,,,,,4,,,8
+36,MUIR UD ELECTIVE 2,,,,,,4,,,9
+37,ELECTIVE 3,,,,,,2,,,9
+38,ELECTIVE 4,,,,,,4,,,9
+39,ELECTIVE 5,,,,,,4,,,10
+40,ELECTIVE 6,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,10
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12
+45,ELECTIVE 11,,,,,,4,,,12

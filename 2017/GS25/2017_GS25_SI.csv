@@ -1,0 +1,56 @@
+Curriculum,German Studies
+Degree Plan,German Studies/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,05.0125
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LIGM 1AX,LIGM,1AX,,,,2.5,,,1
+2,LIGM 1A,LIGM,1A,,,,2.5,,,1
+3,LIGM 1B,LIGM,1B,2;1,,,2.5,,,2
+4,LIGM 1BX,LIGM,1BX,2;1,,,2.5,,,2
+5,LIGM 1C,LIGM,1C,3;4,,,2.5,,,3
+6,LIGM 1CX,LIGM,1CX,3;4,,,2.5,,,3
+7,LTGM 2A,LTGM,2A,5;6,,,5,,,4
+16,GE / DEI,,,,,,4,,,4
+8,LTGM 2B,LTGM,2B,7,,,5,,,5
+9,LTGM 2C,LTGM,2C,8,,,4,,,6
+17,GS UD ELECTIVE 1,,,,,,4,,,7
+10,LTGM 100,LTGM,100,,,,4,,,7
+11,LTGM 101,LTGM,101,,,,4,,,8
+18,GS UD ELECTIVE 2,,,,,,4,,,8
+19,HISTORY ELECTIVE 1,,,,,,4,,,9
+20,GS UD ELECTIVE 3,,,,,,4,,,9
+21,LTGM ELECTIVE 1,,,,,,4,,,10
+22,GS UD ELECTIVE 4,,,,,,4,,,10
+23,LTGM ELECTIVE 2,,,,,,4,,,11
+24,GS UD ELECTIVE 5,,,,,,4,,,11
+25,HISTORY ELECTIVE 2,,,,,,4,,,12
+26,LTGM ELECTIVE 3,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,CAT 1,CAT,1,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+13,CAT 2,CAT,2,12,,,6,,,2
+28,GE 2,,,,,,4,,,2
+14,CAT 3,CAT,3,13,,,6,,,3
+29,GE 3,,,,,,4,,,3
+30,ELECTIVE 1,,,,,,4,,,4
+31,GE 4,,,,,,4,,,4
+32,GE 5,,,,,,4,,,5
+33,GE 6,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,5
+35,ELECTIVE 3,,,,,,3,,,6
+36,GE 7,,,,,,4,,,6
+37,GE 8,,,,,,4,,,6
+38,UD ELECTIVE,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,7
+15,CAT 125 / PRACTICUM 1,CAT,125,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,CAT 125 / PRACTICUM 2,CAT,125,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,9
+43,ELECTIVE 7,,,,,,4,,,10
+44,ELECTIVE 8,,,,,,4,,,10
+45,ELECTIVE 9,,,,,,4,,,11
+46,ELECTIVE 10,,,,,,4,,,12

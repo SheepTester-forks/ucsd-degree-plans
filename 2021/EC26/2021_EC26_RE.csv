@@ -1,0 +1,61 @@
+Curriculum,Computer Engineering
+Degree Plan,Computer Engineering/ Revelle
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,14.0901
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+35,CSE LD ELECTIVE,,,,,,2,,,1
+2,CSE 11,CSE,11,,,,4,,,1
+3,MATH 18,MATH,18,,,,4,,,2
+4,CSE 15L,CSE,15L,2,,,2,,,2
+5,CSE 12,CSE,12,2,,,4,,,2
+6,MATH 20B,MATH,20B,1,,,4,,,3
+7,PHYS 2A,PHYS,2A,1;1,,,4,,,3
+8,CSE 20,CSE,20,2,,,4,,,3
+9,CSE 21,CSE,21,8,,,4,,,4
+10,ECE 35,ECE,35,3;1;6;7,,,4,,,4
+11,PHYS 2B,PHYS,2B,7;6,,,4,,,4
+12,MATH 20C,MATH,20C,6,,,4,,,4
+13,CSE 30,CSE,30,5;4,,,4,,,5
+14,ECE 45,ECE,45,10,,,4,,,5
+15,PHYS 2C,PHYS,2C,7;12,,,4,,,5
+16,MATH 20D,MATH,20D,12,,,4,,,5
+17,CSE 100,CSE,100,9;5;4;13,,,4,,,6
+18,ECE 109,ECE,109,1;6;12;16;3,,,4,,,6
+19,ECE 65,ECE,65,10,,,4,,,6
+20,CSE 110,CSE,110,17,,,4,,,7
+36,CSE / ECE ELECTIVE 1,,,,,,4,,,7
+21,CSE 101,CSE,101,9;5,,,4,,,7
+22,ECE 101,ECE,101,14,,,4,,,8
+23,CSE 140,CSE,140,8;13,,,4,,,8
+24,CSE 140L,CSE,140L,8;13,,,2,,,8
+25,CSE 141L,CSE,141L,13;23;24,,,2,,,9
+26,CSE 141,CSE,141,13;23;24,,,4,,,9
+27,ECE 108 (REPLACE WITH A CSE / ECE ELECTIVE),ECE,108,23;13;14;19,,,4,,,9
+28,ECE 111,ECE,111,23,,,4,,,9
+37,CSE / ECE ELECTIVE 2,,,,,,4,,,10
+29,CSE 120,CSE,120,13;21;20,,,4,,,10
+38,CSE / ECE ELECTIVE 3,,,,,,4,,,11
+39,CSE / ECE ELECTIVE 4,,,,,,4,,,11
+40,CSE / ECE ELECTIVE 5,,,,,,4,,,12
+41,CSE TECHNICAL ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+42,CHEMISTRY GE,,,,,,4,,,1
+30,HUM 1,HUM,1,,,,6,,,2
+31,HUM 2,HUM,2,,,,6,,,3
+32,HUM 3,HUM,3,30,,,4,,,4
+33,HUM 4,HUM,4,,,,4,,,5
+34,HUM 5,HUM,5,,,,4,,,6
+43,LANGUAGE 1,,,,,,5,,,7
+44,LANGUAGE 2,,,,,,5,,,8
+45,LANGUAGE 3,,,,,,5,,,9
+46,SOCIAL SCIENCE / DEI,,,,,,4,,,10
+47,LANGUAGE 4,,,,,,5,,,10
+48,SOCIAL SCIENCE,,,,,,4,,,11
+49,BIOLOGY GE,,,,,,4,,,11
+50,FINE ARTS,,,,,,4,,,12
+51,AHI,,,,,,4,,,12

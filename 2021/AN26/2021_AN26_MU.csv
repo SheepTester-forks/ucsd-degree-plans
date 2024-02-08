@@ -1,0 +1,55 @@
+Curriculum,Anthropology (Concentration in Biological Anthropology)
+Degree Plan,Anthropology (Concentration in Biological Anthropology)/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,45.0299
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ANTH 101,ANTH,101,,,,4,,,7
+6,ANBI CORE 1,,,,,,4,,,7
+2,ANTH 102,ANTH,102,,,,4,,,8
+7,ANBI CORE 2,,,,,,4,,,8
+3,ANTH 103,ANTH,103,,,,4,,,9
+8,ANBI CORE 3,,,,,,4,,,9
+9,ANBI CORE 4,,,,,,4,,,10
+10,ANTH UD ELECTIVE 1,,,,,,4,,,10
+11,ANTH UD ELECTIVE 2,,,,,,4,,,11
+12,ANTH UD ELECTIVE 3,,,,,,4,,,11
+13,ANTH UD ELECTIVE 4,,,,,,4,,,12
+14,ANTH UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,ELECTIVE 1,,,,,,4,,,1
+4,MCWP 40 / GE,MCWP,40,,,,4,,,1
+16,GE 1,,,,,,4,,,1
+17,GE 2,,,,,,4,,,1
+18,ELECTIVE 2,,,,,,4,,,2
+5,MCWP 50 / GE,MCWP,50,4,,,4,,,2
+19,GE 3,,,,,,4,,,2
+20,GE 4,,,,,,4,,,2
+21,ELECTIVE 3,,,,,,4,,,3
+22,DEI,,,,,,4,,,3
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,ELECTIVE 4,,,,,,4,,,4
+26,ELECTIVE 5,,,,,,4,,,4
+27,GE 7,,,,,,4,,,4
+28,GE 8,,,,,,4,,,4
+29,ELECTIVE 6,,,,,,4,,,5
+30,ELECTIVE 7,,,,,,4,,,5
+31,GE 9,,,,,,4,,,5
+32,GE 10,,,,,,4,,,5
+33,ELECTIVE 8,,,,,,4,,,6
+34,ELECTIVE 9,,,,,,4,,,6
+35,GE 11,,,,,,4,,,6
+36,GE 12,,,,,,4,,,6
+37,ELECTIVE 10,,,,,,4,,,7
+38,MUIR UD ELECTIVE 1,,,,,,4,,,7
+39,ELECTIVE 11,,,,,,4,,,8
+40,MUIR UD ELECTIVE 2,,,,,,4,,,8
+41,ELECTIVE 12,,,,,,4,,,9
+42,MUIR UD ELECTIVE 3,,,,,,4,,,9
+43,ELECTIVE 13,,,,,,4,,,10
+44,ELECTIVE 14,,,,,,4,,,11
+45,ELECTIVE 15,,,,,,4,,,12

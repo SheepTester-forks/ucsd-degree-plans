@@ -1,0 +1,53 @@
+Curriculum,Literature/Writing
+Degree Plan,Literature/Writing/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LD LIT LANG 1,,,,,,5,,,1
+8,LD LTEN / TWS 1,,,,,,4,,,1
+9,LD LIT LANG 2,,,,,,5,,,2
+10,LD LTEN / TWS 2,,,,,,4,,,2
+1,LTEN 26,LTEN,26,,,,4,,,3
+11,LD LIT LANG 3,,,,,,5,,,3
+2,LTWR 8A / LTWR 8B / LTWR 8C 1,LTWR,8A,5;6,,,4,,,4
+12,LD LIT LANG 4,,,,,,5,,,4
+13,LD LIT LANG 5,,,,,,5,,,5
+14,LTWR 8A / LTWR 8B / LTWR 8C 2,LTWR,8A,5;6,,,4,,,5
+15,LTWR 8A / LTWR 8B / LTWR 8C 3,LTWR,8A,5;6,,,4,,,6
+16,LD LIT LANG 6,,,,,,5,,,6
+17,UD LIT ELECTIVE 1,,,,,,4,,,7
+18,UD LIT LANG,,,,,,4,,,7
+19,UD LIT ELECTIVE 2,,,,,,4,,,8
+20,UD LTWR 1,,,,,,4,,,8
+21,UD LIT ELECTIVE 3,,,,,,4,,,9
+22,UD LTWR 2,,,,,,4,,,9
+3,LTWR 14X,LTWR,14X,,,,4,,,10
+23,UD LTWR 3,,,,,,4,,,10
+24,UD LTWR 4,,,,,,4,,,11
+25,UD LTWR 5,,,,,,4,,,11
+26,UD LTWR 6,,,,,,4,,,12
+27,UD LIT ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,DOC 1 / DEI,DOC,1,,,,4,,,1
+28,GE 1,,,,,,4,,,1
+5,DOC 2,DOC,2,4,,,6,,,2
+29,GE 2,,,,,,4,,,2
+6,DOC 3,DOC,3,,,,6,,,3
+30,GE 3,,,,,,4,,,3
+31,GE 4,,,,,,4,,,4
+32,GE 5,,,,,,4,,,4
+33,GE 6,,,,,,4,,,5
+34,ELECTIVE 1,,,,,,4,,,5
+35,GE 7,,,,,,4,,,6
+36,ELECTIVE 2,,,,,,2,,,6
+37,UD COLLEGE ELECTIVE,,,,,,4,,,7
+38,GE 8,,,,,,4,,,7
+39,GE 9,,,,,,4,,,8
+40,GE 10,,,,,,4,,,9
+41,UD GE 1,,,,,,4,,,10
+42,UD GE 2,,,,,,4,,,11
+43,ELECTIVE 3,,,,,,4,,,12

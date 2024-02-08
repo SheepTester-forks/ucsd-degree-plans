@@ -1,0 +1,54 @@
+Curriculum,Literature/Cultural Studies
+Degree Plan,Literature/Cultural Studies/ Muir
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD LIT LANG 1,,,,,,5,,,1
+6,LD LIT LANG 2,,,,,,5,,,2
+7,LD LIT LANG 3,,,,,,5,,,3
+8,LD LIT LANG 4,,,,,,5,,,4
+1,LTCS 50,LTCS,50,,,,4,,,4
+9,LD LIT LANG 5,,,,,,5,,,5
+2,LTCS 52,LTCS,52,,,,4,,,5
+10,LD LIT LANG 6,,,,,,5,,,6
+11,LD LIT ELECTIVE,,,,,,4,,,6
+12,"UD LTCS (A, B, C, / D)",,,,,,4,,,7
+13,"UD LTCS (A, B, C / D) 1",,,,,,4,,,7
+14,"UD LTCS (A, B, C / D) 2",,,,,,4,,,8
+15,UD LITERATURE ELECTIVE 1,,,,,,4,,,8
+16,"UD LTCS (A, B, C / D) 3",,,,,,4,,,9
+17,UD LITERATURE ELECTIVE 2,,,,,,4,,,9
+18,UD LTCS 1,,,,,,4,,,10
+19,UD LITERATURE ELECTIVE 3,,,,,,4,,,10
+20,UD LITERATURE ELECTIVE 4,,,,,,4,,,11
+21,UD LTCS 2,,,,,,4,,,11
+22,UD LITERATURE ELECTIVE 5,,,,,,4,,,12
+23,UD LITERATURE ELECTIVE 6,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,GE 1,,,,,,4,,,1
+3,GE / MCWP 40,MCWP,40,,,,4,,,1
+25,GE 2,,,,,,4,,,2
+4,GE / MCWP 50,MCWP,50,3,,,4,,,2
+26,GE 3,,,,,,4,,,3
+27,GE 4,,,,,,4,,,3
+28,DEI,,,,,,4,,,3
+29,ELECTIVE 1,,,,,,2,,,4
+30,GE 5,,,,,,4,,,4
+31,GE 6,,,,,,4,,,4
+32,GE 7,,,,,,4,,,5
+33,GE 8,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,6
+35,GE 9,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,7
+37,MUIR UD ELECTIVE 1,,,,,,4,,,7
+38,ELECTIVE 4,,,,,,4,,,8
+39,MUIR UD ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,9
+41,MUIR UD ELECTIVE 3,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

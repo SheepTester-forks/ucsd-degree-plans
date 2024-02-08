@@ -1,0 +1,53 @@
+Curriculum,Literature/Composite Major
+Degree Plan,Literature/Composite Major/ ERC
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,23.9999
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LD LANG 1,,,,,,5,,,1
+9,LD LIT 1,,,,,,4,,,1
+10,LD LANG 2,,,,,,5,,,2
+11,LD LIT 2,,,,,,4,,,2
+12,LD LANG 3,,,,,,5,,,3
+13,LD LIT 3,,,,,,4,,,3
+14,LD LIT LANG 1,,,,,,5,,,4
+15,LD LIT 4,,,,,,4,,,4
+16,LD LIT LANG 2,,,,,,5,,,5
+17,LD LIT 5,,,,,,4,,,5
+18,LD LIT LANG 3,,,,,,5,,,6
+19,LD LIT 6,,,,,,4,,,6
+1,UD LIT 1 1,LIT,1,,,,4,,,7
+20,UD LIT 1 2,LIT,1,,,,4,,,7
+21,UD LIT 1 3,LIT,1,,,,4,,,8
+22,UD LIT 1 4,LIT,1,,,,4,,,8
+2,UD LIT 2 1,LIT,2,,,,4,,,9
+23,UD LIT 2 2,LIT,2,,,,4,,,9
+24,UD LIT 1 5,LIT,1,,,,4,,,9
+25,UD LIT 1 6,LIT,1,,,,4,,,10
+26,UD LIT 2 3,LIT,2,,,,4,,,10
+27,UD LIT 2 4,LIT,2,,,,4,,,10
+28,UD LIT 1 7,LIT,1,,,,4,,,11
+29,UD LIT 2 5,LIT,2,,,,4,,,11
+30,UD LIT 2 6,LIT,2,,,,4,,,11
+31,UD LIT 1 8,LIT,1,,,,4,,,12
+32,UD LIT 2 7,LIT,2,,,,4,,,12
+33,UD LIT 2 8,LIT,2,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MMW 11,MMW,11,,,,4,,,1
+34,GE 1,,,,,,4,,,1
+4,MMW 12,MMW,12,,,,6,,,2
+5,MMW 13,MMW,13,,,,6,,,3
+6,MMW 14 / GE 1,MMW,14,4,,,4,,,4
+35,LD LIT 7,,,,,,4,,,4
+36,MMW 14 / GE 2,MMW,14,4,,,4,,,5
+37,GE / DEI,,,,,,4,,,5
+7,MMW 15,MMW,15,4,,,4,,,6
+38,GE 2,,,,,,4,,,6
+39,GE 3,,,,,,4,,,7
+40,GE 4,,,,,,2,,,7
+41,GE 5,,,,,,4,,,8
+42,GE 6,,,,,,4,,,8
+43,GE 7,,,,,,4,,,9

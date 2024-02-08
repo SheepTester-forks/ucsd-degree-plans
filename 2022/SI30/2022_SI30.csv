@@ -1,0 +1,35 @@
+Curriculum,Oceanic and Atmospheric Sciences
+Institution,"University of California, San Diego"
+Degree Type,BS
+System Type,Quarter
+CIP,40.0499
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
+1,MATH 20A,MATH,20A,,,,4,,
+2,CHEM 6A,CHEM,6A,,,,4,,
+3,MATH 20B,MATH,20B,1,,,4,,
+4,CHEM 6B,CHEM,6B,2;1,,,4,,
+5,PHYS 2A,PHYS,2A,1;1,,,4,,
+6,PHYS 2B,PHYS,2B,5;3,,,4,,
+7,MATH 20C,MATH,20C,3,,,4,,
+8,CHEM 6C,CHEM,6C,4,,,4,,
+9,PHYS 2BL,PHYS,2BL,5,,,2,,
+10,SIO 60,SIO,60,,,,4,,
+11,PHYS 2CL,PHYS,2CL,5;6,,,2,,
+12,PHYS 2C,PHYS,2C,5;7,,,4,,
+13,MATH 20D,MATH,20D,7,,,4,,
+14,MATH 20E,MATH,20E,7,,,4,,
+15,SIO 172,SIO,172,7;12,,,4,,
+16,CHEM 7L,CHEM,7L,4,,,4,,
+17,MATH 18,MATH,18,,,,4,,
+18,SIO 174,SIO,174,8;7,,,4,,
+19,SIO 171,SIO,171,7;12,,,4,,
+20,UD MAJOR ELECTIVE 1,,,,,,4,,
+21,UD MAJOR ELECTIVE 2,,,,,,4,,
+22,UD MAJOR ELECTIVE 3,,,,,,4,,
+23,UD MAJOR ELECTIVE 4,,,,,,4,,
+24,UD MAJOR ELECTIVE 5,,,,,,4,,
+25,UD MAJOR ELECTIVE 6,,,,,,4,,
+26,UD MAJOR ELECTIVE 7,,,,,,4,,
+27,UD MAJOR ELECTIVE 8,,,,,,4,,
+28,UD MAJOR ELECTIVE 9,,,,,,4,,

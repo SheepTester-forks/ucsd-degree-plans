@@ -1,0 +1,54 @@
+Curriculum,Electrical Engineering & Society
+Degree Plan,Electrical Engineering & Society/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,14.1001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,ECE 15,ECE,15,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+4,CHEM 6A,CHEM,6A,,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+5,ECE 25,ECE,25,,,,4,,,2
+7,PHYS 2A,PHYS,2A,1;1,,,4,,,3
+8,ECE 30,ECE,30,2;5,,,4,,,3
+6,MATH 20B,MATH,20B,1,,,4,,,3
+9,MATH 20C,MATH,20C,6,,,4,,,4
+10,PHYS 2B,PHYS,2B,7;6,,,4,,,4
+11,ECE 35,ECE,35,3;1;6;7,,,4,,,4
+12,MATH 20D,MATH,20D,9,,,4,,,5
+13,PHYS 2C,PHYS,2C,7;9,,,4,,,5
+14,ECE 45,ECE,45,11,,,4,,,5
+28,S / H ELECTIVE 1,,,,,,4,,,5
+16,MATH 20E,MATH,20E,3;9,,,4,,,6
+17,PHYS 2D,PHYS,2D,7;10;12,,,4,,,6
+15,ECE 65,ECE,65,11,,,4,,,6
+29,S / H ELECTIVE 2,,,,,,4,,,6
+18,ECE 101 1,ECE,101,14,,,4,,,7
+19,ECE 103,ECE,103,15;17;17,,,4,,,7
+20,ECE 100,ECE,100,14;15,,,4,,,7
+21,ECE 102,ECE,102,15;20,,,4,,,8
+22,ECE 107,ECE,107,7;10;13;14,,,4,,,8
+23,ECE 109,ECE,109,1;6;9;12;3,,,4,,,8
+30,DEPTH 1,,,,,,4,,,9
+31,TECHNICAL ELECTIVE 1,,,,,,4,,,9
+32,DEPTH 2,,,,,,4,,,9
+33,TECHNICAL ELECTIVE 2,,,,,,4,,,10
+34,DEPTH 4,,,,,,4,,,10
+35,DEPTH 3,,,,,,4,,,10
+36,ENGINEERING DESIGN,,,,,,4,,,11
+37,DEPTH 5,,,,,,4,,,11
+38,TECHNICAL ELECTIVE 3,,,,,,4,,,11
+39,DEPTH 6,,,,,,4,,,12
+40,TECHNICAL ELECTIVE 4,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+24,CAT 1,CAT,1,,,,4,,,1
+25,CAT 2,CAT,2,24,,,6,,,2
+26,CAT 3,CAT,3,25,,,6,,,3
+41,GE / DEI,,,,,,4,,,4
+42,GE 1,,,,,,4,,,7
+43,ECE 101 2,ECE,101,14,,,4,,,8
+27,CAT 125,CAT,125,,,,4,,,9
+44,GE 2,,,,,,4,,,12

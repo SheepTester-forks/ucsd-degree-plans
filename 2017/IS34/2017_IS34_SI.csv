@@ -1,0 +1,50 @@
+Curriculum,International Studies - International Business
+Degree Plan,International Studies - International Business/ Sixth
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,30.2001
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,LANGUAGE 1,,,,,,5,,,1
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+18,LANGUAGE 2,,,,,,5,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+19,LANGUAGE 3,,,,,,5,,,3
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+20,LANGUAGE 4,,,,,,5,,,4
+4,ECON / MGT 4,MGT,4,,,,4,,,4
+5,INTL 101 / 102 1,INTL,101,13,,,4,,,5
+6,MGT 5,MGT,5,,,,4,,,5
+21,INTL 101 / 102 2,INTL,101,13,,,4,,,6
+22,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+7,DF1 - MGT 103,MGT,103,,,,4,,,8
+23,IE1 - INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+8,DF2 - MGT 181 / 187,MGT,181,1;6;4,,,4,,,9
+24,IE2 - INTERDISC ELECTIVE (RR2),,,,,,4,,,9
+9,DF4 - MGT 164,MGT,164,,,,4,,,9
+25,IE3 - INTERDISC ELECTIVE (RR3),,,,,,4,,,10
+26,DF6 - MGT ELECTIVE,,,,,,4,,,10
+10,DF3 - MGT 112,MGT,112,7;8,,,4,,,10
+11,DF5 - MGT 166,MGT,166,,,,4,,,11
+12,INTL 190,INTL,190,5,,,4,,,11
+27,DF7 - MGT ELECTIVE,,,,,,4,,,12
+28,DF8 - MGT ELECTIVE,,,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,CAT 1,CAT,1,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+14,CAT 2,CAT,2,13,,,6,,,2
+15,CAT 3,CAT,3,14,,,6,,,3
+30,GE 2,,,,,,4,,,4
+31,DEI,,,,,,4,,,4
+32,GE 3,,,,,,4,,,5
+33,GE 4,,,,,,4,,,5
+34,ELECTIVE 1,,,,,,4,,,6
+35,GE 5,,,,,,4,,,6
+36,GE 6,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,8
+38,ELECTIVE 3,,,,,,4,,,8
+16,CAT 125,CAT,125,,,,4,,,9
+39,ELECTIVE 4,,,,,,4,,,11
+40,ELECTIVE 5,,,,,,4,,,12

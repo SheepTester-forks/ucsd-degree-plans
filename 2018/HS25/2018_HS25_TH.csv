@@ -1,0 +1,53 @@
+Curriculum,Human Developmental Sciences
+Degree Plan,Human Developmental Sciences/ Marshall
+Institution,"University of California, San Diego"
+Degree Type,BA
+System Type,Quarter
+CIP,19.0701
+Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,LD MAJOR PREP 1,,,,,,4,,,1
+9,LD MAJOR PREP 2,,,,,,4,,,1
+10,LD MAJOR PREP 3,,,,,,4,,,2
+11,LD MAJOR PREP 4,,,,,,4,,,2
+12,LD MAJOR PREP 5,,,,,,4,,,3
+13,LD MAJOR PREP 6,,,,,,4,,,3
+1,HDP 1,HDP,1,,,,4,,,4
+14,CORE COURSE 1,,,,,,4,,,5
+15,CORE COURSE 2,,,,,,4,,,5
+16,CORE COURSE 3,,,,,,4,,,6
+17,CORE COURSE 4,,,,,,4,,,6
+18,DEVELOPMENT 1,,,,,,4,,,7
+19,DEVELOPMENT 2,,,,,,4,,,7
+20,DEVELOPMENT 3,,,,,,4,,,8
+21,DEVELOPMENT 4,,,,,,4,,,8
+22,DEVELOPMENT 5,,,,,,4,,,9
+2,HDP 181,HDP,181,,,,6,,,9
+3,HDP 191,HDP,191,,,,6,,,10
+23,HDP HONORS THESIS 1,,,,,,4,,,10
+24,HDP HONORS THESIS 2,,,,,,4,,,11
+25,HDP HONORS THESIS 3,,,,,,4,,,12
+4,HDP 150,HDP,150,,,,4,,,12
+Additional Courses
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,GE 1,,,,,,4,,,1
+5,DOC 1 / DEI,DOC,1,,,,4,,,1
+27,GE 2,,,,,,4,,,2
+6,DOC 2,DOC,2,5,,,6,,,2
+28,GE 3,,,,,,4,,,3
+7,DOC 3,DOC,3,,,,6,,,3
+29,GE 4,,,,,,4,,,4
+30,GE 5,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,GE 6,,,,,,4,,,5
+33,GE 7,,,,,,4,,,5
+34,GE 8,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,GE 9,,,,,,4,,,7
+37,GE 10,,,,,,4,,,7
+38,UD GE 1,,,,,,4,,,8
+39,UD GE 2,,,,,,4,,,9
+40,ELECTIVE 3,,,,,,4,,,10
+41,ELECTIVE 4,,,,,,4,,,11
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12
