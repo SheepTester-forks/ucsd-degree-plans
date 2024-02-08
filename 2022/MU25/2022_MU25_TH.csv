@@ -1,10 +1,10 @@
-Curriculum,Music
-Degree Plan,Music/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0901
-Courses
+Curriculum,Music,,,,,,,,,
+Degree Plan,Music/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MUS 2A,MUS,2A,,,,4,,,1
 2,MUS 2AK,MUS,2AK,,,,2,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,MUS UD EMPHASIS 2,,,,,,4,,,11
 35,MUS 43 12,MUS,43,,,,1,,,12
 36,MUS UD EMPHASIS 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,DOC 1 / DEI,DOC,1,,,,4,,,1
 37,GE 1,,,,,,4,,,1

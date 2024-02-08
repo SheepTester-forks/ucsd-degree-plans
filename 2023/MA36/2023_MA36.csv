@@ -1,9 +1,9 @@
-Curriculum,Mathematical Biology
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0306
-Courses
+Curriculum,Mathematical Biology,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,27.0306,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 20A,MATH,20A,,,,4,,
 13,PROGRAMMING COURSE,,,,,,4,,

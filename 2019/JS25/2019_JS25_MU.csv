@@ -1,10 +1,10 @@
-Curriculum,Jewish Studies
-Degree Plan,Jewish Studies/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0206
-Courses
+Curriculum,Jewish Studies,,,,,,,,,
+Degree Plan,Jewish Studies/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0206,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,JWSP 1,JWSP,1,,,,4,,,1
 16,GE 1,,,,,,4,,,1
@@ -48,7 +48,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,ANAR 143,ANAR,143,,,,4,,,12
 41,ELECTIVE 14,,,,,,4,,,12
 42,ELECTIVE 15,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 43,GE / WRITING 1,,,,,,4,,,1
 44,GE / WRITING 2,,,,,,4,,,2

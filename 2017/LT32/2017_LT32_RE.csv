@@ -1,10 +1,10 @@
-Curriculum,Russian Literature
-Degree Plan,Russian Literature/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0402
-Courses
+Curriculum,Russian Literature,,,,,,,,,
+Degree Plan,Russian Literature/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.0402,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LTRU 1A,LTRU,1A,,,,5,,,1
 2,LTRU 1B,LTRU,1B,,,,5,,,2
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,UD LTRU 4,,,,,,4,,,11
 11,LTRU 110B,LTRU,110B,,,,4,,,11
 24,UD LTRU 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,MATH 10A,MATH,10A,,,,4,,,1
 25,CHEMISTRY GE,,,,,,4,,,1

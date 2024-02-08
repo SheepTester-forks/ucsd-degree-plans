@@ -1,9 +1,9 @@
-Curriculum,Real Estate and Development
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,04.1001
-Courses
+Curriculum,Real Estate and Development,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,04.1001,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LOWER DIVISION MATH (MATH 10A / 20A / MGT 3),MATH,10A,,,,4,,
 2,ECON 1 PRINCIPLES OF MICROECONOMICS,ECON,1,,,,4,,

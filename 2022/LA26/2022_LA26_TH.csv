@@ -1,10 +1,10 @@
-Curriculum,Latin American Studies with a Concentration in Mexico
-Degree Plan,Latin American Studies with a Concentration in Mexico/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0107
-Courses
+Curriculum,Latin American Studies with a Concentration in Mexico,,,,,,,,,
+Degree Plan,Latin American Studies with a Concentration in Mexico/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0107,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LISP 1A,LISP,1A,,,,2.5,,,1
 2,LISP 1AX,LISP,1AX,,,,2.5,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 11,LATI 190,LATI,190,,,,4,,,11
 23,LATI UG ELECTIVE,,,,,,4,,,12
 24,LATI UG ELECTIVE (CON IN MEXICO) 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,DOC 1 / DEI,DOC,1,,,,4,,,1
 25,GE 1,,,,,,4,,,1

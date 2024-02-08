@@ -1,10 +1,10 @@
-Curriculum,Physics with Specialization in Astrophysics
-Degree Plan,Physics with Specialization in Astrophysics/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,Physics with Specialization in Astrophysics,,,,,,,,,
+Degree Plan,Physics with Specialization in Astrophysics/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 18,MATH,18,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -34,7 +34,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,PHYS 161,PHYS,161,5;8;7;12;14,,,4,,,11
 25,PHYS 162,PHYS,162,5;8;7;12;14,,,4,,,12
 33,PHYS UD LAB,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,FINE ARTS,,,,,,4,,,1
 26,HUM 1,HUM,1,,,,6,,,2

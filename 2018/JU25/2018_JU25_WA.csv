@@ -1,10 +1,10 @@
-Curriculum,Judaic Studies
-Degree Plan,Judaic Studies/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0206
-Courses
+Curriculum,Judaic Studies,,,,,,,,,
+Degree Plan,Judaic Studies/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0206,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,JUDA 1,JUDA,1,,,,5,,,1
 2,JUDA 2,JUDA,2,1,,,5,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 13,UD JS ELECTIVE 4,,,,,,4,,,10
 14,UD JS ELECTIVE 5,,,,,,4,,,11
 15,UD JS ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,GE 1,,,,,,4,,,1
 17,GE 2,,,,,,4,,,1

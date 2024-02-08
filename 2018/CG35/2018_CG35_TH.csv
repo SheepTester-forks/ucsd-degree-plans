@@ -1,10 +1,10 @@
-Curriculum,Cognitive Science with a Specialization in Machine Learning and Neural Computation
-Degree Plan,Cognitive Science with a Specialization in Machine Learning and Neural Computation/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive Science with a Specialization in Machine Learning and Neural Computation,,,,,,,,,
+Degree Plan,Cognitive Science with a Specialization in Machine Learning and Neural Computation/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 2,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,COGS UD ELECTIVE 4,,,,,,4,,,11
 25,COGS UD ELECTIVE 5,,,,,,4,,,12
 26,COGS UD ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,DOC 1 / DEI,DOC,1,,,,4,,,1
 27,GE 1,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Cognitive Science with Specialization in Neuroscience
-Degree Plan,Cognitive Science with Specialization in Neuroscience/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive Science with Specialization in Neuroscience,,,,,,,,,
+Degree Plan,Cognitive Science with Specialization in Neuroscience/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MATH 20B,MATH,20B,1,,,4,,,2
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,UD ELECTIVE 2,,,,,,4,,,11
 32,UD ELECTIVE - SPEC 3,,,,,,4,,,12
 33,UD ELECTIVE - SPEC 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 35,LANGUAGE 1,,,,,,5,,,1

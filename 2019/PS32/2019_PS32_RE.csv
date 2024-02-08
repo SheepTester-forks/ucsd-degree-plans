@@ -1,10 +1,10 @@
-Curriculum,Political Science/Data Analytics
-Degree Plan,Political Science/Data Analytics/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,45.1099
-Courses
+Curriculum,Political Science/Data Analytics,,,,,,,,,
+Degree Plan,Political Science/Data Analytics/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,LD POLI 1,,,,,,4,,,1
 2,POLI 5(D),POLI,5,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UD POLI / DATA ANALYTICS 5,,,,,,4,,,10
 23,UD POLI 6,,,,,,4,,,11
 24,UD POLI 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MATH 10A,MATH,10A,,,,4,,,1
 25,DEI,,,,,,4,,,1

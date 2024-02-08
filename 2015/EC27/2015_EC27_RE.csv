@@ -1,10 +1,10 @@
-Curriculum,Electrical Engineering
-Degree Plan,Electrical Engineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1001
-Courses
+Curriculum,Electrical Engineering,,,,,,,,,
+Degree Plan,Electrical Engineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 3,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 40,DEPTH 5,,,,,,4,,,12
 41,ELECTIVE 6,,,,,,4,,,12
 42,ELECTIVE 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 43,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 24,HUM 1,HUM,1,,,,6,,,2

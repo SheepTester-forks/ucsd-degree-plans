@@ -1,10 +1,10 @@
-Curriculum,"Political Science/Race, Ethnicity, and Politics"
-Degree Plan,"Political Science/Race, Ethnicity, and Politics/ Warren"
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1099
-Courses
+Curriculum,"Political Science/Race, Ethnicity, and Politics",,,,,,,,,
+Degree Plan,"Political Science/Race, Ethnicity, and Politics/ Warren",,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,POLI 10D,POLI,10D,,,,4,,,1
 7,LD POLI 1,,,,,,4,,,2
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,UD POLI 6,,,,,,4,,,10
 20,"UD POLI / RACE, ETHNICITY, AND POLITICS 5",,,,,,4,,,10
 21,UD POLI 7,,,,,,4,,,11
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,WCWP10A,WCWP,10A,,,,4,,,1
 22,ELECTIVE 1,,,,,,4,,,1

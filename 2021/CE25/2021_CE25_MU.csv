@@ -1,10 +1,10 @@
-Curriculum,Chemical Engineering
-Degree Plan,Chemical Engineering/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0701
-Courses
+Curriculum,Chemical Engineering,,,,,,,,,
+Degree Plan,Chemical Engineering/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,AS 3,AS,3,,,,4,,,11
 33,CENG 124B,CENG,124B,29,,,4,,,12
 32,CENG 176B,CENG,176B,30,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,MCWP 40 / GE,MCWP,40,,,,4,,,1
 35,MCWP 50 / GE,MCWP,50,34,,,4,,,2

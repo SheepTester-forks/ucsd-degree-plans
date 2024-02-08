@@ -1,10 +1,10 @@
-Curriculum,Real Estate and Development
-Degree Plan,Real Estate and Development/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,04.1001
-Courses
+Curriculum,Real Estate and Development,,,,,,,,,
+Degree Plan,Real Estate and Development/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,04.1001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LOWER DIVISION MATH (MATH 10A / 20A / MGT 3),MATH,10A,,,,4,,,1
 2,ECON 1 PRINCIPLES OF MICROECONOMICS,ECON,1,,,,4,,,2
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,USP 185B REAL ESTATE FINANCE AND DEVELOPMENT STUDIO II,USP,185B,14,,,4,,,11
 16,USP 171 SUSTAINABLE DEVELOPMENT,USP,171,,,,4,,,12
 17,MGT 172 BUSINESS PROJECT MANAGEMENT,MGT,172,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 18,WCWP 10A,WCWP,10A,,,,4,,,1
 26,GE 1,,,,,,4,,,1

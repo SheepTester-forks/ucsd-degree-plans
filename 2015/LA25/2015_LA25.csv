@@ -1,9 +1,9 @@
-Curriculum,Latin American Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0107
-Courses
+Curriculum,Latin American Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,05.0107,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 4,LANGUAGE COURSE 1,,,,,,4,,
 5,LANGUAGE COURSE 2,,,,,,4,,

@@ -1,10 +1,10 @@
-Curriculum,Music
-Degree Plan,Music/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0901
-Courses
+Curriculum,Music,,,,,,,,,
+Degree Plan,Music/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MUSIC 2A,,,,,,4,,,1
 2,MUSIC 2AK,,,,,,2,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,MUSIC 143 12,,,,,,1,,,12
 32,MUSIC EMPHASIS COURSE 3,,,,,,4,,,12
 33,MUSIC UD ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,GE 1,,,,,,4,,,1
 35,ELECTIVE 1,,,,,,4,,,1

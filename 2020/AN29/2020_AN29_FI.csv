@@ -1,10 +1,10 @@
-Curriculum,Biological Anthropology
-Degree Plan,Biological Anthropology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,45.0299
-Courses
+Curriculum,Biological Anthropology,,,,,,,,,
+Degree Plan,Biological Anthropology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 10A / 20A,MATH,10A,,,,4,,,1
 1,BILD 1,BILD,1,,,,4,,,1
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 2",,,,,,4,,,11
 26,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 3",,,,,,4,,,12
 27,"UPPER DIVISION ELECTIVE (ANTH, ANSC, ANBI, ANAR) 4",,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,MMW 11,MMW,11,,,,4,,,1
 28,GE 1,,,,,,4,,,1

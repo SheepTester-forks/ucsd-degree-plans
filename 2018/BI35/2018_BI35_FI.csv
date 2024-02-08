@@ -1,10 +1,10 @@
-Curriculum,Human Biology
-Degree Plan,Human Biology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0101
-Courses
+Curriculum,Human Biology,,,,,,,,,
+Degree Plan,Human Biology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -38,7 +38,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,UD HB CORE (DISEASE),,,,,,4,,,11
 36,UD HB CORE,,,,,,4,,,12
 37,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,MMW 11,MMW,11,,,,4,,,1
 27,MMW 12,MMW,12,,,,6,,,2

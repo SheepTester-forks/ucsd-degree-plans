@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Art History/Criticism)
-Degree Plan,Visual Arts (Art History/Criticism)/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0703
-Courses
+Curriculum,Visual Arts (Art History/Criticism),,,,,,,,,
+Degree Plan,Visual Arts (Art History/Criticism)/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0703,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,VIS 23,VIS,23,,,,4,,,1
 8,FOUNDATION HISTORY 1,,,,,,4,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,ADVANCED ELECTIVE,,,,,,4,,,10
 23,ADVANCED SEMINAR 2,,,,,,4,,,11
 24,ADVANCED SEMINAR 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,WCWP 10A,WCWP,10A,,,,4,,,1
 25,GE 1,,,,,,4,,,1

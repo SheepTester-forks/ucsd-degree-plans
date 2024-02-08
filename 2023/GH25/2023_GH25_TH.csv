@@ -1,10 +1,10 @@
-Curriculum,Global Health
-Degree Plan,Global Health/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,51.2210
-Courses
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LD INTRO COURSE (EG GLBH 20),GLBH,20,,,,4,,,2
 7,STATISTICS COURSE,,,,,,4,,,3
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,11
 19,UD GLOBAL HEALTH ELECTIVE 9,,,,,,4,,,12
 20,UD GLOBAL HEALTH ELECTIVE 10,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,DOC 1 / DEI,DOC,1,,,,4,,,1
 21,GE 1,,,,,,4,,,1

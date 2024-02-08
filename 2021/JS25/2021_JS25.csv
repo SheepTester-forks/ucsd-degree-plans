@@ -1,9 +1,9 @@
-Curriculum,Jewish Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0206
-Courses
+Curriculum,Jewish Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,38.0206,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,JWSP 1,JWSP,1,,,,4,,
 2,JWSP 2,JWSP,2,1,,,4,,

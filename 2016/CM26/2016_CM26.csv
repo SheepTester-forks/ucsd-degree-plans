@@ -1,9 +1,9 @@
-Curriculum,Communication
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,09.0100
-Courses
+Curriculum,Communication,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,09.0100,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,COMM 10,COMM,10,,,,4,,
 2,COMM 100A,COMM,100A,1,,,4,,

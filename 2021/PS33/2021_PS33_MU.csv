@@ -1,10 +1,10 @@
-Curriculum,Political Science/International Affairs
-Degree Plan,Political Science/International Affairs/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0901
-Courses
+Curriculum,Political Science/International Affairs,,,,,,,,,
+Degree Plan,Political Science/International Affairs/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,POLI 11D,POLI,11D,,,,4,,,1
 2,POLI 12D,POLI,12D,,,,4,,,2
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 11,GPCO 454,GPCO,454,,,,4,,,11
 12,GPCO 403,GPCO,403,,,,4,,,12
 13,GPCO 410,GPCO,410,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 23,GE 1,,,,,,4,,,1
 24,GE 2,,,,,,4,,,1

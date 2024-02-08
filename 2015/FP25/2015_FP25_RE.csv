@@ -1,10 +1,10 @@
-Curriculum,Public Health
-Degree Plan,Public Health/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2201
-Courses
+Curriculum,Public Health,,,,,,,,,
+Degree Plan,Public Health/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,FPMU 40,FPMU,40,,,,4,,,1
 2,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -16,7 +16,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 12,FPMU 101B,FPMU,101B,,,,4,,,9
 13,USP 143,USP,143,,,,4,,,11
 14,FPMU 130,FPMU,130,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,CHEM 6A / 11,CHEM,6A,,,,4,,,1
 23,FINE ARTS,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,Visual Arts (Media)
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0101
-Courses
+Curriculum,Visual Arts (Media),,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,50.0101,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 6,FOUNDATION LEVEL: HISTORY,,,,,,4,,
 7,FOUNDATION LEVEL: ART MAKING 1,,,,,,4,,

@@ -1,9 +1,9 @@
-Curriculum,Real Estate and Development
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,04.1001
-Courses
+Curriculum,Real Estate and Development,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,04.1001,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,ECON 1,ECON,1,,,,4,,
 2,USP 1 (OR USP 2 IN WINTER),USP,1,,,,4,,

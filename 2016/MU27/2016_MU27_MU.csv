@@ -1,10 +1,10 @@
-Curriculum,Interdisciplinary Computing and the Arts
-Degree Plan,Interdisciplinary Computing and the Arts/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0999
-Courses
+Curriculum,Interdisciplinary Computing and the Arts,,,,,,,,,
+Degree Plan,Interdisciplinary Computing and the Arts/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,MUSIC LD ELECTIVE 1,,,,,,4,,,1
 1,VIS 1,VIS,1,,,,4,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 10,ICAM 160A,ICAM,160A,,,,4,,,11
 20,UD ADVANCE ELECTIVE 2,,,,,,4,,,11
 11,ICAM 160B,ICAM,160B,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 21,GE / WRITING 1,,,,,,4,,,1
 22,GE 1,,,,,,4,,,1

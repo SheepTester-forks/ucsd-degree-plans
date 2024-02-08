@@ -1,10 +1,10 @@
-Curriculum,Italian Studies
-Degree Plan,Italian Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0126
-Courses
+Curriculum,Italian Studies,,,,,,,,,
+Degree Plan,Italian Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0126,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LIIT 1A,LIIT,1A,,,,2.5,,,1
 2,LIIT 1AX,LIIT,1AX,,,,2.5,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,IS UD ELECTIVE 6,,,,,,4,,,11
 32,IS UD ELECTIVE 7,,,,,,4,,,12
 33,IS UD ELECTIVE 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,MATH 10A,MATH,10A,,,,4,,,1
 34,SOCIAL SCIENCE / DEI,,,,,,4,,,1

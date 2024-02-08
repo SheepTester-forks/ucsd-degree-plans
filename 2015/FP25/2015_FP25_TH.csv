@@ -1,10 +1,10 @@
-Curriculum,Public Health
-Degree Plan,Public Health/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2201
-Courses
+Curriculum,Public Health,,,,,,,,,
+Degree Plan,Public Health/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,FPMU 40,FPMU,40,,,,4,,,1
 2,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,UD MAJOR ELECTIVE 5,,,,,,4,,,11
 14,FPMU 130,FPMU,130,,,,4,,,12
 36,UD MAJOR ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,DOC 1 / DEI,DOC,1,,,,4,,,1
 16,DOC 2,DOC,2,15,,,6,,,2

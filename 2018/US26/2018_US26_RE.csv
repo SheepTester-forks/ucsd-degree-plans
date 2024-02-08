@@ -1,10 +1,10 @@
-Curriculum,Urban Studies and Planning
-Degree Plan,Urban Studies and Planning/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1201
-Courses
+Curriculum,Urban Studies and Planning,,,,,,,,,
+Degree Plan,Urban Studies and Planning/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,USP 1,USP,1,,,,4,,,4
 2,USP 2,USP,2,,,,4,,,5
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,USP UD 6,,,,,,4,,,11
 6,USP 187,USP,187,5,,,6,,,11
 23,USP UD 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,MATH 10A,MATH,10A,,,,4,,,1
 24,CHEMISTRY GE,,,,,,4,,,1

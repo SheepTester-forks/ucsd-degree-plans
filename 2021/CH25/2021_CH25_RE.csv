@@ -1,10 +1,10 @@
-Curriculum,Chemistry
-Degree Plan,Chemistry/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0501
-Courses
+Curriculum,Chemistry,,,,,,,,,
+Degree Plan,Chemistry/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,CHEM ELECTIVE 1,,,,,,4,,,11
 34,CHEM ELECTIVE 2,,,,,,4,,,12
 35,CHEM ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 36,BIOLOGY GE,,,,,,4,,,1
 37,SOCIAL SCIENCE / DEI,,,,,,4,,,1

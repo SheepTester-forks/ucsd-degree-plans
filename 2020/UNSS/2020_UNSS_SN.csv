@@ -1,12 +1,12 @@
-Curriculum,
-Degree Plan,/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,45.0101
-Courses
+Curriculum,,,,,,,,,,
+Degree Plan,/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,ALTERNATIVE 1,,,,,,4,,,1
 4,ALTERNATIVE 2,,,,,,4,,,1

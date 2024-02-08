@@ -1,9 +1,9 @@
-Curriculum,Computer Engineering
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0901
-Courses
+Curriculum,Computer Engineering,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,14.0901,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 20A,MATH,20A,,,,4,,
 2,CSE 8A,CSE,8A,,,,4,,

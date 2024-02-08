@@ -1,10 +1,10 @@
-Curriculum,Molecular Synthesis
-Degree Plan,Molecular Synthesis/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0599
-Courses
+Curriculum,Molecular Synthesis,,,,,,,,,
+Degree Plan,Molecular Synthesis/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 37,CHEM ELECTIVE,,,,,,4,,,11
 29,CHEM 154 / 156,CHEM,154,15,,,4,,,11
 30,CHEM 125 / 157,CHEM,125,19,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 38,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 39,FINE ARTS,,,,,,4,,,1

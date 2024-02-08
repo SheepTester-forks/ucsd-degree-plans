@@ -1,10 +1,10 @@
-Curriculum,Global Health
-Degree Plan,Global Health/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,51.2210
-Courses
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LD INTRO COURSE (EG GLBH 20),GLBH,20,,,,4,,,2
 8,MATH 11,MATH,11,6,,,5,,,3
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,11
 23,UD GLOBAL HEALTH ELECTIVE 9,,,,,,4,,,12
 24,UD GLOBAL HEALTH ELECTIVE 10,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MATH 10A / 20A,MATH,10A,,,,4,,,1
 25,CHEMISTRY GE,,,,,,4,,,1

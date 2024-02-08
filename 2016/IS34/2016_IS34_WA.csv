@@ -1,10 +1,10 @@
-Curriculum,International Studies - International Business
-Degree Plan,International Studies - International Business/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,International Studies - International Business,,,,,,,,,
+Degree Plan,International Studies - International Business/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,LANGUAGE 1,,,,,,5,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -31,7 +31,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 12,DF5 - MGT 166,MGT,166,,,,4,,,11
 24,DF7 - MGT ELECTIVE,,,,,,4,,,12
 25,DF8 - MGT ELECTIVE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,GE 2,,,,,,4,,,1
 27,GE 3,,,,,,4,,,2

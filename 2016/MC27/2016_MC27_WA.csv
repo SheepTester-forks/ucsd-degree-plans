@@ -1,10 +1,10 @@
-Curriculum,Mechanical Engineering
-Degree Plan,Mechanical Engineering/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1901
-Courses
+Curriculum,Mechanical Engineering,,,,,,,,,
+Degree Plan,Mechanical Engineering/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -46,7 +46,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,MAE TE 3,,,,,,4,,,12
 40,MAE TE 4,,,,,,4,,,12
 35,MAE 156B,MAE,156B,31;33;27;26,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 41,GE 2,,,,,,4,,,1
 42,GE 3,,,,,,4,,,1

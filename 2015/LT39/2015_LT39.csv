@@ -1,9 +1,9 @@
-Curriculum,Literature/Cultural Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.9999
-Courses
+Curriculum,Literature/Cultural Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,23.9999,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 3,LD LIT LANG 1,,,,,,5,,
 4,LD LIT LANG 2,,,,,,5,,

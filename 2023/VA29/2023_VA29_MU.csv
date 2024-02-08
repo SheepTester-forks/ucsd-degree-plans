@@ -1,10 +1,10 @@
-Curriculum,Interdisciplinary Computing and the Arts
-Degree Plan,Interdisciplinary Computing and the Arts/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.9999
-Courses
+Curriculum,Interdisciplinary Computing and the Arts,,,,,,,,,
+Degree Plan,Interdisciplinary Computing and the Arts/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,FOUNDATION ART MAKING,,,,,,4,,,1
 1,VIS 41,VIS,41,,,,4,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,ADVANCED INTERDISCIPLINARY,,,,,,4,,,11
 8,VIS 160A,VIS,160A,7,,,4,,,11
 9,VIS 160B,VIS,160B,8,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,MCWP 40,MCWP,40,,,,4,,,1
 23,GE 1,,,,,,4,,,1

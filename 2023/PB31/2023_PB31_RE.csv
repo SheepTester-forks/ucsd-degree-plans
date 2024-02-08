@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Medicine Sciences
-Degree Plan,Bachelor of Science in Public Health with Concentration in Medicine Sciences/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2299
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Medicine Sciences,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Medicine Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,MATH 10A / 20A (MAJOR'S NATURAL SCIENCE AND MATH GE),MATH,10A,,,,4,,,1
 2,BILD 1 (BIOLOGY GE),BILD,1,,,,4,,,1
@@ -35,7 +35,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,MAJOR UDE 1,,,,,,4,,,11
 14,FMPH 194,FMPH,194,13,,,4,,,12
 34,MAJOR UDE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,HUM 1,HUM,1,,,,6,,,2
 18,HUM 2,HUM,2,,,,6,,,3

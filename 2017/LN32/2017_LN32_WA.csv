@@ -1,10 +1,10 @@
-Curriculum,Linguistics(Specialization in Cognition & Language)
-Degree Plan,Linguistics(Specialization in Cognition & Language)/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Linguistics(Specialization in Cognition & Language),,,,,,,,,
+Degree Plan,Linguistics(Specialization in Cognition & Language)/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
 8,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,LIGN ELECTIVE 2,,,,,,4,,,10
 5,LIGN 121,LIGN,121,,,,4,,,11
 6,LIGN 130,LIGN,130,1,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 18,GE 1,,,,,,4,,,1
 19,GE 2,,,,,,4,,,1

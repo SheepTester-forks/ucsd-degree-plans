@@ -1,10 +1,10 @@
-Curriculum,Computer Science
-Degree Plan,Computer Science/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,11.0701
-Courses
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CSE 8A / CSE 11,CSE,8A,,,,4,,,1
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 37,OPEN CSE ELECTIVE 4,,,,,,4,,,11
 38,OPEN CSE ELECTIVE 5,,,,,,4,,,11
 39,OPEN CSE ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,WCWP 10A,WCWP,10A,,,,4,,,1
 16,WCWP 10B,WCWP,10B,15,,,4,,,2

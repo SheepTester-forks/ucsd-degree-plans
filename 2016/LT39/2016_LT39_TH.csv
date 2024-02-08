@@ -1,10 +1,10 @@
-Curriculum,Literature/Cultural Studies
-Degree Plan,Literature/Cultural Studies/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.9999
-Courses
+Curriculum,Literature/Cultural Studies,,,,,,,,,
+Degree Plan,Literature/Cultural Studies/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,LD LIT LANG 1,,,,,,5,,,1
 7,LD LIT LANG 2,,,,,,5,,,2
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UD LTCS 2,,,,,,4,,,11
 23,UD LIT ELECTIVE 4,,,,,,4,,,12
 24,UD LIT ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,DOC 1 / DEI,DOC,1,,,,4,,,1
 25,GE 1,,,,,,4,,,1

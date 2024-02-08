@@ -1,10 +1,10 @@
-Curriculum,Mathematics
-Degree Plan,Mathematics/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0101
-Courses
+Curriculum,Mathematics,,,,,,,,,
+Degree Plan,Mathematics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 18,MATH,18,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UD MAJOR 11,,,,,,4,,,11
 23,UD MAJOR 12,,,,,,4,,,12
 24,UD MAJOR 13,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,CAT 1,CAT,1,,,,4,,,1
 25,GE 1,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Psychology with a Specialization in Social Psychology
-Degree Plan,Psychology with a Specialization in Social Psychology/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.2707
-Courses
+Curriculum,Psychology with a Specialization in Social Psychology,,,,,,,,,
+Degree Plan,Psychology with a Specialization in Social Psychology/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.2707,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,NATURAL SCIENCE 1,,,,,,4,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,2
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,PSYC UD ELECTIVE 5,,,,,,4,,,11
 26,PSYC UD SPECIALIZATION 3,,,,,,4,,,12
 27,PSYC RESEARCH 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,WCWP 10A,WCWP,10A,,,,4,,,1
 28,GE 1,,,,,,4,,,1

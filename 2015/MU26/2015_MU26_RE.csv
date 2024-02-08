@@ -1,10 +1,10 @@
-Curriculum,Music Humanities
-Degree Plan,Music Humanities/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0999
-Courses
+Curriculum,Music Humanities,,,,,,,,,
+Degree Plan,Music Humanities/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,MUSIC 1A / 2A,,,,,,4,,,1
 15,MUSIC 143 1,,,,,,1,,,1
@@ -33,7 +33,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 38,MUSIC UD HUMANITIES / FINE ARTS 5,,,,,,4,,,11
 39,MUSIC UD HUMANITIES / FINE ARTS 6,,,,,,4,,,12
 40,MUSIC 143 12,,,,,,1,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 41,DEI / SOCIAL SCIENCE,,,,,,4,,,1

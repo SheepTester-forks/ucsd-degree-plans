@@ -1,10 +1,10 @@
-Curriculum,Psychology with a Specialization in Clinical Psychology
-Degree Plan,Psychology with a Specialization in Clinical Psychology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.2801
-Courses
+Curriculum,Psychology with a Specialization in Clinical Psychology,,,,,,,,,
+Degree Plan,Psychology with a Specialization in Clinical Psychology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.2801,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,NATURAL SCIENCE 1,,,,,,4,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,2
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,PSYC UD SPECIALIZATION 2,,,,,,4,,,11
 26,PSYC RESEARCH 2,,,,,,4,,,12
 27,PSYC UD SPECIALIZATION 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,MMW 11,MMW,11,,,,4,,,1
 28,GE 1,,,,,,4,,,1

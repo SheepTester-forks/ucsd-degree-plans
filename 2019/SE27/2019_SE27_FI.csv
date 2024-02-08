@@ -1,10 +1,10 @@
-Curriculum,Structural Engineering
-Degree Plan,Structural Engineering/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0803
-Courses
+Curriculum,Structural Engineering,,,,,,,,,
+Degree Plan,Structural Engineering/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0803,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 20A,MATH,20A,,,,4,,,1
 1,SE 1,SE,1,,,,4,,,1
@@ -51,7 +51,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 47,TECHNICAL ELECTIVE 3,,,,,,4,,,12
 48,GE 5,,,,,,4,,,12
 49,GE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,MMW 11,MMW,11,,,,4,,,1
 31,MMW 12,MMW,12,,,,6,,,2

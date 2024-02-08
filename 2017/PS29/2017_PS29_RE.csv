@@ -1,10 +1,10 @@
-Curriculum,Political Science/Political Theory
-Degree Plan,Political Science/Political Theory/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1099
-Courses
+Curriculum,Political Science/Political Theory,,,,,,,,,
+Degree Plan,Political Science/Political Theory/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,LD POLI 1,,,,,,4,,,1
 13,LD POLI 2,,,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,UD POLI 6,,,,,,4,,,10
 22,UD POLITICAL THEORY,,,,,,4,,,11
 23,UD POLI 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,FINE ARTS,,,,,,4,,,1
 5,MATH 10A,MATH,10A,,,,4,,,1

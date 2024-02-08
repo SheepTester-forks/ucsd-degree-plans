@@ -1,10 +1,10 @@
-Curriculum,Microbiology
-Degree Plan,Microbiology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0502
-Courses
+Curriculum,Microbiology,,,,,,,,,
+Degree Plan,Microbiology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0502,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,UD BIOLOGY ELECTIVE 1,,,,,,4,,,11
 35,UD BIOLOGY LAB,,,,,,4,,,11
 36,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,MMW 11,MMW,11,,,,4,,,1
 27,MMW 12,MMW,12,,,,6,,,2

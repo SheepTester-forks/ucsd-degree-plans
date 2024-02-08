@@ -1,10 +1,10 @@
-Curriculum,Economics
-Degree Plan,Economics/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0603
-Courses
+Curriculum,Economics,,,,,,,,,
+Degree Plan,Economics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0603,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,ECON 1,ECON,1,,,,4,,,1
 1,MATH 20A (OR 10A),MATH,20A,,,,4,,,1
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,ECON UD ELECTIVE 3,,,,,,4,,,10
 21,ECON UD ELECTIVE 4,,,,,,4,,,11
 22,ECON UD ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,CAT 1,CAT,1,,,,4,,,1
 23,GE 1,,,,,,4,,,1

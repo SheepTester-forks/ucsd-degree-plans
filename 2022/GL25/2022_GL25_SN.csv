@@ -1,10 +1,10 @@
-Curriculum,Global South Studies
-Degree Plan,Global South Studies/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,Global South Studies,,,,,,,,,
+Degree Plan,Global South Studies/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LD GSS 20 - 27 1,GSS,20,,,,4,,,4
 5,LD GSS 20 - 27 2,GSS,20,,,,4,,,5
@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 13,UD MAJOR - ELECTIVE 6,,,,,,4,,,11
 14,UD MAJOR - ELECTIVE 7,,,,,,4,,,12
 15,UD MAJOR - ELECTIVE 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,ALTERNATIVE 1,,,,,,4,,,1
 17,ALTERNATIVE 2,,,,,,4,,,1

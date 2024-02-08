@@ -1,9 +1,9 @@
-Curriculum,Mathematics-Computer Science
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.0801
-Courses
+Curriculum,Mathematics-Computer Science,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,30.0801,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 20A,MATH,20A,,,,4,,
 2,CSE 11,CSE,11,,,,4,,

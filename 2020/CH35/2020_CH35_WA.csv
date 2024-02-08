@@ -1,10 +1,10 @@
-Curriculum,Pharmacological Chemistry
-Degree Plan,Pharmacological Chemistry/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0599
-Courses
+Curriculum,Pharmacological Chemistry,,,,,,,,,
+Degree Plan,Pharmacological Chemistry/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CHEM 6A,CHEM,6A,,,,4,,,1
 2,MATH 20A,MATH,20A,,,,4,,,1
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,CHEM 168,CHEM,168,14;18,,,4,,,11
 35,CHEM ELECTIVE,,,,,,4,,,12
 29,CHEM 118,CHEM,118,18,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,WCWP 10A,WCWP,10A,,,,4,,,1
 36,GE 1,,,,,,4,,,1

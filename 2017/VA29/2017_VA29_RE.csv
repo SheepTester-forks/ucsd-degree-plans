@@ -1,10 +1,10 @@
-Curriculum,Interdisciplinary Computing and the Arts
-Degree Plan,Interdisciplinary Computing and the Arts/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.9999
-Courses
+Curriculum,Interdisciplinary Computing and the Arts,,,,,,,,,
+Degree Plan,Interdisciplinary Computing and the Arts/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,MATH 10A / 20A,MATH,10A,,,,4,,,1
 24,FOUNDATION LEVEL: ART MAKING,,,,,,4,,,1
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,ADVANCED LEVEL: INTERDISCIPLINARY,,,,,,4,,,10
 12,ICAM 160A,ICAM,160A,,,,4,,,11
 13,ICAM 160B,ICAM,160B,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,CHEM 11,CHEM,11,,,,4,,,1
 17,PHYS 10,PHYS,10,,,,4,,,2

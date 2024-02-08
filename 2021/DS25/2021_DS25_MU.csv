@@ -1,10 +1,10 @@
-Curriculum,Data Science
-Degree Plan,Data Science/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,11.0103
-Courses
+Curriculum,Data Science,,,,,,,,,
+Degree Plan,Data Science/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,DSC 96,DSC,96,,,,2,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,UD DOMAIN ELECTIVE 3,,,,,,4,,,11
 29,UD DOMAIN ELECTIVE 4,,,,,,4,,,12
 30,UD DOMAIN ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,GE / MUIR WRITING 1,,,,,,4,,,1
 32,GE / MUIR WRITING 2,,,,,,4,,,2

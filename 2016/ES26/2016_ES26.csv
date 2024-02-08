@@ -1,9 +1,9 @@
-Curriculum,"Environmental Systems (Ecology, Behavior and Evolution)"
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,03.0103
-Courses
+Curriculum,"Environmental Systems (Ecology, Behavior and Evolution)",,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,03.0103,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,BILD 3,BILD,3,,,,4,,
 2,CHEM 6A,CHEM,6A,,,,4,,

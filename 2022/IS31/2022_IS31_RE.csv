@@ -1,10 +1,10 @@
-Curriculum,International Studies-Sociology
-Degree Plan,International Studies-Sociology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,International Studies-Sociology,,,,,,,,,
+Degree Plan,International Studies-Sociology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,LANGUAGE 1,,,,,,5,,,1
 11,LANGUAGE 2,,,,,,5,,,2
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,DF6 - SOCIOLOGY,,,,,,4,,,11
 25,DF7 - SOCIOLOGY,,,,,,4,,,12
 26,DF8 - SOCIOLOGY,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,MATH 10A / 20A,MATH,10A,,,,4,,,1
 27,FINE ARTS GE,,,,,,4,,,1

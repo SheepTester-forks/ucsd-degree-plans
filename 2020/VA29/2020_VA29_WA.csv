@@ -1,10 +1,10 @@
-Curriculum,Interdisciplinary Computing and the Arts
-Degree Plan,Interdisciplinary Computing and the Arts/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.9999
-Courses
+Curriculum,Interdisciplinary Computing and the Arts,,,,,,,,,
+Degree Plan,Interdisciplinary Computing and the Arts/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MUS 4,MUS,4,,,,4,,,1
 18,FOUNDATION ART MAKING,,,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,ADVANCED INTERDISCIPLINARY,,,,,,4,,,10
 12,VIS 160A,VIS,160A,11,,,4,,,11
 13,VIS 160B,VIS,160B,12,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,WCWP 10A,WCWP,10A,,,,4,,,1
 26,GE 1,,,,,,4,,,1

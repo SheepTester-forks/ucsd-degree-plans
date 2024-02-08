@@ -1,10 +1,10 @@
-Curriculum,International Studies-Political Science
-Degree Plan,International Studies-Political Science/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,International Studies-Political Science,,,,,,,,,
+Degree Plan,International Studies-Political Science/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,LANGUAGE 1,,,,,,5,,,1
 9,LANGUAGE 2,,,,,,5,,,2
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 2,INTL 190,INTL,190,1,,,4,,,11
 23,DF7 - POLI SCI,,,,,,4,,,12
 24,DF8 - POLI SCI,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,MMW 11,MMW,11,,,,4,,,1
 25,GE 1,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,Education Sciences
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,13.0101
-Courses
+Curriculum,Education Sciences,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,13.0101,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 3,EDS FRESHMAN SEMINAR,,,,,,1,,
 4,EDS LD,,,,,,2,,

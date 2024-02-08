@@ -1,10 +1,10 @@
-Curriculum,Physics-Biophysics
-Degree Plan,Physics-Biophysics/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,Physics-Biophysics,,,,,,,,,
+Degree Plan,Physics-Biophysics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MATH 18,MATH,18,,,,4,,,1
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 37,PHYS UD RE 1,,,,,,4,,,11
 38,PHYS UD LAB,,,,,,4,,,12
 39,PHYS UD RE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,CAT 1,CAT,1,,,,4,,,1
 23,CAT 2,CAT,2,22,,,6,,,2

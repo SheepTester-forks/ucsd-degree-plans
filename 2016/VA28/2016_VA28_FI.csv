@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Studio)
-Degree Plan,Visual Arts (Studio)/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0702
-Courses
+Curriculum,Visual Arts (Studio),,,,,,,,,
+Degree Plan,Visual Arts (Studio)/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0702,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,FOUNDATION LEVEL: HISTORY,,,,,,4,,,1
 10,FOUNDATION LEVEL: ART MAKING 1,,,,,,4,,,1
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,ADVANCED LEVEL: ART MAKING,,,,,,4,,,10
 22,ADVANCED LEVEL: INTERDISCIPLINARY 1,,,,,,4,,,11
 23,ADVANCED LEVEL: INTERDISCIPLINARY 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MMW 11,MMW,11,,,,4,,,1
 24,GE 1,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Literature/Cultural Studies
-Degree Plan,Literature/Cultural Studies/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.9999
-Courses
+Curriculum,Literature/Cultural Studies,,,,,,,,,
+Degree Plan,Literature/Cultural Studies/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,LD LIT LANG 1,,,,,,5,,,1
 4,LD LIT LANG 2,,,,,,5,,,2
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,UD LTCS 2,,,,,,4,,,11
 20,UD LITERATURE ELECTIVE 5,,,,,,4,,,12
 21,UD LITERATURE ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,GE 1,,,,,,4,,,1
 23,GE 2,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,German Literature
-Degree Plan,German Literature/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0501
-Courses
+Curriculum,German Literature,,,,,,,,,
+Degree Plan,German Literature/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.0501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,LIGM 1A,LIGM,1A,,,,2.5,,,1
 1,LIGM 1AX,LIGM,1AX,,,,2.5,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,UD LTEN 2,,,,,,4,,,11
 20,UD LTEN 3,,,,,,4,,,12
 21,UD LTGM 9,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,GE 1,,,,,,4,,,1
 23,GE 2,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,Molecular Synthesis
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0599
-Courses
+Curriculum,Molecular Synthesis,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,40.0599,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,CHEM 6A,CHEM,6A,,,,4,,
 2,MATH 20A,MATH,20A,,,,4,,

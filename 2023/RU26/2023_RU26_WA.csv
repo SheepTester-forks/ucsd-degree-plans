@@ -1,10 +1,10 @@
-Curriculum,"Russian, East European and Eurasian Studies"
-Degree Plan,"Russian, East European and Eurasian Studies/ Warren"
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0105
-Courses
+Curriculum,"Russian, East European and Eurasian Studies",,,,,,,,,
+Degree Plan,"Russian, East European and Eurasian Studies/ Warren",,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0105,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LTRU 1A,LTRU,1A,,,,5,,,1
 2,LTRU 1B,LTRU,1B,1,,,5,,,2
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,REEES UD ELECTIVE 2,,,,,,4,,,11
 21,REEES UD ELECTIVE 3,,,,,,4,,,11
 22,REEES UD ELECTIVE 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,WCWP 10A,WCWP,10A,,,,4,,,1
 23,GE 1,,,,,,4,,,1

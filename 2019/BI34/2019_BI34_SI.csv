@@ -1,10 +1,10 @@
-Curriculum,Biology with Specialization in Bioinformatics
-Degree Plan,Biology with Specialization in Bioinformatics/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Biology with Specialization in Bioinformatics,,,,,,,,,
+Degree Plan,Biology with Specialization in Bioinformatics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,BILD 4,BILD,4,,,,2,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,BIMM 181,BIMM,181,20;22;23,,,4,,,11
 34,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
 28,BIMM 182,BIMM,182,20,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 29,CAT 1,CAT,1,,,,4,,,1
 30,CAT 2,CAT,2,29,,,6,,,2

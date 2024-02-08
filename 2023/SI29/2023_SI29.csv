@@ -1,9 +1,9 @@
-Curriculum,Marine Biology
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1302
-Courses
+Curriculum,Marine Biology,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,26.1302,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 10A / 20A,MATH,10A,,,,4,,
 2,CHEM 6A,CHEM,6A,,,,4,,

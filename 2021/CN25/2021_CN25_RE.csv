@@ -1,10 +1,10 @@
-Curriculum,Chinese Studies
-Degree Plan,Chinese Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0123
-Courses
+Curriculum,Chinese Studies,,,,,,,,,
+Degree Plan,Chinese Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0123,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CHIN 10A (M / D / N),CHIN,10A,,,,5,,,1
 2,CHIN 10B (M / D / N),CHIN,10B,,,,5,,,2
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,CHINESE STUDIES UD ELECTIVE 9,,,,,,4,,,10
 24,CHINESE STUDIES UD ELECTIVE 10,,,,,,4,,,10
 25,CHINESE STUDIES UD ELECTIVE 11,,,,,,4,,,11
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,MATH 10A,MATH,10A,,,,4,,,1
 26,SOCIAL SCIENCE / DEI,,,,,,4,,,1

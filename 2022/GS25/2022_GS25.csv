@@ -1,9 +1,9 @@
-Curriculum,German Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0125
-Courses
+Curriculum,German Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,05.0125,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LIGM 1AX,LIGM,1AX,,,,2.5,,
 2,LIGM 1A,LIGM,1A,,,,2.5,,

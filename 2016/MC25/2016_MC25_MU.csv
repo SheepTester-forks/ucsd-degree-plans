@@ -1,10 +1,10 @@
-Curriculum,Aerospace Engineering
-Degree Plan,Aerospace Engineering/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0201
-Courses
+Curriculum,Aerospace Engineering,,,,,,,,,
+Degree Plan,Aerospace Engineering/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MAE 2,MAE,2,,,,4,,,1
@@ -46,7 +46,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 36,MAE 175A,MAE,175A,32;27;26,,,4,,,11
 37,MAE 155B,MAE,155B,33;34;35;26,,,4,,,12
 40,MAE TE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 41,GE / WRITING 1,,,,,,4,,,1
 42,GE / WRITING 2,,,,,,4,,,2

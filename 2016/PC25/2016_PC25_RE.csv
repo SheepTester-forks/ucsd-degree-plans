@@ -1,10 +1,10 @@
-Curriculum,Psychology
-Degree Plan,Psychology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,42.0101
-Courses
+Curriculum,Psychology,,,,,,,,,
+Degree Plan,Psychology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,MATH 10A,MATH,10A,,,,4,,,1
 4,CHEM 11,CHEM,11,,,,4,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,PSYC UD ELECTIVE 6,,,,,,4,,,11
 24,PSYC UD ELECTIVE 7,,,,,,4,,,12
 25,PSYC UD ELECTIVE 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,DEI / SOCIAL SCIENCE,,,,,,4,,,1
 6,HUM 1,HUM,1,,,,6,,,2

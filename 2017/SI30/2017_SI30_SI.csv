@@ -1,10 +1,10 @@
-Curriculum,Oceanic and Atmospheric Sciences
-Degree Plan,Oceanic and Atmospheric Sciences/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0499
-Courses
+Curriculum,Oceanic and Atmospheric Sciences,,,,,,,,,
+Degree Plan,Oceanic and Atmospheric Sciences/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0499,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,SIO 60,SIO,60,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -35,7 +35,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,MAJOR ELECTIVE 7,,,,,,4,,,11
 32,MAJOR ELECTIVE 8,,,,,,4,,,11
 33,MAJOR ELECTIVE 9,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 20,CAT 1,CAT,1,,,,4,,,1
 21,CAT 2,CAT,2,20,,,6,,,2

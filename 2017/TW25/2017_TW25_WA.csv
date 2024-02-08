@@ -1,10 +1,10 @@
-Curriculum,Third World Studies
-Degree Plan,Third World Studies/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0199
-Courses
+Curriculum,Third World Studies,,,,,,,,,
+Degree Plan,Third World Studies/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LD TWS 21 - 26 1,TWS,21,,,,4,,,4
 2,LD TWS 21 - 26 2,TWS,21,,,,4,,,5
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 13,UD MAJOR - ELECTIVE 4,,,,,,4,,,11
 14,UD MAJOR - ELECTIVE 5,,,,,,4,,,12
 15,UD MAJOR - ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,ELECTIVE 1,,,,,,4,,,1
 17,GE 1,,,,,,4,,,1

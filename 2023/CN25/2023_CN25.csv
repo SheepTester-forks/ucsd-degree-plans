@@ -1,9 +1,9 @@
-Curriculum,Chinese Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0123
-Courses
+Curriculum,Chinese Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,05.0123,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,CHIN 10A (M / D / N),CHIN,10A,,,,5,,
 2,CHIN 10B (M / D / N),CHIN,10B,,,,5,,

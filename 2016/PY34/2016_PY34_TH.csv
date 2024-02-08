@@ -1,10 +1,10 @@
-Curriculum,Physics with Specialization in Astrophysics
-Degree Plan,Physics with Specialization in Astrophysics/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,Physics with Specialization in Astrophysics,,,,,,,,,
+Degree Plan,Physics with Specialization in Astrophysics/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MATH 18,MATH,18,,,,4,,,1
@@ -34,7 +34,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,PHYS 161,PHYS,161,5;9;7;10;13,,,4,,,11
 25,PHYS 162,PHYS,162,5;9;7;10;13,,,4,,,12
 31,PHYS UD LAB,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,DOC 1 / DEI,DOC,1,,,,4,,,1
 27,DOC 2,DOC,2,26,,,6,,,2

@@ -1,9 +1,9 @@
-Curriculum,Critical Gender Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0299
-Courses
+Curriculum,Critical Gender Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,05.0299,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,CGS 2A,CGS,2A,,,,4,,
 2,CGS 2B,CGS,2B,,,,4,,

@@ -1,10 +1,10 @@
-Curriculum,Sociology-Science and Medicine
-Degree Plan,Sociology-Science and Medicine/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1101
-Courses
+Curriculum,Sociology-Science and Medicine,,,,,,,,,
+Degree Plan,Sociology-Science and Medicine/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,SOCI 1,SOCI,1,,,,4,,,1
 2,SOCI 2,SOCI,2,,,,4,,,2
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,SOCI UD ELECTIVE 4,,,,,,4,,,11
 20,SOCI UD CONCENTRATION 5,,,,,,4,,,12
 21,SOCI UD ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,WCWP 10A,WCWP,10A,,,,4,,,1
 22,GE 1,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,Literature/Writing
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.9999
-Courses
+Curriculum,Literature/Writing,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,23.9999,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 4,LD LTEN / TWS 1,,,,,,4,,
 5,LD LANGUAGE 1,,,,,,5,,

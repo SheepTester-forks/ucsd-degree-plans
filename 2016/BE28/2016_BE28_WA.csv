@@ -1,10 +1,10 @@
-Curriculum,Bioengineering: Bioinformatics
-Degree Plan,Bioengineering: Bioinformatics/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Bioengineering: Bioinformatics,,,,,,,,,
+Degree Plan,Bioengineering: Bioinformatics/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,CHEM 6A,CHEM,6A,,,,4,,,1
 2,CSE 11,CSE,11,,,,4,,,1
@@ -47,7 +47,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 41,TECHNICAL ELECTIVE (TE) 2,,,,,,4,,,12
 36,BENG 125,BENG,125,,,,4,,,12
 37,BENG 187D,BENG,187D,34,,,1,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 42,GE 1,,,,,,4,,,1
 43,GE 2,,,,,,4,,,3

@@ -1,10 +1,10 @@
-Curriculum,Biochemistry and Cell Biology
-Degree Plan,Biochemistry and Cell Biology/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0202
-Courses
+Curriculum,Biochemistry and Cell Biology,,,,,,,,,
+Degree Plan,Biochemistry and Cell Biology/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0202,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,CHEM 6A,CHEM,6A,,,,4,,,1
 2,BILD 4,BILD,4,,,,2,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,UD BIOLOGY ELECTIVE 1,,,,,,4,,,10
 29,UD BIOLOGY ELECTIVE 2,,,,,,4,,,11
 30,UD BIOLOGY ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,GE / WRITING 1,,,,,,4,,,1
 32,DEI,,,,,,4,,,1

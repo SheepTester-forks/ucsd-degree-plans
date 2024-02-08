@@ -1,10 +1,10 @@
-Curriculum,Bioengineering: Bioinformatics
-Degree Plan,Bioengineering: Bioinformatics/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Bioengineering: Bioinformatics,,,,,,,,,
+Degree Plan,Bioengineering: Bioinformatics/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -47,7 +47,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 36,BENG 187D,BENG,187D,33,,,1,,,12
 37,BENG 125,BENG,125,,,,4,,,12
 46,TECHNICAL ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 47,FINE ARTS,,,,,,4,,,1
 38,HUM 1,HUM,1,,,,6,,,2

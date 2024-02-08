@@ -1,10 +1,10 @@
-Curriculum,Mathematics-Scientific Computation
-Degree Plan,Mathematics-Scientific Computation/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0199
-Courses
+Curriculum,Mathematics-Scientific Computation,,,,,,,,,
+Degree Plan,Mathematics-Scientific Computation/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CSE 11,CSE,11,,,,4,,,1
@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,UD MAJOR 12,,,,,,4,,,11
 35,UD MAJOR 13,,,,,,4,,,12
 36,UD MAJOR 14,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 37,LANGUAGE 1,,,,,,5,,,1
 13,HUM 1,HUM,1,,,,6,,,2

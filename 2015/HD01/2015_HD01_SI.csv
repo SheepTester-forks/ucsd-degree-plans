@@ -1,10 +1,10 @@
-Curriculum,
-Degree Plan,/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,19.0701
-Courses
+Curriculum,,,,,,,,,,
+Degree Plan,/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,19.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,LD SOC SCI 1,,,,,,4,,,1
 13,LD FORMAL SKILLS,,,,,,4,,,1
@@ -31,7 +31,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,HONORS METHODS,,,,,,4,,,11
 6,HDP 150,HDP,150,2,,,4,,,12
 7,HDP 194C,HDP,194C,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,CAT 1,CAT,1,,,,4,,,1
 9,CAT 2,CAT,2,8,,,6,,,2

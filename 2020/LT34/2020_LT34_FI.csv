@@ -1,10 +1,10 @@
-Curriculum,Literature/Writing
-Degree Plan,Literature/Writing/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.9999
-Courses
+Curriculum,Literature/Writing,,,,,,,,,
+Degree Plan,Literature/Writing/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LTEN 26,LTEN,26,,,,4,,,1
 9,LD LIT LANG 1,,,,,,5,,,1
@@ -30,7 +30,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,UD LIT ELECTIVE 1,,,,,,4,,,11
 28,UD LTWR 6,,,,,,4,,,12
 29,UD LIT ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MMW 11,MMW,11,,,,4,,,1
 30,GE 1,,,,,,4,,,1

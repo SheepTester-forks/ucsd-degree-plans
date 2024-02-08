@@ -1,10 +1,10 @@
-Curriculum,Global Health
-Degree Plan,Global Health/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,51.2210
-Courses
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,HILD 30 / GLBH 20 REQT,HILD,30,,,,4,,,1
 9,LOWER DIV SOC COURSE,,,,,,4,,,4
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,ELECTIVE 7,,,,,,4,,,12
 6,GLBH 150B SENIOR CAPSTONE II,GLBH,150B,5,,,4,,,12
 19,ELECTIVE 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,DOC 1 / DEI,DOC,1,,,,4,,,1
 20,GE 1,,,,,,4,,,1

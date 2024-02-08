@@ -1,9 +1,9 @@
-Curriculum,Cognitive Science
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive Science,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,30.2501,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 10A / 20A,MATH,10A,,,,4,,
 2,MATH 10B / 20B,MATH,10B,1,,,4,,

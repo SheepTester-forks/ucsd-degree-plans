@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Health Policy and Management Sciences
-Degree Plan,Bachelor of Science in Public Health with Concentration in Health Policy and Management Sciences/ Eighth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2299
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Health Policy and Management Sciences,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Health Policy and Management Sciences/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,FMPH 40,FMPH,40,,,,4,,,1
 2,BILD 3,BILD,3,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,FMPH UDE 2,,,,,,4,,,11
 9,FMPH 194,FMPH,194,8,,,4,,,12
 25,FMPH UDE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,DEI,,,,,,4,,,1
 10,CCE 1,CCE,1,,,,4,,,2

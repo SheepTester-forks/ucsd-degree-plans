@@ -1,10 +1,10 @@
-Curriculum,Biological Anthropology
-Degree Plan,Biological Anthropology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,45.0299
-Courses
+Curriculum,Biological Anthropology,,,,,,,,,
+Degree Plan,Biological Anthropology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,BILD 1 (BIOLOGY GE),BILD,1,,,,4,,,1
 2,BILD 2 (NAT SCI GE),BILD,2,1,,,4,,,2
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,ANTHROPOLOGY UD ELECTIVE COURSE 2,,,,,,4,,,10
 25,ANTHROPOLOGY UD ELECTIVE COURSE 3,,,,,,4,,,11
 26,ANTHROPOLOGY UD ELECTIVE COURSE 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 27,DEI,,,,,,4,,,1
 28,FINE ARTS GE,,,,,,4,,,1

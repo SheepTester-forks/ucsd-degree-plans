@@ -1,10 +1,10 @@
-Curriculum,Nanoengineering
-Degree Plan,Nanoengineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.9999
-Courses
+Curriculum,Nanoengineering,,,,,,,,,
+Degree Plan,Nanoengineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,BENG 103B,BENG,103B,21,,,4,,,12
 32,NANO 120B,NANO,120B,29,,,4,,,12
 33,NANO 112,NANO,112,20;22;30,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 43,DEI / SOCIAL SCIENCE,,,,,,4,,,1
 34,HUM 1,HUM,1,,,,6,,,2

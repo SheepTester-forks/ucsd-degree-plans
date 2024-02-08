@@ -1,10 +1,10 @@
-Curriculum,Literature/Cultural Studies
-Degree Plan,Literature/Cultural Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.9999
-Courses
+Curriculum,Literature/Cultural Studies,,,,,,,,,
+Degree Plan,Literature/Cultural Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,LD LIT LANG 1,,,,,,5,,,1
 11,LD LIT LANG 2,,,,,,5,,,2
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,UD LTCS 2,,,,,,4,,,11
 27,UD LIT ELECTIVE 4,,,,,,4,,,12
 28,UD LIT ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,MATH 10A,MATH,10A,,,,4,,,1
 29,FINE ARTS,,,,,,4,,,1

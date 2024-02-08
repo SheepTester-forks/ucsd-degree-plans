@@ -1,10 +1,10 @@
-Curriculum,Aerospace Engineering
-Degree Plan,Aerospace Engineering/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0201
-Courses
+Curriculum,Aerospace Engineering,,,,,,,,,
+Degree Plan,Aerospace Engineering/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,MAE 155A,MAE,155A,3;8;30;23;25,,,4,,,11
 35,MAE 155B,MAE,155B,32;33;34;28,,,4,,,12
 39,MAE TE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 36,DOC 1 / DEI,DOC,1,,,,4,,,1
 37,DOC 2,DOC,2,36,,,6,,,2

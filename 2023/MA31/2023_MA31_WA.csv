@@ -1,10 +1,10 @@
-Curriculum,Mathematics/Applied Science
-Degree Plan,Mathematics/Applied Science/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0199
-Courses
+Curriculum,Mathematics/Applied Science,,,,,,,,,
+Degree Plan,Mathematics/Applied Science/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MATH 20B,MATH,20B,1,,,4,,,2
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,UD MAJOR 11,,,,,,4,,,11
 25,UD MAJOR 12,,,,,,4,,,12
 26,UD MAJOR 13,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,WCWP 10A,WCWP,10A,,,,4,,,1
 27,GE 1,,,,,,4,,,1

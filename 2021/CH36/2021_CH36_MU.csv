@@ -1,10 +1,10 @@
-Curriculum,Molecular Synthesis
-Degree Plan,Molecular Synthesis/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0599
-Courses
+Curriculum,Molecular Synthesis,,,,,,,,,
+Degree Plan,Molecular Synthesis/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,MOLECULAR SYNTHESIS ELECTIVE,,,,,,4,,,11
 28,CHEM 125 / 157,CHEM,125,25;17,,,4,,,12
 32,CHEM 123 / 143C / 143D 2,CHEM,123,17;13;21,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 33,GE 1,,,,,,4,,,1
 29,MCWP 40 / GE,MCWP,40,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,World Literature and Culture
-Degree Plan,World Literature and Culture/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,24.0199
-Courses
+Curriculum,World Literature and Culture,,,,,,,,,
+Degree Plan,World Literature and Culture/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,24.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,LD LANGUAGE 1,,,,,,5,,,1
 9,LD LANGUAGE 2,,,,,,5,,,2
@@ -30,7 +30,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,UD LIT ELECTIVE 1,,,,,,4,,,11
 27,UD LIT ELECTIVE 2,,,,,,4,,,12
 28,UD LIT ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 29,FINE ARTS,,,,,,2,,,1

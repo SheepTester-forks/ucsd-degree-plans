@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Community Health Sciences
-Degree Plan,Bachelor of Science in Public Health with Concentration in Community Health Sciences/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2208
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Community Health Sciences,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Community Health Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2208,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,FMPH 40,FMPH,40,,,,4,,,1
 18,SOCIAL / BEHAV SCIENCE (SOCIAL SCIENCE GE - SEE NOTE) 1,,,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,MAJOR UDE 1,,,,,,4,,,11
 9,FMPH 194,FMPH,194,8,,,4,,,12
 28,MAJOR UDE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,MATH 10A / 20A,MATH,10A,,,,4,,,1
 11,HUM 1,HUM,1,,,,6,,,2

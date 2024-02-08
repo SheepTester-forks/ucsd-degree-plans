@@ -1,10 +1,10 @@
-Curriculum,Pharmacological Chemistry
-Degree Plan,Pharmacological Chemistry/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0599
-Courses
+Curriculum,Pharmacological Chemistry,,,,,,,,,
+Degree Plan,Pharmacological Chemistry/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 1,MATH 10A,MATH,10A,,,,4,,,1
@@ -38,7 +38,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,RESTRICTED ELECTIVE 1,,,,,,4,,,11
 34,CHEM ELECTIVE,,,,,,4,,,12
 35,RESTRICTED ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 36,DEI,,,,,,4,,,1
 29,SYN 1,SYN,1,,,,4,,,2

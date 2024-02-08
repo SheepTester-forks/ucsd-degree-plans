@@ -1,10 +1,10 @@
-Curriculum,History
-Degree Plan,History/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,54.0101
-Courses
+Curriculum,History,,,,,,,,,
+Degree Plan,History/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,54.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,HILD 1,,,,,,4,,,1
 11,HILD 2,,,,,,4,,,2
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,HIUD 10,,,,,,4,,,11
 23,HIUD 11,,,,,,4,,,12
 24,HIUD 12,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 2,CHEM 11,CHEM,11,,,,4,,,1

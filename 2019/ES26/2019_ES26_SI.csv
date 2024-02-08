@@ -1,10 +1,10 @@
-Curriculum,"Environmental Systems (Ecology, Behavior and Evolution)"
-Degree Plan,"Environmental Systems (Ecology, Behavior and Evolution)/ Sixth"
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,03.0103
-Courses
+Curriculum,"Environmental Systems (Ecology, Behavior and Evolution)",,,,,,,,,
+Degree Plan,"Environmental Systems (Ecology, Behavior and Evolution)/ Sixth",,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,03.0103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 2,BILD 3,BILD,3,,,,4,,,1
@@ -35,7 +35,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 32,ESYS MAJOR ELECTIVE 4,,,,,,4,,,11
 33,ESYS 190A 2,ESYS,190A,,,,4,,,11
 23,ESYS 190B,ESYS,190B,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,CAT 1,CAT,1,,,,4,,,1
 25,CAT 2,CAT,2,24,,,6,,,2

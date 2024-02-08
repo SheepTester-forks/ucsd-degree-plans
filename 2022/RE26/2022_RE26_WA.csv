@@ -1,10 +1,10 @@
-Curriculum,Study of Religion
-Degree Plan,Study of Religion/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0201
-Courses
+Curriculum,Study of Religion,,,,,,,,,
+Degree Plan,Study of Religion/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,GE / DEI,,,,,,4,,,6
 8,UD ARTS & HUMANITIES (MAJOR) 1,,,,,,4,,,7
@@ -19,7 +19,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 2,RELI 189,RELI,189,1,,,4,,,11
 16,UD ELECTIVE (MAJOR) 3,,,,,,4,,,12
 17,UD ELECTIVE (MAJOR) 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,WCWP 10A,WCWP,10A,,,,4,,,1
 18,GE 1,,,,,,4,,,1

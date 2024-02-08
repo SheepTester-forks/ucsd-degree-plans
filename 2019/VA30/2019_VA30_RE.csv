@@ -1,10 +1,10 @@
-Curriculum,Speculative Design
-Degree Plan,Speculative Design/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0401
-Courses
+Curriculum,Speculative Design,,,,,,,,,
+Degree Plan,Speculative Design/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0401,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,"VIS 1, 2, / 3",VIS,1,,,,4,,,1
 2,VIS 30,VIS,30,,,,4,,,1
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,ADVANCED LEVEL: ELECTIVE 2,,,,,,4,,,10
 29,ADVANCED LEVEL: ELECTIVE 3,,,,,,4,,,11
 11,VIS 190,VIS,190,7,,,8,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,CHEM 11,CHEM,11,,,,4,,,1
 15,HUM 1,HUM,1,,,,6,,,2

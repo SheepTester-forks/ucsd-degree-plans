@@ -1,10 +1,10 @@
-Curriculum,Political Science/Political Theory
-Degree Plan,Political Science/Political Theory/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1099
-Courses
+Curriculum,Political Science/Political Theory,,,,,,,,,
+Degree Plan,Political Science/Political Theory/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,LD POLI 1,,,,,,4,,,1
 8,LD POLI 2,,,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,UD POLI 6,,,,,,4,,,10
 17,UD POLITICAL THEORY,,,,,,4,,,11
 18,UD POLI 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 19,GE 1,,,,,,4,,,1
 20,GE 2,,,,,,4,,,1

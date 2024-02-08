@@ -1,10 +1,10 @@
-Curriculum,Education Sciences
-Degree Plan,Education Sciences/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,13.0101
-Courses
+Curriculum,Education Sciences,,,,,,,,,
+Degree Plan,Education Sciences/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,EDS LD,,,,,,2,,,4
 8,EDS UD ELECTIVE 1,,,,,,4,,,7
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,EDS 139 2,EDS,139,,,,2,,,11
 17,EDS CAPSTONE 2,,,,,,4,,,12
 18,EDS 139 3,EDS,139,,,,2,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,DOC 1 / DEI,DOC,1,,,,4,,,1
 19,GE 1,,,,,,4,,,1

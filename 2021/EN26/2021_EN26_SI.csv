@@ -1,10 +1,10 @@
-Curriculum,Management Science
-Degree Plan,Management Science/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,52.1301
-Courses
+Curriculum,Management Science,,,,,,,,,
+Degree Plan,Management Science/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,52.1301,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,ECON 1,ECON,1,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,ECON UD ELECTIVE 2,,,,,,4,,,10
 25,ECON UD ELECTIVE 3,,,,,,4,,,11
 26,ECON UD ELECTIVE 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 19,CAT 1,CAT,1,,,,4,,,1
 27,GE 1,,,,,,4,,,1

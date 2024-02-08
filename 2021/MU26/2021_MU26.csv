@@ -1,9 +1,9 @@
-Curriculum,Music Humanities
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0999
-Courses
+Curriculum,Music Humanities,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,50.0999,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MUS 43 1,MUS,43,,,,1,,
 2,MUS 1A / 2A,MUS,1A,,,,4,,

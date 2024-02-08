@@ -1,10 +1,10 @@
-Curriculum,International Studies-Economics
-Degree Plan,International Studies-Economics/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,International Studies-Economics,,,,,,,,,
+Degree Plan,International Studies-Economics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,LANGUAGE 1,,,,,,5,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -31,7 +31,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,DF6 - ECONOMICS,,,,,,4,,,11
 28,DF8 - ECONOMICS,,,,,,4,,,12
 29,DF7 - ECONOMICS,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,CAT 1,CAT,1,,,,4,,,1
 30,ELECTIVE 1,,,,,,4,,,1

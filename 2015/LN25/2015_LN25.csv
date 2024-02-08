@@ -1,9 +1,9 @@
-Curriculum,Linguistics
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Linguistics,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,30.2501,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 7,LANGUAGE REQUIREMENT 1,,,,,,5,,
 8,LANGUAGE REQUIREMENT 2,,,,,,5,,

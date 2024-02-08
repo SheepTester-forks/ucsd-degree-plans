@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Studio)
-Degree Plan,Visual Arts (Studio)/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0702
-Courses
+Curriculum,Visual Arts (Studio),,,,,,,,,
+Degree Plan,Visual Arts (Studio)/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0702,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,FOUNDATION ART MAKING 1,,,,,,4,,,1
 1,VIS 80,VIS,80,,,,4,,,1
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,UD ADVANCED ART MAKING,,,,,,4,,,10
 19,UD ADVANCED INTERDISCIPLINARY 1,,,,,,4,,,11
 20,UD ADVANCED INTERDISCIPLINARY 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MCWP 40 / GE,MCWP,40,,,,4,,,1
 21,GE 1,,,,,,4,,,1

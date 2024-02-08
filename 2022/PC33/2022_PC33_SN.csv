@@ -1,10 +1,10 @@
-Curriculum,Psychology with a Specialization in Social Psychology
-Degree Plan,Psychology with a Specialization in Social Psychology/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.2707
-Courses
+Curriculum,Psychology with a Specialization in Social Psychology,,,,,,,,,
+Degree Plan,Psychology with a Specialization in Social Psychology/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.2707,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,NATURAL SCIENCE 1,,,,,,4,,,1
 10,NATURAL SCIENCE 2,,,,,,4,,,2
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,PSYC UD SPECIALIZATION 2,,,,,,4,,,11
 24,PSYC UD ELECTIVE 5,,,,,,4,,,12
 25,PSYC UD SPECIALIZATION 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,DEI,,,,,,4,,,1
 27,ALTERNATIVE 1,,,,,,4,,,1

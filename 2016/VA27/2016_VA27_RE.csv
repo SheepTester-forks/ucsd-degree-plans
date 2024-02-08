@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Media)
-Degree Plan,Visual Arts (Media)/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0101
-Courses
+Curriculum,Visual Arts (Media),,,,,,,,,
+Degree Plan,Visual Arts (Media)/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,VIS 84,VIS,84,,,,4,,,1
 1,VIS 70N,VIS,70N,,,,6,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,ADVANCED LEVEL: ART MAKING 2,,,,,,4,,,10
 28,ADVANCED LEVEL: ART MAKING 3,,,,,,4,,,11
 29,ADVANCED LEVEL: INTERDISCIPLINARY,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,MATH 10A,MATH,10A,,,,4,,,1
 7,MATH 10B,MATH,10B,6,,,4,,,2

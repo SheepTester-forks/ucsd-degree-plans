@@ -1,10 +1,10 @@
-Curriculum,General Physics/Secondary Education
-Degree Plan,General Physics/Secondary Education/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,General Physics/Secondary Education,,,,,,,,,
+Degree Plan,General Physics/Secondary Education/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,EDS 129A,EDS,129A,,,,4,,,10
 27,EDS 129B,EDS,129B,26,,,4,,,11
 28,EDS 129C,EDS,129C,27,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 29,DOC 1 / DEI,DOC,1,,,,4,,,1
 34,GE 1,,,,,,4,,,1

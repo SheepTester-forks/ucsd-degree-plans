@@ -1,9 +1,9 @@
-Curriculum,Electrical Engineering
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1001
-Courses
+Curriculum,Electrical Engineering,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,14.1001,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 18,MATH,18,,,,4,,
 2,ECE 5,ECE,5,,,,4,,

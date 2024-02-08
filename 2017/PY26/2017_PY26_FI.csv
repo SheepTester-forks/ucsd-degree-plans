@@ -1,10 +1,10 @@
-Curriculum,Physics-Biophysics
-Degree Plan,Physics-Biophysics/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,Physics-Biophysics,,,,,,,,,
+Degree Plan,Physics-Biophysics/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM6A,CHEM,6A,,,,4,,,1
@@ -38,7 +38,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 36,BIOPHYSICS ELECTIVE,,,,,,4,,,11
 29,PHYS 173,PHYS,173,25;15;12,,,4,,,12
 37,PHYS RE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,MMW 11,MMW,11,,,,4,,,1
 31,MMW 12,MMW,12,,,,6,,,2

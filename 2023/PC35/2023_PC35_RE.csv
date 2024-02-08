@@ -1,10 +1,10 @@
-Curriculum,Business Psychology
-Degree Plan,Business Psychology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.9999
-Courses
+Curriculum,Business Psychology,,,,,,,,,
+Degree Plan,Business Psychology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,NATURAL SCIENCE / BIOLOGY GE,,,,,,4,,,1
 16,NATURAL SCIENCE 1,,,,,,4,,,2
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,BUS MGT 3,,,,,,4,,,11
 28,BUS PSYC ELECTIVE 3,,,,,,4,,,12
 29,BUS PSYC RESEARCH 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,DEI / SOCIAL SCIENCE GE,,,,,,4,,,1
 31,FINE ARTS GE,,,,,,4,,,1

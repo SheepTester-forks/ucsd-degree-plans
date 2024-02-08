@@ -1,10 +1,10 @@
-Curriculum,Engineering Physics
-Degree Plan,Engineering Physics/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1201
-Courses
+Curriculum,Engineering Physics,,,,,,,,,
+Degree Plan,Engineering Physics/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MATH 18,MATH,18,,,,4,,,1
@@ -45,7 +45,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 40,TECHNICAL ELECTIVE 2,,,,,,4,,,12
 41,PROFESSIONAL ELECTIVE 2,,,,,,4,,,12
 42,PROFESSIONAL ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 32,DOC 1 / DEI,DOC,1,,,,4,,,1
 33,DOC 2,DOC,2,32,,,6,,,2

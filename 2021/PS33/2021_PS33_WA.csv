@@ -1,10 +1,10 @@
-Curriculum,Political Science/International Affairs
-Degree Plan,Political Science/International Affairs/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0901
-Courses
+Curriculum,Political Science/International Affairs,,,,,,,,,
+Degree Plan,Political Science/International Affairs/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,POLI 11D,POLI,11D,,,,4,,,1
 2,POLI 12D,POLI,12D,,,,4,,,2
@@ -20,7 +20,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,UD POLI 2,,,,,,4,,,7
 17,UD POLI - INTERNATIONAL POLITICAL ECONOMY 2,,,,,,4,,,7
 18,UD POLI 3,,,,,,4,,,8
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,WCWP 10A,WCWP,10A,,,,4,,,1
 19,GE 1,,,,,,4,,,1

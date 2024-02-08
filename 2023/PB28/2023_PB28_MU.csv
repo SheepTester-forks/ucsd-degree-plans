@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Community Health Sciences
-Degree Plan,Bachelor of Science in Public Health with Concentration in Community Health Sciences/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2208
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Community Health Sciences,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Community Health Sciences/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2208,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,SBE 1,,,,,,4,,,1
 1,FMPH 40,FMPH,40,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UDE 1,,,,,,4,,,11
 9,FMPH 194,FMPH,194,8,,,4,,,12
 23,UDE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,MCWP 40,MCWP,40,,,,4,,,1
 24,GE 1,,,,,,4,,,1

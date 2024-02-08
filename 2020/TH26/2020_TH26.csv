@@ -1,9 +1,9 @@
-Curriculum,Theatre
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0501
-Courses
+Curriculum,Theatre,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,50.0501,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,TDGE 1,TDGE,1,,,,4,,
 2,TDAC 1,TDAC,1,,,,4,,

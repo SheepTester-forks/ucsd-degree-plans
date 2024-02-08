@@ -1,9 +1,9 @@
-Curriculum,Psychology with a Specialization in Developmental Psychology
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.2703
-Courses
+Curriculum,Psychology with a Specialization in Developmental Psychology,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,42.2703,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 6,NATURAL SCIENCE 1,,,,,,4,,
 1,MATH 10A / 20A,MATH,10A,,,,4,,

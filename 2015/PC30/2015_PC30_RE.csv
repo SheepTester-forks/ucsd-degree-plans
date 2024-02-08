@@ -1,10 +1,10 @@
-Curriculum,Psychology with a Specialization in Developmental Psychology
-Degree Plan,Psychology with a Specialization in Developmental Psychology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.2703
-Courses
+Curriculum,Psychology with a Specialization in Developmental Psychology,,,,,,,,,
+Degree Plan,Psychology with a Specialization in Developmental Psychology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.2703,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,UD PSYC ELECTIVE 4,,,,,,4,,,11
 29,UD PSYC AREA OF SPECIALIZATION 3,,,,,,4,,,12
 30,UD PSYC ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,CHEM 11,CHEM,11,,,,4,,,1
 31,DEI,,,,,,4,,,1

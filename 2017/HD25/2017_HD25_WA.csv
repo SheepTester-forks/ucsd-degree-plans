@@ -1,10 +1,10 @@
-Curriculum,Human Development
-Degree Plan,Human Development/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,19.0701
-Courses
+Curriculum,Human Development,,,,,,,,,
+Degree Plan,Human Development/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,19.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,LD PRE - MAJOR 1,,,,,,4,,,1
 6,LD PRE - MAJOR 2,,,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,HDP HONORS THESIS 2,,,,,,4,,,11
 4,HDP 150,HDP,150,,,,4,,,12
 23,HDP HONORS THESIS 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,GE 1,,,,,,4,,,1
 25,GE 2,,,,,,4,,,1

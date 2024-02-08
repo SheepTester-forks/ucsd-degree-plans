@@ -1,10 +1,10 @@
-Curriculum,Environmental Engineering
-Degree Plan,Environmental Engineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.9999
-Courses
+Curriculum,Environmental Engineering,,,,,,,,,
+Degree Plan,Environmental Engineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,MAE 126A,MAE,126A,23;27,,,4,,,11
 41,MAE TE (SIO),,,,,,4,,,12
 32,MAE 126B,MAE,126B,31,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 42,SOCIAL SCIENCE,,,,,,4,,,1
 43,FINE ARTS,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Media)
-Degree Plan,Visual Arts (Media)/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0101
-Courses
+Curriculum,Visual Arts (Media),,,,,,,,,
+Degree Plan,Visual Arts (Media)/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,"VIS 1, 2, / 3",VIS,1,,,,4,,,1
 2,VIS 70N,VIS,70N,,,,6,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,MEDIA ADVANCED ELECTIVE 1,,,,,,4,,,11
 19,MEDIA ADVANCED LEVEL 3,,,,,,4,,,11
 20,MEDIA ADVANCED ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 21,GE 1,,,,,,4,,,1
 22,GE 2,,,,,,4,,,2

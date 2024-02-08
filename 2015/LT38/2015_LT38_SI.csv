@@ -1,10 +1,10 @@
-Curriculum,Literatures of the World
-Degree Plan,Literatures of the World/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,24.0199
-Courses
+Curriculum,Literatures of the World,,,,,,,,,
+Degree Plan,Literatures of the World/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,24.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,LD LIT LANG 1,,,,,,5,,,1
 6,LD LIT LANG 2,,,,,,5,,,2
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,UD LIT COURSE (THEME 1 / THEME 2) 8,,,,,,4,,,11
 25,UD LIT COURSE (THEME 1 / THEME 2) 9,,,,,,4,,,12
 26,UD LIT COURSE (THEME 1 / THEME 2) 10,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CAT 1,CAT,1,,,,4,,,1
 27,GE 1,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,"Ecology, Behavior and Evolution"
-Degree Plan,"Ecology, Behavior and Evolution/ Muir"
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1399
-Courses
+Curriculum,"Ecology, Behavior and Evolution",,,,,,,,,
+Degree Plan,"Ecology, Behavior and Evolution/ Muir",,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1399,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,BILD 4,BILD,4,,,,2,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -34,7 +34,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,UD BIEB CORE 4,,,,,,4,,,10
 27,UD BIOLOGY ELECTIVE 1,,,,,,4,,,11
 28,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 29,GE / WRITING 1,,,,,,4,,,1
 30,GE / WRITING 2,,,,,,4,,,2

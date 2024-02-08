@@ -1,10 +1,10 @@
-Curriculum,Sociology
-Degree Plan,Sociology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1101
-Courses
+Curriculum,Sociology,,,,,,,,,
+Degree Plan,Sociology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,SOCI 1,SOCI,1,,,,4,,,1
 2,SOCI 2,SOCI,2,,,,4,,,2
@@ -13,7 +13,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 4,"SOCI 10, 20, 30, 40, / 50",SOCI,10,,,,4,,,5
 5,SOCI 100,SOCI,100,,,,4,,,7
 11,SOCI UD ELECTIVE 1,,,,,,4,,,8
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,MMW 11,MMW,11,,,,4,,,1
 12,GE 1,,,,,,4,,,1

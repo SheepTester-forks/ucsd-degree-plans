@@ -1,10 +1,10 @@
-Curriculum,
-Degree Plan,/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.9999
-Courses
+Curriculum,,,,,,,,,,
+Degree Plan,/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,MAJOR CLASSES AND ELECTIVES (VARIES) 1,,,,,,12,,,7
 9,MAJOR CLASSES AND ELECTIVES (VARIES) 2,,,,,,12,,,8
@@ -12,7 +12,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 11,MAJOR CLASSES AND ELECTIVES (VARIES) 4,,,,,,16,,,10
 12,MAJOR CLASSES AND ELECTIVES (VARIES) 5,,,,,,16,,,11
 13,MAJOR CLASSES AND ELECTIVES (VARIES) 6,,,,,,16,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 14,CHEMISTRY GE,,,,,,4,,,1

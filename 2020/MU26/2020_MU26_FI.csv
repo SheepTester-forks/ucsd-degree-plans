@@ -1,10 +1,10 @@
-Curriculum,Music Humanities
-Degree Plan,Music Humanities/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0999
-Courses
+Curriculum,Music Humanities,,,,,,,,,
+Degree Plan,Music Humanities/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MUS 43 1,MUS,43,,,,1,,,1
 13,ENSEMBLE 1,,,,,,2,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,UD FOCUS COURSE 5,,,,,,4,,,11
 34,MUS 43 12,MUS,43,,,,1,,,12
 35,UD FOCUS COURSE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,MMW 11,MMW,11,,,,4,,,1
 36,GE 1,,,,,,4,,,1

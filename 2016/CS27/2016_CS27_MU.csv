@@ -1,10 +1,10 @@
-Curriculum,Computer Science with Specialization in Bioinformatics
-Degree Plan,Computer Science with Specialization in Bioinformatics/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Computer Science with Specialization in Bioinformatics,,,,,,,,,
+Degree Plan,Computer Science with Specialization in Bioinformatics/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CSE 8A,CSE,8A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -46,7 +46,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,CSE ELECTIVE 4,,,,,,4,,,12
 34,BIMM 185,BIMM,185,26;26;26;26;26;26;26;32;26;26,,,4,,,12
 40,CSE ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 41,GE / WRITING 1,,,,,,4,,,1
 42,GE 1,,,,,,4,,,3

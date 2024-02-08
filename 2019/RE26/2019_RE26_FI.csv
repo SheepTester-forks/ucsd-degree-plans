@@ -1,10 +1,10 @@
-Curriculum,Study of Religion
-Degree Plan,Study of Religion/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0201
-Courses
+Curriculum,Study of Religion,,,,,,,,,
+Degree Plan,Study of Religion/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,UD MAJOR ELECTIVE 1,,,,,,4,,,7
 10,UD MAJOR ELECTIVE 2,,,,,,4,,,7
@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 3,RELI 189 SEMINAR IN RELIGION,RELI,189,2,,,4,,,11
 17,UD MAJOR ELECTIVE 9,,,,,,4,,,12
 18,UD MAJOR ELECTIVE 10,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MMW 11,MMW,11,,,,4,,,1
 19,GE 1,,,,,,4,,,1

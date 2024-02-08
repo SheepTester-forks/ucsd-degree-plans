@@ -1,10 +1,10 @@
-Curriculum,Molecular Biology
-Degree Plan,Molecular Biology/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0204
-Courses
+Curriculum,Molecular Biology,,,,,,,,,
+Degree Plan,Molecular Biology/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0204,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,BILD 4,BILD,4,,,,2,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,UD BIOLOGY LAB,,,,,,4,,,10
 27,BIMM 122,BIMM,122,22,,,4,,,11
 30,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,GE 1,,,,,,4,,,1
 32,GE 2,,,,,,4,,,2

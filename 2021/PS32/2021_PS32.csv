@@ -1,9 +1,9 @@
-Curriculum,Political Science/Data Analytics
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,45.1099
-Courses
+Curriculum,Political Science/Data Analytics,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,45.1099,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 3,LD POLI 1,,,,,,4,,
 1,POLI 5(D),POLI,5,,,,4,,

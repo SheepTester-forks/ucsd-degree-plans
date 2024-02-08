@@ -1,10 +1,10 @@
-Curriculum,Mathematical Biology
-Degree Plan,Mathematical Biology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0306
-Courses
+Curriculum,Mathematical Biology,,,,,,,,,
+Degree Plan,Mathematical Biology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0306,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 18,PROGRAMMING COURSE,,,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,MAJOR UD ELECTIVE 9,,,,,,4,,,11
 30,MAJOR UD ELECTIVE 10,,,,,,4,,,12
 31,MAJOR UD ELECTIVE 11,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 32,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
 13,HUM 1,HUM,1,,,,6,,,2

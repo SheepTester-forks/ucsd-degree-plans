@@ -1,9 +1,9 @@
-Curriculum,World Literature and Culture
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,24.0199
-Courses
+Curriculum,World Literature and Culture,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,24.0199,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LD LIT LANG 1,,,,,,5,,
 2,LD LIT LANG 2,,,,,,5,,

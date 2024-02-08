@@ -1,9 +1,9 @@
-Curriculum,Public Health
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2201
-Courses
+Curriculum,Public Health,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,51.2201,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,FMPH 40,FMPH,40,,,,4,,
 10,SBE 1,,,,,,4,,

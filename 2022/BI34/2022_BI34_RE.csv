@@ -1,10 +1,10 @@
-Curriculum,Biology with Specialization in Bioinformatics
-Degree Plan,Biology with Specialization in Bioinformatics/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Biology with Specialization in Bioinformatics,,,,,,,,,
+Degree Plan,Biology with Specialization in Bioinformatics/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 20A,MATH,20A,,,,4,,,1
 1,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,BIMM 181,BIMM,181,20;22;23,,,4,,,11
 35,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
 28,BIMM 182,BIMM,182,20,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 36,FINE ARTS GE,,,,,,2,,,1
 29,HUM 1,HUM,1,,,,6,,,2

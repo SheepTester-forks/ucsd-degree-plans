@@ -1,10 +1,10 @@
-Curriculum,Aerospace Engineering
-Degree Plan,Aerospace Engineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0201
-Courses
+Curriculum,Aerospace Engineering,,,,,,,,,
+Degree Plan,Aerospace Engineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,MAE 113,MAE,113,20;22;28,,,4,,,11
 35,MAE 155B,MAE,155B,34;33;31;26,,,4,,,12
 42,TE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 43,SOCIAL SCIENCE GE,,,,,,4,,,1
 36,HUM 1,HUM,1,,,,6,,,2

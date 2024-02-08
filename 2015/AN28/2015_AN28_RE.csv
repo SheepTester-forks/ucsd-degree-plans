@@ -1,10 +1,10 @@
-Curriculum,Anthropology (Concentration in Sociocultural Anthropology)
-Degree Plan,Anthropology (Concentration in Sociocultural Anthropology)/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0201
-Courses
+Curriculum,Anthropology (Concentration in Sociocultural Anthropology),,,,,,,,,
+Degree Plan,Anthropology (Concentration in Sociocultural Anthropology)/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,ANTH 101: FOUNDATIONS OF SOCIAL COMPLEXITY,ANTH,101,,,,4,,,7
 17,ANSC CONC ELECTIVE 1,,,,,,4,,,7
@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,ANTH UD ELECTIVE 3,,,,,,4,,,11
 24,ANTH UD ELECTIVE 4,,,,,,4,,,12
 25,ANTH UD ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 4,MATH 10A,MATH,10A,,,,4,,,1

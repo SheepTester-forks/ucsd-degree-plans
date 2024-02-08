@@ -1,10 +1,10 @@
-Curriculum,World Literature and Culture
-Degree Plan,World Literature and Culture/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,24.0199
-Courses
+Curriculum,World Literature and Culture,,,,,,,,,
+Degree Plan,World Literature and Culture/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,24.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,LD LIT LANG 1,,,,,,5,,,1
 7,LD LIT LANG 2,,,,,,5,,,2
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,UD LIT ELECTIVE 1,,,,,,4,,,11
 25,UD LIT ELECTIVE 2,,,,,,4,,,12
 26,UD LIT ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CAT 1,CAT,1,,,,4,,,1
 27,GE 1,,,,,,4,,,1

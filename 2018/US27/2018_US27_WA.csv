@@ -1,10 +1,10 @@
-Curriculum,Real Estate and Development
-Degree Plan,Real Estate and Development/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,04.1001
-Courses
+Curriculum,Real Estate and Development,,,,,,,,,
+Degree Plan,Real Estate and Development/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,04.1001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,ECON 1,ECON,1,,,,4,,,4
 2,USP 1 (OR USP 2 IN WINTER),USP,1,,,,4,,,4
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,USP 185B,USP,185B,15,,,4,,,11
 17,USP 171,USP,171,,,,4,,,11
 20,RED UPPER DIVISION ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 21,GE 1,,,,,,4,,,1
 22,GE 2,,,,,,4,,,1

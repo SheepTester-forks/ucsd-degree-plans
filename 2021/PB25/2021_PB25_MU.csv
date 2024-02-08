@@ -1,10 +1,10 @@
-Curriculum,Public Health
-Degree Plan,Public Health/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2201
-Courses
+Curriculum,Public Health,,,,,,,,,
+Degree Plan,Public Health/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,SBE 1,,,,,,4,,,1
 1,FMPH 40,FMPH,40,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UDE 3,,,,,,4,,,11
 9,FMPH 194,FMPH,194,8,,,4,,,12
 23,UDE 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,MCWP 40 / GE,MCWP,40,,,,4,,,1
 24,GE 1,,,,,,4,,,1

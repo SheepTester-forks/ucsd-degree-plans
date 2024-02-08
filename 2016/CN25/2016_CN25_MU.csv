@@ -1,10 +1,10 @@
-Curriculum,Chinese Studies
-Degree Plan,Chinese Studies/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0123
-Courses
+Curriculum,Chinese Studies,,,,,,,,,
+Degree Plan,Chinese Studies/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0123,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CHIN 10A (M / D / N),CHIN,10A,,,,5,,,1
 7,CHINESE STUDIES UD ELECTIVE 1,,,,,,4,,,1
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,CHINESE STUDIES UD ELECTIVE 9,,,,,,4,,,8
 17,CHINESE STUDIES UD ELECTIVE 10,,,,,,4,,,9
 18,CHINESE STUDIES UD ELECTIVE 11,,,,,,4,,,9
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 19,GE / WRITING 1,,,,,,4,,,1
 20,GE 1,,,,,,4,,,1

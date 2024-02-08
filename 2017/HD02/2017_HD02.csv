@@ -1,9 +1,9 @@
-Curriculum,
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,19.0701
-Courses
+Curriculum,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,19.0701,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 8,LD PRE - MAJOR 1,,,,,,4,,
 9,LD PRE - MAJOR 2,,,,,,4,,

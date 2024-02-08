@@ -1,9 +1,9 @@
-Curriculum,Mechanical Engineering
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1901
-Courses
+Curriculum,Mechanical Engineering,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,14.1901,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,CHEM 6A,CHEM,6A,,,,4,,
 2,MATH 20A,MATH,20A,,,,4,,

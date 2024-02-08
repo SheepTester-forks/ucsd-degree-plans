@@ -1,10 +1,10 @@
-Curriculum,Global South Studies
-Degree Plan,Global South Studies/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,Global South Studies,,,,,,,,,
+Degree Plan,Global South Studies/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MMW 13,MMW,13,3,,,6,,,3
 5,MMW 14 / GE 1,MMW,14,3;4,,,4,,,4
@@ -17,7 +17,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 12,UD MAJOR - ELECTIVE 4,,,,,,4,,,11
 13,UD MAJOR - ELECTIVE 5,,,,,,4,,,12
 14,UD MAJOR - ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MMW 11,MMW,11,,,,4,,,1
 15,GE 1,,,,,,4,,,1

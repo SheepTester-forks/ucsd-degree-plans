@@ -1,10 +1,10 @@
-Curriculum,Anthropology with Concentration in Climate Change and Human Solutions
-Degree Plan,Anthropology with Concentration in Climate Change and Human Solutions/ Eighth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0299
-Courses
+Curriculum,Anthropology with Concentration in Climate Change and Human Solutions,,,,,,,,,
+Degree Plan,Anthropology with Concentration in Climate Change and Human Solutions/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,ANTH 101,ANTH,101,,,,4,,,7
 9,CLIMATE CHANGE CONCENTRATION COURSE 1,,,,,,4,,,7
@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 14,ANTHROPOLOGY UD ELECTIVE COURSE 3,,,,,,4,,,11
 15,ANTHROPOLOGY UD ELECTIVE COURSE 4,,,,,,4,,,12
 16,ANTHROPOLOGY UD ELECTIVE COURSE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 17,BREADTH GE 1,,,,,,4,,,1
 18,BREADTH GE 2,,,,,,4,,,1

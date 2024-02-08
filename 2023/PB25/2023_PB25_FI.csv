@@ -1,10 +1,10 @@
-Curriculum,Public Health
-Degree Plan,Public Health/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2201
-Courses
+Curriculum,Public Health,,,,,,,,,
+Degree Plan,Public Health/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,SBE 1,,,,,,4,,,1
 1,FMPH 40,FMPH,40,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 8,FMPH 193,FMPH,193,,,,4,,,11
 26,UD ELECTIVE 4,,,,,,4,,,12
 9,FMPH 194,FMPH,194,8,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,MMW 11,MMW,11,,,,4,,,1
 27,GE 1,,,,,,4,,,1

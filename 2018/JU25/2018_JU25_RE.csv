@@ -1,10 +1,10 @@
-Curriculum,Judaic Studies
-Degree Plan,Judaic Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0206
-Courses
+Curriculum,Judaic Studies,,,,,,,,,
+Degree Plan,Judaic Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0206,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,JUDA 1,JUDA,1,,,,5,,,1
 2,JUDA 2,JUDA,2,1,,,5,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,UD JS ELECTIVE 4,,,,,,4,,,10
 23,UD JS ELECTIVE 5,,,,,,4,,,11
 24,UD JS ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 10,MATH 10A,MATH,10A,,,,4,,,1
 11,CHEM 11,CHEM,11,,,,4,,,1

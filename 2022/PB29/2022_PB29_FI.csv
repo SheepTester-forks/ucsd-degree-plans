@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Epidemiology
-Degree Plan,Bachelor of Science in Public Health with Concentration in Epidemiology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2299
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Epidemiology,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Epidemiology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,SBE 1,,,,,,4,,,1
 1,BILD 1,BILD,1,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,UDE 1,,,,,,4,,,11
 10,FMPH 194,FMPH,194,9,,,4,,,12
 26,UDE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,MMW 11,MMW,11,,,,4,,,1
 27,GE 1,,,,,,4,,,1

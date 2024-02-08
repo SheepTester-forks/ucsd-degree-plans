@@ -1,10 +1,10 @@
-Curriculum,"Environmental Systems (Ecology, Behavior and Evolution)"
-Degree Plan,"Environmental Systems (Ecology, Behavior and Evolution)/ Muir"
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,03.0103
-Courses
+Curriculum,"Environmental Systems (Ecology, Behavior and Evolution)",,,,,,,,,
+Degree Plan,"Environmental Systems (Ecology, Behavior and Evolution)/ Muir",,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,03.0103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -35,7 +35,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,ESYS MAJOR ELECTIVE 4,,,,,,4,,,11
 23,ESYS 187B,ESYS,187B,22,,,4,,,11
 24,ESYS 187C,ESYS,187C,23,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 25,MCWP 40,MCWP,40,,,,4,,,1
 26,MCWP 50,MCWP,50,25,,,4,,,2

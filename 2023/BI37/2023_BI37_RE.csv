@@ -1,10 +1,10 @@
-Curriculum,Molecular and Cell Biology
-Degree Plan,Molecular and Cell Biology/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0406
-Courses
+Curriculum,Molecular and Cell Biology,,,,,,,,,
+Degree Plan,Molecular and Cell Biology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0406,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 3,CHEM 6A (CHEM GE),CHEM,6A,,,,4,,,1
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,UD MCB CORE 3,,,,,,4,,,11
 35,UD BIOLOGY ELECTIVE 1,,,,,,4,,,12
 36,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 37,FINE ARTS GE,,,,,,2,,,1
 26,HUM 1,HUM,1,,,,6,,,2

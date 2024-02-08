@@ -1,7 +1,7 @@
-Curriculum,
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,24.0103
-Courses
+Curriculum,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,24.0103,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name

@@ -1,10 +1,10 @@
-Curriculum,Critical Gender Studies
-Degree Plan,Critical Gender Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0299
-Courses
+Curriculum,Critical Gender Studies,,,,,,,,,
+Degree Plan,Critical Gender Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CGS 2A,CGS,2A,,,,4,,,1
 2,CGS 2B,CGS,2B,,,,4,,,3
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,CGS UD ELECTIVE 4,,,,,,4,,,9
 22,CGS UD ELECTIVE 5,,,,,,4,,,10
 23,CGS UD ELECTIVE 6,,,,,,4,,,11
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,MATH 10A,MATH,10A,,,,4,,,1
 24,FINE ARTS,,,,,,4,,,1

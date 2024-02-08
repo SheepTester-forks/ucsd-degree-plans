@@ -1,10 +1,10 @@
-Curriculum,Cognitive and Behavioral Neuroscience
-Degree Plan,Cognitive and Behavioral Neuroscience/ Eighth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive and Behavioral Neuroscience,,,,,,,,,
+Degree Plan,Cognitive and Behavioral Neuroscience/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,COGS 17,COGS,17,,,,4,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,ADDITIONAL ELECTIVE 1,,,,,,4,,,11
 26,CBN ELECTIVE 6,,,,,,4,,,12
 27,ADDITIONAL ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 28,DEI,,,,,,4,,,1
 8,CCE 1,CCE,1,,,,4,,,2

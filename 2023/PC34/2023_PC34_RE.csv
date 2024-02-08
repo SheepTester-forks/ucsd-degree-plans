@@ -1,10 +1,10 @@
-Curriculum,Cognitive and Behavioral Neuroscience
-Degree Plan,Cognitive and Behavioral Neuroscience/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive and Behavioral Neuroscience,,,,,,,,,
+Degree Plan,Cognitive and Behavioral Neuroscience/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,COGS 17 (BIOLOGY GE),COGS,17,,,,4,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,COGS / PSYC UD ELECTIVE 2,,,,,,4,,,11
 27,CBN RESEARCH 2,,,,,,4,,,12
 28,CBN UD ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 29,FINE ARTS GE,,,,,,4,,,1
 8,HUM 1,HUM,1,,,,6,,,2

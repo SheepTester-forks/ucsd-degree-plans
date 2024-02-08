@@ -1,10 +1,10 @@
-Curriculum,International Studies - Philosophy
-Degree Plan,International Studies - Philosophy/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,International Studies - Philosophy,,,,,,,,,
+Degree Plan,International Studies - Philosophy/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,LANGUAGE 1,,,,,,5,,,1
 5,LANGUAGE 2,,,,,,5,,,2
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,DF - 7 - PHILOSOPHY,,,,,,4,,,12
 19,DF - 8 - PHILOSOPHY,,,,,,4,,,12
 20,IE3 - INTERDISC ELECTIVE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 21,ELECTIVE 1,,,,,,4,,,1
 22,GE 1,,,,,,4,,,1

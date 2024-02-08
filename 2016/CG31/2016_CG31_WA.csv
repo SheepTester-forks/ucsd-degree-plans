@@ -1,10 +1,10 @@
-Curriculum,Cognitive Science with Specialization in Clinical Aspects of Cognition
-Degree Plan,Cognitive Science with Specialization in Clinical Aspects of Cognition/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive Science with Specialization in Clinical Aspects of Cognition,,,,,,,,,
+Degree Plan,Cognitive Science with Specialization in Clinical Aspects of Cognition/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,COGS 1,COGS,1,,,,4,,,1
 2,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,UD ELECTIVE 2,,,,,,4,,,11
 22,UD ELECTIVE 3,,,,,,4,,,12
 23,COGS UD ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,GE 1,,,,,,4,,,1
 25,GE 2,,,,,,4,,,1

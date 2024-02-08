@@ -1,10 +1,10 @@
-Curriculum,History
-Degree Plan,History/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,54.0101
-Courses
+Curriculum,History,,,,,,,,,
+Degree Plan,History/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,54.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,HILD 1,,,,,,4,,,1
 5,HILD 2,,,,,,4,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,HIUD 9,,,,,,4,,,8
 17,HIUD 10,,,,,,4,,,9
 18,HILD 5,,,,,,4,,,9
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 19,DEI,,,,,,4,,,1
 20,ALTERNATIVE 1,,,,,,4,,,1

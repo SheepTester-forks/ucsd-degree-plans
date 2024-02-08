@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Climate and Environmental Sciences
-Degree Plan,Bachelor of Science in Public Health with Concentration in Climate and Environmental Sciences/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2202
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Climate and Environmental Sciences,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Climate and Environmental Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2202,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 2,BILD 1,BILD,1,,,,4,,,1
@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,UDE 1,,,,,,4,,,11
 16,FMPH 194,FMPH,194,15,,,4,,,12
 31,UDE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 32,DEI,,,,,,4,,,1
 17,HUM 1,HUM,1,,,,6,,,2

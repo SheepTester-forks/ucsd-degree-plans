@@ -1,10 +1,10 @@
-Curriculum,Classical Studies
-Degree Plan,Classical Studies/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.1200
-Courses
+Curriculum,Classical Studies,,,,,,,,,
+Degree Plan,Classical Studies/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.1200,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LTWL 19A,LTWL,19A,,,,4,,,1
 2,LTGK 1 / LTLA 1 1,LTGK,1,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,LTGK / LTLA 8,,,,,,4,,,11
 20,CS UD ELECTIVE 3,,,,,,4,,,12
 21,LTGK / LTLA 9,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,GE 1,,,,,,4,,,1
 23,GE 2,,,,,,4,,,1

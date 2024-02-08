@@ -1,10 +1,10 @@
-Curriculum,Biochemistry
-Degree Plan,Biochemistry/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0202
-Courses
+Curriculum,Biochemistry,,,,,,,,,
+Degree Plan,Biochemistry/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0202,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,CHEM 108 / 109 2,CHEM,108,17;22,,,6,,,11
 36,CHEM ELECTIVE,,,,,,4,,,12
 37,BIOCHEM RESTRICTED ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 28,WCWP 10A,WCWP,10A,,,,4,,,1
 38,GE 1,,,,,,4,,,1

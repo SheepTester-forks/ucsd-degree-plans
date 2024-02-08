@@ -1,10 +1,10 @@
-Curriculum,Marine Biology
-Degree Plan,Marine Biology/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1302
-Courses
+Curriculum,Marine Biology,,,,,,,,,
+Degree Plan,Marine Biology/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1302,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,CHEM 6A,CHEM,6A,,,,4,,,1
 2,BILD 3,BILD,3,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,UD MAJOR ELECTIVE 1,,,,,,4,,,10
 32,UD MAJOR ELECTIVE 2,,,,,,4,,,11
 33,UD MAJOR ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,DEI,,,,,,4,,,1
 26,SYN 1,SYN,1,,,,4,,,2

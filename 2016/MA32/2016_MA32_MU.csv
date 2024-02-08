@@ -1,10 +1,10 @@
-Curriculum,Mathematics/Secondary Education
-Degree Plan,Mathematics/Secondary Education/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,13.1311
-Courses
+Curriculum,Mathematics/Secondary Education,,,,,,,,,
+Degree Plan,Mathematics/Secondary Education/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.1311,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,MATH 18,MATH,18,,,,4,,,1
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,UD MAJOR 9,,,,,,4,,,11
 9,EDS 129B,EDS,129B,8,,,4,,,11
 10,EDS 129C,EDS,129C,9,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 20,GE / WRITING 1,,,,,,4,,,1
 21,GE 1,,,,,,4,,,1

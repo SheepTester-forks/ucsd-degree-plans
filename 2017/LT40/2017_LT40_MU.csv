@@ -1,10 +1,10 @@
-Curriculum,U.S. Latino/a and Latin American Literatures
-Degree Plan,U.S. Latino/a and Latin American Literatures/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0908
-Courses
+Curriculum,U.S. Latino/a and Latin American Literatures,,,,,,,,,
+Degree Plan,U.S. Latino/a and Latin American Literatures/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.0908,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LISP 1A,LISP,1A,,,,2.5,,,1
 2,LISP 1AX,LISP,1AX,,,,2.5,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,UD LTAM 5,,,,,,4,,,11
 24,UD LIT ELECTIVE 1,,,,,,4,,,12
 25,UD LIT ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,GE 1,,,,,,4,,,1
 12,GE / MCWP 40,MCWP,40,,,,4,,,1

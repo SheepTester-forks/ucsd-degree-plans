@@ -1,10 +1,10 @@
-Curriculum,Engineering Sciences
-Degree Plan,Engineering Sciences/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1301
-Courses
+Curriculum,Engineering Sciences,,,,,,,,,
+Degree Plan,Engineering Sciences/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1301,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -47,7 +47,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 46,TECHNICAL ELECTIVE 6,,,,,,4,,,12
 32,SE 140,SE,140,24;28,,,4,,,12
 47,TECHNICAL ELECTIVE 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 33,MMW 11,MMW,11,,,,4,,,1
 48,GE 4,,,,,,4,,,1

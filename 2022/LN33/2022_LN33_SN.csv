@@ -1,10 +1,10 @@
-Curriculum,Language Studies
-Degree Plan,Language Studies/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0102
-Courses
+Curriculum,Language Studies,,,,,,,,,
+Degree Plan,Language Studies/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.0102,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
 6,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 2",,,,,,4,,,11
 21,LIGN ELECTIVE,,,,,,4,,,11
 22,"UD AREA STUDIES, UD LIT, / UD LIGN ELECTIVE 3",,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 23,DEI,,,,,,4,,,1
 24,ALTERNATIVE 1,,,,,,4,,,1

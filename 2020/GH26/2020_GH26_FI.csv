@@ -1,10 +1,10 @@
-Curriculum,Global Health
-Degree Plan,Global Health/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2210
-Courses
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,BILD 1,BILD,1,,,,4,,,1
 1,MATH 10A,MATH,10A,,,,4,,,1
@@ -30,7 +30,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,UD GLOBAL HEALTH ELECTIVE 6,,,,,,4,,,11
 28,UD GLOBAL HEALTH ELECTIVE 7,,,,,,4,,,12
 29,UD GLOBAL HEALTH ELECTIVE 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,MMW 11,MMW,11,,,,4,,,1
 30,GE 1,,,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Computer Science
-Degree Plan,Computer Science/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,11.0701
-Courses
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CSE 8A,CSE,8A,,,,4,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,CSE ELECTIVE 5,,,,,,4,,,11
 36,CSE ELECTIVE 6,,,,,,4,,,12
 37,CSE ELECTIVE 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 21,CAT 1,CAT,1,,,,4,,,1
 38,GE 1,,,,,,4,,,1

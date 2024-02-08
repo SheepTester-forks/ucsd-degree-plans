@@ -1,10 +1,10 @@
-Curriculum,Aerospace Engineering with a Specialization in Flight Dynamics and Controls
-Degree Plan,Aerospace Engineering with a Specialization in Flight Dynamics and Controls/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0201
-Courses
+Curriculum,Aerospace Engineering with a Specialization in Flight Dynamics and Controls,,,,,,,,,
+Degree Plan,Aerospace Engineering with a Specialization in Flight Dynamics and Controls/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MAE 02,MAE,2,,,,4,,,1
 2,MATH 20A,MATH,20A,,,,4,,,1
@@ -53,7 +53,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 48,AHI,,,,,,4,,,12
 49,FINE ARTS GE,,,,,,2,,,12
 50,TE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 51,LANGUAGE 1,,,,,,5,,,4
 52,LANGUAGE 2,,,,,,5,,,5

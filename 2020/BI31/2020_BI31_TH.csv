@@ -1,10 +1,10 @@
-Curriculum,General Biology
-Degree Plan,General Biology/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0101
-Courses
+Curriculum,General Biology,,,,,,,,,
+Degree Plan,General Biology/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 32,UD BIOLOGY ELECTIVE 3,,,,,,4,,,11
 33,UD BIOLOGY ELECTIVE 4,,,,,,4,,,11
 34,UD BIOLOGY ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,DOC 1 / DEI,DOC,1,,,,4,,,1
 25,DOC 2,DOC,2,24,,,6,,,2

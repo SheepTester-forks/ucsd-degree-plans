@@ -1,10 +1,10 @@
-Curriculum,Linguistics
-Degree Plan,Linguistics/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Linguistics,,,,,,,,,
+Degree Plan,Linguistics/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
 13,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 5,LIGN 121,LIGN,121,1,,,4,,,11
 6,LIGN 130,LIGN,130,1,,,4,,,12
 21,LIGN ELECTIVE / OTHER,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,MMW 11,MMW,11,,,,4,,,1
 22,GE 1,,,,,,4,,,1

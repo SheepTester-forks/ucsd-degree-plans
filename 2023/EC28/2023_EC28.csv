@@ -1,9 +1,9 @@
-Curriculum,Engineering Physics
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1201
-Courses
+Curriculum,Engineering Physics,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,14.1201,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 20A,MATH,20A,,,,4,,
 2,MATH 18,MATH,18,,,,4,,

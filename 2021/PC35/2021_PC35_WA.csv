@@ -1,10 +1,10 @@
-Curriculum,Business Psychology
-Degree Plan,Business Psychology/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.9999
-Courses
+Curriculum,Business Psychology,,,,,,,,,
+Degree Plan,Business Psychology/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
 13,NATURAL SCIENCE 1,,,,,,4,,,1
@@ -30,7 +30,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,BUS MGT 3,,,,,,4,,,11
 27,BUS PSYC ELECTIVE 3,,,,,,4,,,12
 28,UD PSYC ELECTIVE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,WCWP 10A,WCWP,10A,,,,4,,,1
 10,WCWP 10B,WCWP,10B,9,,,4,,,2

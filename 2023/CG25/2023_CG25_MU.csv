@@ -1,10 +1,10 @@
-Curriculum,Cognitive Science
-Degree Plan,Cognitive Science/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Cognitive Science,,,,,,,,,
+Degree Plan,Cognitive Science/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 10A / 20A,MATH,10A,,,,4,,,1
 1,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,COGS UD ELECTIVE 4,,,,,,4,,,11
 24,COGS UD ELECTIVE 5,,,,,,4,,,12
 25,COGS UD ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,MCWP 40,MCWP,40,,,,4,,,1
 26,GE 1,,,,,,4,,,1

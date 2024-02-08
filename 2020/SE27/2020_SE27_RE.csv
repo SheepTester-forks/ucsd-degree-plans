@@ -1,10 +1,10 @@
-Curriculum,Structural Engineering
-Degree Plan,Structural Engineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0803
-Courses
+Curriculum,Structural Engineering,,,,,,,,,
+Degree Plan,Structural Engineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0803,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,SE 1,SE,1,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 40,TECHNICAL ELECTIVE 2,,,,,,4,,,11
 41,FOCUS SEQUENCE CAPSTONE 2,,,,,,4,,,12
 42,TECHNICAL ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 43,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 44,FINE ARTS,,,,,,4,,,2

@@ -1,10 +1,10 @@
-Curriculum,Chemical Physics
-Degree Plan,Chemical Physics/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0508
-Courses
+Curriculum,Chemical Physics,,,,,,,,,
+Degree Plan,Chemical Physics/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0508,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,CHEM 120B / 114A,CHEM,120B,27,,,4,,,11
 33,CHEM ELECTIVE,,,,,,4,,,12
 31,CHEM 135,CHEM,135,19;10,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,GE 1,,,,,,4,,,1
 35,GE 2,,,,,,4,,,1

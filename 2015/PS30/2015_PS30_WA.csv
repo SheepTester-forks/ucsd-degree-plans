@@ -1,10 +1,10 @@
-Curriculum,Political Science/Public Law
-Degree Plan,Political Science/Public Law/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1099
-Courses
+Curriculum,Political Science/Public Law,,,,,,,,,
+Degree Plan,Political Science/Public Law/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LD POLI 1,,,,,,4,,,1
 2,LD POLI 2,,,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 14,UD POLI 10,,,,,,4,,,10
 15,UD POLI 11,,,,,,4,,,11
 16,UD POLI 12,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 17,ELECTIVE 1,,,,,,4,,,1
 18,GE 1,,,,,,4,,,1

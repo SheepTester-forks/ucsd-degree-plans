@@ -1,10 +1,10 @@
-Curriculum,Environmental Systems (Environmental Chemistry)
-Degree Plan,Environmental Systems (Environmental Chemistry)/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,03.0103
-Courses
+Curriculum,Environmental Systems (Environmental Chemistry),,,,,,,,,
+Degree Plan,Environmental Systems (Environmental Chemistry)/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,03.0103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,ESYS 190A 2,ESYS,190A,15,,,4,,,11
 30,CHEMRES ELECTIVE 2,,,,,,4,,,11
 25,ESYS 190B,ESYS,190B,24,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,GE 1,,,,,,4,,,1
 32,GE 2,,,,,,4,,,1

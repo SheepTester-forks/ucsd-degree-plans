@@ -1,10 +1,10 @@
-Curriculum,Environmental Systems (Earth Sciences)
-Degree Plan,Environmental Systems (Earth Sciences)/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,03.0103
-Courses
+Curriculum,Environmental Systems (Earth Sciences),,,,,,,,,
+Degree Plan,Environmental Systems (Earth Sciences)/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,03.0103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -33,7 +33,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,ESYS 190A 2,ESYS,190A,,,,4,,,11
 32,ESYS MAJOR ELECTIVE 5,,,,,,4,,,11
 21,ESYS 190B,ESYS,190B,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,HUM 1,HUM,1,,,,6,,,2
 23,HUM 2,HUM,2,,,,6,,,3

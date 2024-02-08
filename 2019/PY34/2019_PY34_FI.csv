@@ -1,10 +1,10 @@
-Curriculum,Physics with Specialization in Astrophysics
-Degree Plan,Physics with Specialization in Astrophysics/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,Physics with Specialization in Astrophysics,,,,,,,,,
+Degree Plan,Physics with Specialization in Astrophysics/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 27,PROGRAMMING,,,,,,4,,,1
@@ -33,7 +33,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,PHYS UD LAB,,,,,,4,,,11
 32,PHYS PRE - GRAD 2,,,,,,4,,,12
 33,ASTROPHYS RE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,MMW 11,MMW,11,,,,4,,,1
 2,MATH 18,MATH,18,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Music
-Degree Plan,Music/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0901
-Courses
+Curriculum,Music,,,,,,,,,
+Degree Plan,Music/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,MUSIC 2A,,,,,,4,,,1
 15,MUSIC 143 1,,,,,,1,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 44,MUSIC EMPHASIS COURSE 3,,,,,,4,,,12
 45,MUSIC UD ELECTIVE 2,,,,,,4,,,12
 46,MUSIC 143 12,,,,,,1,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 47,DEI / SOCIAL SCIENCE,,,,,,4,,,1
 1,MATH 10A,MATH,10A,,,,4,,,1

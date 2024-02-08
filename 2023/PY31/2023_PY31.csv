@@ -1,9 +1,9 @@
-Curriculum,General Physics/Secondary Education
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,40.0899
-Courses
+Curriculum,General Physics/Secondary Education,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,40.0899,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 20A,MATH,20A,,,,4,,
 2,MATH 18,MATH,18,,,,4,,

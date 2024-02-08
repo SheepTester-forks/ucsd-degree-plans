@@ -1,10 +1,10 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Biostatistics
-Degree Plan,Bachelor of Science in Public Health with Concentration in Biostatistics/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1102
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Biostatistics,,,,,,,,,
+Degree Plan,Bachelor of Science in Public Health with Concentration in Biostatistics/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1102,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 19,SBE 1,,,,,,4,,,1
@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,UDE 1,,,,,,4,,,11
 15,FMPH 194,FMPH,194,14,,,4,,,12
 29,UDE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,DEI,,,,,,4,,,1
 31,ALTERNATIVE 1,,,,,,4,,,1

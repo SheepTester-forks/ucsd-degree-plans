@@ -1,10 +1,10 @@
-Curriculum,Joint Major in Mathematics and Economics
-Degree Plan,Joint Major in Mathematics and Economics/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0199
-Courses
+Curriculum,Joint Major in Mathematics and Economics,,,,,,,,,
+Degree Plan,Joint Major in Mathematics and Economics/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,ECON 1,ECON,1,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,UD MAJOR 12,,,,,,4,,,11
 26,UD MAJOR 13,,,,,,4,,,12
 27,UD MAJOR 14,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,WCWP 10A,WCWP,10A,,,,4,,,1
 28,GE 1,,,,,,4,,,1

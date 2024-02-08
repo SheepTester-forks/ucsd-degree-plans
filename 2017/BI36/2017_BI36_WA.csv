@@ -1,10 +1,10 @@
-Curriculum,Physiology and Neuroscience
-Degree Plan,Physiology and Neuroscience/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1503
-Courses
+Curriculum,Physiology and Neuroscience,,,,,,,,,
+Degree Plan,Physiology and Neuroscience/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1503,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 3,BILD 4,BILD,4,,,,2,,,1
@@ -38,7 +38,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,UD BIOLOGY ELECTIVE 3,,,,,,4,,,11
 31,UD BIOLOGY ELECTIVE 4,,,,,,2,,,12
 32,UD BIOLOGY ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 33,GE 1,,,,,,4,,,1
 34,GE 2,,,,,,4,,,2

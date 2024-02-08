@@ -1,9 +1,9 @@
-Curriculum,Speculative Design
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0401
-Courses
+Curriculum,Speculative Design,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,50.0401,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,VIS 30,VIS,30,,,,4,,
 6,FOUNDATION ELECTIVE 1,,,,,,4,,

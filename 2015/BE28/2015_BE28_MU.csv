@@ -1,10 +1,10 @@
-Curriculum,Bioengineering: Bioinformatics
-Degree Plan,Bioengineering: Bioinformatics/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Bioengineering: Bioinformatics,,,,,,,,,
+Degree Plan,Bioengineering: Bioinformatics/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -45,7 +45,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,TECHNICAL ELECTIVE 3,,,,,,4,,,12
 35,BENG 184,BENG,184,34;30,,,4,,,12
 36,BIMM 185,BIMM,185,30;30;30;30;30;31;30;30;30;30,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 40,GE / WRITING 1,,,,,,4,,,1
 41,GE / WRITING 2,,,,,,4,,,2

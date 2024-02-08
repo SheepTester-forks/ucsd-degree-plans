@@ -1,10 +1,10 @@
-Curriculum,Anthropology (Concentration in Biological Anthropology)
-Degree Plan,Anthropology (Concentration in Biological Anthropology)/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0299
-Courses
+Curriculum,Anthropology (Concentration in Biological Anthropology),,,,,,,,,
+Degree Plan,Anthropology (Concentration in Biological Anthropology)/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,ANTH 101: FOUNDATIONS OF SOCIAL COMPLEXITY,ANTH,101,,,,4,,,7
 4,ANBI CONC ELECTIVE 1,,,,,,4,,,7
@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 10,ANTH UD ELECTIVE 2,,,,,,4,,,11
 11,ANTH UD ELECTIVE 3,,,,,,4,,,12
 12,ANTH UD ELECTIVE 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,GE / WRITING 1,,,,,,4,,,1
 14,GE 1,,,,,,4,,,1

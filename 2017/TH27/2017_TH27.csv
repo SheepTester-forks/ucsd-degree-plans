@@ -1,9 +1,9 @@
-Curriculum,Dance
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0301
-Courses
+Curriculum,Dance,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,50.0301,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,TDTR 10,TDTR,10,,,,4,,
 2,TDDM 1,TDDM,1,,,,4,,

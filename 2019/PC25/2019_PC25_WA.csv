@@ -1,10 +1,10 @@
-Curriculum,Psychology
-Degree Plan,Psychology/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,42.0101
-Courses
+Curriculum,Psychology,,,,,,,,,
+Degree Plan,Psychology/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,NATURAL SCIENCE 1,,,,,,4,,,1
 4,NATURAL SCIENCE 2,,,,,,4,,,2
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,PSYC UD ELECTIVE 6,,,,,,4,,,11
 17,PSYC UD ELECTIVE 7,,,,,,4,,,12
 18,PSYC UD ELECTIVE 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 19,GE 1,,,,,,4,,,1
 20,GE 2,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,Electrical Engineering & Society
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,14.1001
-Courses
+Curriculum,Electrical Engineering & Society,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,14.1001,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 20A,MATH,20A,,,,4,,
 2,CHEM 6A,CHEM,6A,,,,4,,

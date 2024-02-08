@@ -1,9 +1,9 @@
-Curriculum,Sociology-Social Inequality
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1101
-Courses
+Curriculum,Sociology-Social Inequality,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,45.1101,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,DOC 1 / DEI,DOC,1,,,,4,,
 2,SOCI 1,SOCI,1,,,,4,,

@@ -1,10 +1,10 @@
-Curriculum,Education Sciences
-Degree Plan,Education Sciences/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,13.0101
-Courses
+Curriculum,Education Sciences,,,,,,,,,
+Degree Plan,Education Sciences/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,EDS FRESHMAN SEMINAR,,,,,,1,,,1
 4,EDS LD,,,,,,2,,,4
@@ -19,7 +19,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 11,EDS CAPSTONE 1,,,,,,6,,,11
 12,EDS UD ELECTIVE 2,,,,,,4,,,11
 13,EDS CAPSTONE 2,,,,,,6,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,GE / WRITING 1,,,,,,4,,,1
 15,GE 1,,,,,,4,,,1

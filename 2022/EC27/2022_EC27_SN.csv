@@ -1,10 +1,10 @@
-Curriculum,Electrical Engineering
-Degree Plan,Electrical Engineering/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1001
-Courses
+Curriculum,Electrical Engineering,,,,,,,,,
+Degree Plan,Electrical Engineering/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,ECE 15,ECE,15,,,,4,,,1
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 36,TECHNICAL ELECTIVE 3,,,,,,4,,,11
 37,TECHNICAL ELECTIVE 4,,,,,,4,,,12
 38,TECHNICAL ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 39,ALTERNATIVE 1,,,,,,4,,,1
 28,SYN 1,SYN,1,,,,4,,,2

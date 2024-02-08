@@ -1,10 +1,10 @@
-Curriculum,Black Diaspora & African American Studies
-Degree Plan,Black Diaspora & African American Studies/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0201
-Courses
+Curriculum,Black Diaspora & African American Studies,,,,,,,,,
+Degree Plan,Black Diaspora & African American Studies/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,LD CORE COURSE / DEI,,,,,,4,,,1
 4,UD CORE COURSE 1,,,,,,4,,,7
@@ -19,7 +19,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 13,UD CONCENTRATION ELECTIVE 5,,,,,,4,,,11
 14,UD CORE COURSE - CAPSTONE,,,,,,4,,,12
 15,UD CONCENTRATION ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MCWP 40 / GE,MCWP,40,,,,4,,,1
 16,GE 1,,,,,,4,,,1

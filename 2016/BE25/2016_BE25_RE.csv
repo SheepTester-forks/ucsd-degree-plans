@@ -1,10 +1,10 @@
-Curriculum,Bioengineering
-Degree Plan,Bioengineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0501
-Courses
+Curriculum,Bioengineering,,,,,,,,,
+Degree Plan,Bioengineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -49,7 +49,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 38,BENG 186A,BENG,186A,30,,,4,,,12
 37,BENG 125,BENG,125,33,,,4,,,12
 48,TECHNICAL ELECTIVE (TE) 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 49,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 50,FINE ARTS,,,,,,4,,,1

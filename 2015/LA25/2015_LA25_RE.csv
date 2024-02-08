@@ -1,10 +1,10 @@
-Curriculum,Latin American Studies
-Degree Plan,Latin American Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0107
-Courses
+Curriculum,Latin American Studies,,,,,,,,,
+Degree Plan,Latin American Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0107,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 17,LANGUAGE COURSE 1,,,,,,5,,,1
 18,LANGUAGE COURSE 2,,,,,,5,,,2
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,CORE COURSE 3,,,,,,4,,,11
 31,LATI UD ELECTIVE 5,,,,,,4,,,12
 32,LATI UD ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MATH 10A,MATH,10A,,,,4,,,1
 33,SOCIAL SCIENCE / DEI,,,,,,4,,,1

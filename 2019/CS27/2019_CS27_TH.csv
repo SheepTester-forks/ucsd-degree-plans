@@ -1,10 +1,10 @@
-Curriculum,Computer Science with Specialization in Bioinformatics
-Degree Plan,Computer Science with Specialization in Bioinformatics/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Computer Science with Specialization in Bioinformatics,,,,,,,,,
+Degree Plan,Computer Science with Specialization in Bioinformatics/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 38,CSE ELECTIVE 5,,,,,,4,,,11
 30,CSE 185,CSE,185,6;10;8;9;15,,,4,,,12
 39,CSE ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,DOC 1 / DEI,DOC,1,,,,4,,,1
 32,DOC 2,DOC,2,31,,,6,,,2

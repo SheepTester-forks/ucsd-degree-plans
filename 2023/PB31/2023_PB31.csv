@@ -1,9 +1,9 @@
-Curriculum,Bachelor of Science in Public Health with Concentration in Medicine Sciences
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,51.2299
-Courses
+Curriculum,Bachelor of Science in Public Health with Concentration in Medicine Sciences,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,51.2299,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,CHEM 6A,CHEM,6A,,,,4,,
 2,BILD 1,BILD,1,,,,4,,

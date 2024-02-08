@@ -1,10 +1,10 @@
-Curriculum,Aerospace Engineering with a Specialization in Aerothermodynamics
-Degree Plan,Aerospace Engineering with a Specialization in Aerothermodynamics/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0201
-Courses
+Curriculum,Aerospace Engineering with a Specialization in Aerothermodynamics,,,,,,,,,
+Degree Plan,Aerospace Engineering with a Specialization in Aerothermodynamics/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 36,MCWP 40,MCWP,40,,,,4,,,1
 2,MATH 20A,MATH,20A,,,,4,,,1
@@ -54,5 +54,5 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,MAE 155B,MAE,155B,31;32;33;30,,,4,,,12
 50,GE 9,,,,,,4,,,12
 51,TE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

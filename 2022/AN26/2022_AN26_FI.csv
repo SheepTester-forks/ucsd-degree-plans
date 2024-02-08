@@ -1,10 +1,10 @@
-Curriculum,Anthropology (Concentration in Biological Anthropology)
-Degree Plan,Anthropology (Concentration in Biological Anthropology)/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.0299
-Courses
+Curriculum,Anthropology (Concentration in Biological Anthropology),,,,,,,,,
+Degree Plan,Anthropology (Concentration in Biological Anthropology)/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,ANTH 101,ANTH,101,,,,4,,,7
 9,ANBI CORE 1,,,,,,4,,,7
@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,ANTH UD ELECTIVE 3,,,,,,4,,,11
 16,ANTH UD ELECTIVE 4,,,,,,4,,,12
 17,ANTH UD ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MMW 11,MMW,11,,,,4,,,1
 18,GE 1,,,,,,4,,,1

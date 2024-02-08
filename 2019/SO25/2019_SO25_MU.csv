@@ -1,10 +1,10 @@
-Curriculum,Sociology
-Degree Plan,Sociology/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1101
-Courses
+Curriculum,Sociology,,,,,,,,,
+Degree Plan,Sociology/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,SOCI 1,SOCI,1,,,,4,,,1
 3,SOCI 2,SOCI,2,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,SOC UD ELECTIVE 8,,,,,,4,,,11
 18,SOC UD ELECTIVE 9,,,,,,4,,,12
 19,SOC UD ELECTIVE 10,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,GE / MCWP 40,MCWP,40,,,,4,,,1
 20,GE 1,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,"Russian, East European and Eurasian Studies"
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0105
-Courses
+Curriculum,"Russian, East European and Eurasian Studies",,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,05.0105,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LTRU 1A,LTRU,1A,,,,5,,
 2,LTRU 1B,LTRU,1B,1,,,5,,

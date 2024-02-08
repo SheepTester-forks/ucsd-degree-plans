@@ -1,9 +1,9 @@
-Curriculum,Molecular and Cell Biology
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0406
-Courses
+Curriculum,Molecular and Cell Biology,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,26.0406,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 10A / 20A,MATH,10A,,,,4,,
 2,BILD 4,BILD,4,,,,2,,

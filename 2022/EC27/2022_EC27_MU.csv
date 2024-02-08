@@ -1,10 +1,10 @@
-Curriculum,Electrical Engineering
-Degree Plan,Electrical Engineering/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1001
-Courses
+Curriculum,Electrical Engineering,,,,,,,,,
+Degree Plan,Electrical Engineering/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,ECE 15,ECE,15,,,,4,,,1
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,TECHNICAL ELECTIVE 3,,,,,,4,,,11
 36,TECHNICAL ELECTIVE 4,,,,,,4,,,12
 37,TECHNICAL ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 28,MCWP 40 / GE,MCWP,40,,,,4,,,1
 29,MCWP 50 / GE,MCWP,50,28,,,4,,,2

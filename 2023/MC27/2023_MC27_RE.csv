@@ -1,10 +1,10 @@
-Curriculum,Mechanical Engineering
-Degree Plan,Mechanical Engineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1901
-Courses
+Curriculum,Mechanical Engineering,,,,,,,,,
+Degree Plan,Mechanical Engineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 40,TE 4,,,,,,4,,,11
 31,MAE 156B,MAE,156B,27;29;23;25,,,4,,,12
 41,TE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 42,DEI / SOCIAL SCIENCE,,,,,,4,,,1
 43,FINE ARTS GE,,,,,,4,,,1

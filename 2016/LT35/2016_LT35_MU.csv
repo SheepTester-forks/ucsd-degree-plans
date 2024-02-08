@@ -1,10 +1,10 @@
-Curriculum,Italian Literature
-Degree Plan,Italian Literature/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0902
-Courses
+Curriculum,Italian Literature,,,,,,,,,
+Degree Plan,Italian Literature/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.0902,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LIIT 1A,LIIT,1A,,,,2.5,,,1
 2,LIIT 1AX,LIIT,1AX,,,,2.5,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,UD LTEN 2,,,,,,4,,,11
 20,UD LTIT 6,,,,,,4,,,12
 21,UD LTEN 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,GE / WRITING 1,,,,,,4,,,1
 23,GE 1,,,,,,4,,,1

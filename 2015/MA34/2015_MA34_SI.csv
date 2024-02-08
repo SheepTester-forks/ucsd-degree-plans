@@ -1,10 +1,10 @@
-Curriculum,Mathematics-Scientific Computation
-Degree Plan,Mathematics-Scientific Computation/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0199
-Courses
+Curriculum,Mathematics-Scientific Computation,,,,,,,,,
+Degree Plan,Mathematics-Scientific Computation/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CSE 11,CSE,11,,,,4,,,1
@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,UD MAJOR 12,,,,,,4,,,11
 29,UD MAJOR 13,,,,,,4,,,12
 30,UD MAJOR 14,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,CAT 1,CAT,1,,,,4,,,1
 31,GE 1,,,,,,4,,,1

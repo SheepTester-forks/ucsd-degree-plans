@@ -1,10 +1,10 @@
-Curriculum,Probability & Statistics
-Degree Plan,Probability & Statistics/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0599
-Courses
+Curriculum,Probability & Statistics,,,,,,,,,
+Degree Plan,Probability & Statistics/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0599,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 18,MATH,18,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,UD MAJOR 5,,,,,,4,,,11
 22,UD MAJOR 6,,,,,,4,,,12
 23,UD MAJOR 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,GE 1,,,,,,4,,,1
 15,GE / MCWP 40,MCWP,40,,,,4,,,1

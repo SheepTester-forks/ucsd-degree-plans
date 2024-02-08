@@ -1,10 +1,10 @@
-Curriculum,Communication
-Degree Plan,Communication/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,09.0100
-Courses
+Curriculum,Communication,,,,,,,,,
+Degree Plan,Communication/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,09.0100,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,COMM 10 (DEI),COMM,10,,,,4,,,4
 2,COMM 100B,COMM,100B,1,,,4,,,5
@@ -19,7 +19,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,COMM INTERMEDIATE / ADVANCED ELECTIVE 5,,,,,,4,,,9
 17,COMM INTERMEDIATE / ADVANCED ELECTIVE 6,,,,,,4,,,10
 18,COMM INTERMEDIATE / ADVANCED ELECTIVE 7,,,,,,4,,,10
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,MMW 11,MMW,11,,,,4,,,1
 19,GE 1,,,,,,4,,,1

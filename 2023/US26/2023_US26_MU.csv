@@ -1,10 +1,10 @@
-Curriculum,Urban Studies and Planning
-Degree Plan,Urban Studies and Planning/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1201
-Courses
+Curriculum,Urban Studies and Planning,,,,,,,,,
+Degree Plan,Urban Studies and Planning/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,USP 4 INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS,USP,4,,,,4,,,4
 1,USP 1: HISTORY OF US URBAN COMMUNITIES (ALSO CLEARS DEI),USP,1,,,,4,,,4
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 8,USP 187 SENIOR SEQUENCE RESEARCH PROJECT (WINTER ONLY),USP,187,7,,,6,,,11
 18,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,,12
 19,USP UPPER DIVISION ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,MCWP 40,MCWP,40,,,,4,,,1
 20,GE 1,,,,,,4,,,1

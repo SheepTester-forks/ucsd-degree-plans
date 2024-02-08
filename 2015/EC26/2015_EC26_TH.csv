@@ -1,10 +1,10 @@
-Curriculum,Computer Engineering
-Degree Plan,Computer Engineering/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0901
-Courses
+Curriculum,Computer Engineering,,,,,,,,,
+Degree Plan,Computer Engineering/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CSE 11,CSE,11,,,,4,,,1
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 36,CSE / ECE TE 4,,,,,,4,,,11
 37,CSE / ECE TE 5,,,,,,4,,,12
 38,CSE TECHNICAL ELECTIVE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,DOC 1 / DEI,DOC,1,,,,4,,,1
 39,GE 1,,,,,,4,,,1

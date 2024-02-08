@@ -1,10 +1,10 @@
-Curriculum,Linguistics(Specialization in Language and Society)
-Degree Plan,Linguistics(Specialization in Language and Society)/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2501
-Courses
+Curriculum,Linguistics(Specialization in Language and Society),,,,,,,,,
+Degree Plan,Linguistics(Specialization in Language and Society)/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,LANGUAGE 1,,,,,,5,,,1
 16,LANGUAGE 2,,,,,,5,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,LIGN ELECTIVE 3,,,,,,4,,,11
 6,LIGN 121,LIGN,121,1,,,4,,,11
 7,LIGN 130,LIGN,130,1,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 24,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
 8,MATH 10A / 20A,MATH,10A,,,,4,,,1

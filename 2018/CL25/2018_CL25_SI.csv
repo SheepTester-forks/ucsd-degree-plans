@@ -1,10 +1,10 @@
-Curriculum,Classical Studies
-Degree Plan,Classical Studies/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.1200
-Courses
+Curriculum,Classical Studies,,,,,,,,,
+Degree Plan,Classical Studies/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.1200,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LTGK 1 / LTLA 1,LTGK,1,,,,4,,,1
 2,LTWL 19A,LTWL,19A,,,,4,,,1
@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,UD LTGK / UD LTLA 8,,,,,,4,,,11
 21,CS UD ELECTIVE 3,,,,,,4,,,12
 22,UD LTGK / UD LTLA 9,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,CAT 1,CAT,1,,,,4,,,1
 23,GE 1,,,,,,4,,,1

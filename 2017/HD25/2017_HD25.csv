@@ -1,9 +1,9 @@
-Curriculum,Human Development
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,19.0701
-Courses
+Curriculum,Human Development,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,19.0701,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 5,LD PRE - MAJOR 1,,,,,,4,,
 6,LD PRE - MAJOR 2,,,,,,4,,

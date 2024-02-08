@@ -1,9 +1,9 @@
-Curriculum,Japanese Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0127
-Courses
+Curriculum,Japanese Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,05.0127,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,JAPN 10A,JAPN,10A,,,,5,,
 2,HILD 10,HILD,10,,,,4,,

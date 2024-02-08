@@ -1,10 +1,10 @@
-Curriculum,Music
-Degree Plan,Music/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0901
-Courses
+Curriculum,Music,,,,,,,,,
+Degree Plan,Music/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MUSIC 43 1,,,,,,1,,,1
 2,MUSIC 2AK,,,,,,2,,,1
@@ -39,7 +39,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,MUSIC EMPHASIS COURSE 2,,,,,,4,,,11
 32,MUSIC EMPHASIS COURSE 3,,,,,,4,,,12
 33,MUSIC 43 12,,,,,,1,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,GE 1,,,,,,4,,,1
 35,GE / WRITING 1,,,,,,4,,,1

@@ -1,9 +1,9 @@
-Curriculum,Biological Anthropology
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,45.0299
-Courses
+Curriculum,Biological Anthropology,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BS,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,45.0299,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,MATH 10A / 20A,MATH,10A,,,,4,,
 2,BILD 1,BILD,1,,,,4,,

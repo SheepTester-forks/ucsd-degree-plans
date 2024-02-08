@@ -1,10 +1,10 @@
-Curriculum,Mathematical Biology
-Degree Plan,Mathematical Biology/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,27.0306
-Courses
+Curriculum,Mathematical Biology,,,,,,,,,
+Degree Plan,Mathematical Biology/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0306,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,PROGRAMMING COURSE,,,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 37,MUIR UD ELECTIVE 2,,,,,,4,,,11
 38,UD ELECTIVE 10,,,,,,4,,,12
 39,UD ELECTIVE 11,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,MCWP 40,MCWP,40,,,,4,,,1
 14,MCWP 50,MCWP,50,13,,,4,,,2

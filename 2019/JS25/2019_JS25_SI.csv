@@ -1,10 +1,10 @@
-Curriculum,Jewish Studies
-Degree Plan,Jewish Studies/ Sixth
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0206
-Courses
+Curriculum,Jewish Studies,,,,,,,,,
+Degree Plan,Jewish Studies/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0206,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,JWSP 1,JWSP,1,,,,5,,,1
 2,JWSP 2,JWSP,2,,,,5,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 12,HIEU 145,HIEU,145,16,,,4,,,10
 14,LTWL 148,LTWL,148,,,,4,,,11
 15,ANAR 143,ANAR,143,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,CAT 1,CAT,1,,,,4,,,1
 20,GE 1,,,,,,4,,,1

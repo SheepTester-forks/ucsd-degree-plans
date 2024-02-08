@@ -1,10 +1,10 @@
-Curriculum,Literatures in English
-Degree Plan,Literatures in English/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,23.0101
-Courses
+Curriculum,Literatures in English,,,,,,,,,
+Degree Plan,Literatures in English/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LTEN 21,LTEN,21,,,,4,,,1
 10,LD LIT LANG 1,,,,,,5,,,1
@@ -30,7 +30,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,UD LTEU,,,,,,4,,,11
 25,UD LTEN 3,,,,,,4,,,12
 26,UD LTEN 4,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,GE / MCWP 40,MCWP,40,,,,4,,,1
 27,GE 1,,,,,,4,,,1

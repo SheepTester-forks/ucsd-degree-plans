@@ -1,12 +1,12 @@
-Curriculum,Latin American Studies
-Degree Plan,Latin American Studies/ Seventh
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0107
-Courses
+Curriculum,Latin American Studies,,,,,,,,,
+Degree Plan,Latin American Studies/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0107,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 15,ALTERNATIVE 1,,,,,,4,,,1
 16,ELECTIVE 1,,,,,,4,,,1

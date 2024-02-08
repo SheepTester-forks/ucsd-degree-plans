@@ -1,10 +1,10 @@
-Curriculum,Literatures of the World
-Degree Plan,Literatures of the World/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,24.0199
-Courses
+Curriculum,Literatures of the World,,,,,,,,,
+Degree Plan,Literatures of the World/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,24.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,LD LIT LANG 1,,,,,,5,,,1
 15,LD LIT LANG 2,,,,,,5,,,2
@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,UD LIT COURSE (THEME 1 / THEME 2) 8,,,,,,4,,,11
 34,UD LIT COURSE (THEME 1 / THEME 2) 9,,,,,,4,,,12
 35,UD LIT COURSE (THEME 1 / THEME 2) 10,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 10A,MATH,10A,,,,4,,,1
 2,CHEM 11,CHEM,11,,,,4,,,1

@@ -1,10 +1,10 @@
-Curriculum,Sociology-Science and Medicine
-Degree Plan,Sociology-Science and Medicine/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1101
-Courses
+Curriculum,Sociology-Science and Medicine,,,,,,,,,
+Degree Plan,Sociology-Science and Medicine/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,SOCI 1,SOCI,1,,,,4,,,1
 2,SOCI 2,SOCI,2,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,SOC UD ELECTIVE 4,,,,,,4,,,11
 17,SOC UD CONCENTRATION 5,,,,,,4,,,12
 18,SOC UD ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 19,ELECTIVE 1,,,,,,4,,,1
 6,GE / MCWP 40,MCWP,40,,,,4,,,1

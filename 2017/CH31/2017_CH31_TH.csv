@@ -1,10 +1,10 @@
-Curriculum,Biochemistry/Chemistry
-Degree Plan,Biochemistry/Chemistry/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.0202
-Courses
+Curriculum,Biochemistry/Chemistry,,,,,,,,,
+Degree Plan,Biochemistry/Chemistry/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.0202,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 32,BIOCHEM ELECTIVE 1,,,,,,4,,,11
 33,CHEM OPEN ELECTIVE,,,,,,4,,,12
 34,BIOCHEM ELECTIVE 2,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 27,DOC 1 / DEI,DOC,1,,,,4,,,1
 35,GE 1,,,,,,4,,,1

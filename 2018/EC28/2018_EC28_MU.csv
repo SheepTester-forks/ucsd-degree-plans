@@ -1,10 +1,10 @@
-Curriculum,Engineering Physics
-Degree Plan,Engineering Physics/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1201
-Courses
+Curriculum,Engineering Physics,,,,,,,,,
+Degree Plan,Engineering Physics/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1201,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,ECE 15,ECE,15,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,TECHNICAL ELECTIVE 2,,,,,,4,,,12
 36,PROFESSIONAL ELECTIVE 2,,,,,,4,,,12
 37,TECHNICAL ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 38,GE / WRITING 1,,,,,,4,,,1
 39,GE / WRITING 2,,,,,,4,,,2

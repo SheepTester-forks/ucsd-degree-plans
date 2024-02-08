@@ -1,10 +1,10 @@
-Curriculum,Education Sciences
-Degree Plan,Education Sciences/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,13.0101
-Courses
+Curriculum,Education Sciences,,,,,,,,,
+Degree Plan,Education Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 12,EDS LD,,,,,,2,,,4
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,EDS 139 2,EDS,139,,,,2,,,11
 22,EDS CAPSTONE 2,,,,,,4,,,12
 23,EDS 139 3,EDS,139,,,,2,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MATH 10A,MATH,10A,,,,4,,,1
 24,FINE ARTS,,,,,,4,,,1

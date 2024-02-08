@@ -1,10 +1,10 @@
-Curriculum,Biology with Specialization in Bioinformatics
-Degree Plan,Biology with Specialization in Bioinformatics/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,26.1103
-Courses
+Curriculum,Biology with Specialization in Bioinformatics,,,,,,,,,
+Degree Plan,Biology with Specialization in Bioinformatics/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 3,BILD 4,BILD,4,,,,2,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,UD BIOLOGY ELECTIVE 2,,,,,,4,,,11
 27,CSE 185,CSE,185,13;15;7;6;3,,,4,,,12
 28,BIMM 182,BIMM,182,22,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,GE 1,,,,,,4,,,1
 32,GE 2,,,,,,4,,,2

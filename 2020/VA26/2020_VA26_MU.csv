@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Art History/Criticism)
-Degree Plan,Visual Arts (Art History/Criticism)/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0703
-Courses
+Curriculum,Visual Arts (Art History/Criticism),,,,,,,,,
+Degree Plan,Visual Arts (Art History/Criticism)/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0703,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,VIS 23,VIS,23,,,,4,,,1
 6,FOUNDATION LEVEL: HISTORY VIS 84,VIS,84,,,,4,,,1
@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,ELECTIVE 1,,,,,,4,,,10
 20,ADVANCED LEVEL: SEMINAR 2,,,,,,4,,,11
 21,ADVANCED LEVEL: SEMINAR 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,MCWP 40 / ELECTIVE,MCWP,40,,,,4,,,1
 7,MCWP 50 / ELECTIVE,MCWP,50,5,,,4,,,2

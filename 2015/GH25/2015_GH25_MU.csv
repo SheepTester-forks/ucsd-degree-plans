@@ -1,10 +1,10 @@
-Curriculum,Global Health
-Degree Plan,Global Health/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,51.2210
-Courses
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,HILD 30,HILD,30,,,,4,,,4
 2,PSYC 60,PSYC,60,,,,4,,,5
@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 7,GLBH 150A,GLBH,150A,,,,4,,,11
 8,GLBH 150B,GLBH,150B,7,,,4,,,12
 17,ELECTIVE 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 18,GE 1,,,,,,4,,,1
 19,GE 2,,,,,,4,,,1

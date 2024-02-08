@@ -1,9 +1,9 @@
-Curriculum,French Literature
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0901
-Courses
+Curriculum,French Literature,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,16.0901,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LIFR 1A,LIFR,1A,,,,2.5,,
 2,LIFR 1AX,LIFR,1AX,,,,2.5,,

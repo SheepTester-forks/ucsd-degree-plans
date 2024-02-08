@@ -1,10 +1,10 @@
-Curriculum,Engineering Sciences
-Degree Plan,Engineering Sciences/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.1301
-Courses
+Curriculum,Engineering Sciences,,,,,,,,,
+Degree Plan,Engineering Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1301,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,CHEM 6A,CHEM,6A,,,,4,,,1
 1,MATH 20A,MATH,20A,,,,4,,,1
@@ -45,7 +45,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 43,TECHNICAL ELECTIVE 5,,,,,,4,,,12
 44,TECHNICAL ELECTIVE 6,,,,,,4,,,12
 45,TECHNICAL ELECTIVE 7,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 46,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 47,FINE ARTS,,,,,,4,,,1

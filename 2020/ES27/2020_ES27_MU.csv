@@ -1,10 +1,10 @@
-Curriculum,Environmental Systems (Environmental Chemistry)
-Degree Plan,Environmental Systems (Environmental Chemistry)/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,03.0103
-Courses
+Curriculum,Environmental Systems (Environmental Chemistry),,,,,,,,,
+Degree Plan,Environmental Systems (Environmental Chemistry)/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,03.0103,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CHEM 6A,CHEM,6A,,,,4,,,1
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,ESYS 187A,ESYS,187A,16,,,4,,,10
 26,ESYS 187B,ESYS,187B,25,,,4,,,11
 27,ESYS 187C,ESYS,187C,26,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,GE / WRITING 1,,,,,,4,,,1
 32,GE / WRITING 2,,,,,,4,,,2

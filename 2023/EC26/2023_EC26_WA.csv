@@ -1,10 +1,10 @@
-Curriculum,Computer Engineering
-Degree Plan,Computer Engineering/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0901
-Courses
+Curriculum,Computer Engineering,,,,,,,,,
+Degree Plan,Computer Engineering/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 34,CSE LD ELECTIVE,,,,,,2,,,1
 2,CSE 11,CSE,11,,,,4,,,1
@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,GE / DEI,,,,,,4,,,11
 40,CSE / ECE ELECTIVE 5,,,,,,4,,,12
 41,CSE TECHNICAL ELECTIVE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 30,WCWP 10A,WCWP,10A,,,,4,,,1
 31,WCWP 10B,WCWP,10B,30,,,4,,,2

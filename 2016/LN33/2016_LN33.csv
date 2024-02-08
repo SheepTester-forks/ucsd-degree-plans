@@ -1,9 +1,9 @@
-Curriculum,Language Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0102
-Courses
+Curriculum,Language Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,16.0102,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 2,LANGUAGE REQUIREMENT 1,,,,,,5,,
 3,LANGUAGE REQUIREMENT 2,,,,,,5,,

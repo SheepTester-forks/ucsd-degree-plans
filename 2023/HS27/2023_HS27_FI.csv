@@ -1,10 +1,10 @@
-Curriculum,Human Developmental Sciences with a Specialization in Equity and Diversity
-Degree Plan,Human Developmental Sciences with a Specialization in Equity and Diversity/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,19.0701
-Courses
+Curriculum,Human Developmental Sciences with a Specialization in Equity and Diversity,,,,,,,,,
+Degree Plan,Human Developmental Sciences with a Specialization in Equity and Diversity/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,19.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,MMW 11,MMW,11,,,,4,,,1
 10,LD MAJOR PREP 1,,,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 2,HDS 181,HDS,181,1,,,6,,,10
 3,HDS 191,HDS,191,1;2,,,6,,,11
 4,HDS 150,HDS,150,2,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 27,GE 1,,,,,,4,,,1
 7,MMW 13,MMW,13,6,,,6,,,3

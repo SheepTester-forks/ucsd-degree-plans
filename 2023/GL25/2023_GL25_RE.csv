@@ -1,10 +1,10 @@
-Curriculum,Global South Studies
-Degree Plan,Global South Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,30.2001
-Courses
+Curriculum,Global South Studies,,,,,,,,,
+Degree Plan,Global South Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LD GSS 20 - 27 1,GSS,20,,,,4,,,1
 9,LD GSS 20 - 27 2,GSS,20,,,,4,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,UD MAJOR - ELECTIVE 10,,,,,,4,,,10
 21,UD MAJOR - ELECTIVE 11,,,,,,4,,,11
 22,UD MAJOR - ELECTIVE 12,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 10A / 20A,MATH,10A,,,,4,,,1
 23,CHEMISTRY GE,,,,,,4,,,1

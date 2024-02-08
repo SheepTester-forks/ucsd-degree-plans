@@ -1,9 +1,9 @@
-Curriculum,Russian Literature
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.0402
-Courses
+Curriculum,Russian Literature,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,16.0402,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LTRU 1A,LTRU,1A,,,,5,,
 2,LTRU 1B,LTRU,1B,,,,5,,

@@ -1,9 +1,9 @@
-Curriculum,Classical Studies
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,16.1200
-Courses
+Curriculum,Classical Studies,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,16.1200,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 1,LTGK 1 / LTLA 1,LTGK,1,,,,4,,
 2,LTWL 19A,LTWL,19A,,,,4,,

@@ -1,10 +1,10 @@
-Curriculum,Third World Studies
-Degree Plan,Third World Studies/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0199
-Courses
+Curriculum,Third World Studies,,,,,,,,,
+Degree Plan,Third World Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0199,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,TWS LD 21 - 26 1,LD,21,,,,4,,,1
 15,TWS LD 21 - 26 2,LD,21,,,,4,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,TWS UD -  4,,,,,,4,,,10
 27,TWS UD -  5,,,,,,4,,,11
 28,TWS UD -  6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,MATH 10A,MATH,10A,,,,4,,,1
 29,DEI / SOCIAL SCIENCE,,,,,,4,,,1

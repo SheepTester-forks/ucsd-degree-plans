@@ -1,10 +1,10 @@
-Curriculum,Visual Arts (Media)
-Degree Plan,Visual Arts (Media)/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,50.0101
-Courses
+Curriculum,Visual Arts (Media),,,,,,,,,
+Degree Plan,Visual Arts (Media)/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,FOUNDATION ART MAKING 1,,,,,,4,,,1
 1,VIS 60,VIS,60,,,,4,,,1
@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,SENIOR MEDIA PRACTICE 1,,,,,,4,,,10
 21,SENIOR MEDIA PRACTICE 2,,,,,,4,,,11
 22,SENIOR INTERDISCIPLINARY,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 5,MCWP 40,MCWP,40,,,,4,,,1
 23,GE 1,,,,,,4,,,1

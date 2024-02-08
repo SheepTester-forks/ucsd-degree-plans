@@ -1,10 +1,10 @@
-Curriculum,Philosophy
-Degree Plan,Philosophy/ Muir
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0101
-Courses
+Curriculum,Philosophy,,,,,,,,,
+Degree Plan,Philosophy/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 8,LD PHIL 1,,,,,,4,,,1
 9,LD PHIL 2,,,,,,4,,,2
@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,UD PHIL 6,,,,,,4,,,10
 16,UD PHIL 7,,,,,,4,,,11
 17,UD PHIL 8,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,MCWP 40 / GE,MCWP,40,,,,4,,,1
 18,GE 1,,,,,,4,,,1

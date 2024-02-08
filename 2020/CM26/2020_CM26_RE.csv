@@ -1,10 +1,10 @@
-Curriculum,Communication
-Degree Plan,Communication/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,09.0100
-Courses
+Curriculum,Communication,,,,,,,,,
+Degree Plan,Communication/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,09.0100,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,COMM 10 (DEI APPROVED),COMM,10,,,,4,,,4
 2,COMM 100B,COMM,100B,1,,,4,,,5
@@ -19,7 +19,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,COMM INTERMEDIATE / ADVANCED ELECTIVE 5,,,,,,4,,,9
 19,COMM INTERMEDIATE / ADVANCED ELECTIVE 6,,,,,,4,,,10
 20,COMM INTERMEDIATE / ADVANCED ELECTIVE 7,,,,,,4,,,10
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 21,SOCIAL SCIENCE 1,,,,,,4,,,1
 6,MATH 10A,MATH,10A,,,,4,,,1

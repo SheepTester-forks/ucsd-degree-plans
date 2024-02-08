@@ -1,10 +1,10 @@
-Curriculum,History
-Degree Plan,History/ Warren
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,54.0101
-Courses
+Curriculum,History,,,,,,,,,
+Degree Plan,History/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,54.0101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 6,HILD 1,,,,,,4,,,1
 7,HILD 2,,,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 1,,,,,,4,,,10
 19,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 2,,,,,,4,,,11
 20,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,WCWP 10A,WCWP,10A,,,,4,,,1
 21,GE 1,,,,,,4,,,1

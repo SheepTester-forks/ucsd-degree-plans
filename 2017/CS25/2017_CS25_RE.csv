@@ -1,10 +1,10 @@
-Curriculum,Computer Engineering
-Degree Plan,Computer Engineering/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,14.0901
-Courses
+Curriculum,Computer Engineering,,,,,,,,,
+Degree Plan,Computer Engineering/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0901,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
 2,CSE 8A,CSE,8A,,,,4,,,1
@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,CSE / ECE ELECTIVE 4,,,,,,4,,,11
 40,CSE / ECE ELECTIVE 5,,,,,,4,,,12
 41,CSE / ECE ELECTIVE 6,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 42,SOCIAL SCIENCE / DEI,,,,,,4,,,1
 30,HUM 1,HUM,1,,,,6,,,2

@@ -1,10 +1,10 @@
-Curriculum,Business Psychology
-Degree Plan,Business Psychology/ ERC
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,42.9999
-Courses
+Curriculum,Business Psychology,,,,,,,,,
+Degree Plan,Business Psychology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.9999,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,NATURAL SCIENCE 1,,,,,,4,,,1
 1,MATH 10A / 20A,MATH,10A,,,,4,,,1
@@ -29,7 +29,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,BUS PSYC ELECTIVE 2,,,,,,4,,,11
 27,BUS PSYC ELECTIVE 3,,,,,,4,,,12
 28,UD PSYC ELECTIVE,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,MMW 11,MMW,11,,,,4,,,1
 29,GE 1,,,,,,4,,,1

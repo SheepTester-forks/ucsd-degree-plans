@@ -1,10 +1,10 @@
-Curriculum,German Studies
-Degree Plan,German Studies/ Marshall
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,05.0125
-Courses
+Curriculum,German Studies,,,,,,,,,
+Degree Plan,German Studies/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0125,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,LIGM 1A,LIGM,1A,,,,2.5,,,1
 2,LIGM 1AX,LIGM,1AX,,,,2.5,,,1
@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,GS UD ELECTIVE 5,,,,,,4,,,11
 23,HISTORY ELECTIVE 2,,,,,,4,,,12
 24,LTGM ELECTIVE 3,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 12,DOC 1 / DEI,DOC,1,,,,4,,,1
 25,GE 1,,,,,,4,,,1

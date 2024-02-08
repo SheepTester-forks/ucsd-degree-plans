@@ -1,10 +1,10 @@
-Curriculum,
-Degree Plan,/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BS
-System Type,Quarter
-CIP,19.0701
-Courses
+Curriculum,,,,,,,,,,
+Degree Plan,/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,19.0701,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 16,LD PRE - MAJOR 1,,,,,,4,,,1
 17,LD PRE - MAJOR 2,,,,,,4,,,1
@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 32,HDP METHODS ELECTIVE,,,,,,4,,,11
 6,HDP 194C,HDP,194C,,,,4,,,12
 7,HDP 150,HDP,150,2,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 9,CHEM 11,CHEM,11,,,,4,,,1
 11,HUM 1,HUM,1,,,,6,,,2

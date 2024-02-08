@@ -1,9 +1,9 @@
-Curriculum,Study of Religion
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,38.0201
-Courses
+Curriculum,Study of Religion,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,
+Degree Type,BA,,,,,,,,
+System Type,Quarter,,,,,,,,
+CIP,38.0201,,,,,,,,
+Courses,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name
 3,UD ARTS & HUMANITIES (MAJOR) 1,,,,,,4,,
 4,UD SOCIAL SCIENCE (MAJOR),,,,,,4,,

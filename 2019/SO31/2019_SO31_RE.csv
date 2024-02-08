@@ -1,10 +1,10 @@
-Curriculum,Sociology-Law and Society
-Degree Plan,Sociology-Law and Society/ Revelle
-Institution,"University of California, San Diego"
-Degree Type,BA
-System Type,Quarter
-CIP,45.1101
-Courses
+Curriculum,Sociology-Law and Society,,,,,,,,,
+Degree Plan,Sociology-Law and Society/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 2,SOCI 1,SOCI,1,,,,4,,,1
 3,SOCI 2,SOCI,2,,,,4,,,2
@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,SOC UD ELECTIVE 4,,,,,,4,,,11
 23,SOC UD CONCENTRATION 5,,,,,,4,,,12
 24,SOC UD ELECTIVE 5,,,,,,4,,,12
-Additional Courses
+Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 7,MATH 10A,MATH,10A,,,,4,,,1
 25,FINE ARTS,,,,,,4,,,1
