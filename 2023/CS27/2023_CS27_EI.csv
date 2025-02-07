@@ -17,7 +17,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 7,MATH 20C,MATH,20C,4,,,4,,,3
 10,BILD 1,BILD,1,,,,4,,,3
 13,CSE 21,CSE,21,,,,4,,,4
-12,CSE 30,CSE,30,8;9,,,4,,,4
+12,CSE 30,CSE,30,9,,,4,,,4
 11,CHEM 40A / CHEM 41A,CHEM,40A,5,,,4,,,4
 14,BILD 4,BILD,4,,,,2,,,4
 17,CSE 100,CSE,100,13;8;9;12,,,4,,,5
@@ -45,7 +45,7 @@ Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 40,DEI,,,,,,4,,,1
 30,CCE 1,CCE,1,,,,4,,,2
-31,CCE 2,CCE,2,,,,4,,,4
+31,CCE 2,CCE,2,30,,,4,,,4
 41,BREADTH GE 1,,,,,,4,,,5
 32,CCE 3,CCE,3,,,,4,,,6
 42,BREADTH GE 2,,,,,,4,,,7

@@ -1,0 +1,54 @@
+Curriculum,Linguistics,,,,,,,,,
+Degree Plan,Linguistics/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+10,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+1,LIGN 101,LIGN,101,,,,4,,,2
+11,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+12,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+2,LIGN 110,LIGN,110,1,,,4,,,4
+3,LIGN 111,LIGN,111,2,,,4,,,5
+4,LIGN 120,LIGN,120,1,,,4,,,6
+13,UD LIGN ELECTIVE 1,,,,,,4,,,7
+14,UD LIGN ELECTIVE 2,,,,,,4,,,8
+5,LIGN 121,LIGN,121,1,,,4,,,8
+15,UD LIGN ELECTIVE 3,,,,,,4,,,9
+6,LIGN 130,LIGN,130,1,,,4,,,9
+16,UD LIGN ELECTIVE 4,,,,,,4,,,10
+17,UD LIGN ELECTIVE 5,,,,,,4,,,11
+18,LIGN ELECTIVE / OTHER,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,MCWP 40,MCWP,40,,,,4,,,1
+19,GE 1,,,,,,4,,,1
+20,GE 2,,,,,,4,,,1
+8,MCWP 50,MCWP,50,7,,,4,,,2
+21,GE 3,,,,,,4,,,2
+22,GE 4,,,,,,4,,,3
+23,GE 5,,,,,,4,,,3
+24,DEI,,,,,,4,,,3
+25,ELECTIVE 1,,,,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,CCER,,,,,,4,,,5
+28,ELECTIVE 2,,,,,,4,,,5
+29,GE 7,,,,,,4,,,5
+30,ELECTIVE 3,,,,,,4,,,6
+31,ELECTIVE 4,,,,,,4,,,6
+32,GE 8,,,,,,4,,,6
+33,GE 9,,,,,,4,,,7
+34,MUIR UD ELECTIVE 1,,,,,,4,,,7
+35,ELECTIVE 5,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,8
+37,MUIR UD ELECTIVE 2,,,,,,4,,,8
+38,MUIR UD ELECTIVE 3,,,,,,4,,,9
+39,ELECTIVE 7,,,,,,4,,,10
+40,ELECTIVE 8,,,,,,4,,,10
+41,ELECTIVE 9,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,12
+44,ELECTIVE 12,,,,,,4,,,12

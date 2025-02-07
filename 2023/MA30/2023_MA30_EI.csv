@@ -13,7 +13,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 5,MATH 20C,MATH,20C,3,,,4,,,3
 7,CSE 15L,CSE,15L,2,,,2,,,3
 6,CSE 12,CSE,12,2,,,4,,,3
-9,CSE 30,CSE,30,6;7,,,4,,,4
+9,CSE 30,CSE,30,7,,,4,,,4
 8,MATH 20D / MATH 109,MATH,20D,5,,,4,,,4
 10,MATH 109 / MATH 20D,MATH,109,4;5,,,4,,,5
 12,MATH 183 / UD MAJOR,MATH,183,5,,,4,,,6
@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 14,CCE 1,CCE,1,,,,4,,,2
 30,BREADTH GE 1,,,,,,4,,,2
 31,ELECTIVE 1,,,,,,4,,,3
-15,CCE 2,CCE,2,,,,4,,,4
+15,CCE 2,CCE,2,14,,,4,,,4
 32,BREADTH GE 2,,,,,,4,,,4
 33,BREADTH GE 3,,,,,,4,,,5
 34,BREADTH GE 4,,,,,,4,,,5

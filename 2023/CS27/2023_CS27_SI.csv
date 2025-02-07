@@ -17,7 +17,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 7,MATH 20C,MATH,20C,4,,,4,,,3
 10,BILD 1,BILD,1,,,,4,,,3
 11,CHEM 40A / CHEM 41A,CHEM,40A,5,,,4,,,4
-12,CSE 30,CSE,30,8;9,,,4,,,4
+12,CSE 30,CSE,30,9,,,4,,,4
 13,CSE 21,CSE,21,,,,4,,,4
 14,BILD 4,BILD,4,,,,2,,,4
 15,CHEM 40B / CHEM 41B,CHEM,40B,11,,,4,,,5

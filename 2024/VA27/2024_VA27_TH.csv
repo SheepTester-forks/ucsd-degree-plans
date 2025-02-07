@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Media),,,,,,,,,
+Degree Plan,Visual Arts (Media)/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+8,TMC LD GE 1,,,,,,4,,,1
+2,VIS 60,VIS,60,,,,4,,,1
+9,FOUNDATION HISTORY 1,,,,,,4,,,1
+3,DOC 2,DOC,2,1,,,6,,,2
+10,TMC LD GE 2,,,,,,4,,,2
+11,FOUNDATION MEDIA STUDIES 1,,,,,,4,,,2
+12,FOUNDATION ART MAKING,,,,,,4,,,2
+4,DOC 3,DOC,3,3,,,6,,,3
+13,TMC LD GE 3,,,,,,4,,,3
+5,VIS 70N,VIS,70N,,,,4,,,3
+14,FOUNDATION MEDIA STUDIES 2,,,,,,4,,,3
+15,TMC LD GE 4,,,,,,4,,,4
+16,TMC LD GE 5,,,,,,4,,,4
+6,VIS 174,VIS,174,5,,,4,,,4
+17,FOUNDATION HISTORY 2,,,,,,4,,,4
+18,TMC LD GE 6,,,,,,4,,,5
+19,TMC LD GE 7,,,,,,4,,,5
+7,VIS 164,VIS,164,2,,,4,,,5
+20,INTERMEDIATE MEDIA STUDIES,,,,,,4,,,5
+21,TMC LD GE 8,,,,,,4,,,6
+22,TMC LD BREADTH 1,,,,,,4,,,6
+23,INTERMEDIATE MEDIA PRACTICE 1,,,,,,4,,,6
+24,INTERMEDIATE MEDIA PRACTICE 2,,,,,,4,,,6
+25,UCSD CCER,,,,,,4,,,7
+26,TMC LD BREADTH 2,,,,,,4,,,7
+27,INTERMEDIATE MEDIA PRACTICE 3,,,,,,4,,,7
+28,INTERMEDIATE MEDIA PRACTICE 4,,,,,,4,,,7
+29,ELECTIVE 1,,,,,,4,,,8
+30,TMC UD BREADTH 1,,,,,,4,,,8
+31,INTERMEDIATE MEDIA PRACTICE 5,,,,,,4,,,8
+32,ADVANCED MEDIA PRACTICE 1,,,,,,4,,,8
+33,ELECTIVE 2,,,,,,4,,,9
+34,TMC UD BREADTH 2,,,,,,4,,,9
+35,ADVANCED MEDIA PRACTICE 2,,,,,,4,,,9
+36,ELECTIVE 3,,,,,,4,,,10
+37,ELECTIVE 4,,,,,,4,,,10
+38,SENIOR MEDIA PRACTICE 1,,,,,,4,,,10
+39,ELECTIVE 5,,,,,,4,,,11
+40,ELECTIVE 6,,,,,,4,,,11
+41,SENIOR MEDIA PRACTICE 2,,,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,12
+43,ELECTIVE 8,,,,,,4,,,12
+44,SENIOR MEDIA PRACTICE 3,,,,,,4,,,12

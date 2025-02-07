@@ -1,0 +1,54 @@
+Curriculum,Literature/Writing,,,,,,,,,
+Degree Plan,Literature/Writing/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD LANGUAGE 1,,,,,,5,,,1
+10,LD LTEN / GSS 1,,,,,,4,,,1
+11,LD LANGUAGE 2,,,,,,5,,,2
+1,LTEN 26,LTEN,26,,,,4,,,2
+12,LD LANGUAGE 3,,,,,,5,,,3
+13,LD LTEN / GSS 2,,,,,,4,,,3
+14,LD LANGUAGE 4,,,,,,5,,,4
+15,LD LANGUAGE 5,,,,,,5,,,5
+2,LTWR 8A / LTWR 8B / LTWR 8C 1,LTWR,8A,5;6,,,4,,,5
+16,LTWR 8A / LTWR 8B / LTWR 8C 2,LTWR,8A,5;6,,,4,,,5
+17,LD LANGUAGE 6,,,,,,5,,,6
+18,LTWR 8A / LTWR 8B / LTWR 8C 3,LTWR,8A,5;6,,,4,,,6
+19,UD LTAM,,,,,,4,,,7
+3,LTWR 100 - 129 1,LTWR,100,,,,4,,,7
+20,UD LTEU,,,,,,4,,,8
+21,LTWR 100 - 129 2,LTWR,100,,,,4,,,8
+22,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,9
+23,LTWR 100 - 129 3,LTWR,100,,,,4,,,9
+24,LTWR 100 - 129 4,LTWR,100,,,,4,,,10
+4,LTWR 140 - 149,LTWR,140,,,,4,,,10
+25,LTWR 100 - 129 5,LTWR,100,,,,4,,,11
+26,UD LIT ELECTIVE 1,,,,,,4,,,11
+27,LTWR 100 - 129 6,LTWR,100,,,,4,,,12
+28,UD LIT ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,DEI,,,,,,4,,,1
+5,CCE 1,CCE,1,,,,4,,,2
+30,BREADTH GE 1,,,,,,4,,,2
+31,BREADTH GE 2,,,,,,4,,,3
+32,BREADTH GE 3,,,,,,4,,,3
+6,CCE 2,CCE,2,5,,,4,,,4
+33,BREADTH GE 4,,,,,,4,,,4
+34,ELECTIVE 1,,,,,,4,,,4
+35,BREADTH GE 5,,,,,,4,,,5
+7,CCE 3,CCE,3,6,,,4,,,6
+36,BREADTH GE 6,,,,,,4,,,6
+37,BREADTH GE 7,,,,,,4,,,7
+38,ELECTIVE 2,,,,,,4,,,7
+39,BREADTH GE 8,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,2,,,8
+8,CCE 120,CCE,120,,,,4,,,9
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,10
+43,UD ELECTIVE 1,,,,,,4,,,11
+44,UD ELECTIVE 2,,,,,,4,,,12

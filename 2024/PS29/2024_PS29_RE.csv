@@ -1,0 +1,53 @@
+Curriculum,Political Science/Political Theory,,,,,,,,,
+Degree Plan,Political Science/Political Theory/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LD POLI (SOCIAL SCI GE) 1,,,,,,4,,,1
+12,LD POLI (SOCIAL SCI GE) 2,,,,,,4,,,2
+1,POLI 30D,POLI,30D,,,,4,,,3
+13,LD POLI,,,,,,4,,,3
+14,UD POLI 1,,,,,,4,,,4
+15,UD POLI 2,,,,,,4,,,5
+16,UD POLI 3,,,,,,4,,,6
+17,UD POLI - POLITICAL THEORY 1,,,,,,4,,,7
+18,UD POLI 4,,,,,,4,,,7
+19,UD POLI - POLITICAL THEORY 2,,,,,,4,,,8
+20,UD POLI 5,,,,,,4,,,9
+21,UD POLI - POLITICAL THEORY 3,,,,,,4,,,10
+22,UD POLI 6,,,,,,4,,,10
+23,UD POLI - POLITICAL THEORY 4,,,,,,4,,,11
+24,UD POLI 7,,,,,,4,,,11
+25,UD POLI - POLITICAL THEORY 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,FINE ARTS GE,,,,,,4,,,1
+5,MATH 10A / 20A,MATH,10A,,,,4,,,1
+6,HUM 1,HUM,1,,,,6,,,2
+27,MATH GE 1,,,,,,4,,,2
+7,HUM 2,HUM,2,,,,6,,,3
+28,MATH GE 2,,,,,,4,,,3
+8,HUM 3,HUM,3,6,,,4,,,4
+29,PHYSICS GE,,,,,,4,,,4
+30,LANGUAGE 1,,,,,,5,,,4
+9,HUM 4,HUM,4,,,,4,,,5
+31,CHEMISTRY GE,,,,,,4,,,5
+32,LANGUAGE 2,,,,,,5,,,5
+10,HUM 5,HUM,5,,,,4,,,6
+33,BIOLOGY GE,,,,,,4,,,6
+34,LANGUAGE 3,,,,,,5,,,6
+35,LANGUAGE 4,,,,,,5,,,7
+36,CCER / NATURAL SCIENCE GE,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,8
+38,NATURAL SCIENCE GE,,,,,,4,,,9
+39,ELECTIVE 2,,,,,,4,,,9
+40,UD ELECTIVE 1,,,,,,4,,,10
+41,ELECTIVE 3,,,,,,4,,,10
+42,UD ELECTIVE 2,,,,,,4,,,11
+43,ELECTIVE 4,,,,,,4,,,11
+44,UD ELECTIVE 3,,,,,,4,,,12
+45,AHI / ELECTIVE,,,,,,4,,,12
+46,DEI,,,,,,4,,,12

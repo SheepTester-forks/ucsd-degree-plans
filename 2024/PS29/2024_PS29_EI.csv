@@ -1,0 +1,55 @@
+Curriculum,Political Science/Political Theory,,,,,,,,,
+Degree Plan,Political Science/Political Theory/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD POLI 1,,,,,,4,,,1
+10,LD POLI 2,,,,,,4,,,2
+1,POLI 30D,POLI,30D,,,,4,,,3
+11,LD POLI 3,,,,,,4,,,4
+12,UD POLI 1,,,,,,4,,,5
+13,UD POLI 2,,,,,,4,,,6
+2,POLI 110A,POLI,110A,,,,4,,,7
+14,UD POLI 3,,,,,,4,,,7
+3,POLI 110B,POLI,110B,,,,4,,,8
+15,UD POLI 4,,,,,,4,,,8
+4,POLI 110C,POLI,110C,,,,4,,,9
+16,UD POLI 5,,,,,,4,,,9
+17,UD / POLITICAL THEORY,,,,,,4,,,10
+18,UD POLI 6,,,,,,4,,,10
+19,UD POLITICAL THEORY,,,,,,4,,,11
+20,UD POLI 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,BREADTH GE 1,,,,,,4,,,1
+22,DEI,,,,,,4,,,1
+5,CCE 1,CCE,1,,,,4,,,2
+23,BREADTH GE 2,,,,,,4,,,2
+24,ELECTIVE 1,,,,,,4,,,2
+25,BREADTH GE 3,,,,,,4,,,3
+26,BREADTH GE 4,,,,,,4,,,3
+27,ELECTIVE 2,,,,,,4,,,3
+6,CCE 2,CCE,2,5,,,4,,,4
+28,BREADTH GE 5,,,,,,4,,,4
+29,ELECTIVE 3,,,,,,4,,,4
+30,BREADTH GE 6,,,,,,4,,,5
+31,BREADTH GE 7,,,,,,4,,,5
+32,ELECTIVE 4,,,,,,4,,,5
+7,CCE 3,CCE,3,6,,,4,,,6
+33,BREADTH GE 8,,,,,,4,,,6
+34,ELECTIVE 5,,,,,,4,,,6
+35,BREADTH GE 9,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+37,ELECTIVE 7,,,,,,4,,,8
+38,ELECTIVE 8,,,,,,4,,,8
+8,CCE 120,CCE,120,,,,4,,,9
+39,UD ELECTIVE 1,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12
+45,ELECTIVE 13,,,,,,4,,,12

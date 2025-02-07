@@ -1,0 +1,53 @@
+Curriculum,Linguistics (Specialization in Speech and Language Sciences),,,,,,,,,
+Degree Plan,Linguistics (Specialization in Speech and Language Sciences)/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+13,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+1,LIGN 101,LIGN,101,,,,4,,,2
+14,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+2,COGS 14B / PSYC 60 / HDS 60 (STATS REQUIREMENT),COGS,14B,,,,4,,,3
+15,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+3,LIGN 110,LIGN,110,1,,,4,,,4
+4,LIGN 112 / 113,LIGN,112,3,,,4,,,5
+5,LIGN 111,LIGN,111,3,,,4,,,5
+16,NEUROLINGUISTICS ELECTIVE,,,,,,4,,,6
+6,LIGN 120,LIGN,120,1,,,4,,,6
+17,LANGUAGE DEVELOPMENT ELECTIVE,,,,,,4,,,7
+7,LIGN 121,LIGN,121,1,,,4,,,8
+8,LIGN 130,LIGN,130,1,,,4,,,9
+18,UD ELECTIVE FROM LIST 1,,,,,,4,,,10
+19,UD ELECTIVE FROM LIST 2,,,,,,4,,,11
+20,UD ELECTIVE FROM LIST 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,DOC1 / UCSD DEI,DOC,1,,,,4,,,1
+21,TMC LD GE 1,,,,,,4,,,1
+22,TMC LD GE 2,,,,,,4,,,1
+10,DOC 2,DOC,2,9,,,6,,,2
+23,TMC LD GE 3,,,,,,4,,,2
+11,DOC 3,DOC,3,10,,,6,,,3
+24,TMC LD GE 4,,,,,,4,,,3
+25,TMC LD GE 5,,,,,,4,,,4
+26,TMC LD GE 6,,,,,,4,,,4
+27,TMC LD GE 7,,,,,,4,,,5
+28,TMC LD BREADTH 1,,,,,,4,,,5
+29,TMC LD BREADTH 2,,,,,,4,,,6
+30,UCSD CCER,,,,,,4,,,6
+31,TMC UD BREADTH 1,,,,,,4,,,7
+32,ELECTIVE 1,,,,,,4,,,7
+33,ELECTIVE 2,,,,,,4,,,7
+34,TMC UD BREADTH 2,,,,,,4,,,8
+35,ELECTIVE 3,,,,,,4,,,8
+36,ELECTIVE 4,,,,,,4,,,9
+37,ELECTIVE 5,,,,,,4,,,9
+38,UD ELECTIVE,,,,,,4,,,10
+39,ELECTIVE 6,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,11
+41,ELECTIVE 8,,,,,,4,,,11
+42,ELECTIVE 9,,,,,,4,,,12
+43,ELECTIVE 10,,,,,,4,,,12

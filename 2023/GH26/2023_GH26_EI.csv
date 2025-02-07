@@ -13,7 +13,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,STATISTICS COURSE,,,,,,4,,,3
 5,BILD 3,BILD,3,,,,4,,,3
 16,LOWER DIVISION CORE 1,,,,,,4,,,4
-6,CHEM 6A,CHEM,6A,,,,4,,,4
+6,CHEM 6A,CHEM,6A,1,,,4,,,4
 17,LOWER DIVISION CORE 2,,,,,,4,,,5
 7,CHEM 6B,CHEM,6B,6;1,,,4,,,5
 9,CHEM 7L,CHEM,7L,7,,,4,,,6
@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,BREADTH GE 1,,,,,,4,,,2
 31,BREADTH GE 2,,,,,,4,,,3
 32,ELECTIVE 1,,,,,,4,,,3
-12,CCE 2,CCE,2,,,,4,,,4
+12,CCE 2,CCE,2,11,,,4,,,4
 33,BREADTH GE 3,,,,,,4,,,4
 34,BREADTH GE 4,,,,,,4,,,5
 35,ELECTIVE 2,,,,,,4,,,5

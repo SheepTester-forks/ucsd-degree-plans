@@ -1,0 +1,57 @@
+Curriculum,Latin American Studies,,,,,,,,,
+Degree Plan,Latin American Studies/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0107,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+7,LTSP 2A,LTSP,2A,5;6,,,5,,,4
+8,LATI 10 (DEI),LATI,10,,,,4,,,4
+9,LATI 50,LATI,50,,,,4,,,5
+16,LATI CORE COURSE 1,,,,,,4,,,6
+17,LATI UD ELECTIVE 1,,,,,,4,,,7
+18,LATI METHOD,,,,,,4,,,7
+19,LATI UD ELECTIVE 2,,,,,,4,,,8
+10,LATI 150,LATI,150,,,,4,,,8
+20,LATI CORE COURSE 2,,,,,,4,,,9
+11,LATI 180,LATI,180,,,,4,,,9
+21,LATI CORE COURSE 3,,,,,,4,,,10
+22,LATI UD ELECTIVE 3,,,,,,4,,,10
+12,LATI 190,LATI,190,,,,4,,,11
+23,LATI UD ELECTIVE 4,,,,,,4,,,11
+24,LATI UD ELECTIVE 5,,,,,,4,,,12
+25,LATI UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,ALTERNATIVE 1,,,,,,4,,,1
+27,ELECTIVE 1,,,,,,4,,,1
+28,ELECTIVE 2,,,,,,4,,,1
+29,ALTERNATIVE 2,,,,,,4,,,2
+30,ELECTIVE 3,,,,,,4,,,2
+31,ELECTIVE 4,,,,,,4,,,2
+13,SYN 1 (CCER),SYN,1,,,,4,,,3
+32,ALTERNATIVE 3,,,,,,4,,,3
+33,ELECTIVE 5,,,,,,4,,,3
+14,SYN 2,SYN,2,13,,,4,,,4
+34,ELECTIVE 6,,,,,,4,,,4
+35,ALTERNATIVE 4,,,,,,4,,,5
+36,ELECTIVE 7,,,,,,4,,,5
+37,ELECTIVE 8,,,,,,4,,,5
+38,ALTERNATIVE 5,,,,,,4,,,6
+39,ALTERNATIVE 6,,,,,,4,,,6
+40,ELECTIVE 9,,,,,,4,,,6
+15,SYN 100,SYN,100,13;14,,,4,,,7
+41,ELECTIVE 10,,,,,,4,,,7
+42,ELECTIVE 11,,,,,,4,,,8
+43,ELECTIVE 12,,,,,,4,,,8
+44,ELECTIVE 13,,,,,,4,,,9
+45,UD ELECTIVE,,,,,,4,,,10
+46,ELECTIVE 14,,,,,,4,,,11
+47,ELECTIVE 15,,,,,,4,,,12

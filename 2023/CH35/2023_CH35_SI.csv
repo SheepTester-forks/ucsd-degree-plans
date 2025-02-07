@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,CHEM 41C,CHEM,41C,17,,,4,,,6
 19,PHYS 1CL,PHYS,1CL,4;14;15,,,2,,,6
 18,PHYS 1C,PHYS,1C,4;14,,,4,,,6
-21,CHEM 100A,CHEM,100A,8,,,4,,,7
+21,CHEM 100A,CHEM,100A,8;9,,,4,,,7
 22,CHEM 114A,CHEM,114A,12,,,4,,,7
 23,CHEM 114B,CHEM,114B,17;22,,,4,,,8
 24,CHEM 143B,CHEM,143B,16;17,,,4,,,8

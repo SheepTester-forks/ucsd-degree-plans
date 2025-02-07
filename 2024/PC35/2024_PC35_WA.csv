@@ -1,0 +1,55 @@
+Curriculum,Business Psychology,,,,,,,,,
+Degree Plan,Business Psychology/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,NATURAL SCIENCE 1,,,,,,4,,,1
+14,NATURAL SCIENCE 2,,,,,,4,,,2
+1,MATH 10A / 20A,MATH,10A,,,,4,,,2
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,3
+15,NATURAL SCIENCE 3,,,,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,MGT 16,MGT,16,,,,4,,,4
+5,PSYC 70,PSYC,70,3,,,4,,,5
+16,GE / CCER,,,,,,4,,,5
+17,COMPUTER PROGRAMMING,,,,,,4,,,6
+6,MGT 18,MGT,18,,,,4,,,6
+18,GE / DEI,,,,,,4,,,6
+19,PSYC CORE 1,,,,,,4,,,7
+7,PSYC 104,PSYC,104,,,,4,,,7
+8,PSYC 105,PSYC,105,,,,4,,,8
+20,PSYC CORE 2,,,,,,4,,,8
+21,BUS PSYC ELECTIVE 1,,,,,,4,,,9
+22,BUS MGT 1,,,,,,4,,,9
+23,BUS MGT 2,,,,,,4,,,10
+24,BUS PSYC ELECTIVE 2,,,,,,4,,,10
+25,PSYC UD ELECTIVE,,,,,,4,,,10
+26,BUS PSYC RESEARCH 1,,,,,,4,,,11
+27,BUS MGT 3,,,,,,4,,,11
+28,BUS PSYC ELECTIVE 3,,,,,,4,,,12
+29,BUS PSYC RESEARCH 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,WCWP 10A,WCWP,10A,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+31,ELECTIVE 1,,,,,,4,,,1
+10,WCWP 10B,WCWP,10B,9,,,4,,,2
+32,ELECTIVE 2,,,,,,4,,,2
+11,PHIL / POLI 27,POLI,27,9;10,,,4,,,3
+33,GE 2,,,,,,4,,,3
+12,PHIL / POLI 28,POLI,28,11,,,4,,,4
+34,GE 3,,,,,,4,,,4
+35,GE 4,,,,,,4,,,5
+36,ELECTIVE 3,,,,,,4,,,5
+37,GE 5,,,,,,4,,,6
+38,GE 6,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,7
+40,GE 7,,,,,,4,,,8
+41,ELECTIVE 5,,,,,,4,,,8
+42,GE 8,,,,,,4,,,9
+43,ELECTIVE 6,,,,,,4,,,9
+44,GE 9,,,,,,4,,,11
+45,GE 10,,,,,,4,,,12

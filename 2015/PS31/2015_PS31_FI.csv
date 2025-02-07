@@ -27,9 +27,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 1,MMW 11,MMW,11,,,,4,,,1
 22,GE 1,,,,,,4,,,1
 23,GE 2,,,,,,4,,,1
+2,MMW 12,MMW,12,,,,6,,,2
 24,GE 3,,,,,,4,,,2
 25,GE 4,,,,,,4,,,2
-2,MMW 12,MMW,12,,,,6,,,2
 3,MMW 13,MMW,13,,,,6,,,3
 26,GE 5,,,,,,4,,,3
 27,GE 6,,,,,,4,,,3

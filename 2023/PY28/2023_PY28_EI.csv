@@ -13,7 +13,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,PROGRAMMING,,,,,,4,,,2
 6,PHYS 4B,PHYS,4B,4;1;3,,,4,,,3
 5,MATH 20C,MATH,20C,3,,,4,,,3
-7,PHYS 4C,PHYS,4C,4;6;1;3;5;2,,,4,,,4
+7,PHYS 4C,PHYS,4C,4;4;4;6;6;6;1;3;5;2,,,4,,,4
 8,MATH 20E,MATH,20E,2;5,,,4,,,4
 11,PHYS 4D,PHYS,4D,4;6;7;1;3;5;8;2,,,4,,,5
 10,MATH 20D,MATH,20D,5,,,4,,,5
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,CCE 1,CCE,1,,,,4,,,2
 35,BREADTH GE 1,,,,,,4,,,3
 36,ELECTIVE 1,,,,,,4,,,3
-23,CCE 2,CCE,2,,,,4,,,4
+23,CCE 2,CCE,2,22,,,4,,,4
 37,BREADTH GE 2,,,,,,4,,,4
 38,BREADTH GE 3,,,,,,4,,,5
 24,CCE 3,CCE,3,,,,4,,,6

@@ -1,0 +1,53 @@
+Curriculum,Astronomy and Astrophysics,,,,,,,,,
+Degree Plan,Astronomy and Astrophysics/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,PHYS 2A,PHYS,2A,1;1,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+5,PHYS 2B,PHYS,2B,2;4,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 2C,PHYS,2C,2;6,,,4,,,4
+8,MATH 20D,MATH,20D,6;3,,,4,,,4
+9,ASTR 20A,ASTR,20A,1;4;6;2;5,,,4,,,4
+10,PHYS 2D,PHYS,2D,2;5;8,,,4,,,5
+11,MATH 20E,MATH,20E,3;6,,,4,,,5
+12,ASTR 20B,ASTR,20B,9,,,4,,,5
+18,PROGRAMMING,,,,,,4,,,6
+19,ASTR UD MAJOR 1,,,,,,4,,,6
+20,ASTR UD MAJOR 2,,,,,,4,,,7
+21,ASTR UD MAJOR 3,,,,,,4,,,7
+22,ASTR UD MAJOR 4,,,,,,4,,,8
+23,ASTR UD MAJOR 5,,,,,,4,,,8
+24,ASTR UD MAJOR 6,,,,,,4,,,9
+25,ASTR UD MAJOR 7,,,,,,4,,,9
+26,ASTR UD MAJOR 8,,,,,,4,,,10
+27,ASTR UD MAJOR 9,,,,,,4,,,10
+28,ASTR UD MAJOR 10,,,,,,5,,,11
+29,ASTR UD MAJOR 11,,,,,,4,,,11
+30,ASTR UD MAJOR 12,,,,,,4,,,12
+31,ELECTIVE,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+32,BIOLOGY GE,,,,,,4,,,1
+33,SOCIAL SCIENCE GE,,,,,,4,,,1
+13,HUM 1,HUM,1,,,,6,,,2
+14,HUM 2,HUM,2,,,,6,,,3
+15,HUM 3,HUM,3,13,,,4,,,4
+16,HUM 4,HUM,4,,,,4,,,5
+17,HUM 5,HUM,5,,,,4,,,6
+34,CHEMISTRY GE,,,,,,4,,,6
+35,SOCIAL SCIENCE GE / CCER,,,,,,4,,,7
+36,LANGUAGE 1,,,,,,5,,,7
+37,LANGUAGE 2,,,,,,5,,,8
+38,FINE ARTS GE,,,,,,4,,,9
+39,LANGUAGE 3,,,,,,5,,,9
+40,LANGUAGE 4,,,,,,5,,,10
+41,UD ELECTIVE,,,,,,4,,,10
+42,UD DEI,,,,,,4,,,11
+43,UD AHI / UD ELECTIVE,,,,,,4,,,12

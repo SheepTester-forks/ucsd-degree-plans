@@ -1,0 +1,55 @@
+Curriculum,Political Science/International Relations,,,,,,,,,
+Degree Plan,Political Science/International Relations/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 12D,POLI,12D,,,,4,,,1
+9,LD POLI 1,,,,,,4,,,2
+3,POLI 30D,POLI,30D,,,,4,,,3
+10,LD POLI 2,,,,,,4,,,4
+11,UD POLI 1,,,,,,4,,,5
+12,GE / CCER,,,,,,4,,,5
+13,UD POLI / INTERNATIONAL RELATIONS 1,,,,,,4,,,6
+14,GE / DEI,,,,,,4,,,6
+15,UD POLI / INTERNATIONAL RELATIONS 2,,,,,,4,,,7
+16,UD POLI 2,,,,,,4,,,7
+17,UD POLI / INTERNATIONAL RELATIONS 3,,,,,,4,,,8
+18,UD POLI 3,,,,,,4,,,8
+19,UD POLI / INTERNATIONAL RELATIONS 4,,,,,,4,,,9
+20,UD POLI 4,,,,,,4,,,9
+21,UD POLI / INTERNATIONAL RELATIONS 5,,,,,,4,,,10
+22,UD POLI 5,,,,,,4,,,10
+23,UD POLI 6,,,,,,4,,,11
+24,UD POLI 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+6,WCWP 10B,WCWP,10B,5,,,4,,,2
+26,GE 2,,,,,,4,,,2
+27,ELECTIVE 1,,,,,,4,,,2
+7,PHIL 27 / POLI 27,PHIL,27,5;6,,,4,,,3
+28,GE 3,,,,,,4,,,3
+29,ELECTIVE 2,,,,,,4,,,3
+8,PHIL 28 / POLI 28,PHIL,28,7,,,4,,,4
+30,GE 4,,,,,,4,,,4
+31,ELECTIVE 3,,,,,,4,,,4
+32,GE 5,,,,,,4,,,5
+33,ELECTIVE 4,,,,,,4,,,5
+34,GE 6,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,6
+36,GE 7,,,,,,4,,,7
+37,ELECTIVE 6,,,,,,4,,,7
+38,GE 8,,,,,,4,,,8
+39,ELECTIVE 7,,,,,,4,,,8
+40,GE 9,,,,,,4,,,9
+41,ELECTIVE 8,,,,,,4,,,9
+42,GE 10,,,,,,4,,,10
+43,ELECTIVE 9,,,,,,4,,,10
+44,GE 11,,,,,,4,,,11
+45,ELECTIVE 10,,,,,,4,,,11
+46,ELECTIVE 11,,,,,,4,,,12
+47,ELECTIVE 12,,,,,,4,,,12

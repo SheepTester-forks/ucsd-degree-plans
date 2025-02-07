@@ -1,0 +1,58 @@
+Curriculum,Latin American Studies with a Concentration in Mexico,,,,,,,,,
+Degree Plan,Latin American Studies with a Concentration in Mexico/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0107,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+7,LTSP 2A,LTSP,2A,5;6,,,4,,,4
+8,LATI 10,LATI,10,,,,4,,,4
+9,LATI 50,LATI,50,,,,4,,,5
+17,LATI METHOD,,,,,,4,,,7
+18,LATI UG ELECTIVE (CON IN MEXICO) 1,,,,,,4,,,7
+10,LATI 150,LATI,150,,,,4,,,8
+19,LATI UG ELECTIVE (CON IN MEXICO) 2,,,,,,4,,,8
+20,LATI CORE 1,,,,,,4,,,8
+11,LATI 180,LATI,180,,,,4,,,9
+21,LATI CORE 2,,,,,,4,,,9
+22,LATI CORE 3,,,,,,4,,,10
+23,LATI UG ELECTIVE (CON IN MEXICO) 3,,,,,,4,,,10
+24,LATI UG ELECTIVE (CON IN MEXICO) 4,,,,,,4,,,11
+12,LATI 190,LATI,190,,,,4,,,11
+25,LATI UG ELECTIVE,,,,,,4,,,12
+26,LATI UG ELECTIVE (CON IN MEXICO) 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,BREADTH GE 1,,,,,,4,,,1
+28,BREADTH GE 2,,,,,,4,,,1
+13,CCE 1,CCE,1,,,,4,,,2
+29,BREADTH GE 3,,,,,,4,,,2
+30,ELECTIVE 1,,,,,,4,,,2
+31,BREADTH GE 4,,,,,,4,,,3
+32,BREADTH GE 5,,,,,,4,,,3
+33,ELECTIVE 2,,,,,,4,,,3
+14,CCE 2,CCE,2,13,,,4,,,4
+34,ELECTIVE 3,,,,,,4,,,4
+35,BREADTH GE 6,,,,,,4,,,5
+36,ELECTIVE 4,,,,,,4,,,5
+37,ELECTIVE 5,,,,,,4,,,5
+15,CCE 3,CCE,3,14,,,4,,,6
+38,ELECTIVE 6,,,,,,4,,,6
+39,ELECTIVE 7,,,,,,4,,,6
+40,ELECTIVE 8,,,,,,4,,,6
+41,ELECTIVE 9,,,,,,4,,,7
+42,ELECTIVE 10,,,,,,4,,,7
+43,ELECTIVE 11,,,,,,4,,,8
+16,CCE 120,CCE,120,,,,4,,,9
+44,UD ELECTIVE 1,,,,,,4,,,10
+45,ELECTIVE 12,,,,,,4,,,10
+46,UD ELECTIVE 2,,,,,,4,,,11
+47,ELECTIVE 13,,,,,,1,,,11
+48,ELECTIVE 14,,,,,,4,,,12

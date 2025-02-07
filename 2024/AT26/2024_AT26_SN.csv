@@ -1,0 +1,55 @@
+Curriculum,Astronomy and Astrophysics,,,,,,,,,
+Degree Plan,Astronomy and Astrophysics/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,PHYS 2A,PHYS,2A,1;1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,PHYS 2B,PHYS,2B,2;4,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 2C,PHYS,2C,2;6,,,4,,,4
+8,MATH 20D,MATH,20D,6;3,,,4,,,4
+9,ASTR 20A,ASTR,20A,1;4;6;2;5,,,4,,,4
+10,PHYS 2D,PHYS,2D,2;5;8,,,4,,,5
+11,MATH 20E,MATH,20E,3;6,,,4,,,5
+12,ASTR 20B,ASTR,20B,9,,,4,,,5
+16,PROGRAMMING,,,,,,4,,,6
+17,ASTR UD MAJOR 1,,,,,,4,,,6
+18,ASTR UD MAJOR 2,,,,,,4,,,7
+19,ASTR UD MAJOR 3,,,,,,4,,,7
+20,ASTR UD MAJOR 4,,,,,,4,,,8
+21,ASTR UD MAJOR 5,,,,,,4,,,8
+22,ASTR UD MAJOR 6,,,,,,4,,,9
+23,ASTR UD MAJOR 7,,,,,,4,,,9
+24,ASTR UD MAJOR 8,,,,,,4,,,10
+25,ASTR UD MAJOR 9,,,,,,4,,,10
+26,ASTR UD MAJOR 10,,,,,,5,,,11
+27,ASTR UD MAJOR 11,,,,,,4,,,11
+28,ASTR UD MAJOR 12,,,,,,4,,,12
+29,ELECTIVE 1,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,ALTERNATIVE 1,,,,,,4,,,1
+31,DEI,,,,,,4,,,1
+32,ELECTIVE 2,,,,,,4,,,1
+33,ALTERNATIVE 2,,,,,,4,,,2
+34,ALTERNATIVE 3,,,,,,4,,,3
+13,SYN 1 (CCER),SYN,1,,,,4,,,3
+14,SYN 2,SYN,2,13,,,4,,,4
+35,ELECTIVE 3,,,,,,4,,,5
+36,ALTERNATIVE 4,,,,,,4,,,6
+37,ELECTIVE 4,,,,,,4,,,6
+38,ALTERNATIVE 5,,,,,,4,,,7
+15,SYN 100,SYN,100,13;14,,,4,,,7
+39,ALTERNATIVE 6,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,UD ELECTIVE,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,3,,,9
+43,HIGH - IMPACT,,,,,,4,,,10
+44,ELECTIVE 7,,,,,,4,,,11
+45,ELECTIVE 8,,,,,,4,,,12

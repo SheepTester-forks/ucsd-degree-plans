@@ -1,0 +1,57 @@
+Curriculum,Pharmacological Chemistry,,,,,,,,,
+Degree Plan,Pharmacological Chemistry/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 10A,MATH,10A,,,,4,,,1
+3,BILD 1,BILD,1,,,,4,,,1
+5,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+6,MATH 10B,MATH,10B,2,,,4,,,2
+4,BILD 2,BILD,2,3,,,4,,,2
+7,CHEM 7LM / 7L,CHEM,7LM,5,,,4,,,3
+8,CHEM 6C,CHEM,6C,5,,,4,,,3
+9,MATH 10C,MATH,10C,6,,,4,,,3
+10,MATH 11,MATH,11,6,,,5,,,4
+11,PHYS 1AL,PHYS,1AL,2,,,2,,,4
+12,PHYS 1A,PHYS,1A,2,,,3,,,4
+13,CHEM 41A,CHEM,41A,5,,,4,,,4
+14,PHYS 1B,PHYS,1B,6;12,,,3,,,5
+15,CHEM 43A,CHEM,43A,7;13,,,4,,,5
+16,PHYS 1BL,PHYS,1BL,6;12;11,,,2,,,5
+17,CHEM 41B,CHEM,41B,13,,,4,,,5
+18,CHEM 41C,CHEM,41C,17,,,4,,,6
+19,PHYS 1CL,PHYS,1CL,6;14;16,,,2,,,6
+20,PHYS 1C,PHYS,1C,6;14,,,4,,,6
+21,CHEM 100A,CHEM,100A,8;7,,,4,,,7
+22,CHEM 114A,CHEM,114A,13,,,4,,,7
+23,CHEM 114B,CHEM,114B,17;22,,,4,,,8
+24,CHEM 143B,CHEM,143B,15;17,,,4,,,8
+25,CHEM 114C,CHEM,114C,22,,,4,,,9
+32,PHARM RESTRICTED ELECTIVE,,,,,,4,,,9
+26,CHEM 126A,CHEM,126A,8;20;9,,,4,,,10
+27,CHEM 108 / 109 / 143C,CHEM,108,15;22,,,6,,,10
+28,CHEM 126B,CHEM,126B,26,,,4,,,11
+33,RESTRICTED ELECTIVE 1,,,,,,4,,,11
+34,ADDITIONAL ELECTIVE,,,,,,4,,,12
+35,RESTRICTED ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,ALTERNATIVE 1,,,,,,4,,,1
+37,DEI,,,,,,4,,,2
+29,SYN 1 (CCER),SYN,1,,,,4,,,3
+30,SYN 2,SYN,2,29,,,4,,,5
+38,ELECTIVE 1,,,,,,3,,,6
+39,ALTERNATIVE 2,,,,,,4,,,7
+40,ALTERNATIVE 3,,,,,,4,,,7
+31,SYN 100,SYN,100,29;30,,,4,,,8
+41,ALTERNATIVE 4,,,,,,4,,,8
+42,ELECTIVE 2,,,,,,4,,,9
+43,HIGH - IMPACT,,,,,,2,,,10
+44,ALTERNATIVE 5,,,,,,4,,,10
+45,UD ELECTIVE 1,,,,,,4,,,11
+46,ALTERNATIVE 6,,,,,,4,,,11
+47,UD ELECTIVE 2,,,,,,4,,,12

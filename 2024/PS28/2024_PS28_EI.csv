@@ -1,0 +1,55 @@
+Curriculum,Political Science/International Relations,,,,,,,,,
+Degree Plan,Political Science/International Relations/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 12D,POLI,12D,,,,4,,,1
+9,LD POLI 1,,,,,,4,,,2
+3,POLI 30D,POLI,30D,,,,4,,,3
+10,LD POLI 2,,,,,,4,,,4
+11,UD POLI 1,,,,,,4,,,5
+12,UD POLI / INTERNATIONAL RELATIONS 1,,,,,,4,,,6
+13,UD POLI / INTERNATIONAL RELATIONS 2,,,,,,4,,,7
+14,UD POLI 2,,,,,,4,,,7
+15,UD POLI / INTERNATIONAL RELATIONS 3,,,,,,4,,,8
+16,UD POLI 3,,,,,,4,,,8
+17,UD POLI / INTERNATIONAL RELATIONS 4,,,,,,4,,,9
+18,UD POLI 4,,,,,,4,,,9
+19,UD POLI / INTERNATIONAL RELATIONS 5,,,,,,4,,,10
+20,UD POLI 5,,,,,,4,,,10
+21,UD POLI 6,,,,,,4,,,11
+22,UD POLI 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,BREADTH GE 1,,,,,,4,,,1
+24,DEI,,,,,,4,,,1
+5,CCE 1,CCE,1,,,,4,,,2
+25,BREADTH GE 2,,,,,,4,,,2
+26,ELECTIVE 1,,,,,,4,,,2
+27,BREADTH GE 3,,,,,,4,,,3
+28,BREADTH GE 4,,,,,,4,,,3
+29,ELECTIVE 2,,,,,,4,,,3
+6,CCE 2,CCE,2,5,,,4,,,4
+30,BREADTH GE 5,,,,,,4,,,4
+31,ELECTIVE 3,,,,,,4,,,4
+32,BREADTH GE 6,,,,,,4,,,5
+33,BREADTH GE 7,,,,,,4,,,5
+34,ELECTIVE 4,,,,,,4,,,5
+7,CCE 3,CCE,3,6,,,4,,,6
+35,BREADTH GE 8,,,,,,4,,,6
+36,ELECTIVE 5,,,,,,4,,,6
+37,BREADTH GE 9,,,,,,4,,,7
+38,ELECTIVE 6,,,,,,4,,,7
+39,ELECTIVE 7,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,8
+8,CCE 120,CCE,120,,,,4,,,9
+41,UD ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,10
+43,UD ELECTIVE 2,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,11
+45,ELECTIVE 11,,,,,,4,,,11
+46,ELECTIVE 12,,,,,,4,,,12
+47,ELECTIVE 13,,,,,,4,,,12

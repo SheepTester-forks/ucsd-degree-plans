@@ -47,7 +47,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,BENG 168,BENG,168,8;19,,,4,,,11
 36,BENG 187D,BENG,187D,33,,,1,,,12
 46,TECHNICAL ELECTIVE 2,,,,,,4,,,12
-37,BENG 125,BENG,125,,,,4,,,12
+37,BENG 125,BENG,125,26,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 38,WCWP 10A,WCWP,10A,,,,4,,,1

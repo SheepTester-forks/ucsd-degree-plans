@@ -1,0 +1,54 @@
+Curriculum,Ethnic Studies,,,,,,,,,
+Degree Plan,Ethnic Studies/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ETHN 1R,ETHN,1R,,,,4,,,1
+2,ETHN 2,ETHN,2,,,,4,,,2
+11,ETHN UD 1,,,,,,4,,,3
+12,ETHN UD 2,,,,,,4,,,4
+13,ETHN UD 3,,,,,,4,,,5
+14,ETHN UD 4,,,,,,4,,,6
+15,ETHN UD 5,,,,,,4,,,7
+16,ETHN UD 6,,,,,,4,,,8
+17,ETHN UD 7,,,,,,4,,,9
+3,ETHN 100A,ETHN,100A,2,,,4,,,10
+18,ETHN UD 8,,,,,,4,,,10
+4,ETHN 100B,ETHN,100B,3,,,4,,,11
+5,ETHN UD (POSSIBLY ETHN 100H),ETHN,100H,3,,,4,,,11
+6,ETHN 100C,ETHN,100C,3;4,,,4,,,12
+7,ETHN UD (POSSIBLY ETHN 196H),ETHN,196H,3;4;5,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+19,TMC LD GE 1,,,,,,4,,,1
+20,TMC LD GE 2,,,,,,4,,,1
+9,DOC 2,DOC,2,8,,,6,,,2
+21,TMC LD GE 3,,,,,,4,,,2
+22,TMC LD GE 4,,,,,,4,,,2
+10,DOC 3,DOC,3,9,,,6,,,3
+23,TMC LD GE 5,,,,,,4,,,3
+24,TMC LD GE 6,,,,,,4,,,3
+25,UCSD CCER,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,TMC LD BREADTH 1,,,,,,4,,,5
+29,ELECTIVE 3,,,,,,4,,,5
+30,ELECTIVE 4,,,,,,4,,,5
+31,TMC LD BREADTH 2,,,,,,4,,,6
+32,ELECTIVE 5,,,,,,4,,,6
+33,ELECTIVE 6,,,,,,4,,,6
+34,ELECTIVE 7,,,,,,4,,,7
+35,ELECTIVE 8,,,,,,4,,,7
+36,ELECTIVE 9,,,,,,4,,,7
+37,TMC UD BREADTH 1,,,,,,4,,,8
+38,ELECTIVE 10,,,,,,4,,,8
+39,ELECTIVE 11,,,,,,4,,,8
+40,TMC UD BREADTH 2,,,,,,4,,,9
+41,ELECTIVE 12,,,,,,4,,,9
+42,ELECTIVE 13,,,,,,4,,,10
+43,ELECTIVE 14,,,,,,4,,,11
+44,ELECTIVE 15,,,,,,4,,,12

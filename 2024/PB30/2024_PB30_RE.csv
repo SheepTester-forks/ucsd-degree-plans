@@ -1,0 +1,53 @@
+Curriculum,Public Health with Concentration in Health Policy and Management Sciences,,,,,,,,,
+Degree Plan,Public Health with Concentration in Health Policy and Management Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PH 40,PH,40,,,,4,,,1
+17,LD PH __,,,,,,4,,,1
+2,BILD 3,BILD,3,,,,4,,,2
+18,LD PH __ (TRENDING TOPICS),,,,,,4,,,2
+19,MATH GE,,,,,,4,,,2
+12,QUANTITATIVE METHODS (STATS) / PSYC 60 / MATH 11 TO OVERLAP WITH GE,PSYC,60,,,,4,,,3
+20,LD BIOLOGY 1,,,,,,4,,,4
+3,PH 45,PH,45,1,,,4,,,5
+4,PH 110,PH,110,1,,,4,,,5
+21,LD BIOLOGY 2,,,,,,4,,,6
+22,PH UDE 1,,,,,,4,,,7
+5,PH 101 / PH 102 1,PH,101,1;12,,,4,,,7
+6,USP 143,USP,143,,,,4,,,8
+23,PH 101 / PH 102 2,PH,101,1;12,,,4,,,8
+24,PH UDE 2,,,,,,4,,,9
+7,PH 120 / PH 130 1,PH,120,1,,,4,,,9
+25,CONCENTRATION UDE 1,,,,,,4,,,10
+26,PH 120 / PH 130 2,PH,120,1,,,4,,,10
+8,PH 193,PH,193,1;3;5;4;7,,,4,,,11
+27,CONCENTRATION UDE 2,,,,,,4,,,11
+9,PH 194,PH,194,1;3;5;4;7;8,,,4,,,12
+28,CONCENTRATION UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MATH 10A / 20A,MATH,10A,,,,4,,,1
+11,HUM 1,HUM,1,,,,6,,,2
+13,HUM 2,HUM,2,,,,6,,,3
+29,SOCIAL SCIENCE GE,,,,,,4,,,3
+14,HUM 3,HUM,3,11,,,4,,,4
+30,FINE ARTS GE,,,,,,4,,,4
+31,CCER,,,,,,4,,,4
+15,HUM 4,HUM,4,,,,4,,,5
+32,PHYSICS GE,,,,,,4,,,5
+16,HUM 5,HUM,5,,,,4,,,6
+33,SOCIAL SCIENCE GE / DEI,,,,,,4,,,6
+34,CHEMISTRY GE,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,LANGUAGE 2,,,,,,5,,,8
+37,ELECTIVE 1,,,,,,4,,,9
+38,LANGUAGE 3,,,,,,5,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,UD ELECTIVE 1,,,,,,4,,,11
+41,ELECTIVE 2,,,,,,4,,,11
+42,UD ELECTIVE 2,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

@@ -22,18 +22,18 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,SOCIAL / BEHAV SCIENCE (SOCIAL SCIENCE GE - SEE NOTE) 2,,,,,,4,,,5
 27,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
 28,MAJOR CONCENTRATION UDE 1,,,,,,4,,,7
-10,FMPH 101 / FMPH 102 1,FMPH,101,7;21,,,4,,,7
+10,FMPH 101 / FMPH 102 1,FMPH,101,,,,4,,,7
 23,PHYS 1A,PHYS,1A,15,,,3,,,7
 24,PHYS 1AL,PHYS,1AL,15,,,2,,,7
 11,USP 143,USP,143,,,,4,,,8
-29,FMPH 101 / FMPH 102 2,FMPH,101,7;21,,,4,,,8
-12,FMPH 120 / FMPH 130 1,FMPH,120,7,,,4,,,9
+29,FMPH 101 / FMPH 102 2,FMPH,101,,,,4,,,8
+12,FMPH 120 / FMPH 130 1,FMPH,120,,,,4,,,9
 30,MAJOR CONCENTRATION UDE 2,,,,,,4,,,9
-31,FMPH 120 / FMPH 130 2,FMPH,120,7,,,4,,,10
+31,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 32,FMPH UDE,,,,,,4,,,10
 13,FMPH 193,FMPH,193,,,,4,,,11
 33,MAJOR UDE 1,,,,,,4,,,11
-14,FMPH 194,FMPH,194,13,,,4,,,12
+14,FMPH 194,FMPH,194,,,,4,,,12
 34,MAJOR UDE 2,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

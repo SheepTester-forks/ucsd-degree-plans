@@ -1,0 +1,56 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+17,LDE,,,,,,2,,,1
+2,CSE 8A / CSE 11,CSE,8A,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+3,CSE 8B,CSE,8B,2,,,4,,,2
+5,CSE 29,CSE,29,3,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,CSE 20,CSE,20,2,,,4,,,3
+8,CSE 12,CSE,12,3,,,4,,,3
+9,CSE 21,CSE,21,7,,,4,,,4
+18,CSE GENERAL SCIENCE 1,,,,,,4,,,4
+10,CSE 30,CSE,30,5,,,4,,,4
+19,CCER,,,,,,4,,,4
+11,CSE 100 / 100R,CSE,100,9;8;5,,,4,,,5
+20,CSE GENERAL SCIENCE 2,,,,,,4,,,5
+12,MATH 18,MATH,18,,,,4,,,5
+13,CSE 110,CSE,110,11,,,4,,,6
+21,STATISTICS,,,,,,4,,,6
+14,CSE 101,CSE,101,9;8,,,4,,,6
+22,SYSTEMS ELECTIVE 1,,,,,,4,,,7
+23,APPLICATIONS ELECTIVE 1,,,,,,4,,,7
+24,ABSTRACTION ELECTIVE 1,,,,,,4,,,7
+25,SYSTEMS ELECTIVE 2,,,,,,4,,,8
+26,APPLICATIONS ELECTIVE 2,,,,,,4,,,8
+27,ABSTRACTION ELECTIVE 2,,,,,,4,,,8
+28,GE 1,,,,,,4,,,8
+29,SYSTEMS ELECTIVE 3,,,,,,4,,,9
+30,ABSTRACTION ELECTIVE 3,,,,,,4,,,9
+31,APPLICATIONS ELECTIVE 3,,,,,,4,,,9
+32,GE 2,,,,,,4,,,9
+33,OPEN CSE ELECTIVE 1,,,,,,4,,,10
+34,OPEN CSE ELECTIVE 2,,,,,,4,,,10
+35,GE 3,,,,,,4,,,10
+36,OPEN CSE ELECTIVE 3,,,,,,4,,,11
+37,OPEN CSE ELECTIVE 4,,,,,,4,,,11
+38,OPEN CSE ELECTIVE 5,,,,,,4,,,11
+39,OPEN CSE ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,MCWP 40,MCWP,40,,,,4,,,1
+16,MCWP 50,MCWP,50,15,,,4,,,2
+40,GE 4,,,,,,4,,,2
+41,GE 5,,,,,,4,,,5
+42,GE 6,,,,,,4,,,6
+43,DEI,,,,,,4,,,7
+44,ELECTIVE,,,,,,2,,,10
+45,GE 7,,,,,,4,,,12
+46,GE 8,,,,,,4,,,12

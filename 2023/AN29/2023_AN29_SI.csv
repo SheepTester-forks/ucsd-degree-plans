@@ -31,7 +31,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,CAT 2,CAT,2,14,,,6,,,2
 16,CAT 3,CAT,3,15,,,6,,,3
 27,ELECTIVE 2,,,,,,4,,,3
-5,CHEM 6A,CHEM,6A,,,,4,,,4
+5,CHEM 6A,CHEM,6A,3,,,4,,,4
 28,GE / DEI,,,,,,4,,,4
 29,GE 1,,,,,,4,,,4
 7,CHEM 6B,CHEM,6B,5;3,,,4,,,5

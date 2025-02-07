@@ -6,49 +6,49 @@ System Type,Quarter,,,,,,,,,
 CIP,45.0299,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD MAJOR 1,,,,,,4,,,1
+10,LD MAJOR 2,,,,,,4,,,2
+11,LD MAJOR 3,,,,,,4,,,3
+12,LD MAJOR 4,,,,,,4,,,4
+13,LD MAJOR 5,,,,,,4,,,4
+14,LD MAJOR 6,,,,,,4,,,5
 1,ANTH 101,ANTH,101,,,,4,,,7
-9,ANBI CORE 1,,,,,,4,,,7
+15,ANBI CORE 1,,,,,,4,,,7
+16,LD MAJOR 7,,,,,,4,,,7
 2,ANTH 102,ANTH,102,,,,4,,,8
-10,ANBI CORE 2,,,,,,4,,,8
+17,ANBI CORE 2,,,,,,4,,,8
+18,LD MAJOR 8,,,,,,4,,,8
 3,ANTH 103,ANTH,103,,,,4,,,9
-11,ANBI CORE 3,,,,,,4,,,9
-12,ANBI CORE 4,,,,,,4,,,10
-13,ANTH UD ELECTIVE 1,,,,,,4,,,10
-14,ANTH UD ELECTIVE 2,,,,,,4,,,11
-15,ANTH UD ELECTIVE 3,,,,,,4,,,11
-16,ANTH UD ELECTIVE 4,,,,,,4,,,12
-17,ANTH UD ELECTIVE 5,,,,,,4,,,12
+19,ANBI CORE 3,,,,,,4,,,9
+20,LD MAJOR 9,,,,,,4,,,9
+21,LD MAJOR 10,,,,,,4,,,9
+22,ANBI CORE 4,,,,,,4,,,10
+23,ANTH UD ELECTIVE 1,,,,,,4,,,10
+24,ANTH UD ELECTIVE 2,,,,,,4,,,11
+25,ANTH UD ELECTIVE 3,,,,,,4,,,11
+26,ANTH UD ELECTIVE 4,,,,,,4,,,12
+27,ANTH UD ELECTIVE 5,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 4,MMW 11,MMW,11,,,,4,,,1
-18,GE 1,,,,,,4,,,1
-19,GE 2,,,,,,4,,,1
+28,GE 1,,,,,,4,,,1
 5,MMW 12,MMW,12,,,,6,,,2
-20,GE 3,,,,,,4,,,2
-21,GE 4,,,,,,4,,,2
+29,GE 2,,,,,,4,,,2
 6,MMW 13,MMW,13,5,,,6,,,3
-22,GE 5,,,,,,4,,,3
-23,GE 6,,,,,,4,,,3
+30,GE 3,,,,,,4,,,3
 7,MMW 14 / GE 1,MMW,14,5;6,,,4,,,4
-24,GE 7,,,,,,4,,,4
-25,GE 8,,,,,,4,,,4
-26,ELECTIVE 1,,,,,,4,,,4
-27,MMW 14 / GE 2,MMW,14,5;6,,,4,,,5
-28,GE 9,,,,,,4,,,5
-29,GE 10,,,,,,4,,,5
-30,ELECTIVE 2,,,,,,4,,,5
+31,GE 4,,,,,,4,,,4
+32,MMW 14 / GE 2,MMW,14,5;6,,,4,,,5
+33,GE 5,,,,,,4,,,5
+34,GE 6,,,,,,4,,,5
 8,MMW 15,MMW,15,5;6,,,4,,,6
-31,GE 11,,,,,,4,,,6
-32,DEI,,,,,,4,,,6
-33,ELECTIVE 3,,,,,,4,,,6
-34,UD ELECTIVE,,,,,,4,,,7
-35,ELECTIVE 4,,,,,,4,,,7
-36,ELECTIVE 5,,,,,,4,,,8
-37,ELECTIVE 6,,,,,,4,,,8
-38,ELECTIVE 7,,,,,,4,,,9
-39,ELECTIVE 8,,,,,,4,,,9
-40,ELECTIVE 9,,,,,,4,,,10
-41,ELECTIVE 10,,,,,,4,,,10
-42,ELECTIVE 11,,,,,,4,,,11
-43,ELECTIVE 12,,,,,,4,,,11
-44,ELECTIVE 13,,,,,,4,,,12
+35,DEI,,,,,,4,,,6
+36,GE 7,,,,,,4,,,6
+37,ELECTIVE 1,,,,,,4,,,6
+38,UD ELECTIVE,,,,,,4,,,7
+39,ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,4,,,10
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12

@@ -39,13 +39,13 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,AS / TE 2,,,,,,4,,,10
 40,AS / TE 3,,,,,,4,,,11
 27,CENG 124A,CENG,124A,19;26,,,4,,,11
-28,CENG 176A,CENG,176A,26;19,,,4,,,11
+28,CENG 176A,CENG,176A,26;19;20,,,4,,,11
 30,CENG 124B,CENG,124B,27,,,4,,,12
 29,CENG 176B,CENG,176B,28,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 31,CCE 1,CCE,1,,,,4,,,2
-32,CCE 2,CCE,2,,,,4,,,4
+32,CCE 2,CCE,2,31,,,4,,,4
 41,DEI,,,,,,4,,,5
 33,CCE 3,CCE,3,,,,4,,,6
 42,BREADTH GE 1,,,,,,4,,,7

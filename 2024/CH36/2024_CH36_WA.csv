@@ -1,0 +1,57 @@
+Curriculum,Molecular Synthesis,,,,,,,,,
+Degree Plan,Molecular Synthesis/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+4,MATH 20B,MATH,20B,2,,,4,,,2
+5,CHEM 6C,CHEM,6C,3,,,4,,,3
+7,MATH 20C,MATH,20C,4,,,4,,,3
+33,CHEM 7L / 7LM,CHEM,7L,3,,,4,,,3
+8,CHEM 41A,CHEM,41A,3,,,4,,,4
+10,MATH 18,MATH,18,,,,4,,,4
+9,PHYS 2A,PHYS,2A,2;2,,,4,,,4
+11,CHEM 41B,CHEM,41B,8,,,4,,,5
+12,CHEM 43A / 43AM,CHEM,43A,33;8,,,4,,,5
+13,PHYS 2B,PHYS,2B,9;4,,,4,,,5
+36,GE / CCER,,,,,,4,,,5
+15,CHEM 41C,CHEM,41C,11,,,4,,,6
+14,PHYS 2C / 2D,PHYS,2C,9;7,,,4,,,6
+16,"PHYS 2BL, 2CL / 2DL",PHYS,2BL,9,,,2,,,6
+35,MATH 20D,MATH,20D,7;10,,,4,,,6
+37,GE / DEI,,,,,,4,,,6
+17,CHEM 100A,CHEM,100A,5;33,,,4,,,7
+18,CHEM 114A,CHEM,114A,8,,,4,,,7
+19,CHEM 120A,CHEM,120A,5;8,,,4,,,8
+20,CHEM 143B,CHEM,143B,12;11,,,4,,,8
+21,CHEM 120B,CHEM,120B,19,,,4,,,9
+22,CHEM 156,CHEM,156,15,,,4,,,9
+24,CHEM 126A,CHEM,126A,5;14;7,,,4,,,10
+25,CHEM 143C,CHEM,143C,12;11,,,4,,,10
+23,CHEM 152,CHEM,152,15,,,4,,,10
+27,CHEM 105A,CHEM,105A,17;16;24,,,4,,,11
+26,CHEM 126B,CHEM,126B,24,,,4,,,11
+38,MOLECULAR SYNTHESIS ELECTIVE,,,,,,4,,,11
+28,CHEM 157,CHEM,157,15,,,4,,,12
+29,CHEM 123,CHEM,123,19;12;21,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,WCWP 10A,WCWP,10A,,,,4,,,1
+39,GE 1,,,,,,4,,,1
+31,WCWP 10B,WCWP,10B,30,,,4,,,2
+40,GE 2,,,,,,4,,,2
+32,PHIL / POLI 27,POLI,27,30;31,,,4,,,3
+34,PHIL / POLI 28,POLI,28,32,,,4,,,4
+41,GE 3,,,,,,4,,,7
+42,GE 4,,,,,,4,,,7
+43,GE 5,,,,,,4,,,8
+44,GE 6,,,,,,4,,,8
+45,GE 7,,,,,,4,,,9
+46,GE 8,,,,,,4,,,9
+47,GE 9,,,,,,4,,,10
+48,GE 10,,,,,,4,,,12

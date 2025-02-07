@@ -9,22 +9,46 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 1,LTGK 1 / LTLA1 1,LTGK,1,,,,4,,,1
 2,LTGK 2 / LTLA 2,LTGK,2,1,,,4,,,2
 3,LTGK 3 / LTLA 3 1,LTGK,3,2,,,4,,,3
-4,LD ELECTIVE 1,,,,,,4,,,3
-5,LTGK 1 / LTLA1 2,LTGK,1,,,,4,,,4
-6,LTGK 2 / LTLA2,LTGK,2,1,,,4,,,5
-7,LTGK 3 / LTLA 3 2,LTGK,3,2,,,4,,,6
-8,LD ELECTIVE 2,,,,,,4,,,6
-9,UD LTGK / UD LTLA 1,,,,,,4,,,7
-10,UD ELECTIVE 1,,,,,,4,,,7
-11,UD LTGK / UD LTLA 2,,,,,,4,,,8
-12,UD ELECTIVE 2,,,,,,4,,,8
-13,UD LTGK / UD LTLA 3,,,,,,4,,,9
-14,UD ELECTIVE 3,,,,,,4,,,9
-15,UD LTGK / UD LTLA 4,,,,,,4,,,10
-16,UD ELECTIVE 4,,,,,,4,,,10
-17,UD LTGK / UD LTLA 5,,,,,,4,,,11
-18,UD ELECTIVE 5,,,,,,4,,,11
-19,UD LTGK / UD LTLA 6,,,,,,4,,,12
-20,UD ELECTIVE 6,,,,,,4,,,12
+8,LD ELECTIVE 1,,,,,,4,,,3
+9,LTGK 1 / LTLA1 2,LTGK,1,,,,4,,,4
+10,LTGK 2 / LTLA2,LTGK,2,1,,,4,,,5
+11,LTGK 3 / LTLA 3 2,LTGK,3,2,,,4,,,6
+12,LD ELECTIVE 2,,,,,,4,,,6
+13,UD LTGK / UD LTLA 1,,,,,,4,,,7
+14,UD ELECTIVE 1,,,,,,4,,,7
+15,UD LTGK / UD LTLA 2,,,,,,4,,,8
+16,UD ELECTIVE 2,,,,,,4,,,8
+17,UD LTGK / UD LTLA 3,,,,,,4,,,9
+18,UD ELECTIVE 3,,,,,,4,,,9
+19,UD LTGK / UD LTLA 4,,,,,,4,,,10
+20,UD ELECTIVE 4,,,,,,4,,,10
+21,UD LTGK / UD LTLA 5,,,,,,4,,,11
+22,UD ELECTIVE 5,,,,,,4,,,11
+23,UD LTGK / UD LTLA 6,,,,,,4,,,12
+24,UD ELECTIVE 6,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,CAT 1,CAT,1,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,1
+5,CAT 2,CAT,2,4,,,6,,,2
+27,GE 3,,,,,,4,,,2
+6,CAT 3,CAT,3,5,,,6,,,3
+28,GE / DEI,,,,,,4,,,4
+29,GE / CCER,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,4
+31,GE 4,,,,,,4,,,5
+32,GE 5,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,5
+34,GE 6,,,,,,4,,,6
+35,ELECTIVE 3,,,,,,4,,,6
+36,UD ELECTIVE 7,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+38,GE 7,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,8
+7,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,9
+40,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,11
+43,ELECTIVE 8,,,,,,4,,,11
+44,ELECTIVE 9,,,,,,4,,,12

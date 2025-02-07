@@ -12,7 +12,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 3,MATH 10B,MATH,10B,1,,,4,,,2
 5,BILD 3,BILD,3,,,,4,,,3
 15,STATISTICS COURSE,,,,,,4,,,3
-6,CHEM 6A,CHEM,6A,,,,4,,,4
+6,CHEM 6A,CHEM,6A,1,,,4,,,4
 16,LOWER DIVISION CORE 1,,,,,,4,,,4
 7,CHEM 6B,CHEM,6B,6;1,,,4,,,5
 17,LOWER DIVISION CORE 2,,,,,,4,,,5

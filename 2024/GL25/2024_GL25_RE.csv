@@ -1,0 +1,53 @@
+Curriculum,Global South Studies,,,,,,,,,
+Degree Plan,Global South Studies/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LD GSS 20 - 27 1,GSS,20,,,,4,,,1
+8,LD GSS 20 - 27 2,GSS,20,,,,4,,,2
+9,LD GSS 20 - 27 3,GSS,20,,,,4,,,3
+10,UD MAJOR - ELECTIVE 1,,,,,,4,,,4
+11,UD MAJOR - ELECTIVE 2,,,,,,4,,,5
+12,UD MAJOR - ELECTIVE 3,,,,,,4,,,6
+13,UD MAJOR - ELECTIVE 4,,,,,,4,,,7
+14,UD MAJOR - ELECTIVE 5,,,,,,4,,,7
+15,UD MAJOR - ELECTIVE 6,,,,,,4,,,8
+16,UD MAJOR - ELECTIVE 7,,,,,,4,,,8
+17,UD MAJOR - ELECTIVE 8,,,,,,4,,,9
+18,UD MAJOR - ELECTIVE 9,,,,,,4,,,9
+19,UD MAJOR - ELECTIVE 10,,,,,,4,,,10
+20,UD MAJOR - ELECTIVE 11,,,,,,4,,,11
+21,UD MAJOR - ELECTIVE 12,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+22,CHEMISTRY GE,,,,,,4,,,1
+3,HUM 1,HUM,1,,,,6,,,2
+23,MATH GE 1,,,,,,4,,,2
+24,BIOLOGY GE,,,,,,4,,,2
+4,HUM 2,HUM,2,,,,6,,,3
+25,MATH GE 2,,,,,,4,,,3
+26,PHYSICS GE,,,,,,4,,,3
+5,HUM 3,HUM,3,3,,,4,,,4
+27,LANGUAGE 1,,,,,,5,,,4
+6,HUM 4,HUM,4,,,,4,,,5
+28,LANGUAGE 2,,,,,,5,,,5
+7,HUM 5,HUM,5,,,,4,,,6
+29,FINE ARTS GE,,,,,,4,,,6
+30,LANGUAGE 3,,,,,,5,,,6
+31,LANGUAGE 4,,,,,,5,,,7
+32,ELECTIVE 1,,,,,,4,,,8
+33,NATURAL SCIENCE GE,,,,,,4,,,8
+34,ELECTIVE 2,,,,,,4,,,9
+35,SOCIAL SCIENCE GE / DEI,,,,,,4,,,9
+36,UD ELECTIVE 1,,,,,,4,,,10
+37,ELECTIVE 3,,,,,,4,,,10
+38,UD ELECTIVE 2,,,,,,4,,,11
+39,SOCIAL SCIENCE GE,,,,,,4,,,11
+40,ELECTIVE 4,,,,,,4,,,11
+41,UD ELECTIVE 3,,,,,,4,,,12
+42,NATURAL SCIENCE GE / CCER,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

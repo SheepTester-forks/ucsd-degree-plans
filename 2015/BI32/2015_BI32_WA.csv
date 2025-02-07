@@ -29,8 +29,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,PHYS 1CL,PHYS,1CL,15;16;7,,,2,,,6
 22,BIMM 100,BIMM,100,5;18,,,4,,,7
 23,BIMM 121,BIMM,121,5;18,,,4,,,7
-28,UD BIOLOGY LAB,,,,,,4,,,8
 24,BIMM 120,BIMM,120,5;18,,,4,,,8
+28,UD BIOLOGY LAB,,,,,,4,,,8
 25,BIMM 114,BIMM,114,22,,,4,,,9
 26,BICD 140,BICD,140,14;22,,,4,,,9
 27,BIMM 124,BIMM,124,18,,,4,,,10

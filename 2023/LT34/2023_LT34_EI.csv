@@ -13,8 +13,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 11,LD LANGUAGE 3,,,,,,5,,,3
 12,LD LTEN / GSS 2,,,,,,4,,,3
 13,LD LANGUAGE 4,,,,,,5,,,4
-2,LTWR 8A / LTWR 8B / LTWR 8C 1,LTWR,8A,,,,4,,,4
 14,LD LANGUAGE 5,,,,,,5,,,5
+2,LTWR 8A / LTWR 8B / LTWR 8C 1,LTWR,8A,,,,4,,,5
 15,LTWR 8A / LTWR 8B / LTWR 8C 2,LTWR,8A,,,,4,,,5
 16,LD LANGUAGE 6,,,,,,5,,,6
 17,LTWR 8A / LTWR 8B / LTWR 8C 3,LTWR,8A,,,,4,,,6
@@ -37,9 +37,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,BREADTH GE 1,,,,,,4,,,2
 31,BREADTH GE 2,,,,,,4,,,3
 32,BREADTH GE 3,,,,,,4,,,3
-5,CCE 2,CCE,2,,,,4,,,4
-33,ELECTIVE 1,,,,,,4,,,4
-34,BREADTH GE 4,,,,,,4,,,5
+5,CCE 2,CCE,2,4,,,4,,,4
+33,BREADTH GE 4,,,,,,4,,,4
+34,ELECTIVE 1,,,,,,4,,,4
 35,BREADTH GE 5,,,,,,4,,,5
 6,CCE 3,CCE,3,,,,4,,,6
 36,BREADTH GE 6,,,,,,4,,,6

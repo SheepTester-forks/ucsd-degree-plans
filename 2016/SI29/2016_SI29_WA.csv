@@ -16,10 +16,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 8,BILD 2,BILD,2,6,,,4,,,3
 9,CHEM 6C,CHEM,6C,5,,,4,,,3
 10,MATH 10C / 20C,MATH,10C,4,,,4,,,3
+14,PHYS 1AL,PHYS,1AL,3,,,2,,,4
 11,CHEM 7L,CHEM,7L,5,,,4,,,4
 12,SIO 132,SIO,132,2,,,4,,,4
 13,PHYS 1A,PHYS,1A,3,,,3,,,4
-14,PHYS 1AL,PHYS,1AL,3,,,2,,,4
 15,SIO 134,SIO,134,2,,,4,,,5
 16,PHYS 1B,PHYS,1B,4;13;14,,,3,,,5
 17,PHYS 1BL,PHYS,1BL,4;13;14,,,2,,,5

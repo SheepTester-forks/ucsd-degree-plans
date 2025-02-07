@@ -27,7 +27,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 12,USP 143,USP,143,,,,4,,,8
 13,FMPH 120 / FMPH 130 1,FMPH,120,8,,,4,,,9
 27,CONCENTRATION UDE 2,,,,,,4,,,9
-28,FMPH 120 / FMPH 130 2,FMPH,120,8,,,4,,,10
+28,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 29,FMPH UDE,,,,,,4,,,10
 14,FMPH 193,FMPH,193,,,,4,,,11
 30,UDE 1,,,,,,4,,,11

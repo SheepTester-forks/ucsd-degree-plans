@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 10,MATH 20D,MATH,20D,6,,,4,,,4
 11,PHYS 2C,PHYS,2C,4;6,,,4,,,4
 12,PHYS 2CL,PHYS,2CL,4;7,,,2,,,4
-30,CCE 2,CCE,2,,,,4,,,4
+30,CCE 2,CCE,2,29,,,4,,,4
 15,SE 101B,SE,101B,13,,,4,,,5
 16,SE 110A,SE,110A,13;10,,,4,,,5
 14,MATH 18,MATH,18,,,,4,,,5

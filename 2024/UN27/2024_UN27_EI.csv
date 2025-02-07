@@ -1,0 +1,55 @@
+Curriculum,,,,,,,,,,
+Degree Plan,/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,UD MAJOR 1,,,,,,4,,,7
+6,UD MAJOR 2,,,,,,4,,,7
+7,UD MAJOR 3,,,,,,4,,,7
+8,ELECTIVE 1,,,,,,4,,,7
+9,UD MAJOR 4,,,,,,4,,,8
+10,UD MAJOR 5,,,,,,4,,,8
+11,UD MAJOR 6,,,,,,4,,,8
+12,ELECTIVE 2,,,,,,4,,,8
+13,UD MAJOR 7,,,,,,4,,,9
+14,UD MAJOR 8,,,,,,4,,,9
+15,ELECTIVE 3,,,,,,4,,,9
+16,UD MAJOR 9,,,,,,4,,,10
+17,UD ELECTIVE 1,,,,,,4,,,10
+18,UD MAJOR 10,,,,,,4,,,11
+19,UD MAJOR 11,,,,,,4,,,11
+20,UD MAJOR 12,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,BREADTH GE 1,,,,,,4,,,1
+22,BREADTH GE 2,,,,,,4,,,1
+23,DEI,,,,,,4,,,1
+1,CCE 1,CCE,1,,,,4,,,2
+24,BREADTH GE 3,,,,,,4,,,2
+25,ELECTIVE 4,,,,,,4,,,2
+26,ELECTIVE 5,,,,,,4,,,2
+27,BREADTH GE 4,,,,,,4,,,3
+28,BREADTH GE 5,,,,,,4,,,3
+29,ELECTIVE 6,,,,,,4,,,3
+30,ELECTIVE 7,,,,,,4,,,3
+2,CCE 2,CCE,2,1,,,4,,,4
+31,BREADTH GE 6,,,,,,4,,,4
+32,BREADTH GE 7,,,,,,4,,,4
+33,ELECTIVE 8,,,,,,4,,,4
+34,BREADTH GE 8,,,,,,4,,,5
+35,BREADTH GE 9,,,,,,4,,,5
+36,ELECTIVE 9,,,,,,4,,,5
+37,ELECTIVE 10,,,,,,4,,,5
+3,CCE 3,CCE,3,2,,,4,,,6
+38,BREADTH GE 10,,,,,,4,,,6
+39,ELECTIVE 11,,,,,,4,,,6
+40,ELECTIVE 12,,,,,,4,,,6
+4,CCE 120,CCE,120,,,,4,,,9
+41,ELECTIVE 13,,,,,,4,,,10
+42,ELECTIVE 14,,,,,,4,,,10
+43,UD ELECTIVE 2,,,,,,4,,,11
+44,ELECTIVE 15,,,,,,4,,,12
+45,ELECTIVE 16,,,,,,4,,,12

@@ -31,8 +31,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,UD BIOLOGY LAB,,,,,,4,,,7
 23,BIPN 100,BIPN,100,10;14,,,4,,,8
 24,BIMM 100,BIMM,100,10;18,,,4,,,8
-25,BIPN 105,BIPN,105,23,,,6,,,9
 30,UD P&N CORE 1,,,,,,4,,,9
+25,BIPN 105,BIPN,105,23,,,6,,,9
 31,UD BIOLOGY ELECTIVE 1,,,,,,4,,,10
 32,UD P&N CORE 2,,,,,,4,,,10
 33,UD BIOLOGY ELECTIVE 2,,,,,,4,,,11

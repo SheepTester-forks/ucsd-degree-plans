@@ -48,7 +48,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 42,DEI,,,,,,4,,,1
 24,CCE 1,CCE,1,,,,4,,,2
 43,BREADTH GE 2,,,,,,4,,,3
-25,CCE 2,CCE,2,,,,4,,,4
+25,CCE 2,CCE,2,24,,,4,,,4
 26,CCE 3,CCE,3,,,,4,,,6
 44,BREADTH GE 3,,,,,,4,,,7
 45,BREADTH GE 4,,,,,,4,,,8

@@ -1,0 +1,56 @@
+Curriculum,Latin American Studies,,,,,,,,,
+Degree Plan,Latin American Studies/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0107,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LISP 1A,LISP,1A,,,,2.5,,,1
+2,LISP 1AX,LISP,1AX,,,,2.5,,,1
+3,LISP 1B,LISP,1B,1;2,,,2.5,,,2
+4,LISP 1BX,LISP,1BX,1;2,,,2.5,,,2
+5,LISP 1C,LISP,1C,3;4,,,2.5,,,3
+6,LISP 1CX,LISP,1CX,3;4,,,2.5,,,3
+7,LTSP 2A,LTSP,2A,5;6,,,5,,,4
+8,LATI 10,LATI,10,,,,4,,,4
+9,LATI 50,LATI,50,,,,4,,,5
+16,LATI CORE COURSE 1,,,,,,4,,,6
+17,LATI UD ELECTIVE 1,,,,,,4,,,7
+18,LATI METHOD,,,,,,4,,,7
+19,LATI UD ELECTIVE 2,,,,,,4,,,8
+10,LATI 150,LATI,150,,,,4,,,8
+20,LATI CORE COURSE 2,,,,,,4,,,9
+11,LATI 180,LATI,180,,,,4,,,9
+21,LATI CORE COURSE 3,,,,,,4,,,10
+22,LATI UD ELECTIVE 3,,,,,,4,,,10
+12,LATI 190,LATI,190,,,,4,,,11
+23,LATI UD ELECTIVE 4,,,,,,4,,,11
+24,LATI UD ELECTIVE 5,,,,,,4,,,12
+25,LATI UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+26,TMC LD GE 1,,,,,,4,,,1
+27,TMC LD GE 2,,,,,,4,,,1
+14,DOC 2,DOC,2,13,,,6,,,2
+28,TMC LD GE 3,,,,,,4,,,2
+29,TMC LD GE 4,,,,,,4,,,2
+15,DOC 3,DOC,3,14,,,6,,,3
+30,TMC LD GE 5,,,,,,4,,,3
+31,TMC LD GE 6,,,,,,4,,,3
+32,UCSD CCER,,,,,,4,,,4
+33,ELECTIVE 1,,,,,,4,,,4
+34,TMC LD BREADTH 1,,,,,,4,,,5
+35,ELECTIVE 2,,,,,,4,,,5
+36,ELECTIVE 3,,,,,,4,,,5
+37,TMC LD BREADTH 2,,,,,,4,,,6
+38,ELECTIVE 4,,,,,,4,,,6
+39,ELECTIVE 5,,,,,,4,,,6
+40,TMC UD BREADTH 1,,,,,,4,,,7
+41,ELECTIVE 6,,,,,,4,,,7
+42,TMC UD BREADTH 2,,,,,,4,,,8
+43,UD ELECTIVE,,,,,,4,,,9
+44,ELECTIVE 7,,,,,,4,,,10
+45,ELECTIVE 8,,,,,,4,,,11
+46,ELECTIVE 9,,,,,,4,,,12

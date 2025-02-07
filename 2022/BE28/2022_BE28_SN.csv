@@ -46,7 +46,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,BENG 168,BENG,168,10;19,,,4,,,11
 37,BENG 187D,BENG,187D,34,,,1,,,12
 44,TECHNICAL ELECTIVE 2,,,,,,4,,,12
-36,BENG 125,BENG,125,,,,4,,,12
+36,BENG 125,BENG,125,27,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 45,ALTERNATIVE 1,,,,,,4,,,1

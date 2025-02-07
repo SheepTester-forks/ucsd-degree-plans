@@ -1,0 +1,53 @@
+Curriculum,Literature/Writing,,,,,,,,,
+Degree Plan,Literature/Writing/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD LTEN / GSS 1,,,,,,4,,,1
+10,LD LANGUAGE 1,,,,,,5,,,1
+1,LTEN 26,LTEN,26,,,,4,,,2
+11,LD LANGUAGE 2,,,,,,5,,,2
+12,LD LTEN / GSS 2,,,,,,4,,,3
+13,LD LANGUAGE 3,,,,,,5,,,3
+2,LTWR 8A / LTWR 8B / LTWR 8C 1,LTWR,8A,6;7,,,4,,,4
+14,LD LANGUAGE 4,,,,,,5,,,4
+15,LTWR 8A / LTWR 8B / LTWR 8C 2,LTWR,8A,6;7,,,4,,,5
+16,LD LANGUAGE 5,,,,,,5,,,5
+17,LTWR 8A / LTWR 8B / LTWR 8C 3,LTWR,8A,6;7,,,4,,,6
+18,LD LANGUAGE 6,,,,,,5,,,6
+3,LTWR 100 - 129 1,LTWR,100,,,,4,,,7
+19,UD LTAM,,,,,,4,,,7
+20,LTWR 100 - 129 2,LTWR,100,,,,4,,,8
+21,UD LTEU,,,,,,4,,,8
+22,LTWR 100 - 129 3,LTWR,100,,,,4,,,9
+23,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,9
+24,LTWR 100 - 129 4,LTWR,100,,,,4,,,10
+4,LTWR 140 - 149,LTWR,140,,,,4,,,10
+25,LTWR 100 - 129 5,LTWR,100,,,,4,,,11
+26,UD LIT ELECTIVE 1,,,,,,4,,,11
+27,LTWR 100 - 129 6,LTWR,100,,,,4,,,12
+28,UD LIT ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,CAT 1,CAT,1,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+6,CAT 2,CAT,2,5,,,6,,,2
+30,GE 2,,,,,,4,,,2
+7,CAT 3,CAT,3,6,,,6,,,3
+31,GE 3,,,,,,4,,,3
+32,GE / DEI,,,,,,4,,,4
+33,GE 4,,,,,,4,,,4
+34,GE 5,,,,,,4,,,5
+35,ELECTIVE 1,,,,,,4,,,5
+36,GE / CCER,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,2,,,6
+38,ELECTIVE 3,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,7
+8,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,8
+40,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,9
+41,UD ELECTIVE,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12

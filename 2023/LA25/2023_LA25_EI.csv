@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,LATI CORE COURSE 1,,,,,,4,,,6
 18,LATI METHOD,,,,,,4,,,7
 19,LATI UD ELECTIVE 1,,,,,,4,,,7
-15,LATI 150,LATI,150,9,,,4,,,8
+15,LATI 150,LATI,150,,,,4,,,8
 20,LATI UD ELECTIVE 2,,,,,,4,,,8
 21,LATI CORE COURSE 2,,,,,,4,,,9
 10,LATI 180,LATI,180,,,,4,,,9
@@ -38,7 +38,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 31,BREADTH GE 4,,,,,,4,,,3
 32,BREADTH GE 5,,,,,,4,,,3
 33,ELECTIVE 2,,,,,,4,,,3
-13,CCE 2,CCE,2,,,,4,,,4
+13,CCE 2,CCE,2,12,,,4,,,4
 34,ELECTIVE 3,,,,,,4,,,4
 35,BREADTH GE 6,,,,,,4,,,5
 36,BREADTH GE 7,,,,,,4,,,5

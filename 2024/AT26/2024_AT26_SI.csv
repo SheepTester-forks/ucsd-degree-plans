@@ -1,0 +1,54 @@
+Curriculum,Astronomy and Astrophysics,,,,,,,,,
+Degree Plan,Astronomy and Astrophysics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,PHYS 2A,PHYS,2A,1;1,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+5,PHYS 2B,PHYS,2B,2;4,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 2C,PHYS,2C,2;6,,,4,,,4
+8,MATH 20D,MATH,20D,6;3,,,4,,,4
+9,ASTR 20A,ASTR,20A,1;4;6;2;5,,,4,,,4
+10,PHYS 2D,PHYS,2D,2;5;8,,,4,,,5
+11,MATH 20E,MATH,20E,3;6,,,4,,,5
+12,ASTR 20B,ASTR,20B,9,,,4,,,5
+17,PROGRAMMING,,,,,,4,,,6
+18,ASTR UD MAJOR 1,,,,,,4,,,6
+19,ASTR UD MAJOR 2,,,,,,4,,,7
+20,ASTR ELECTIVE,,,,,,4,,,7
+21,ASTR UD MAJOR 3,,,,,,4,,,8
+22,ASTR UD MAJOR 4,,,,,,4,,,8
+23,ASTR UD MAJOR 5,,,,,,4,,,9
+24,ASTR UD MAJOR 6,,,,,,4,,,9
+25,ASTR UD MAJOR 7,,,,,,4,,,10
+26,ASTR UD MAJOR 8,,,,,,4,,,10
+27,ASTR UD MAJOR 9,,,,,,5,,,11
+28,ASTR UD MAJOR 10,,,,,,4,,,11
+29,ASTR UD MAJOR 11,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,CAT 1,CAT,1,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+31,GE 2,,,,,,4,,,1
+14,CAT 2,CAT,2,13,,,6,,,2
+15,CAT 3,CAT,3,14,,,6,,,3
+32,GE 3,,,,,,4,,,5
+33,GE / DEI,,,,,,4,,,6
+34,ELECTIVE 1,,,,,,4,,,6
+35,GE / CCER,,,,,,4,,,7
+36,ELECTIVE 2,,,,,,4,,,7
+37,GE 4,,,,,,4,,,8
+38,ELECTIVE 3,,,,,,4,,,8
+39,ELECTIVE 4,,,,,,4,,,9
+16,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,10
+40,ELECTIVE 5,,,,,,4,,,10
+41,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,11
+42,UD ELECTIVE,,,,,,4,,,12
+43,ELECTIVE 6,,,,,,3,,,12
+44,ELECTIVE 7,,,,,,4,,,12

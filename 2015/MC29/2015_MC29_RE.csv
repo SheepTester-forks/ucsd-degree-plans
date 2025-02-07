@@ -26,10 +26,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,MAE 3,MAE,3,5,,,4,,,6
 19,MAE 108,MAE,108,14,,,4,,,6
 20,MAE 124,MAE,124,3;3;3,,,4,,,6
-21,MAE 105,MAE,105,5;9;10,,,4,,,7
-23,CENG 100,CENG,100,4,,,4,,,7
 24,CHEM 171,CHEM,171,7,,,4,,,7
 22,MAE 107,MAE,107,15;14,,,4,,,7
+21,MAE 105,MAE,105,5;9;10,,,4,,,7
+23,CENG 100,CENG,100,4,,,4,,,7
 25,MAE 101A,MAE,101A,5;10;17,,,4,,,8
 27,MAE 119,MAE,119,,,,4,,,8
 26,MAE 110A,MAE,110A,11;2,,,4,,,8

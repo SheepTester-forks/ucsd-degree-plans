@@ -1,0 +1,56 @@
+Curriculum,General Physics/Secondary Education,,,,,,,,,
+Degree Plan,General Physics/Secondary Education/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 18,MATH,18,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+4,PHYS 4A,PHYS,4A,2,,,4,,,2
+3,MATH 20B,MATH,20B,2,,,4,,,2
+26,PROGRAMMING,,,,,,4,,,2
+5,PHYS 4B,PHYS,4B,4;2;3,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+7,PHYS 4C,PHYS,4C,4;4;4;5;5;5;2;3;6;1,,,4,,,4
+8,MATH 20E,MATH,20E,1;6,,,4,,,4
+10,PHYS 4D,PHYS,4D,4;4;4;5;5;5;7;6;8;1;2;3,,,4,,,5
+9,MATH 20D,MATH,20D,6,,,4,,,5
+11,PHYS 2CL,PHYS,2CL,4;7,,,2,,,5
+12,PHYS 4E,PHYS,4E,4;5;5;5;7;10;6;9;8;1;2;3,,,4,,,6
+15,PHYS 2DL,PHYS,2DL,11,,,2,,,7
+14,PHYS 100A,PHYS,100A,4;5;7;10;2;3;6;9;8;1,,,4,,,7
+13,PHYS 110A,PHYS,110A,4;5;7;10;2;3;6;9;8;1,,,4,,,7
+16,PHYS 100B,PHYS,100B,14;2;3;6;9;8;1,,,4,,,8
+27,PHYS UD RE 1,,,,,,4,,,8
+18,PHYS 120,PHYS,120,4;5;7;11,,,5,,,9
+17,PHYS 130A,PHYS,130A,4;5;7;10;12;14;13,,,4,,,9
+19,EDS 129A,EDS,129A,,,,4,,,10
+28,PHYS UD RE 2,,,,,,4,,,10
+20,EDS 129B,EDS,129B,19,,,4,,,11
+29,PHYS UD RE 3,,,,,,4,,,11
+21,EDS 129C,EDS,129C,20,,,4,,,12
+30,PHYS UD RE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+31,DEI,,,,,,4,,,1
+22,CCE 1,CCE,1,,,,4,,,2
+32,BREADTH GE 1,,,,,,4,,,3
+33,ELECTIVE 1,,,,,,4,,,3
+23,CCE 2,CCE,2,22,,,4,,,4
+34,BREADTH GE 2,,,,,,4,,,4
+35,BREADTH GE 3,,,,,,4,,,5
+24,CCE 3,CCE,3,23,,,4,,,6
+36,BREADTH GE 4,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,6
+38,BREADTH GE 5,,,,,,4,,,7
+39,BREADTH GE 6,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,4,,,8
+25,CCE 120,CCE,120,,,,4,,,9
+41,UD ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE 4,,,,,,4,,,10
+43,UD ELECTIVE 2,,,,,,3,,,11
+44,ELECTIVE 5,,,,,,4,,,11
+45,ELECTIVE 6,,,,,,4,,,12
+46,ELECTIVE 7,,,,,,4,,,12

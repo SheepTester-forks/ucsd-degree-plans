@@ -1,0 +1,54 @@
+Curriculum,Physics with Specialization in Computational Physics,,,,,,,,,
+Degree Plan,Physics with Specialization in Computational Physics/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0899,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A (MATH GE),MATH,20A,,,,4,,,1
+2,MATH 18 (MATH GE),MATH,18,,,,4,,,1
+4,MATH 20B (MATH GE),MATH,20B,1,,,4,,,2
+3,PHYS 4A (PHYS GE),PHYS,4A,1,,,4,,,2
+27,PROGRAMMING,,,,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+5,PHYS 4B (NAT SCI GE),PHYS,4B,3;1;4,,,4,,,3
+7,MATH 20E,MATH,20E,2;6,,,4,,,4
+8,PHYS 4C (NAT SCI GE),PHYS,4C,3;3;3;5;5;5;1;4;6;2,,,4,,,4
+9,MATH 20D,MATH,20D,6,,,4,,,5
+10,PHYS 4D,PHYS,4D,3;3;3;5;5;5;8;6;7;2;1;4,,,4,,,5
+11,PHYS 2CL,PHYS,2CL,3;8,,,2,,,5
+12,PHYS 4E,PHYS,4E,3;5;5;5;8;10;6;9;7;2;1;4,,,4,,,6
+13,PHYS 2DL,PHYS,2DL,11,,,2,,,7
+14,PHYS 100A,PHYS,100A,3;5;8;10;1;4;6;9;7;2,,,4,,,7
+15,PHYS 110A,PHYS,110A,3;5;8;10;1;4;6;9;7;2,,,4,,,7
+16,PHYS 105A,PHYS,105A,5;8;10;12;1;4;6;9;7;2,,,4,,,8
+17,PHYS 100B,PHYS,100B,14;1;4;6;9;7;2,,,4,,,8
+18,PHYS 120,PHYS,120,3;5;8;11,,,5,,,9
+19,PHYS 130A,PHYS,130A,3;5;8;10;12;14;15,,,4,,,9
+28,PHYS UD DEPTH 1,,,,,,4,,,9
+20,PHYS 130B,PHYS,130B,19;17,,,4,,,10
+21,PHYS 140A,PHYS,140A,19,,,4,,,10
+29,PHYS UD RE 1,,,,,,4,,,10
+30,PHYS UD LAB,,,,,,4,,,11
+31,PHYS UD DEPTH 2,,,,,,4,,,11
+32,PHYS UD DEPTH 3,,,,,,4,,,12
+33,PHYS UD RE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+34,DEI / SOCIAL SCIENCE GE,,,,,,4,,,1
+22,HUM 1,HUM,1,,,,6,,,2
+23,HUM 2,HUM,2,,,,6,,,3
+35,BIOLOGY GE,,,,,,4,,,4
+24,HUM 3,HUM,3,22,,,4,,,4
+25,HUM 4,HUM,4,,,,4,,,5
+36,CHEMISTRY GE,,,,,,4,,,6
+37,CCER / SOCIAL SCIENCE GE,,,,,,4,,,6
+26,HUM 5,HUM,5,,,,4,,,6
+38,LANGUAGE 1,,,,,,5,,,7
+39,LANGUAGE 2,,,,,,5,,,8
+40,LANGUAGE 3,,,,,,5,,,9
+41,LANGUAGE 4,,,,,,5,,,10
+42,FINE ARTS GE,,,,,,4,,,11
+43,UD ELECTIVE,,,,,,4,,,12
+44,AHI / ELECTIVE,,,,,,4,,,12

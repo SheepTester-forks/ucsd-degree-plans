@@ -1,0 +1,54 @@
+Curriculum,Linguistics (Specialization in Speech and Language Sciences),,,,,,,,,
+Degree Plan,Linguistics (Specialization in Speech and Language Sciences)/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+13,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+1,LIGN 101,LIGN,101,,,,4,,,2
+14,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+2,COGS 14B / PSYC 60 / HDS 60 (STATS REQUIREMENT),COGS,14B,,,,4,,,3
+15,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+3,LIGN 110,LIGN,110,1,,,4,,,4
+4,LIGN 112 / 113,LIGN,112,3,,,4,,,5
+5,LIGN 111,LIGN,111,3,,,4,,,5
+16,NEUROLINGUISTICS ELECTIVE,,,,,,4,,,6
+6,LIGN 120,LIGN,120,1,,,4,,,6
+17,LANGUAGE DEVELOPMENT ELECTIVE,,,,,,4,,,7
+7,LIGN 121,LIGN,121,1,,,4,,,8
+8,LIGN 130,LIGN,130,1,,,4,,,9
+18,UD ELECTIVE FROM LIST 1,,,,,,4,,,10
+19,UD ELECTIVE FROM LIST 2,,,,,,4,,,11
+20,UD ELECTIVE FROM LIST 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,DEI,,,,,,4,,,1
+22,ALTERNATIVE 1,,,,,,4,,,1
+23,ALTERNATIVE 2,,,,,,4,,,1
+24,ALTERNATIVE 3,,,,,,4,,,2
+25,ELECTIVE 1,,,,,,4,,,2
+9,SYN 1 (CCER),SYN,1,,,,4,,,3
+26,ALTERNATIVE 4,,,,,,4,,,3
+10,SYN 2,SYN,2,9,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,ALTERNATIVE 5,,,,,,4,,,5
+29,ALTERNATIVE 6,,,,,,4,,,5
+30,ALTERNATIVE 7,,,,,,4,,,6
+31,ELECTIVE 3,,,,,,4,,,6
+11,SYN 100,SYN,100,9;10,,,4,,,7
+32,ELECTIVE 4,,,,,,4,,,7
+33,ELECTIVE 5,,,,,,4,,,7
+34,UD ELECTIVE 1,,,,,,4,,,8
+35,ELECTIVE 6,,,,,,4,,,8
+36,ELECTIVE 7,,,,,,4,,,9
+37,ELECTIVE 8,,,,,,4,,,9
+38,HIGH - IMPACT,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

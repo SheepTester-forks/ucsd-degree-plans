@@ -23,7 +23,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 14,PHYS 2C / 2D,PHYS,2C,8;5,,,4,,,6
 30,GE / DEI,,,,,,4,,,6
 18,CHEM 130,CHEM,130,7;14;9,,,4,,,7
-16,CHEM 100A,CHEM,100A,7,,,4,,,7
+16,CHEM 100A,CHEM,100A,7;6,,,4,,,7
 17,CHEM 171,CHEM,171,7,,,4,,,7
 19,CHEM 131,CHEM,131,7;14;5,,,4,,,8
 20,CHEM 172,CHEM,172,7,,,4,,,8

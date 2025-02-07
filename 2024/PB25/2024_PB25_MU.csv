@@ -1,0 +1,55 @@
+Curriculum,Public Health,,,,,,,,,
+Degree Plan,Public Health/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PH 40,PH,40,,,,4,,,1
+12,LD PH __,,,,,,4,,,1
+2,BILD 3,BILD,3,,,,4,,,2
+13,LD PH __ (TRENDING TOPICS),,,,,,4,,,2
+14,QUANTITATIVE METHODS (STATS),,,,,,4,,,3
+15,LD BIOLOGY 1,,,,,,4,,,4
+3,PH 110,PH,110,1,,,4,,,5
+4,PH 45,PH,45,1,,,4,,,5
+16,LD BIOLOGY 2,,,,,,4,,,6
+17,PH UDE 1,,,,,,4,,,7
+5,PH 101 / PH 102 1,PH,101,1,,,4,,,7
+6,USP 143,USP,143,,,,4,,,8
+18,PH 101 / PH 102 2,PH,101,1,,,4,,,8
+19,PH UDE 2,,,,,,4,,,9
+7,PH 120 / PH 130 1,PH,120,1,,,4,,,9
+20,PH 120 / PH 130 2,PH,120,1,,,4,,,10
+21,UDE 1,,,,,,4,,,10
+8,PH 193,PH,193,1;4;5;3;7,,,4,,,11
+22,UDE 2,,,,,,4,,,11
+9,PH 194,PH,194,1;4;5;3;7;8,,,4,,,12
+23,UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MCWP 40,MCWP,40,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+11,MCWP 50,MCWP,50,10,,,4,,,2
+25,GE 2,,,,,,4,,,2
+26,DEI,,,,,,4,,,3
+27,GE 3,,,,,,4,,,3
+28,GE 4,,,,,,4,,,4
+29,GE 5,,,,,,4,,,4
+30,CCER,,,,,,4,,,4
+31,GE 6,,,,,,4,,,5
+32,GE 7,,,,,,4,,,5
+33,GE 8,,,,,,4,,,6
+34,GE 9,,,,,,4,,,6
+35,ELECTIVE 1,,,,,,4,,,6
+36,MUIR UPPER DIV ELECTIVE 1,,,,,,4,,,7
+37,ELECTIVE 2,,,,,,4,,,7
+38,ELECTIVE 3,,,,,,4,,,8
+39,ELECTIVE 4,,,,,,4,,,8
+40,MUIR UPPER DIV ELECTIVE 2,,,,,,4,,,9
+41,ELECTIVE 5,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,10
+44,ELECTIVE 8,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,4,,,12

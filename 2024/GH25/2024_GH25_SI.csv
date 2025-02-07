@@ -1,0 +1,54 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,GH INTRO,,,,,,4,,,1
+6,GH SOCIOLOGY,,,,,,4,,,2
+7,GH STATISTICS,,,,,,4,,,3
+8,UD GH POLICY ANALYSIS,,,,,,4,,,7
+9,UD GH CORE 1,,,,,,4,,,7
+10,UD GH ELECTIVE 1,,,,,,4,,,8
+11,UD GH ELECTIVE 2,,,,,,4,,,8
+12,UD GH CORE 2,,,,,,4,,,8
+13,UD GH CORE 3,,,,,,4,,,9
+14,UD GH ELECTIVE 3,,,,,,4,,,9
+15,UD GH ELECTIVE 4,,,,,,4,,,9
+16,UD GH ELECTIVE 5,,,,,,4,,,10
+17,UD GH ELECTIVE 6,,,,,,4,,,10
+18,UD GH ELECTIVE 7,,,,,,4,,,11
+19,UD GH ELECTIVE 8,,,,,,4,,,11
+20,UD GH ELECTIVE 9,,,,,,4,,,12
+21,UD GH ELECTIVE 10,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CAT 1,CAT,1,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,ELECTIVE 1,,,,,,4,,,1
+2,CAT 2,CAT,2,1,,,6,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+25,ELECTIVE 3,,,,,,4,,,2
+3,CAT 3,CAT,3,2,,,6,,,3
+26,ELECTIVE 4,,,,,,4,,,3
+27,ELECTIVE 5,,,,,,4,,,3
+28,GE / CCER,,,,,,4,,,4
+29,ELECTIVE 6,,,,,,4,,,4
+30,ELECTIVE 7,,,,,,4,,,4
+31,GE / DEI,,,,,,4,,,5
+32,GE 2,,,,,,4,,,5
+33,ELECTIVE 8,,,,,,4,,,5
+34,GE 3,,,,,,4,,,6
+35,GE 4,,,,,,4,,,6
+36,ELECTIVE 9,,,,,,4,,,6
+37,GE 5,,,,,,4,,,7
+38,ELECTIVE 10,,,,,,4,,,7
+39,ELECTIVE 11,,,,,,4,,,8
+40,ELECTIVE 12,,,,,,4,,,9
+4,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,10
+41,ELECTIVE 13,,,,,,4,,,10
+42,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,11
+43,ELECTIVE 14,,,,,,4,,,11
+44,ELECTIVE 15,,,,,,4,,,12

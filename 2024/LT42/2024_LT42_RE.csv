@@ -1,0 +1,53 @@
+Curriculum,Literary Arts,,,,,,,,,
+Degree Plan,Literary Arts/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+16,LD LANGUAGE 1,,,,,,5,,,1
+1,LTEN 25,LTEN,25,,,,4,,,1
+17,LD LANGUAGE 2,,,,,,5,,,2
+18,LD LTEN / GSS 1,,,,,,4,,,2
+19,LD LANGUAGE 3,,,,,,5,,,3
+20,LD LTEN / GSS 2,,,,,,4,,,3
+21,LD LANGUAGE 4,,,,,,5,,,4
+2,LTWR 8A / 8B / 8C 1,LTWR,8A,11;12,,,4,,,4
+22,LD LANGUAGE 5,,,,,,5,,,5
+23,LTWR 8A / 8B / 8C 2,LTWR,8A,11;12,,,4,,,5
+24,LD LANGUAGE 6,,,,,,5,,,6
+25,LTWR 8A / 8B / 8C 3,LTWR,8A,11;12,,,4,,,6
+3,CRAFT / READING COURSE (LTWR 100C - 129C) 1,LTWR,100C,2,,,4,,,7
+4,LTAM 100 - 190,LTAM,100,,,,4,,,7
+26,CRAFT / READING COURSE (LTWR 100C - 129C) 2,LTWR,100C,2,,,4,,,8
+5,LTEU 100 - 190,LTEU,100,,,,4,,,8
+27,CRAFT / READING COURSE (LTWR 100C - 129C) 3,LTWR,100C,2,,,4,,,9
+6,LTWR 140 - 149,LTWR,140,,,,4,,,9
+7,WORKSHOP COURSE (LTWR 100W - 129W) 1,LTWR,100W,2,,,4,,,10
+8,LTAF 100 - 190 / LTAM 100 - 190 / LTEA 100 - 190 / LTEU 100 - 190 / LTWL 100 - 190,LTAF,100,,,,4,,,10
+28,WORKSHOP COURSE (LTWR 100W - 129W) 2,LTWR,100W,2,,,4,,,11
+9,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 1",LT,100,,,,4,,,11
+29,CRAFT / READING COURSE (LTWR 100C - 129C) 4,LTWR,100C,2,,,4,,,12
+30,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 2",LT,100,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MATH 10A / 20A,MATH,10A,,,,4,,,1
+11,HUM 1,HUM,1,,,,6,,,2
+31,MATH GE 1,,,,,,4,,,2
+12,HUM 2,HUM,2,,,,6,,,3
+32,MATH GE 2,,,,,,4,,,3
+13,HUM 3,HUM,3,11,,,4,,,4
+33,SOCIAL SCIENCE GE / DEI,,,,,,4,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+34,SOCIAL SCIENCE GE,,,,,,4,,,5
+15,HUM 5,HUM,5,,,,4,,,6
+35,BIOLOGY GE,,,,,,4,,,7
+36,FINE ARTS GE,,,,,,2,,,7
+37,CHEMISTRY GE,,,,,,4,,,8
+38,UD ELECTIVE 1,,,,,,4,,,8
+39,PHYSICS GE,,,,,,4,,,9
+40,UD ELECTIVE 2,,,,,,4,,,9
+41,NATURAL SCIENCE GE / CCER,,,,,,4,,,10
+42,NATURAL SCIENCE GE,,,,,,4,,,11
+43,UD AHI / UD ELECTIVE,,,,,,4,,,12

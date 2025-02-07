@@ -1,0 +1,53 @@
+Curriculum,Linguistics(Specialization in Cognition & Language),,,,,,,,,
+Degree Plan,Linguistics(Specialization in Cognition & Language)/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+14,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+1,LIGN 101,LIGN,101,,,,4,,,2
+15,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+16,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+2,LIGN 110,LIGN,110,1,,,4,,,4
+3,LIGN 111,LIGN,111,2,,,4,,,5
+4,LIGN 120,LIGN,120,1,,,4,,,6
+17,LIGN ELECTIVE FROM LIST 1,,,,,,4,,,7
+18,LIGN / OTHER UD ELECTIVE 1,,,,,,4,,,8
+5,LIGN 121,LIGN,121,1,,,4,,,8
+19,LIGN ELECTIVE FROM LIST 2,,,,,,4,,,9
+6,LIGN 130,LIGN,130,1,,,4,,,9
+20,LIGN ELECTIVE FROM LIST 3,,,,,,4,,,10
+21,LIGN / OTHER UD ELECTIVE 2,,,,,,4,,,11
+22,LIGN ELECTIVE FROM LIST 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+7,MATH 10A / 20A,MATH,10A,,,,4,,,1
+8,HUM 1,HUM,1,,,,6,,,2
+24,MATH GE 1,,,,,,4,,,2
+9,HUM 2,HUM,2,,,,6,,,3
+25,MATH GE 2,,,,,,4,,,3
+10,HUM 3,HUM,3,8,,,4,,,4
+11,HUM 4,HUM,4,,,,4,,,5
+26,CHEMISTRY GE,,,,,,4,,,5
+12,HUM 5,HUM,5,,,,4,,,6
+27,BIOLOGY GE,,,,,,4,,,6
+28,NATURAL SCIENCE GE,,,,,,4,,,7
+29,ELECTIVE 1,,,,,,4,,,7
+30,ELECTIVE 2,,,,,,4,,,7
+31,NATURAL SCIENCE GE / CCER,,,,,,4,,,8
+32,ELECTIVE 3,,,,,,4,,,8
+33,FINE ARTS GE,,,,,,4,,,9
+34,ELECTIVE 4,,,,,,4,,,9
+35,SOCIAL SCIENCE GE,,,,,,4,,,10
+36,UD ELECTIVE 1,,,,,,4,,,10
+37,ELECTIVE 5,,,,,,4,,,10
+38,UD ELECTIVE 2,,,,,,4,,,11
+39,PHYSICS GE,,,,,,4,,,11
+40,ELECTIVE 6,,,,,,4,,,11
+41,UD ELECTIVE 3,,,,,,4,,,12
+42,ELECTIVE 7,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

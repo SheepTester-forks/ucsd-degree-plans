@@ -40,7 +40,7 @@ Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,CCE 1,CCE,1,,,,4,,,2
 35,DEI,,,,,,4,,,3
-27,CCE 2,CCE,2,,,,4,,,4
+27,CCE 2,CCE,2,26,,,4,,,4
 36,BREADTH GE 1,,,,,,4,,,5
 28,CCE 3,CCE,3,,,,4,,,6
 37,ELECTIVE 1,,,,,,4,,,6

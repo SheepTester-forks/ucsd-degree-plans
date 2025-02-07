@@ -9,7 +9,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 2,BILD 2,BILD,2,1,,,4,,
 3,MATH 10A,MATH,10A,,,,4,,
 4,MATH 10B,MATH,10B,3,,,4,,
-5,CHEM 6A,CHEM,6A,,,,4,,
+5,CHEM 6A,CHEM,6A,3,,,4,,
 6,"ANTH 43 / 42, 5 / SOCI 70 / PSYC 1",ANTH,43,,,,4,,
 7,CHEM 6B,CHEM,6B,5;3,,,4,,
 8,PSYCH 60 / MATH 11,MATH,11,4,,,4,,

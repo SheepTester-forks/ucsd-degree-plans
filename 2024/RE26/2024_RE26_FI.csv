@@ -1,0 +1,54 @@
+Curriculum,Study of Religion,,,,,,,,,
+Degree Plan,Study of Religion/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,UD ARTS & HUMANITIES (MAJOR) 1,,,,,,4,,,7
+9,UD SOCIAL SCIENCE (MAJOR),,,,,,4,,,7
+10,UD SOCIAL SCIENCES (MAJOR),,,,,,4,,,8
+1,RELI 101,RELI,101,,,,4,,,8
+11,UD ELECTIVE - SINGLE TRADITION (MAJOR) 1,,,,,,4,,,9
+2,RELI 189,RELI,189,,,,4,,,9
+12,UD ARTS & HUMANITIES (MAJOR) 2,,,,,,4,,,10
+13,UD ELECTIVE - SINGLE TRADITION (MAJOR) 2,,,,,,4,,,10
+14,UD ELECTIVE (MAJOR) 1,,,,,,4,,,11
+15,UD ELECTIVE (MAJOR) 2,,,,,,4,,,11
+16,UD ELECTIVE (MAJOR) 3,,,,,,4,,,12
+17,UD ELECTIVE (MAJOR) 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MMW 11,MMW,11,,,,4,,,1
+18,GE 1,,,,,,4,,,1
+19,GE 2,,,,,,4,,,1
+20,GE 3,,,,,,4,,,1
+4,MMW 12,MMW,12,,,,6,,,2
+21,GE 4,,,,,,4,,,2
+22,GE 5,,,,,,4,,,2
+5,MMW 13,MMW,13,4,,,6,,,3
+23,GE 6,,,,,,4,,,3
+24,GE 7,,,,,,4,,,3
+6,MMW 14 / GE 1,MMW,14,4;5,,,4,,,4
+25,GE 8,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,MMW 14 / GE 2,MMW,14,4;5,,,4,,,5
+29,GE 9,,,,,,4,,,5
+30,ELECTIVE 3,,,,,,4,,,5
+31,ELECTIVE 4,,,,,,4,,,5
+7,MMW 15,MMW,15,4;5,,,4,,,6
+32,GE 10,,,,,,4,,,6
+33,DEI,,,,,,4,,,6
+34,ELECTIVE 5,,,,,,4,,,6
+35,GE 11,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+37,UD ELECTIVE,,,,,,4,,,8
+38,ELECTIVE 7,,,,,,4,,,8
+39,ELECTIVE 8,,,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,9
+41,ELECTIVE 10,,,,,,4,,,10
+42,ELECTIVE 11,,,,,,4,,,10
+43,ELECTIVE 12,,,,,,4,,,11
+44,ELECTIVE 13,,,,,,4,,,12

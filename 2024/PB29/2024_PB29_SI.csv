@@ -1,0 +1,54 @@
+Curriculum,Public Health with Concentration in Epidemiology,,,,,,,,,
+Degree Plan,Public Health with Concentration in Epidemiology/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BILD 1,BILD,1,,,,4,,,1
+2,PH 40,PH,40,,,,4,,,1
+3,BILD 2,BILD,2,1,,,4,,,2
+16,LD PH __,,,,,,4,,,2
+17,LD PH __ (TRENDING TOPICS),,,,,,4,,,3
+4,BILD 3,BILD,3,,,,4,,,3
+18,QUANTITATIVE METHODS (STATS),,,,,,4,,,4
+5,PH 45,PH,45,2,,,4,,,5
+6,PH 110,PH,110,2,,,4,,,6
+7,PH 101 / PH 102 1,PH,101,2,,,4,,,7
+19,PH UDE 1,,,,,,4,,,7
+20,PH 101 / PH 102 2,PH,101,2,,,4,,,8
+8,USP 143,USP,143,,,,4,,,8
+9,PH 120 / PH 130 1,PH,120,2,,,4,,,9
+21,PH UDE 2,,,,,,4,,,9
+22,PH 120 / PH 130 2,PH,120,2,,,4,,,10
+23,CONCENTRATION UDE 1,,,,,,4,,,10
+10,PH 193,PH,193,2;5;7;6;9,,,4,,,11
+24,CONCENTRATION UDE 2,,,,,,4,,,11
+11,PH 194,PH,194,2;5;7;6;9;10,,,4,,,12
+25,CONCENTRATION UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,CAT 1,CAT,1,,,,4,,,1
+13,CAT 2,CAT,2,12,,,6,,,2
+14,CAT 3,CAT,3,13,,,6,,,3
+26,GE 1,,,,,,4,,,4
+27,GE 2,,,,,,4,,,4
+28,ELECTIVE 1,,,,,,4,,,4
+29,GE / CCER,,,,,,4,,,5
+30,GE 3,,,,,,4,,,5
+31,ELECTIVE 2,,,,,,4,,,5
+32,GE / DEI,,,,,,4,,,6
+33,GE 4,,,,,,4,,,6
+34,ELECTIVE 3,,,,,,4,,,6
+15,CAT 125,CAT,125,,,,4,,,7
+35,ELECTIVE 4,,,,,,4,,,7
+36,ELECTIVE 5,,,,,,4,,,8
+37,ELECTIVE 6,,,,,,4,,,8
+38,ELECTIVE 7,,,,,,4,,,9
+39,ELECTIVE 8,,,,,,4,,,9
+40,UD ELECTIVE,,,,,,4,,,10
+41,ELECTIVE 9,,,,,,4,,,10
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12

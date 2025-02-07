@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 9,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
 23,MATH 11 (MATH GE),MATH,11,17,,,5,,,5
 25,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
-10,FMPH 101 / FMPH 102 1,FMPH,101,7;23,,,4,,,7
+10,FMPH 101 / FMPH 102 1,FMPH,101,,,,4,,,7
 26,CONCENTRATION UDE 1,,,,,,4,,,7
 27,FMPH 101 / FMPH 102 2,FMPH,101,7;23,,,4,,,8
 11,USP 143,USP,143,,,,4,,,8
@@ -29,11 +29,11 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 12,FMPH 120 / FMPH 130 1,FMPH,120,7,,,4,,,9
 29,CONCENTRATION UDE 2,,,,,,4,,,9
 30,SBE / SOCIAL SCIENCE GE 2,,,,,,4,,,9
-31,FMPH 120 / FMPH 130 2,FMPH,120,7,,,4,,,10
+31,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 32,FMPH UDE,,,,,,4,,,10
 13,FMPH 193,FMPH,193,,,,4,,,11
 33,UDE 1,,,,,,4,,,11
-14,FMPH 194,FMPH,194,13,,,4,,,12
+14,FMPH 194,FMPH,194,,,,4,,,12
 34,UDE 2,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

@@ -1,0 +1,53 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+4,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+5,CHEM 6C,CHEM,6C,4,,,4,,,3
+6,CHEM 7L,CHEM,7L,4,,,4,,,3
+16,GH INTRO 1,,,,,,4,,,4
+7,BILD 1,BILD,1,,,,4,,,4
+8,BILD 2,BILD,2,7,,,4,,,5
+17,GH INTRO 2,,,,,,4,,,5
+9,BILD 3,BILD,3,,,,4,,,6
+10,PSYC 60 / MATH 11,PSYC,60,,,,4,,,6
+18,UD GH CORE 1,,,,,,4,,,7
+19,UD GH POLICY ANALYSIS,,,,,,4,,,7
+20,UD GH CORE 2,,,,,,4,,,8
+21,UD GH ELECTIVE 1,,,,,,4,,,8
+22,UD GH CORE 3,,,,,,4,,,9
+23,UD GH ELECTIVE 2,,,,,,4,,,9
+24,UD GH ELECTIVE 3,,,,,,4,,,10
+25,UD GH ELECTIVE 4,,,,,,4,,,10
+26,UD GH ELECTIVE 5,,,,,,4,,,11
+27,UD GH ELECTIVE 6,,,,,,4,,,11
+28,UD GH ELECTIVE 7,,,,,,4,,,12
+29,UD GH ELECTIVE 8,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+11,HUM 1,HUM,1,,,,6,,,2
+12,HUM 2,HUM,2,,,,6,,,3
+13,HUM 3,HUM,3,11,,,4,,,4
+31,FINE ARTS GE,,,,,,4,,,4
+14,HUM 4,HUM,4,,,,4,,,5
+32,ELECTIVE / CCER,,,,,,4,,,5
+15,HUM 5,HUM,5,,,,4,,,6
+33,ELECTIVE 1,,,,,,4,,,6
+34,ELECTIVE 2,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,PHYSICS GE,,,,,,4,,,8
+37,LANGUAGE 2,,,,,,5,,,8
+38,UD ELECTIVE 1,,,,,,4,,,9
+39,LANGUAGE 3,,,,,,5,,,9
+40,LANGUAGE 4,,,,,,5,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,UD ELECTIVE 3,,,,,,4,,,12
+43,AHI / ELECTIVE,,,,,,4,,,12

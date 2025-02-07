@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,ECE 45,ECE,45,15,,,4,,,6
 18,BENG 100,BENG,100,7;8;9,,,4,,,6
 19,BENG 102,BENG,102,16,,,4,,,6
-22,BENG 110,BENG,110,13;14;17;8,,,4,,,7
+22,BENG 110,BENG,110,14;17;8;6;11,,,4,,,7
 21,BENG 134,BENG,134,14;8;18,,,4,,,7
 23,BENG 141,BENG,141,18,,,4,,,7
 24,BENG 152,BENG,152,19,,,4,,,8
@@ -51,7 +51,7 @@ Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 46,DEI,,,,,,4,,,1
 38,CCE 1,CCE,1,,,,4,,,2
-39,CCE 2,CCE,2,,,,4,,,4
+39,CCE 2,CCE,2,38,,,4,,,4
 47,BREADTH GE 1,,,,,,4,,,5
 48,BREADTH GE 2,,,,,,4,,,5
 40,CCE 3,CCE,3,,,,4,,,6

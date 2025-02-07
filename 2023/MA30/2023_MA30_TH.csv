@@ -14,7 +14,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 6,CSE 12,CSE,12,2,,,4,,,3
 7,CSE 15L,CSE,15L,2,,,2,,,3
 8,MATH 20D / MATH 109,MATH,20D,5,,,4,,,4
-9,CSE 30,CSE,30,6;7,,,4,,,4
+9,CSE 30,CSE,30,7,,,4,,,4
 10,MATH 109 / MATH 20D,MATH,109,4;5,,,4,,,5
 11,MATH 20E,MATH,20E,4;5,,,4,,,6
 12,MATH 183 / UD MAJOR,MATH,183,5,,,4,,,6

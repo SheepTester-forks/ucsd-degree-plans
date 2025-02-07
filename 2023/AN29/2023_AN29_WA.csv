@@ -7,8 +7,10 @@ CIP,45.0299,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,BILD 1,BILD,1,,,,4,,,1
+5,CHEM 6A,CHEM,6A,,,,4,,,1
 2,BILD 2,BILD,2,1,,,4,,,2
 3,MATH 10A,MATH,10A,,,,4,,,2
+7,CHEM 6B,CHEM,6B,5,,,4,,,2
 4,MATH 10B,MATH,10B,3,,,4,,,3
 6,"ANTH 43 / 42, 5 / SOCI 70 / PSYC 1",ANTH,43,,,,4,,,4
 8,PSYCH 60 / MATH 11,MATH,11,4,,,4,,,5
@@ -29,27 +31,25 @@ Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 14,WCWP 10A,WCWP,10A,,,,4,,,1
 27,GE 1,,,,,,4,,,1
-28,ELECTIVE 1,,,,,,4,,,1
 15,WCWP 10B,WCWP,10B,14,,,4,,,2
-29,GE 2,,,,,,4,,,2
+9,CHEM 6C,CHEM,6C,7,,,4,,,3
 16,PHIL / POLI 27,POLI,27,14;15,,,4,,,3
-30,GE 3,,,,,,4,,,3
-31,ELECTIVE 2,,,,,,4,,,3
+28,GE 2,,,,,,4,,,3
 17,PHIL / POLI 28,POLI,28,16,,,4,,,4
-32,ELECTIVE 3,,,,,,4,,,4
-33,GE 4,,,,,,4,,,4
-34,ELECTIVE 4,,,,,,4,,,5
-35,GE 5,,,,,,4,,,5
-36,ELECTIVE 5,,,,,,4,,,5
-37,ELECTIVE 6,,,,,,4,,,6
-38,GE 6,,,,,,4,,,6
-39,ELECTIVE 7,,,,,,4,,,7
-40,GE 7,,,,,,4,,,7
-41,GE 8,,,,,,4,,,8
-42,ELECTIVE 8,,,,,,4,,,9
-43,GE 9,,,,,,4,,,9
-44,GE 10,,,,,,4,,,10
-45,GE 11,,,,,,4,,,11
-46,ELECTIVE 9,,,,,,4,,,11
-47,ELECTIVE 10,,,,,,4,,,12
-48,ELECTIVE 11,,,,,,4,,,12
+29,ELECTIVE 1,,,,,,4,,,4
+30,GE 3,,,,,,4,,,4
+31,ELECTIVE 2,,,,,,4,,,5
+32,GE 4,,,,,,4,,,5
+33,GE 5,,,,,,4,,,5
+34,ELECTIVE 3,,,,,,4,,,6
+35,GE 6,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,7
+37,GE 7,,,,,,4,,,7
+38,GE 8,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,9
+40,GE 9,,,,,,4,,,9
+41,GE 10,,,,,,4,,,10
+42,GE 11,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12
+45,ELECTIVE 8,,,,,,4,,,12

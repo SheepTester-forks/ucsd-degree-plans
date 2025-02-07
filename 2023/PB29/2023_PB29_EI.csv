@@ -15,17 +15,17 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,STATISTICS (QUANTITATIVE METHODS),,,,,,4,,,4
 5,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
 18,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
-6,FMPH 101 / FMPH 102 1,FMPH,101,4,,,4,,,7
+6,FMPH 101 / FMPH 102 1,FMPH,101,,,,4,,,7
 19,CONCENTRATION UDE 1,,,,,,4,,,7
-20,FMPH 101 / FMPH 102 2,FMPH,101,4,,,4,,,8
+20,FMPH 101 / FMPH 102 2,FMPH,101,,,,4,,,8
 7,USP 143,USP,143,,,,4,,,8
-8,FMPH 120 / FMPH 130 1,FMPH,120,4,,,4,,,9
+8,FMPH 120 / FMPH 130 1,FMPH,120,,,,4,,,9
 21,CONCENTRATION UDE 2,,,,,,4,,,9
-22,FMPH 120 / FMPH 130 2,FMPH,120,4,,,4,,,10
+22,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 23,FMPH UDE 1,,,,,,4,,,10
 9,FMPH 193,FMPH,193,,,,4,,,11
 24,FMPH UDE 2,,,,,,4,,,11
-10,FMPH 194,FMPH,194,9,,,4,,,12
+10,FMPH 194,FMPH,194,,,,4,,,12
 25,FMPH UDE 3,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
@@ -35,7 +35,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 28,BREADTH GE 1,,,,,,4,,,3
 29,BREADTH GE 2,,,,,,4,,,3
 30,ELECTIVE 2,,,,,,4,,,3
-12,CCE 2,CCE,2,,,,4,,,4
+12,CCE 2,CCE,2,11,,,4,,,4
 31,ELECTIVE 3,,,,,,4,,,4
 32,BREADTH GE 3,,,,,,4,,,5
 33,BREADTH GE 4,,,,,,4,,,5

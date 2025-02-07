@@ -1,0 +1,54 @@
+Curriculum,Mathematics/Secondary Education,,,,,,,,,
+Degree Plan,Mathematics/Secondary Education/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.1311,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20D / MATH 109,MATH,20D,4;3,,,4,,,4
+6,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+15,UD MAJOR 1,,,,,,4,,,6
+7,MATH 20E,MATH,20E,3;4,,,4,,,6
+16,UD MAJOR 2,,,,,,4,,,7
+17,UD MAJOR 3,,,,,,4,,,7
+18,UD MAJOR 4,,,,,,4,,,8
+19,UD MAJOR 5,,,,,,4,,,8
+20,UD MAJOR 6,,,,,,4,,,9
+21,UD MAJOR 7,,,,,,4,,,9
+22,UD MAJOR 8,,,,,,4,,,10
+8,EDS 129A,EDS,129A,,,,4,,,10
+23,UD MAJOR 9,,,,,,4,,,11
+9,EDS 129B,EDS,129B,8,,,4,,,11
+10,EDS 129C,EDS,129C,9,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,CAT 1,CAT,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,1
+12,CAT 2,CAT,2,11,,,6,,,2
+13,CAT 3,CAT,3,12,,,6,,,3
+26,GE 3,,,,,,4,,,3
+27,GE / DEI,,,,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,4
+30,GE / CCER,,,,,,4,,,5
+31,GE 5,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,GE 6,,,,,,4,,,6
+34,ELECTIVE 3,,,,,,4,,,6
+35,GE 7,,,,,,4,,,7
+36,ELECTIVE 4,,,,,,4,,,7
+37,ELECTIVE 5,,,,,,4,,,8
+38,ELECTIVE 6,,,,,,4,,,8
+39,ELECTIVE 7,,,,,,4,,,9
+40,UD ELECTIVE,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,10
+14,CAT 125,CAT,125,,,,4,,,11
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,12
+44,ELECTIVE 11,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Economics,,,,,,,,,
+Degree Plan,Economics/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0603,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECON 1,ECON,1,,,,4,,,1
+2,MATH 20A (OR 10A),MATH,20A,,,,4,,,1
+4,ECON 3,ECON,3,1,,,4,,,2
+3,MATH 20B (OR 10B),MATH,20B,2,,,4,,,2
+5,MATH 20C (OR 10C),MATH,20C,3,,,4,,,3
+6,ECON 100A,ECON,100A,1;5,,,4,,,4
+7,ECON 120A,ECON,120A,1;5,,,4,,,4
+18,GE / CCER,,,,,,4,,,5
+8,ECON 120B,ECON,120B,7,,,4,,,5
+9,ECON 100B,ECON,100B,6,,,4,,,5
+19,GE / DEI,,,,,,4,,,6
+11,ECON 120C,ECON,120C,8,,,4,,,6
+10,ECON 100C,ECON,100C,9,,,4,,,6
+12,ECON 110A,ECON,110A,1;4;5,,,4,,,7
+13,ECON 110B,ECON,110B,1;4;5,,,4,,,8
+20,ECON UD ELECTIVE 1,,,,,,4,,,8
+21,ECON UD ELECTIVE 2,,,,,,4,,,9
+22,ECON UD ELECTIVE 3,,,,,,4,,,10
+23,ECON UD ELECTIVE 4,,,,,,4,,,11
+24,ECON UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+15,WCWP 10B,WCWP,10B,14,,,4,,,2
+26,GE 2,,,,,,4,,,2
+16,PHIL / POLI 27,POLI,27,14;15,,,4,,,3
+27,GE 3,,,,,,4,,,3
+28,ELECTIVE 1,,,,,,4,,,3
+17,PHIL / POLI 28,POLI,28,16,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,ELECTIVE 2,,,,,,4,,,5
+31,ELECTIVE 3,,,,,,4,,,6
+32,GE 5,,,,,,4,,,7
+33,ELECTIVE 4,,,,,,4,,,7
+34,ELECTIVE 5,,,,,,4,,,7
+35,GE 6,,,,,,4,,,8
+36,ELECTIVE 6,,,,,,4,,,8
+37,GE 7,,,,,,4,,,9
+38,ELECTIVE 7,,,,,,4,,,9
+39,ELECTIVE 8,,,,,,4,,,9
+40,GE 8,,,,,,4,,,10
+41,ELECTIVE 9,,,,,,4,,,10
+42,GE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,GE 10,,,,,,4,,,12
+45,ELECTIVE 11,,,,,,4,,,12

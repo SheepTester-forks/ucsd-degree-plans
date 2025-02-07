@@ -44,7 +44,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 41,BENG DE 2,,,,,,3,,
 36,BENG 187C,BENG,187C,34,,,1,,
 42,TE 1,,,,,,4,,
-37,BENG 186A,BENG,186A,30,,,4,,
+37,BENG 186A,BENG,186A,27;7;5,,,4,,
 38,BENG 187D,BENG,187D,36,,,1,,
 39,BENG 125,BENG,125,33,,,4,,
 43,TE 2,,,,,,4,,

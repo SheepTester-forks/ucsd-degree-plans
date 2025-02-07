@@ -1,0 +1,54 @@
+Curriculum,Linguistics(Specialization in Language and Society),,,,,,,,,
+Degree Plan,Linguistics(Specialization in Language and Society)/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+12,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+1,LIGN 101,LIGN,101,,,,4,,,2
+13,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+14,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+2,LIGN 110,LIGN,110,1,,,4,,,4
+15,UD SOCIOLINGUISTICS,,,,,,4,,,5
+3,LIGN 111,LIGN,111,2,,,4,,,5
+16,GE / CCER,,,,,,4,,,5
+17,UD LIGN ELECTIVE 1,,,,,,4,,,6
+4,LIGN 120,LIGN,120,1,,,4,,,6
+18,GE / DEI,,,,,,4,,,6
+19,UD ELECTIVE FROM APPROVED LIST 1,,,,,,4,,,7
+5,LIGN 121,LIGN,121,1,,,4,,,8
+6,LIGN 130,LIGN,130,1,,,4,,,9
+20,UD LIGN ELECTIVE 2,,,,,,4,,,10
+21,UD LIGN ELECTIVE 3,,,,,,4,,,11
+22,UD ELECTIVE FROM APPROVED LIST 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,WCWP 10A,WCWP,10A,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,ELECTIVE 1,,,,,,4,,,1
+8,WCWP 10B,WCWP,10B,7,,,4,,,2
+25,GE 2,,,,,,4,,,2
+9,PHIL / POLI 27,POLI,27,7;8,,,4,,,3
+26,GE 3,,,,,,4,,,3
+27,ELECTIVE 2,,,,,,4,,,3
+10,PHIL / POLI 28,POLI,28,9,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,GE 5,,,,,,4,,,5
+30,GE 6,,,,,,4,,,6
+31,GE 7,,,,,,4,,,7
+32,ELECTIVE 3,,,,,,4,,,7
+33,ELECTIVE 4,,,,,,4,,,7
+34,GE 8,,,,,,4,,,8
+35,ELECTIVE 5,,,,,,4,,,8
+36,ELECTIVE 6,,,,,,4,,,8
+37,GE 9,,,,,,4,,,9
+38,ELECTIVE 7,,,,,,4,,,9
+39,GE 10,,,,,,4,,,10
+40,ELECTIVE 8,,,,,,4,,,10
+41,GE 11,,,,,,4,,,11
+42,ELECTIVE 9,,,,,,4,,,11
+43,GE 12,,,,,,4,,,12
+44,ELECTIVE 10,,,,,,4,,,12

@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,BREADTH GE 4,,,,,,4,,,3
 26,BREADTH GE 5,,,,,,4,,,3
 27,ELECTIVE 1,,,,,,4,,,3
-8,CCE 2,CCE,2,,,,4,,,4
+8,CCE 2,CCE,2,7,,,4,,,4
 28,ELECTIVE 2,,,,,,4,,,4
 29,BREADTH GE 6,,,,,,4,,,5
 30,BREADTH GE 7,,,,,,4,,,5

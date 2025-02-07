@@ -35,7 +35,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,CSE 141L (OR CSE 142L),CSE,141L,15;25;24,,,2,,
 32,TECHNICAL ELECTIVE,,,,,,4,,
 28,ECE 111 (OR ECE 140B),ECE,111,25,,,4,,
-29,CSE 120,CSE,120,15;22;21,,,4,,
+29,CSE 120,CSE,120,9;22;21,,,4,,
 33,CSE / ECE ELECTIVE 2,,,,,,4,,
 30,ECE 108,ECE,108,25;15;17;18,,,4,,
 34,CSE / ECE ELECTIVE 3,,,,,,4,,

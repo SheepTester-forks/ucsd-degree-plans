@@ -45,13 +45,13 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,MATH 186,MATH,186,9,,,4,,,11
 35,BENG 168,BENG,168,8;19,,,4,,,11
 45,TECHNICAL ELECTIVE 2,,,,,,4,,,12
-37,BENG 125,BENG,125,,,,4,,,12
+37,BENG 125,BENG,125,26,,,4,,,12
 36,BENG 187D,BENG,187D,33,,,1,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 38,CCE 1,CCE,1,,,,4,,,2
 46,BREADTH GE 1,,,,,,4,,,3
-39,CCE 2,CCE,2,,,,4,,,4
+39,CCE 2,CCE,2,38,,,4,,,4
 40,CCE 3,CCE,3,,,,4,,,6
 47,DEI,,,,,,4,,,7
 48,BREADTH GE 2,,,,,,4,,,8

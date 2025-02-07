@@ -14,7 +14,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 6,MATH 20C,MATH,20C,3,,,4,,,3
 7,PHYS 2B,PHYS,2B,4;3,,,4,,,3
 8,SIO 75,SIO,75,2,,,4,,,3
-9,CHEM 6A,CHEM,6A,,,,4,,,4
+9,CHEM 6A,CHEM,6A,1,,,4,,,4
 10,PHYS 2C,PHYS,2C,4;6,,,4,,,4
 11,SIO 100,SIO,100,2,,,4,,,4
 12,CHEM 6B,CHEM,6B,9;1,,,4,,,5

@@ -1,0 +1,56 @@
+Curriculum,Molecular Synthesis,,,,,,,,,
+Degree Plan,Molecular Synthesis/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+4,MATH 20B,MATH,20B,2,,,4,,,2
+5,CHEM 6C,CHEM,6C,3,,,4,,,3
+7,MATH 20C,MATH,20C,4,,,4,,,3
+30,CHEM 7L / 7LM,CHEM,7L,3,,,4,,,3
+8,CHEM 41A,CHEM,41A,3,,,4,,,4
+10,MATH 18,MATH,18,,,,4,,,4
+9,PHYS 2A,PHYS,2A,2;2,,,4,,,4
+11,CHEM 41B,CHEM,41B,8,,,4,,,5
+12,CHEM 43A / 43AM,CHEM,43A,30;8,,,4,,,5
+13,PHYS 2B,PHYS,2B,9;4,,,4,,,5
+15,CHEM 41C,CHEM,41C,11,,,4,,,6
+14,PHYS 2C / 2D,PHYS,2C,9;7,,,4,,,6
+16,PHYS 2BL / 2CL,PHYS,2BL,9,,,2,,,6
+33,MATH 20D,MATH,20D,7;10,,,4,,,6
+17,CHEM 100A,CHEM,100A,5;30,,,4,,,7
+18,CHEM 114A,CHEM,114A,8,,,4,,,7
+19,CHEM 120A,CHEM,120A,5;8,,,4,,,8
+20,CHEM 143B,CHEM,143B,12;11,,,4,,,8
+21,CHEM 120B,CHEM,120B,19,,,4,,,9
+22,CHEM 156,CHEM,156,15,,,4,,,9
+23,CHEM 152,CHEM,152,15,,,4,,,10
+24,CHEM 126A,CHEM,126A,5;14;7,,,4,,,10
+25,CHEM 143C,CHEM,143C,12;11,,,4,,,10
+26,CHEM 126B,CHEM,126B,24,,,4,,,11
+35,MOLECULAR SYNTHESIS ELECTIVE,,,,,,4,,,11
+27,CHEM 105A,CHEM,105A,17;16;24,,,4,,,11
+28,CHEM 157,CHEM,157,15,,,4,,,12
+29,CHEM 123,CHEM,123,19;12;21,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,ALTERNATIVE 1,,,,,,4,,,1
+37,ALTERNATIVE 2,,,,,,4,,,1
+38,ALTERNATIVE 3,,,,,,4,,,2
+39,DEI,,,,,,4,,,2
+31,SYN 1 (CCER),SYN,1,,,,4,,,3
+32,SYN 2,SYN,2,31,,,4,,,4
+40,ALTERNATIVE 4,,,,,,4,,,5
+41,ALTERNATIVE 5,,,,,,4,,,7
+42,ELECTIVE 1,,,,,,4,,,7
+43,ALTERNATIVE 6,,,,,,4,,,8
+44,ELECTIVE 2,,,,,,4,,,8
+34,SYN 100,SYN,100,31;32,,,4,,,9
+45,ELECTIVE 3,,,,,,4,,,9
+46,ELECTIVE 4,,,,,,2,,,10
+47,ELECTIVE 5,,,,,,4,,,12

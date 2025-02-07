@@ -1,0 +1,57 @@
+Curriculum,Computer Engineering,,,,,,,,,
+Degree Plan,Computer Engineering/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 20A,MATH,20A,,,,4,,,1
+1,CSE 8A / 11,CSE,8A,,,,4,,,1
+2,MATH 18,MATH,18,,,,4,,,1
+5,MATH 20B,MATH,20B,3,,,4,,,2
+4,CSE 8B,CSE,8B,1,,,2,,,2
+6,PHYS 2A,PHYS,2A,3;3,,,4,,,2
+8,MATH 20C,MATH,20C,5,,,4,,,3
+9,CSE 12,CSE,12,4,,,4,,,3
+7,PHYS 2B,PHYS,2B,6;5,,,4,,,3
+10,CSE 29 / ECE 15,CSE,29,4,,,4,,,4
+11,ECE 35,ECE,35,2;3;5;6,,,4,,,4
+12,MATH 20D,MATH,20D,8;2,,,4,,,4
+13,PHYS 2C,PHYS,2C,6;8,,,4,,,5
+14,ECE 45,ECE,45,11,,,4,,,5
+15,CSE 30 / ECE 30,CSE,30,10,,,4,,,5
+16,MATH 11 / ECE 109,MATH,11,5,,,4,,,6
+17,CSE 140,CSE,140,15,,,4,,,6
+18,ECE 101,ECE,101,14,,,4,,,6
+20,ECE 111,ECE,111,17,,,4,,,7
+21,ECE 108,ECE,108,17;15;14,,,4,,,7
+19,CSE 141 / CSE 142,CSE,141,15;17,,,4,,,7
+27,CSE / ECE ELECTIVE 1,,,,,,4,,,8
+28,CSE / ECE ELECTIVE 2,,,,,,4,,,8
+29,CSE / ECE ELECTIVE 3,,,,,,4,,,8
+30,CSE / ECE PROJECT,,,,,,4,,,9
+31,CSE / ECE ELECTIVE 4,,,,,,4,,,9
+32,CSE / ECE ELECTIVE 5,,,,,,4,,,9
+33,CSE / ECE ELECTIVE 6,,,,,,4,,,10
+34,CSE / ECE ELECTIVE 7,,,,,,4,,,10
+35,CSE / ECE ELECTIVE 8,,,,,,4,,,10
+36,CSE / ECE ELECTIVE 9,,,,,,4,,,11
+37,CSE / ECE ELECTIVE 10,,,,,,4,,,11
+38,CSE / ECE OPEN ELECTIVE 1,,,,,,4,,,12
+39,CSE / ECE OPEN ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+22,MMW 11,MMW,11,,,,4,,,1
+23,MMW 12,MMW,12,,,,6,,,2
+24,MMW 13,MMW,13,23,,,6,,,3
+25,MMW 14 / GE 1,MMW,14,23;24,,,4,,,4
+40,MMW 14 / GE 2,MMW,14,23;24,,,4,,,5
+26,MMW 15,MMW,15,23;24,,,4,,,6
+41,GE 1,,,,,,4,,,7
+42,GE 2,,,,,,4,,,8
+43,GE 3,,,,,,4,,,9
+44,GE 4,,,,,,4,,,10
+45,GE 5,,,,,,4,,,11
+46,GE / DEI,,,,,,4,,,11
+47,GE 6,,,,,,4,,,12

@@ -15,14 +15,14 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 6,ECON / POLI 5,POLI,5,,,,4,,,3
 8,ECON 100A,ECON,100A,2;5,,,4,,,4
 9,ECON 120A,ECON,120A,2;5,,,4,,,4
+12,MGT 180,MGT,180,8,,,4,,,5
 10,ECON 100B,ECON,100B,8,,,4,,,5
 11,ECON 120B,ECON,120B,9,,,4,,,5
-12,MGT 180,MGT,180,8,,,4,,,5
 14,MGT 45,MGT,45,,,,4,,,6
-13,ECON 110B,ECON,110B,2;4;5,,,4,,,6
 15,MGT 71,MGT,71,,,,4,,,6
-25,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+13,ECON 110B,ECON,110B,2;4;5,,,4,,,6
 16,MGT 160,MGT,160,9;1,,,4,,,7
+25,UD MAJOR ELECTIVE 1,,,,,,4,,,7
 17,MGT 162 / 162R,MGT,162,,,,4,,,8
 18,MGT 164,MGT,164,,,,4,,,9
 26,UD MAJOR ELECTIVE 2,,,,,,4,,,10
@@ -39,9 +39,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,MMW14 / GE 2,MMW,14,21;22,,,4,,,5
 24,MMW15,MMW,15,21;22,,,4,,,6
 31,GE 3,,,,,,4,,,7
-32,DEI,,,,,,4,,,7
-33,GE 4,,,,,,4,,,8
-34,GE 5,,,,,,4,,,8
+32,GE 4,,,,,,4,,,7
+33,GE 5,,,,,,4,,,8
+34,DEI,,,,,,4,,,8
 35,ELECTIVE 1,,,,,,4,,,8
 36,GE 6,,,,,,4,,,9
 37,ELECTIVE 2,,,,,,4,,,9

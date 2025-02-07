@@ -25,7 +25,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,GE / DEI,,,,,,4,,,6
 18,CHEM 120A,CHEM,120A,6;10,,,4,,,7
 19,CHEM 126A,CHEM,126A,6;14;5,,,4,,,7
-17,CHEM 100A,CHEM,100A,6,,,4,,,7
+17,CHEM 100A,CHEM,100A,6;7,,,4,,,7
 22,CHEM 143B,CHEM,143B,12;13,,,4,,,8
 20,CHEM 120B,CHEM,120B,18,,,4,,,8
 21,CHEM 126B,CHEM,126B,19,,,4,,,8

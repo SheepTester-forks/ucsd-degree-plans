@@ -16,7 +16,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 8,PHYS 4B,PHYS,4B,5;1;4,,,4,,,3
 9,ECE 30,ECE,30,3;6,,,4,,,3
 12,ECE 35,ECE,35,2;1;4,,,4,,,4
-11,PHYS 4C,PHYS,4C,5;8;1;4;7;2,,,4,,,4
+11,PHYS 4C,PHYS,4C,5;5;5;8;8;8;1;4;7;2,,,4,,,4
 10,MATH 20E,MATH,20E,2;7,,,4,,,4
 15,PHYS 2CL,PHYS,2CL,5;11,,,2,,,5
 14,PHYS 4D,PHYS,4D,5;8;11;1;4;7;10;2,,,4,,,5

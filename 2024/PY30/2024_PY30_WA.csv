@@ -1,0 +1,56 @@
+Curriculum,General Physics,,,,,,,,,
+Degree Plan,General Physics/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0801,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 18,MATH,18,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+23,PROGRAMMING,,,,,,4,,,2
+3,MATH 20B,MATH,20B,2,,,4,,,2
+4,PHYS 4A,PHYS,4A,2,,,4,,,2
+5,PHYS 4B,PHYS,4B,4;2;3,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+7,PHYS 4C,PHYS,4C,4;4;4;5;5;5;2;3;6;1,,,4,,,4
+8,MATH 20E,MATH,20E,1;6,,,4,,,4
+9,MATH 20D,MATH,20D,6,,,4,,,5
+10,PHYS 2CL,PHYS,2CL,4;7,,,2,,,5
+11,PHYS 4D,PHYS,4D,4;4;4;5;5;5;7;6;8;1;2;3,,,4,,,5
+24,GE / CCER,,,,,,4,,,5
+12,PHYS 4E,PHYS,4E,4;5;5;5;7;11;6;9;8;1;2;3,,,4,,,6
+25,GE / DEI,,,,,,4,,,6
+13,PHYS 110A,PHYS,110A,4;5;7;11;2;3;6;9;8;1,,,4,,,7
+14,PHYS 100A,PHYS,100A,4;5;7;11;2;3;6;9;8;1,,,4,,,7
+15,PHYS 2DL,PHYS,2DL,10,,,2,,,7
+16,PHYS 100B,PHYS,100B,14;2;3;6;9;8;1,,,4,,,8
+26,PHYS UD RE 1,,,,,,4,,,8
+17,PHYS 130A,PHYS,130A,4;5;7;11;12;14;13,,,4,,,9
+18,PHYS 120,PHYS,120,4;5;7;10,,,5,,,9
+27,PHYS UD RE 2,,,,,,4,,,10
+28,PHYS UD RE 3,,,,,,4,,,10
+29,PHYS UD RE 4,,,,,,4,,,11
+30,PHYS UD RE 5,,,,,,4,,,11
+31,PHYS UD RE 6,,,,,,4,,,12
+32,PHYS UD RE 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,WCWP 10A,WCWP,10A,,,,4,,,1
+33,GE 1,,,,,,4,,,1
+20,WCWP 10B,WCWP,10B,19,,,4,,,2
+21,PHIL / POLI 27,POLI,27,19;20,,,4,,,3
+34,GE 2,,,,,,4,,,3
+22,PHIL / POLI 28,POLI,28,21,,,4,,,4
+35,GE 3,,,,,,4,,,4
+36,GE 4,,,,,,4,,,6
+37,ELECTIVE 1,,,,,,4,,,6
+38,GE 5,,,,,,4,,,7
+39,GE 6,,,,,,4,,,8
+40,ELECTIVE 2,,,,,,4,,,8
+41,GE 7,,,,,,4,,,9
+42,ELECTIVE 3,,,,,,4,,,9
+43,GE 8,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,4,,,10
+45,GE 9,,,,,,4,,,11
+46,GE 10,,,,,,4,,,12

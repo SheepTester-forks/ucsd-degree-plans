@@ -1,0 +1,56 @@
+Curriculum,Data Science,,,,,,,,,
+Degree Plan,Data Science/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0103,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,DSC 10,DSC,10,,,,4,,,1
+3,COGS 9,COGS,9,,,,4,,,1
+6,MATH 20B,MATH,20B,1,,,4,,,2
+5,DSC 20,DSC,20,2,,,4,,,2
+4,DSC 96,DSC,96,,,,4,,,2
+9,MATH 20C,MATH,20C,6,,,4,,,3
+8,DSC 30,DSC,30,5,,,4,,,3
+7,MATH 18,MATH,18,,,,4,,,3
+10,DSC 40A,DSC,40A,2;9;7,,,4,,,4
+27,SUBJECT DOMAIN 1,,,,,,4,,,4
+11,DSC 40B,DSC,40B,10;5,,,4,,,5
+28,SUBJECT DOMAIN 2,,,,,,4,,,5
+29,GE / CCER,,,,,,4,,,5
+12,DSC 80,DSC,80,8;10,,,4,,,6
+30,GE / DEI,,,,,,4,,,6
+13,DSC 100,DSC,100,12;11,,,4,,,7
+14,ECON 120A / MATH 183 / MATH 180A,ECON,120A,9,,,4,,,7
+17,DSC 102,DSC,102,13,,,4,,,8
+15,DSC 140A,DSC,140A,12;14,,,4,,,8
+16,MATH 189 / MATH 181A,MATH,189,7;14;9,,,4,,,8
+18,DSC 106,DSC,106,12,,,4,,,9
+19,DSC 140B,DSC,140B,12;14,,,4,,,9
+31,MATH 189 (IF NOT YET COMPLETED),MATH,189,7;14;9,,,4,,,9
+21,DSC 180A,DSC,180A,17;16;18,,,4,,,10
+20,DSC 148,DSC,148,11;12;14,,,4,,,10
+32,UD MAJOR ELECTIVE 1 (IF MATH 180A NOT TAKEN),,,,,,4,,,10
+22,DSC 180B,DSC,180B,21,,,4,,,11
+33,UD MAJOR ELECTIVE 2,,,,,,4,,,11
+34,UD MAJOR ELECTIVE 3,,,,,,4,,,11
+35,UD MAJOR ELECTIVE 4,,,,,,4,,,12
+36,UD MAJOR ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+23,WCWP 10A,WCWP,10A,,,,4,,,1
+24,WCWP 10B,WCWP,10B,23,,,4,,,2
+25,PHIL / POLI 27,POLI,27,23;24,,,4,,,3
+26,PHIL / POLI 28,POLI,28,25,,,4,,,4
+37,GE 1,,,,,,4,,,4
+38,GE 2,,,,,,4,,,5
+39,GE 3,,,,,,4,,,6
+40,GE 4,,,,,,4,,,6
+41,GE 5,,,,,,4,,,7
+42,GE 6,,,,,,4,,,7
+43,GE 7,,,,,,4,,,8
+44,GE 8,,,,,,4,,,9
+45,GE 9,,,,,,4,,,10
+46,GE 10,,,,,,4,,,12

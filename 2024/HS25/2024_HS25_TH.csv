@@ -1,0 +1,53 @@
+Curriculum,Human Developmental Sciences,,,,,,,,,
+Degree Plan,Human Developmental Sciences/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,19.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD MAJOR PREP 1,,,,,,4,,,1
+10,LD MAJOR PREP 2,,,,,,4,,,1
+11,LD MAJOR PREP 3,,,,,,4,,,2
+12,LD MAJOR PREP 4,,,,,,4,,,2
+13,LD MAJOR PREP 5,,,,,,4,,,3
+1,HDS 1,HDS,1,,,,4,,,4
+14,HDS CORE COURSE 1,,,,,,4,,,5
+15,HDS CORE COURSE 2,,,,,,4,,,5
+16,HDS CORE COURSE 3,,,,,,4,,,6
+17,HDS CORE COURSE 4,,,,,,4,,,6
+18,HDS DEVELOPMENT COURSE 1,,,,,,4,,,7
+2,HDS 60,HDS,60,,,,4,,,7
+19,HDS DEVELOPMENT COURSE 2,,,,,,4,,,8
+20,HDS DEVELOPMENT COURSE 3,,,,,,4,,,8
+21,HDS DEVELOPMENT COURSE 4,,,,,,4,,,9
+3,HDS 181,HDS,181,1;2,,,6,,,9
+4,HDS 191,HDS,191,1;3,,,6,,,10
+22,HDS DEVELOPMENT COURSE 5,,,,,,4,,,11
+5,HDS 150,HDS,150,3,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+23,TMC LD GE 1,,,,,,4,,,1
+7,DOC 2,DOC,2,6,,,6,,,2
+24,TMC LD GE 2,,,,,,4,,,2
+8,DOC 3,DOC,3,7,,,6,,,3
+25,TMC LD GE 3,,,,,,4,,,3
+26,TMC LD GE 4,,,,,,4,,,3
+27,TMC LD GE 5,,,,,,4,,,4
+28,TMC LD GE 6,,,,,,4,,,4
+29,TMC LD GE 7,,,,,,4,,,4
+30,TMC LD GE 8,,,,,,4,,,5
+31,TMC LD BREADTH 1,,,,,,4,,,5
+32,TMC LD BREADTH 2,,,,,,4,,,6
+33,UCSD CCER,,,,,,4,,,6
+34,TMC UD BREADTH 1,,,,,,4,,,7
+35,TMC UD BREADTH 2,,,,,,4,,,8
+36,ELECTIVE 1,,,,,,4,,,9
+37,ELECTIVE 2,,,,,,4,,,9
+38,ELECTIVE 3,,,,,,4,,,10
+39,ELECTIVE 4,,,,,,4,,,10
+40,ELECTIVE 5,,,,,,4,,,11
+41,ELECTIVE 6,,,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,12
+43,ELECTIVE 8,,,,,,4,,,12

@@ -17,7 +17,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 5,MATH 20C,MATH,20C,3,,,4,,,3
 9,CSE 21,CSE,21,8,,,4,,,4
 19,CSE GENERAL SCIENCE 1,,,,,,4,,,4
-10,CSE 30,CSE,30,6;7,,,4,,,4
+10,CSE 30,CSE,30,7,,,4,,,4
 12,CSE 100 / 100R,CSE,100,9;6;7;10,,,4,,,5
 11,MATH 18,MATH,18,,,,4,,,5
 20,CSE GENERAL SCIENCE 2,,,,,,4,,,5

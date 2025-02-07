@@ -16,7 +16,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 7,MATH 20C,MATH,20C,4,,,4,,,3
 8,PHYS 4B,PHYS,4B,5;1;4,,,4,,,3
 12,ECE 35,ECE,35,2;1;4,,,4,,,4
-11,PHYS 4C,PHYS,4C,5;8;1;4;7;2,,,4,,,4
+11,PHYS 4C,PHYS,4C,5;5;5;8;8;8;1;4;7;2,,,4,,,4
 10,MATH 20E,MATH,20E,2;7,,,4,,,4
 16,ECE 45,ECE,45,12,,,4,,,5
 13,MATH 20D,MATH,20D,7,,,4,,,5
@@ -50,7 +50,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 44,DEI,,,,,,4,,,1
 32,CCE 1,CCE,1,,,,4,,,2
 45,BREADTH GE 1,,,,,,4,,,3
-33,CCE 2,CCE,2,,,,4,,,4
+33,CCE 2,CCE,2,32,,,4,,,4
 46,BREADTH GE 2,,,,,,4,,,5
 34,CCE 3,CCE,3,,,,4,,,6
 47,BREADTH GE 3,,,,,,4,,,7

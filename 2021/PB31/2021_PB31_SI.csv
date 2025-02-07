@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,FMPH 101 / FMPH 102 2,FMPH,101,8,,,4,,,8
 12,FMPH 120 / FMPH 130 1,FMPH,120,8,,,4,,,9
 28,CONCENTRATION UDE 2,,,,,,4,,,9
-29,FMPH 120 / FMPH 130 2,FMPH,120,8,,,4,,,10
+29,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 30,FMPH UDE,,,,,,4,,,10
 13,FMPH 193,FMPH,193,,,,4,,,11
 31,UDE 1,,,,,,4,,,11

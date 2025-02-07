@@ -36,9 +36,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,CSE 141 (OR CSE 142),CSE,141,16;24;25,,,4,,,9
 27,CSE 141L (OR CSE 142L),CSE,141L,16;24;25,,,2,,,9
 36,TECHNICAL ELECTIVE,,,,,,4,,,9
-29,CSE 120,CSE,120,16;21;22,,,4,,,10
+29,CSE 120,CSE,120,8;16;20;21,,,4,,,10
 37,CSE / ECE ELECTIVE 2,,,,,,4,,,10
-30,ECE 108,ECE,108,24;16;15;18,,,4,,,11
+30,ECE 108,ECE,108,24;16;15,,,4,,,11
 38,CSE / ECE ELECTIVE 3,,,,,,4,,,11
 39,CSE / ECE ELECTIVE 4,,,,,,4,,,12
 40,CSE / ECE ELECTIVE 5,,,,,,4,,,12
@@ -47,7 +47,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 41,BREADTH GE 1,,,,,,4,,,1
 42,DEI,,,,,,4,,,1
 31,CCE 1,CCE,1,,,,4,,,2
-32,CCE 2,CCE,2,,,,4,,,4
+32,CCE 2,CCE,2,31,,,4,,,4
 33,CCE 3,CCE,3,,,,4,,,6
 43,BREADTH GE 2,,,,,,4,,,7
 44,BREADTH GE 3,,,,,,4,,,8

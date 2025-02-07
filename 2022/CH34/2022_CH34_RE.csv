@@ -22,7 +22,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 15,PHYS 2BL / 2CL / 2DL,PHYS,2BL,8,,,2,,,6
 14,PHYS 2C / 2D,PHYS,2C,8;5,,,4,,,6
 31,BILD 1,BILD,1,,,,4,,,6
-16,CHEM 100A,CHEM,100A,6,,,4,,,7
+16,CHEM 100A,CHEM,100A,6;7,,,4,,,7
 17,CHEM 171,CHEM,171,6,,,4,,,7
 18,CHEM 130,CHEM,130,6;14;9,,,4,,,7
 20,CHEM 172,CHEM,172,6,,,4,,,8

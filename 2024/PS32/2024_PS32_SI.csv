@@ -1,0 +1,54 @@
+Curriculum,Political Science/Data Analytics,,,,,,,,,
+Degree Plan,Political Science/Data Analytics/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1099,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,LD POLI 1,,,,,,4,,,1
+4,POLI 5(D),POLI,5,,,,4,,,2
+6,POLI 30(D),POLI,30,,,,4,,,3
+10,LD POLI 2,,,,,,4,,,4
+11,UD POLI 1,,,,,,4,,,5
+12,UD POLI / DATA ANALYTICS 1,,,,,,4,,,6
+13,UD POLI 2,,,,,,4,,,7
+14,UD POLI / DATA ANALYTICS 2,,,,,,4,,,7
+15,UD POLI 3,,,,,,4,,,8
+16,UD POLI / DATA ANALYTICS 3,,,,,,4,,,8
+17,UD POLI 4,,,,,,4,,,9
+18,UD POLI / DATA ANALYTICS 4,,,,,,4,,,9
+19,UD POLI 5,,,,,,4,,,10
+20,UD POLI / DATA ANALYTICS 5,,,,,,4,,,10
+21,UD POLI 6,,,,,,4,,,11
+22,UD POLI 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CAT 1,CAT,1,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,GE 2,,,,,,4,,,1
+5,CAT 2,CAT,2,3,,,6,,,2
+25,GE 3,,,,,,4,,,2
+7,CAT 3,CAT,3,5,,,6,,,3
+26,GE / DEI,,,,,,4,,,3
+27,GE / CCER,,,,,,4,,,4
+28,ELECTIVE 1,,,,,,4,,,4
+29,ELECTIVE 2,,,,,,4,,,4
+30,GE 4,,,,,,4,,,5
+31,GE 5,,,,,,4,,,5
+32,ELECTIVE 3,,,,,,4,,,5
+33,GE 6,,,,,,4,,,6
+34,GE 7,,,,,,4,,,6
+35,ELECTIVE 4,,,,,,4,,,6
+36,ELECTIVE 5,,,,,,4,,,7
+37,ELECTIVE 6,,,,,,4,,,7
+38,ELECTIVE 7,,,,,,4,,,8
+39,ELECTIVE 8,,,,,,4,,,8
+8,CAT 125 / EXPERIENTIAL LEARNING,CAT,125,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,9
+41,EXPERIENTIAL LEARNING / CAT 125,CAT,125,,,,4,,,10
+42,ELECTIVE 10,,,,,,4,,,10
+43,UD ELECTIVE,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,11
+45,ELECTIVE 12,,,,,,4,,,12
+46,ELECTIVE 13,,,,,,4,,,12

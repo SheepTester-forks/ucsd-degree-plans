@@ -1,0 +1,54 @@
+Curriculum,Mathematics/Applied Science,,,,,,,,,
+Degree Plan,Mathematics/Applied Science/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,27.0199,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20D / MATH 109,MATH,20D,4;3,,,4,,,4
+6,CSE 11,CSE,11,,,,4,,,4
+7,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+14,UD MAJOR 1,,,,,,4,,,6
+8,MATH 20E,MATH,20E,3;4,,,4,,,6
+15,UD MAJOR 2,,,,,,4,,,7
+16,UD MAJOR 3,,,,,,4,,,7
+17,UD MAJOR 4,,,,,,4,,,8
+18,UD MAJOR 5,,,,,,4,,,8
+19,UD MAJOR 6,,,,,,4,,,9
+20,UD MAJOR 7,,,,,,4,,,9
+21,UD MAJOR 8,,,,,,4,,,10
+22,UD MAJOR 9,,,,,,4,,,10
+23,UD MAJOR 10,,,,,,4,,,11
+24,UD MAJOR 11,,,,,,4,,,11
+25,UD MAJOR 12,,,,,,4,,,12
+26,UD MAJOR 13,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,MMW 11,MMW,11,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+10,MMW 12,MMW,12,,,,6,,,2
+11,MMW 13,MMW,13,10,,,6,,,3
+28,GE 2,,,,,,4,,,3
+12,MMW 14 / GE 1,MMW,14,10;11,,,4,,,4
+29,GE 3,,,,,,4,,,4
+30,MMW 14 / GE 2,MMW,14,10;11,,,4,,,5
+31,GE 4,,,,,,4,,,5
+32,ELECTIVE 1,,,,,,4,,,5
+13,MMW 15,MMW,15,10;11,,,4,,,6
+33,GE 5,,,,,,4,,,6
+34,GE 6,,,,,,4,,,7
+35,GE 7,,,,,,4,,,7
+36,GE 8,,,,,,4,,,8
+37,GE 9,,,,,,4,,,8
+38,DEI,,,,,,4,,,9
+39,ELECTIVE 2,,,,,,4,,,9
+40,ELECTIVE 3,,,,,,4,,,10
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12

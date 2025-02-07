@@ -16,7 +16,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 13,UD ELECTIVE (MAJOR) 1,,,,,,4,,,10
 14,UD ELECTIVE (MAJOR) 2,,,,,,4,,,11
 15,UD ELECTIVE (MAJOR) 3,,,,,,4,,,11
-2,RELI 189,RELI,189,1,,,4,,,12
+2,RELI 189,RELI,189,,,,4,,,12
 16,UD ELECTIVE (MAJOR) 4,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
@@ -31,7 +31,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,BREADTH GE 6,,,,,,4,,,3
 25,ELECTIVE 2,,,,,,4,,,3
 26,ELECTIVE 3,,,,,,4,,,3
-4,CCE 2,CCE,2,,,,4,,,4
+4,CCE 2,CCE,2,3,,,4,,,4
 27,BREADTH GE 7,,,,,,4,,,4
 28,ELECTIVE 4,,,,,,4,,,4
 29,ELECTIVE 5,,,,,,4,,,4

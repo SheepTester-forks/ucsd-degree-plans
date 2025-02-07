@@ -1,0 +1,55 @@
+Curriculum,Theatre,,,,,,,,,
+Degree Plan,Theatre/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,TDGE 1,TDGE,1,,,,4,,,1
+2,TDAC 1,TDAC,1,,,,4,,,1
+3,TDDE 1,TDDE,1,,,,4,,,2
+4,TDHT 22,TDHT,22,,,,4,,,2
+5,TDPR 6 1,TDPR,6,,,,4,,,3
+6,TDHT 23,TDHT,23,,,,4,,,3
+7,TDHT 21,TDHT,21,,,,4,,,4
+8,TDPW 1,TDPW,1,,,,4,,,4
+18,TDPR 6 2,TDPR,6,,,,4,,,5
+9,TDAC 101,TDAC,101,2,,,4,,,5
+10,TDHT 10,TDHT,10,,,,4,,,6
+19,TDDE 1XX,,,,,,4,,,6
+11,TDDR 101,TDDR,101,,,,4,,,7
+12,TDDR 111,TDDR,111,10,,,4,,,7
+20,UD THEATRE ELECTIVE 1,,,,,,4,,,8
+13,TDPW 101,TDPW,101,8,,,4,,,8
+21,UD THEATRE ELECTIVE 2,,,,,,4,,,9
+22,TDHT 1XX 1,,,,,,4,,,9
+23,TDHT 1XX 2,,,,,,4,,,10
+24,UD THEATRE ELECTIVE 3,,,,,,4,,,10
+25,TDHT 1XX 3,,,,,,4,,,11
+26,UD THEATRE ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,DEI,,,,,,4,,,1
+14,CCE 1,CCE,1,,,,4,,,2
+28,BREADTH GE 1,,,,,,4,,,2
+29,BREADTH GE 2,,,,,,4,,,3
+30,ELECTIVE 1,,,,,,4,,,3
+15,CCE 2,CCE,2,14,,,4,,,4
+31,BREADTH GE 3,,,,,,4,,,4
+32,BREADTH GE 4,,,,,,4,,,5
+33,BREADTH GE 5,,,,,,4,,,5
+16,CCE 3,CCE,3,15,,,4,,,6
+34,ELECTIVE 2,,,,,,4,,,6
+35,BREADTH GE 6,,,,,,4,,,7
+36,BREADTH GE 7,,,,,,4,,,7
+37,BREADTH GE 8,,,,,,4,,,8
+38,ELECTIVE 3,,,,,,4,,,8
+17,CCE 120,CCE,120,,,,4,,,9
+39,BREADTH GE 9,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,10
+41,UD ELECTIVE 1,,,,,,4,,,11
+42,BREADTH GE 10,,,,,,4,,,11
+43,ELECTIVE 5,,,,,,4,,,11
+44,UD ELECTIVE 2,,,,,,4,,,12
+45,ELECTIVE 6,,,,,,4,,,12

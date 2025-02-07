@@ -9,9 +9,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 1,MATH 20A,MATH,20A,,,,4,,,1
 30,LD ELECTIVE,,,,,,2,,,1
 2,CSE 11,CSE,11,,,,4,,,1
-4,CSE 12,CSE,12,2,,,4,,,2
 5,CSE 15L,CSE,15L,2,,,2,,,2
 3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CSE 12,CSE,12,2,,,4,,,2
 9,PHYS 2A,PHYS,2A,1,,,4,,,3
 6,MATH 20C,MATH,20C,3,,,4,,,3
 7,CSE 20,CSE,20,,2,,4,,,3

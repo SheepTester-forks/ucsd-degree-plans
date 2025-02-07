@@ -15,22 +15,22 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,SBE 1,,,,,,4,,,3
 8,FMPH 40,FMPH,40,,,,4,,,4
 20,SBE 2,,,,,,4,,,4
-7,CHEM 6A,CHEM,6A,,,,4,,,4
+7,CHEM 6A,CHEM,6A,1,,,4,,,4
 9,CHEM 6B,CHEM,6B,7;1,,,4,,,5
 10,FMPH 50 / FMPH 110 1,FMPH,50,,,,4,,,5
 21,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
 11,CHEM 6C,CHEM,6C,9,,,4,,,6
-12,FMPH 101 / FMPH 102 1,FMPH,101,8;5,,,4,,,7
+12,FMPH 101 / FMPH 102 1,FMPH,101,,,,4,,,7
 22,CONCENTRATION UDE 1,,,,,,4,,,7
-23,FMPH 101 / FMPH 102 2,FMPH,101,8;5,,,4,,,8
+23,FMPH 101 / FMPH 102 2,FMPH,101,,,,4,,,8
 13,USP 143,USP,143,,,,4,,,8
-14,FMPH 120 / FMPH 130 1,FMPH,120,8,,,4,,,9
+14,FMPH 120 / FMPH 130 1,FMPH,120,,,,4,,,9
 24,CONCENTRATION UDE 2,,,,,,4,,,9
-25,FMPH 120 / FMPH 130 2,FMPH,120,8,,,4,,,10
+25,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 26,FMPH UDE,,,,,,4,,,10
 15,FMPH 193,FMPH,193,,,,4,,,11
 27,UDE 1,,,,,,4,,,11
-16,FMPH 194,FMPH,194,15,,,4,,,12
+16,FMPH 194,FMPH,194,,,,4,,,12
 28,UDE 2,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

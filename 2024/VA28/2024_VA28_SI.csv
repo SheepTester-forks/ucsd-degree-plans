@@ -1,0 +1,54 @@
+Curriculum,Visual Arts (Studio),,,,,,,,,
+Degree Plan,Visual Arts (Studio)/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0702,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,FOUNDATION ART MAKING 1,,,,,,4,,,1
+1,VIS 80,VIS,80,,,,4,,,1
+3,VIS 11,VIS,11,,,,4,,,2
+2,VIS 22,VIS,22,,,,4,,,2
+10,FOUNDATION HISTORY,,,,,,4,,,3
+11,FOUNDATION ART MAKING 2,,,,,,4,,,4
+12,INTERMEDIATE GROUP A 1,,,,,,4,,,5
+13,INTERMEDIATE GROUP A 2,,,,,,4,,,6
+14,HISTORY & THEORY 1,,,,,,4,,,6
+15,INTERMEDIATE GROUP A 3,,,,,,4,,,7
+16,HISTORY & THEORY 2,,,,,,4,,,7
+17,INTERMEDIATE GROUP B 1,,,,,,4,,,8
+18,HISTORY & THEORY 3,,,,,,4,,,8
+19,INTERMEDIATE GROUP B 2,,,,,,4,,,9
+20,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,9
+21,ADVANCED ART MAKING,,,,,,4,,,10
+22,ADVANCED INTERDISCIPLINARY 1,,,,,,4,,,11
+23,ADVANCED INTERDISCIPLINARY 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,CAT 1,CAT,1,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+6,CAT 2,CAT,2,5,,,6,,,2
+25,GE 2,,,,,,4,,,2
+7,CAT 3,CAT,3,6,,,6,,,3
+26,GE / DEI,,,,,,4,,,3
+27,GE 3,,,,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,4
+30,GE / CCER,,,,,,4,,,5
+31,GE 5,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,6
+34,ELECTIVE 4,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+8,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+38,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,9
+39,ELECTIVE 8,,,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,10
+41,UD ELECTIVE,,,,,,4,,,10
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12
+45,ELECTIVE 13,,,,,,4,,,12

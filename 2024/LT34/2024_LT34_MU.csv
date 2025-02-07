@@ -1,0 +1,54 @@
+Curriculum,Literature/Writing,,,,,,,,,
+Degree Plan,Literature/Writing/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LD LTEN / GSS 1,,,,,,4,,,1
+8,LD LANGUAGE 1,,,,,,5,,,1
+9,LD LANGUAGE 2,,,,,,5,,,2
+1,LTEN 26,LTEN,26,,,,4,,,2
+10,LD LANGUAGE 3,,,,,,5,,,3
+11,LD LTEN / GSS 2,,,,,,4,,,3
+12,LD LANGUAGE 4,,,,,,5,,,4
+2,LTWR 8A / LTWR 8B / LTWR 8C 1,LTWR,8A,5;6,,,4,,,4
+13,LD LANGUAGE 5,,,,,,5,,,5
+14,LTWR 8A / LTWR 8B / LTWR 8C 2,LTWR,8A,5;6,,,4,,,5
+15,LD LANGUAGE 6,,,,,,5,,,6
+16,LTWR 8A / LTWR 8B / LTWR 8C 3,LTWR,8A,5;6,,,4,,,6
+17,UD LTAM,,,,,,4,,,7
+3,LTWR 100 - 129 1,LTWR,100,,,,4,,,7
+18,UD LTEU,,,,,,4,,,8
+19,LTWR 100 - 129 2,LTWR,100,,,,4,,,8
+20,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,9
+21,LTWR 100 - 129 3,LTWR,100,,,,4,,,9
+22,LTWR 100 - 129 4,LTWR,100,,,,4,,,10
+4,LTWR 140 - 149,LTWR,140,,,,4,,,10
+23,LTWR 100 - 129 5,LTWR,100,,,,4,,,11
+24,UD LIT ELECTIVE 1,,,,,,4,,,11
+25,LTWR 100 - 129 6,LTWR,100,,,,4,,,12
+26,UD LIT ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MCWP 40,MCWP,40,,,,4,,,1
+6,MCWP 50,MCWP,50,5,,,4,,,2
+27,MUIR GE 1,,,,,,4,,,3
+28,MUIR GE 2,,,,,,4,,,3
+29,MUIR GE 3,,,,,,4,,,4
+30,CCER,,,,,,4,,,4
+31,MUIR GE 4,,,,,,4,,,5
+32,MUIR GE 5,,,,,,4,,,5
+33,MUIR GE 6,,,,,,4,,,6
+34,MUIR GE 7,,,,,,4,,,6
+35,DEI,,,,,,4,,,7
+36,MUIR GE 8,,,,,,4,,,7
+37,MUIR GE 9,,,,,,4,,,8
+38,MUIR GE 10,,,,,,4,,,8
+39,MUIR GE 11,,,,,,4,,,9
+40,MUIR GE 12,,,,,,4,,,9
+41,MUIR UD ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE,,,,,,2,,,10
+43,MUIR UD ELECTIVE 2,,,,,,4,,,11
+44,MUIR UD ELECTIVE 3,,,,,,4,,,12

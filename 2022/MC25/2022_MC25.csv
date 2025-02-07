@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,MAE 101C,MAE,101C,22;28;21,,,4,,
 30,MAE 104,MAE,104,22;28,,,4,,
 31,MAE 155A,MAE,155A,3;11;30;17;24,,,4,,
-32,MAE 175A,MAE,175A,29;27;26,,,4,,
+32,MAE 175A,MAE,175A,27;26,,,4,,
 33,MAE 142,MAE,142,30;27,,,4,,
 34,MAE 113,MAE,113,20;22;28,,,4,,
 35,MAE 155B,MAE,155B,34;33;31;26,,,4,,

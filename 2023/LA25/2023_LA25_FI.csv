@@ -18,7 +18,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,LATI METHOD,,,,,,4,,,7
 19,LATI UD ELECTIVE 1,,,,,,4,,,7
 20,LATI UD ELECTIVE 2,,,,,,4,,,8
-17,LATI 150,LATI,150,9,,,4,,,8
+17,LATI 150,LATI,150,,,,4,,,8
 21,LATI CORE COURSE 1,,,,,,4,,,9
 10,LATI 180,LATI,180,,,,4,,,9
 22,LATI UD ELECTIVE 3,,,,,,4,,,10

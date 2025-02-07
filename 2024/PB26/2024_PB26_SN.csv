@@ -1,0 +1,55 @@
+Curriculum,Public Health with Concentration in Biostatistics,,,,,,,,,
+Degree Plan,Public Health with Concentration in Biostatistics/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1102,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+20,LD PH __,,,,,,4,,,1
+2,PH 40,PH,40,,,,4,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,MATH 18,MATH,18,,,,4,,,2
+5,MATH 20C,MATH,20C,3,,,4,,,3
+21,LD PH __ (TRENDING TOPICS),,,,,,4,,,3
+6,BILD 1,BILD,1,,,,4,,,4
+7,MATH 11,MATH,11,3,,,5,,,4
+8,BILD 2,BILD,2,6,,,4,,,5
+9,PH 45,PH,45,2,,,4,,,5
+22,COMPUTER PROGRAMMING,,,,,,4,,,6
+10,PH 110,PH,110,2,,,4,,,6
+11,BILD 3,BILD,3,,,,4,,,6
+23,PH UDE 1,,,,,,4,,,7
+12,PH 101 / PH 102 1,PH,101,2;7,,,4,,,7
+24,PH 101 / PH 102 2,PH,101,2;7,,,4,,,8
+13,USP 143,USP,143,,,,4,,,8
+14,PH 120 / PH 130 1,PH,120,2,,,4,,,9
+25,PH UDE 2,,,,,,4,,,9
+26,PH 120 / PH 130 2,PH,120,2,,,4,,,10
+27,CONCENTRATION UDE 1,,,,,,4,,,10
+15,PH 193,PH,193,2;9;12;10;14,,,4,,,11
+28,CONCENTRATION UDE 2,,,,,,4,,,11
+16,PH 194,PH,194,2;9;12;10;14;15,,,4,,,12
+29,CONCENTRATION UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+30,DEI,,,,,,4,,,1
+31,ALTERNATIVE 1,,,,,,4,,,2
+32,ALTERNATIVE 2,,,,,,4,,,2
+17,SYN 1 (CCER),SYN,1,,,,4,,,3
+33,ALTERNATIVE 3,,,,,,4,,,3
+18,SYN 2,SYN,2,17,,,4,,,4
+34,ALTERNATIVE 4,,,,,,4,,,4
+35,ALTERNATIVE 5,,,,,,4,,,5
+36,ELECTIVE 1,,,,,,4,,,5
+37,ELECTIVE 2,,,,,,4,,,6
+19,SYN 100,SYN,100,17;18,,,4,,,7
+38,ELECTIVE 3,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,ALTERNATIVE 6,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,3,,,9
+43,UD ELECTIVE,,,,,,4,,,10
+44,ELECTIVE 7,,,,,,4,,,11
+45,ELECTIVE 8,,,,,,4,,,12

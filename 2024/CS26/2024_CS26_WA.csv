@@ -1,0 +1,56 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,CSE 8A / CSE 11,CSE,8A,,,,4,,,1
+1,MATH 20A,MATH,20A,,,,4,,,1
+19,LDE,,,,,,2,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+3,CSE 8B,CSE,8B,2,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+5,CSE 29,CSE,29,3,,,4,,,3
+7,CSE 20,CSE,20,2,,,4,,,3
+8,CSE 12,CSE,12,3,,,4,,,3
+20,CSE GENERAL SCIENCE 1,,,,,,4,,,4
+9,CSE 21,CSE,21,7,,,4,,,4
+10,CSE 30,CSE,30,5,,,4,,,4
+21,CSE GENERAL SCIENCE 2,,,,,,4,,,5
+11,CSE 100 / 100R,CSE,100,9;8;5,,,4,,,5
+12,MATH 18,MATH,18,,,,4,,,5
+13,CSE 110,CSE,110,11,,,4,,,6
+22,GE / DEI,,,,,,4,,,6
+23,STATISTICS,,,,,,4,,,6
+14,CSE 101,CSE,101,9;8,,,4,,,6
+24,APPLICATIONS ELECTIVE 1,,,,,,4,,,7
+25,ABSTRACTION ELECTIVE 1,,,,,,4,,,7
+26,SYSTEMS ELECTIVE 1,,,,,,4,,,7
+27,APPLICATIONS ELECTIVE 2,,,,,,4,,,8
+28,ABSTRACTION ELECTIVE 2,,,,,,4,,,8
+29,SYSTEMS ELECTIVE 2,,,,,,4,,,8
+30,GE / CCER,,,,,,4,,,8
+31,APPLICATIONS ELECTIVE 3,,,,,,4,,,9
+32,ABSTRACTION ELECTIVE 3,,,,,,4,,,9
+33,SYSTEMS ELECTIVE 3,,,,,,4,,,9
+34,GE 1,,,,,,4,,,9
+35,OPEN CSE ELECTIVE 1,,,,,,4,,,10
+36,OPEN CSE ELECTIVE 2,,,,,,4,,,10
+37,GE 2,,,,,,4,,,10
+38,OPEN CSE ELECTIVE 3,,,,,,4,,,11
+39,OPEN CSE ELECTIVE 4,,,,,,4,,,11
+40,OPEN CSE ELECTIVE 5,,,,,,4,,,11
+41,OPEN CSE ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,WCWP 10A,WCWP,10A,,,,4,,,1
+16,WCWP 10B,WCWP,10B,15,,,4,,,2
+42,GE 3,,,,,,4,,,2
+17,PHIL / POLI 27,POLI,27,15;16,,,4,,,4
+18,PHIL / POLI 28,POLI,28,17,,,4,,,5
+43,GE 4,,,,,,4,,,7
+44,ELECTIVE 1,,,,,,4,,,10
+45,ELECTIVE 2,,,,,,4,,,12
+46,ELECTIVE 3,,,,,,4,,,12

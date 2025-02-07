@@ -1,0 +1,58 @@
+Curriculum,Neurobiology,,,,,,,,,
+Degree Plan,Neurobiology/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1599,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BILD 4,BILD,4,,,,2,,,1
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+5,BILD 5,BILD,5,,,,4,,,2
+6,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+8,MATH 11,MATH,11,6,,,5,,,3
+9,CHEM 7L,CHEM,7L,4,,,4,,,3
+10,PHYS 1A,PHYS,1A,2,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,2,,,2,,,4
+12,BILD 1,BILD,1,,,,4,,,4
+13,BILD 3,BILD,3,,,,4,,,4
+14,CHEM 40A,CHEM,40A,4,,,4,,,5
+15,PHYS 1B,PHYS,1B,6;10,,,3,,,5
+16,PHYS 1BL,PHYS,1BL,6;10;11,,,2,,,5
+17,BILD 2,BILD,2,12,,,4,,,5
+18,CHEM 40B,CHEM,40B,14,,,4,,,6
+19,BICD 100,BICD,100,12;13,,,4,,,6
+20,PHYS 1C,PHYS,1C,6;15,,,3,,,6
+21,PHYS 1CL,PHYS,1CL,6;15;16,,,2,,,6
+22,BIBC 102 / CHEM 114B,BIBC,102,14;18,,,4,,,7
+23,BIPN 140,BIPN,140,12;17,,,4,,,7
+30,ELECTIVE 1,,,,,,4,,,7
+24,BIPN 100,BIPN,100,12;17,,,4,,,8
+25,BIPN 145,BIPN,145,8;3;17,,,4,,,8
+26,BIMM 100,BIMM,100,12;3;14;18,,,4,,,9
+31,UD BIOLOGY LAB,,,,,,4,,,9
+32,UD NEURO CORE 1,,,,,,4,,,10
+33,UD NEURO CORE 2,,,,,,4,,,10
+34,UD BIOLOGY ELECTIVE 1,,,,,,4,,,11
+35,UD NEURO CORE 3,,,,,,4,,,11
+36,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,ALTERNATIVE 1,,,,,,4,,,1
+38,ALTERNATIVE 2,,,,,,4,,,2
+27,SYN 1 (CCER),SYN,1,,,,4,,,3
+28,SYN 2,SYN,2,27,,,4,,,4
+39,DEI,,,,,,4,,,5
+40,ALTERNATIVE 3,,,,,,4,,,6
+41,ALTERNATIVE 4,,,,,,4,,,7
+42,ALTERNATIVE 5,,,,,,4,,,8
+43,ELECTIVE 2,,,,,,4,,,8
+29,SYN 100,SYN,100,27;28,,,4,,,9
+44,ALTERNATIVE 6,,,,,,4,,,9
+45,HIGH - IMPACT,,,,,,2,,,10
+46,UD ELECTIVE 1,,,,,,4,,,11
+47,UD ELECTIVE 2,,,,,,4,,,12
+48,ELECTIVE 3,,,,,,4,,,12

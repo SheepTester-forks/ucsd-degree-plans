@@ -36,7 +36,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,ECE 108 (REPLACE WITH A CSE / ECE ELECTIVE),ECE,108,23;13;14;19,,,4,,
 28,ECE 111,ECE,111,23,,,4,,
 32,CSE / ECE ELECTIVE 2,,,,,,4,,
-29,CSE 120,CSE,120,13;21;20,,,4,,
+29,CSE 120,CSE,120,4;21;20,,,4,,
 33,CSE / ECE ELECTIVE 3,,,,,,4,,
 34,CSE / ECE ELECTIVE 4,,,,,,4,,
 35,CSE / ECE ELECTIVE 5,,,,,,4,,

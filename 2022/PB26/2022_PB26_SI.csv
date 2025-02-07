@@ -20,17 +20,17 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,COMPUTER PROGRAMMING,,,,,,4,,,6
 23,FMPH 50 / FMPH 110 2,FMPH,50,,,,4,,,6
 10,BILD 3,BILD,3,,,,4,,,6
-11,FMPH 101 / FMPH 102 1,FMPH,101,5;7,,,4,,,7
+11,FMPH 101 / FMPH 102 1,FMPH,101,,,,4,,,7
 24,CONCENTRATION UDE 1,,,,,,4,,,7
 25,FMPH 101 / FMPH 102 2,FMPH,101,5;7,,,4,,,8
 12,USP 143,USP,143,,,,4,,,8
 13,FMPH 120 / FMPH 130 1,FMPH,120,5,,,4,,,9
 26,CONCENTRATION UDE 2,,,,,,4,,,9
-27,FMPH 120 / FMPH 130 2,FMPH,120,5,,,4,,,10
+27,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 28,FMPH UDE,,,,,,4,,,10
 14,FMPH 193,FMPH,193,,,,4,,,11
 29,UDE 1,,,,,,4,,,11
-15,FMPH 194,FMPH,194,14,,,4,,,12
+15,FMPH 194,FMPH,194,,,,4,,,12
 30,UDE 2,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

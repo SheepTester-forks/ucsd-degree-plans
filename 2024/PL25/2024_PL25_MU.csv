@@ -1,0 +1,55 @@
+Curriculum,Philosophy,,,,,,,,,
+Degree Plan,Philosophy/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PHIL 10,PHIL,10,,,,4,,,2
+9,LD PHIL COURSE,,,,,,4,,,3
+2,PHIL 115 (OR IN SP26),PHIL,115,,,,4,,,5
+3,PHIL 110,PHIL,110,,,,4,,,7
+4,PHIL 120,PHIL,120,1,,,4,,,7
+10,"PHIL CORE REQUIREMENT AREA IV, V, / VI 1",,,,,,4,,,7
+5,PHIL 111,PHIL,111,3,,,4,,,8
+11,"PHIL CORE REQUIREMENT AREA IV, V, / VI 2",,,,,,4,,,8
+6,PHIL 112,PHIL,112,5,,,4,,,9
+12,"PHIL CORE REQUIREMENT AREA IV, V, / VI 3",,,,,,4,,,9
+13,PHIL UD ELECTIVE 1,,,,,,4,,,10
+14,PHIL UD ELECTIVE 2,,,,,,4,,,10
+15,PHIL UD ELECTIVE 3,,,,,,4,,,11
+16,PHIL UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,MCWP 40,MCWP,40,,,,4,,,1
+17,GE 1,,,,,,4,,,1
+18,GE 2,,,,,,4,,,1
+8,MCWP 50,MCWP,50,7,,,4,,,2
+19,GE 3,,,,,,4,,,2
+20,GE 4,,,,,,4,,,2
+21,GE 5,,,,,,4,,,3
+22,GE 6,,,,,,4,,,3
+23,GE 7,,,,,,4,,,3
+24,GE 8,,,,,,4,,,4
+25,GE 9,,,,,,4,,,4
+26,ELECTIVE 1,,,,,,4,,,4
+27,ELECTIVE 2,,,,,,4,,,4
+28,GE 10,,,,,,4,,,5
+29,GE 11,,,,,,4,,,5
+30,CCER,,,,,,4,,,5
+31,GE 12,,,,,,4,,,6
+32,DEI,,,,,,4,,,6
+33,ELECTIVE 3,,,,,,4,,,6
+34,ELECTIVE 4,,,,,,4,,,6
+35,MUIR UD ELECTIVE 1,,,,,,4,,,7
+36,MUIR UD ELECTIVE 2,,,,,,4,,,8
+37,ELECTIVE 5,,,,,,4,,,8
+38,MUIR UD ELECTIVE 3,,,,,,4,,,9
+39,ELECTIVE 6,,,,,,4,,,9
+40,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12
+45,ELECTIVE 12,,,,,,4,,,12

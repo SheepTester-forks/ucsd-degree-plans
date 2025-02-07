@@ -1,0 +1,55 @@
+Curriculum,Cognitive Science with a Specialization in Machine Learning and Neural Computation,,,,,,,,,
+Degree Plan,Cognitive Science with a Specialization in Machine Learning and Neural Computation/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+4,MATH 20B,MATH,20B,2,,,4,,,2
+3,COGS 13,COGS,13,,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+5,COGS 1,COGS,1,,,,4,,,3
+8,COGS 18 / CSE (6R / 8A / 11) / BILD 62,COGS,18,,,,4,,,4
+7,COGS 17,COGS,17,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+10,MATH 20E,MATH,20E,6,,,4,,,5
+23,GE / CCER,,,,,,4,,,5
+12,COGS 14B,COGS,14B,9,,,4,,,6
+11,MATH 18,MATH,18,,,,4,,,6
+24,GE / DEI,,,,,,4,,,6
+13,COGS 101A / 101B / 101C 1,COGS,101A,5,,,4,,,7
+14,COGS 107A,COGS,107A,7,,,4,,,7
+25,COGS 101A / 101B / 101C 2,COGS,101A,5,,,4,,,8
+15,COGS 108,COGS,108,8,,,4,,,8
+17,COGS 107B,COGS,107B,14,,,4,,,9
+16,COGS 100,COGS,100,1,,,4,,,9
+26,COGS UD ELECTIVE 1,,,,,,4,,,10
+18,MATH 180A,MATH,180A,6,,,4,,,10
+27,COGS UD ELECTIVE 2,,,,,,4,,,11
+28,COGS UD ELECTIVE 3,,,,,,4,,,11
+29,COGS UD ELECTIVE 4,,,,,,4,,,12
+30,COGS UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,WCWP 10A,WCWP,10A,,,,4,,,1
+20,WCWP 10B,WCWP,10B,19,,,4,,,2
+31,GE 1,,,,,,4,,,2
+21,PHIL / POLI 27,POLI,27,19;20,,,4,,,3
+32,GE 2,,,,,,4,,,3
+22,PHIL / POLI 28,POLI,28,21,,,4,,,4
+33,GE 3,,,,,,4,,,4
+34,GE 4,,,,,,4,,,5
+35,GE 5,,,,,,4,,,6
+36,GE 6,,,,,,4,,,7
+37,GE 7,,,,,,4,,,7
+38,GE 8,,,,,,4,,,8
+39,GE 9,,,,,,4,,,8
+40,ELECTIVE 1,,,,,,4,,,9
+41,GE 10,,,,,,4,,,9
+42,ELECTIVE 2,,,,,,4,,,10
+43,ELECTIVE 3,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12

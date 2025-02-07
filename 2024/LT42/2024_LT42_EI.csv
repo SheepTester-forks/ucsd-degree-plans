@@ -1,0 +1,54 @@
+Curriculum,Literary Arts,,,,,,,,,
+Degree Plan,Literary Arts/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,LD LANGUAGE 1,,,,,,5,,,1
+1,LTEN 25,LTEN,25,,,,4,,,1
+15,LD LANGUAGE 2,,,,,,5,,,2
+16,LD LTEN / GSS 1,,,,,,4,,,2
+17,LD LANGUAGE 3,,,,,,5,,,3
+18,LD LTEN / GSS 2,,,,,,4,,,3
+19,LD LANGUAGE 4,,,,,,5,,,4
+20,LD LANGUAGE 5,,,,,,5,,,5
+2,LTWR 8A / 8B / 8C 1,LTWR,8A,10;11,,,4,,,5
+21,LTWR 8A / 8B / 8C 2,LTWR,8A,10;11,,,4,,,5
+22,LD LANGUAGE 6,,,,,,5,,,6
+23,LTWR 8A / 8B / 8C 3,LTWR,8A,10;11,,,4,,,6
+3,CRAFT / READING COURSE (LTWR 100C - 129C) 1,LTWR,100C,2,,,4,,,7
+4,LTAM 100 - 190,LTAM,100,,,,4,,,7
+24,CRAFT / READING COURSE (LTWR 100C - 129C) 2,LTWR,100C,2,,,4,,,8
+5,LTEU 100 - 190,LTEU,100,,,,4,,,8
+25,CRAFT / READING COURSE (LTWR 100C - 129C) 3,LTWR,100C,2,,,4,,,9
+6,LTWR 140 - 149,LTWR,140,,,,4,,,9
+7,WORKSHOP COURSE (LTWR 100W - 129W) 1,LTWR,100W,2,,,4,,,10
+8,LTAF 100 - 190 / LTAM 100 - 190 / LTEA 100 - 190 / LTEU 100 - 190 / LTWL 100 - 190,LTAF,100,,,,4,,,10
+26,WORKSHOP COURSE (LTWR 100W - 129W) 2,LTWR,100W,2,,,4,,,11
+9,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 1",LT,100,,,,4,,,11
+27,CRAFT / READING COURSE (LTWR 100C - 129C) 4,LTWR,100C,2,,,4,,,12
+28,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 2",LT,100,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,DEI,,,,,,4,,,1
+10,CCE 1,CCE,1,,,,4,,,2
+30,BREADTH GE 1,,,,,,4,,,2
+31,BREADTH GE 2,,,,,,4,,,3
+32,BREADTH GE 3,,,,,,4,,,3
+11,CCE 2,CCE,2,10,,,4,,,4
+33,BREADTH GE 4,,,,,,4,,,4
+34,ELECTIVE 1,,,,,,4,,,4
+35,BREADTH GE 5,,,,,,4,,,5
+12,CCE 3,CCE,3,11,,,4,,,6
+36,BREADTH GE 6,,,,,,4,,,6
+37,BREADTH GE 7,,,,,,4,,,7
+38,ELECTIVE 2,,,,,,4,,,7
+39,BREADTH GE 8,,,,,,4,,,8
+40,ELECTIVE 3,,,,,,4,,,8
+13,CCE 120,CCE,120,,,,4,,,9
+41,ELECTIVE 4,,,,,,4,,,10
+42,ELECTIVE 5,,,,,,2,,,10
+43,UD ELECTIVE 1,,,,,,4,,,11
+44,UD ELECTIVE 2,,,,,,4,,,12

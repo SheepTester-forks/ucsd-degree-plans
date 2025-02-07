@@ -16,16 +16,16 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 4,FMPH 110,FMPH,110,1,,,4,,,5
 19,STATISTICS (QUANTITATIVE METHODS),,,,,,4,,,6
 20,CONCENTRATION UDE 1,,,,,,4,,,7
-5,FMPH 101 / FMPH 102 1,FMPH,101,1,,,4,,,7
+5,FMPH 101 / FMPH 102 1,FMPH,101,,,,4,,,7
 6,USP 143,USP,143,,,,4,,,8
 21,FMPH 101 / FMPH 102 2,FMPH,101,1,,,4,,,8
 22,CONCENTRATION UDE 2,,,,,,4,,,9
 7,FMPH 120 / FMPH 130 1,FMPH,120,1,,,4,,,9
-23,FMPH 120 / FMPH 130 2,FMPH,120,1,,,4,,,10
+23,FMPH 120 / FMPH 130 2,FMPH,120,,,,4,,,10
 24,FMPH UDE,,,,,,4,,,10
 8,FMPH 193,FMPH,193,,,,4,,,11
 25,UDE 1,,,,,,4,,,11
-9,FMPH 194,FMPH,194,8,,,4,,,12
+9,FMPH 194,FMPH,194,,,,4,,,12
 26,UDE 2,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

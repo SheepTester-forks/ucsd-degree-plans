@@ -1,0 +1,55 @@
+Curriculum,Philosophy,,,,,,,,,
+Degree Plan,Philosophy/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PHIL 10 (LD COURSE),PHIL,10,,,,4,,,1
+11,LD PHIL COURSE (OR PHIL 10) 1,PHIL,10,,,,4,,,2
+12,LD PHIL COURSE (OR PHIL 10) 2,PHIL,10,,,,4,,,3
+2,PHIL 115 (IF NOT SP 26),PHIL,115,,,,4,,,5
+13,GE / CCER,,,,,,4,,,5
+14,PHIL 115 (IF NOT WN 26),PHIL,115,,,,4,,,6
+15,GE / DEI,,,,,,4,,,6
+3,PHIL 110,PHIL,110,,,,4,,,7
+4,PHIL 120,PHIL,120,1,,,4,,,7
+16,"PHIL CORE REQUIREMENT AREA IV, V, / VI 1",,,,,,4,,,7
+5,PHIL 111,PHIL,111,3,,,4,,,8
+17,"PHIL CORE REQUIREMENT AREA IV, V, / VI 2",,,,,,4,,,8
+6,PHIL 112,PHIL,112,5,,,4,,,9
+18,"PHIL CORE REQUIREMENT AREA IV, V, / VI 3",,,,,,4,,,9
+19,PHIL UD ELECTIVE 1,,,,,,4,,,10
+20,PHIL UD ELECTIVE 2,,,,,,4,,,10
+21,PHIL UD ELECTIVE 3,,,,,,4,,,11
+22,PHIL UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,WCWP 10A,WCWP,10A,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,ELECTIVE 1,,,,,,4,,,1
+8,WCWP 10B,WCWP,10B,7,,,4,,,2
+25,GE 2,,,,,,4,,,2
+26,ELECTIVE 2,,,,,,4,,,2
+9,PHIL / POLI 27,POLI,27,7;8,,,4,,,3
+27,GE 3,,,,,,4,,,3
+28,ELECTIVE 3,,,,,,4,,,3
+10,PHIL / POLI 28,POLI,28,9,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,ELECTIVE 4,,,,,,4,,,4
+31,ELECTIVE 5,,,,,,4,,,4
+32,GE 5,,,,,,4,,,5
+33,ELECTIVE 6,,,,,,4,,,5
+34,GE 6,,,,,,4,,,6
+35,GE 7,,,,,,4,,,6
+36,GE 8,,,,,,4,,,7
+37,GE 9,,,,,,4,,,8
+38,ELECTIVE 7,,,,,,4,,,8
+39,ELECTIVE 8,,,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,9
+41,GE 10,,,,,,4,,,10
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
+44,ELECTIVE 12,,,,,,4,,,12
+45,ELECTIVE 13,,,,,,4,,,12

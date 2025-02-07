@@ -9,22 +9,46 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 1,LTGK 1 / LTLA1 1,LTGK,1,,,,4,,,1
 2,LTGK 2 / LTLA 2,LTGK,2,1,,,4,,,2
 3,LTGK 3 / LTLA 3 1,LTGK,3,2,,,4,,,3
-4,LD ELECTIVE 1,,,,,,4,,,3
-5,LTGK 1 / LTLA1 2,LTGK,1,,,,4,,,4
-6,LTGK 2 / LTLA2,LTGK,2,1,,,4,,,5
-7,LTGK 3 / LTLA 3 2,LTGK,3,2,,,4,,,6
-8,LD ELECTIVE 2,,,,,,4,,,6
-9,UD LTGK / UD LTLA 1,,,,,,4,,,7
-10,UD ELECTIVE 1,,,,,,4,,,7
-11,UD LTGK / UD LTLA 2,,,,,,4,,,8
-12,UD ELECTIVE 2,,,,,,4,,,8
-13,UD LTGK / UD LTLA 3,,,,,,4,,,9
-14,UD ELECTIVE 3,,,,,,4,,,9
-15,UD LTGK / UD LTLA 4,,,,,,4,,,10
-16,UD ELECTIVE 4,,,,,,4,,,10
-17,UD LTGK / UD LTLA 5,,,,,,4,,,11
-18,UD ELECTIVE 5,,,,,,4,,,11
-19,UD LTGK / UD LTLA 6,,,,,,4,,,12
-20,UD ELECTIVE 6,,,,,,4,,,12
+9,LD ELECTIVE 1,,,,,,4,,,3
+10,LTGK 1 / LTLA1 2,LTGK,1,,,,4,,,4
+11,LTGK 2 / LTLA2,LTGK,2,1,,,4,,,5
+12,LD ELECTIVE 2,,,,,,4,,,6
+13,LTGK 3 / LTLA 3 2,LTGK,3,2,,,4,,,6
+14,UD ELECTIVE 1,,,,,,4,,,7
+15,UD LTGK / UD LTLA 1,,,,,,4,,,7
+16,ELECTIVE 1,,,,,,4,,,8
+17,UD ELECTIVE 2,,,,,,4,,,8
+18,UD LTGK / UD LTLA 2,,,,,,4,,,8
+19,UD LTGK / UD LTLA 3,,,,,,4,,,9
+20,UD ELECTIVE 3,,,,,,4,,,10
+21,UD LTGK / UD LTLA 4,,,,,,4,,,10
+22,UD ELECTIVE 4,,,,,,4,,,11
+23,UD ELECTIVE 5,,,,,,4,,,11
+24,UD LTGK / UD LTLA 5,,,,,,4,,,11
+25,UD LTGK / UD LTLA 6,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,MMW 11,MMW,11,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+5,MMW 12,MMW,12,,,,6,,,2
+27,ELECTIVE 2,,,,,,4,,,2
+6,MMW 13,MMW,13,5,,,6,,,3
+7,MMW 14 / GE 1,MMW,14,5;6,,,4,,,4
+28,GE 2,,,,,,4,,,4
+29,GE 3,,,,,,4,,,4
+30,MMW 14 / GE 2,MMW,14,5;6,,,4,,,5
+31,GE 4,,,,,,4,,,5
+32,GE 5,,,,,,4,,,5
+8,MMW 15,MMW,15,5;6,,,4,,,6
+33,GE 6,,,,,,4,,,6
+34,GE 7,,,,,,4,,,7
+35,ELECTIVE 3,,,,,,4,,,7
+36,ELECTIVE 4,,,,,,4,,,8
+37,DEI,,,,,,4,,,9
+38,ELECTIVE 5,,,,,,4,,,9
+39,UD ELECTIVE 6,,,,,,4,,,9
+40,ELECTIVE 6,,,,,,4,,,10
+41,UD ELECTIVE 7,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,11
+43,UD ELECTIVE 8,,,,,,4,,,12
+44,UD ELECTIVE 9,,,,,,4,,,12

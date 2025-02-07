@@ -17,7 +17,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 9,LATI 50,LATI,50,,,,4,,,5
 17,LATI METHOD,,,,,,4,,,7
 18,LATI UG ELECTIVE (CON IN MEXICO) 1,,,,,,4,,,7
-10,LATI 150,LATI,150,9,,,4,,,8
+10,LATI 150,LATI,150,,,,4,,,8
 19,LATI UG ELECTIVE (CON IN MEXICO) 2,,,,,,4,,,8
 20,LATI CORE 1,,,,,,4,,,8
 11,LATI 180,LATI,180,,,,4,,,9

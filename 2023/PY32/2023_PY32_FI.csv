@@ -13,7 +13,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,PROGRAMMING,,,,,,4,,,2
 6,PHYS 4B,PHYS,4B,4;1;3,,,4,,,3
 5,MATH 20C,MATH,20C,3,,,4,,,3
-8,PHYS 4C,PHYS,4C,4;6;1;3;5;2,,,4,,,4
+8,PHYS 4C,PHYS,4C,4;4;4;6;6;6;1;3;5;2,,,4,,,4
 7,MATH 20E,MATH,20E,2;5,,,4,,,4
 9,MATH 20D,MATH,20D,5,,,4,,,5
 11,PHYS 2CL,PHYS,2CL,4;8,,,2,,,5
@@ -45,11 +45,11 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,MMW 14 / GE,MMW,14,23;24,,,4,,,4
 37,GE 2,,,,,,4,,,4
 26,MMW 15,MMW,15,23;24,,,4,,,6
-38,GE / DEI,,,,,,4,,,6
-39,GE 3,,,,,,4,,,7
-40,GE 4,,,,,,4,,,8
-41,GE 5,,,,,,4,,,8
-42,GE 6,,,,,,4,,,9
-43,GE 7,,,,,,4,,,9
-44,ELECTIVE 1,,,,,,4,,,10
-45,ELECTIVE 2,,,,,,3,,,12
+38,GE 3,,,,,,4,,,6
+39,GE 4,,,,,,4,,,7
+40,GE 5,,,,,,4,,,8
+41,GE 6,,,,,,4,,,8
+42,GE 7,,,,,,4,,,9
+43,GE 8,,,,,,4,,,9
+44,DEI,,,,,,4,,,10
+45,ELECTIVE,,,,,,4,,,12

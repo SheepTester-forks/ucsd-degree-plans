@@ -1,0 +1,53 @@
+Curriculum,Cinematic Arts,,,,,,,,,
+Degree Plan,Cinematic Arts/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0601,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 84,VIS,84,,,,4,,,1
+14,LD MAJOR ELECTIVE 1,,,,,,4,,,2
+15,LD MAJOR ELECTIVE 2,,,,,,4,,,3
+2,FILM 71,FILM,71,,,,4,,,4
+3,FILM 72,FILM,72,,,,4,,,5
+4,FILM 73,FILM,73,,,,4,,,6
+16,LD MAJOR ELECTIVE 3,,,,,,4,,,6
+17,UD MAJOR STUDIES AND HISTORY COURSE 1,,,,,,4,,,7
+18,UD MAJOR PRODUCTION COURSE 1,,,,,,4,,,7
+19,UD MAJOR STUDIES AND HISTORY COURSE 2,,,,,,4,,,8
+20,UD MAJOR STUDIES AND HISTORY COURSE 3,,,,,,4,,,8
+21,UD MAJOR STUDIES AND HISTORY COURSE 4,,,,,,4,,,9
+22,UD MAJOR STUDIES AND HISTORY COURSE 5,,,,,,4,,,9
+23,UD MAJOR PRODUCTION COURSE 2,,,,,,4,,,10
+5,FILM 170,FILM,170,,,,4,,,10
+24,UD MAJOR PRODUCTION COURSE 3,,,,,,4,,,11
+6,FILM 184A,FILM,184A,,,,4,,,11
+25,UD MAJOR PRODUCTION COURSE 4,,,,,,4,,,12
+7,FILM 184B,FILM,184B,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,SOCIAL SCIENCE GE 1,,,,,,4,,,1
+8,MATH 10A,MATH,10A,,,,4,,,1
+9,HUM 1,HUM,1,,,,6,,,2
+27,MATH GE 1,,,,,,4,,,2
+10,HUM 2,HUM,2,,,,6,,,3
+28,MATH GE 2,,,,,,4,,,3
+11,HUM 3,HUM,3,9,,,4,,,4
+29,BIOLOGY GE,,,,,,4,,,4
+30,GENERAL ELECTIVE 1,,,,,,4,,,4
+12,HUM 4,HUM,4,,,,4,,,5
+31,CHEMISTRY GE,,,,,,4,,,5
+32,SOCIAL SCIENCE GE 2,,,,,,4,,,5
+13,HUM 5,HUM,5,,,,4,,,6
+33,UD DEI,,,,,,4,,,6
+34,ADDITIONAL NATURAL SCIENCE GE,,,,,,4,,,7
+35,LANGUAGE 1,,,,,,5,,,7
+36,LANGUAGE 2,,,,,,5,,,8
+37,GENERAL ELECTIVE 2,,,,,,4,,,8
+38,LANGUAGE 3,,,,,,5,,,9
+39,LANGUAGE 4,,,,,,5,,,10
+40,ADDITIONAL NATURAL SCIENCE GE / CCER,,,,,,4,,,10
+41,PHYSICS GE,,,,,,4,,,11
+42,UD AHI / UD GENERAL ELECTIVE,,,,,,4,,,11
+43,UD GENERAL ELECTIVE,,,,,,4,,,12
