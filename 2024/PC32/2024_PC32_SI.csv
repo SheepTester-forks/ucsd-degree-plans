@@ -38,9 +38,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,ELECTIVE 1,,,,,,4,,,4
 30,ELECTIVE 2,,,,,,4,,,4
 31,GE 2,,,,,,4,,,5
-32,GE 3,,,,,,4,,,5
+32,GE / CCER,,,,,,4,,,5
 33,ELECTIVE 3,,,,,,4,,,5
-34,GE 4,,,,,,4,,,6
+34,GE 3,,,,,,4,,,6
 35,ELECTIVE 4,,,,,,4,,,6
 36,ELECTIVE 5,,,,,,4,,,6
 37,ELECTIVE 6,,,,,,4,,,7

@@ -12,8 +12,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 2,PHIL 120,PHIL,120,1,,,4,,,4
 13,UD PHIL 1,,,,,,4,,,5
 14,UD PHIL 2,,,,,,4,,,6
-3,PHIL 110,PHIL,110,,,,4,,,7
 15,UD PHIL 3,,,,,,4,,,7
+3,PHIL 110,PHIL,110,,,,4,,,7
 16,UD PHIL 4,,,,,,4,,,8
 4,PHIL 111,PHIL,111,3,,,4,,,8
 5,PHIL 112,PHIL,112,4,,,4,,,9

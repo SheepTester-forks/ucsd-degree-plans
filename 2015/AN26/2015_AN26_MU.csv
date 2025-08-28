@@ -32,21 +32,21 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 22,GE 6,,,,,,4,,,3
 23,ELECTIVE 1,,,,,,4,,,3
 24,ELECTIVE 2,,,,,,4,,,3
-25,GE 7,,,,,,4,,,4
-26,GE 8,,,,,,4,,,4
-27,ELECTIVE 3,,,,,,4,,,4
+25,ELECTIVE 3,,,,,,4,,,4
+26,GE 7,,,,,,4,,,4
+27,GE 8,,,,,,4,,,4
 28,ELECTIVE 4,,,,,,4,,,4
 29,GE 9,,,,,,4,,,5
 30,GE 10,,,,,,4,,,5
 31,ELECTIVE 5,,,,,,4,,,5
-32,GE 11,,,,,,4,,,6
-33,GE 12,,,,,,4,,,6
-34,ELECTIVE 6,,,,,,4,,,6
+32,ELECTIVE 6,,,,,,4,,,6
+33,GE 11,,,,,,4,,,6
+34,GE 12,,,,,,4,,,6
 35,ELECTIVE 7,,,,,,4,,,6
 36,MUIR UDE 1,,,,,,4,,,7
 37,ELECTIVE 8,,,,,,4,,,7
-38,MUIR UDE 2,,,,,,4,,,8
-39,ELECTIVE 9,,,,,,4,,,8
+38,ELECTIVE 9,,,,,,4,,,8
+39,MUIR UDE 2,,,,,,4,,,8
 40,MUIR UDE 3,,,,,,4,,,9
 41,ELECTIVE 10,,,,,,4,,,9
 42,ELECTIVE 11,,,,,,4,,,10

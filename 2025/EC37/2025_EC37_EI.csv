@@ -1,0 +1,58 @@
+Curriculum,Electrical Engineering & Society,,,,,,,,,
+Degree Plan,Electrical Engineering & Society/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.1001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,ECE 15,ECE,15,,,,4,,,1
+4,MATH 18,MATH,18,,,,4,,,2
+3,CHEM 6A,CHEM,6A,2,,,4,,,2
+5,ECE 25,ECE,25,,,,4,,,2
+8,MATH 20B,MATH,20B,2,,,4,,,3
+6,PHYS 2A,PHYS,2A,2;2,,,4,,,3
+7,ECE 30,ECE,30,1;5,,,4,,,3
+9,MATH 20C,MATH,20C,8,,,4,,,4
+10,PHYS 2B,PHYS,2B,6;8,,,4,,,4
+11,ECE 35,ECE,35,4;2;8;6,,,4,,,4
+12,MATH 20D,MATH,20D,9;4,,,4,,,5
+13,PHYS 2C,PHYS,2C,6;9,,,4,,,5
+14,ECE 45,ECE,45,11,,,4,,,5
+28,ECE S / H ELECTIVE 1,,,,,,4,,,5
+16,MATH 20E,MATH,20E,4;9,,,4,,,6
+15,ECE 65,ECE,65,11,,,4,,,6
+17,PHYS 2D,PHYS,2D,6;10;12,,,4,,,6
+29,ECE S / H ELECTIVE 2,,,,,,4,,,6
+20,ECE 100,ECE,100,14;15,,,4,,,7
+18,ECE 101,ECE,101,14,,,4,,,7
+19,ECE 103,ECE,103,15;17;17,,,4,,,7
+21,ECE 102,ECE,102,15;20,,,4,,,8
+22,ECE 107,ECE,107,6;10;13;14,,,4,,,8
+23,ECE 109,ECE,109,2;8;9;12;4,,,4,,,8
+30,ECE UD DEPTH 1,,,,,,4,,,9
+31,ECE UD DEPTH 2,,,,,,4,,,9
+32,ECE TECHNICAL UD ELECTIVE 1,,,,,,4,,,9
+33,ECE UD DEPTH 3,,,,,,4,,,10
+34,ECE UD DEPTH 4,,,,,,4,,,10
+35,ECE TECHNICAL UD ELECTIVE 2,,,,,,4,,,10
+36,ECE UD ENGINEERING DESIGN,,,,,,4,,,11
+37,ECE UD DEPTH 5,,,,,,4,,,11
+38,ECE TECHNICAL UD ELECTIVE 3,,,,,,4,,,11
+39,ECE UD DEPTH 6,,,,,,4,,,12
+40,ECE TECHNICAL UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+41,BREADTH GE 1,,,,,,4,,,1
+42,DEI,,,,,,4,,,1
+24,CCE 1,CCE,1,,,,4,,,2
+43,BREADTH GE 2,,,,,,4,,,3
+25,CCE 2,CCE,2,24,,,4,,,4
+26,CCE 3,CCE,3,25,,,4,,,7
+44,BREADTH GE 3,,,,,,4,,,8
+27,CCE 120,CCE,120,26,,,4,,,9
+45,JTCCER,,,,,,4,,,10
+46,BREADTH GE 4,,,,,,4,,,11
+47,BREADTH GE 5,,,,,,4,,,12
+48,BREADTH GE 6,,,,,,4,,,12

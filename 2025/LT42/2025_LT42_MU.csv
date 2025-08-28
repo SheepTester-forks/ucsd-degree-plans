@@ -1,0 +1,54 @@
+Curriculum,Literary Arts,,,,,,,,,
+Degree Plan,Literary Arts/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,LTEN 25,LTEN,25,,,,4,,,1
+12,LD LANGUAGE 1,,,,,,5,,,1
+13,LD LANGUAGE 2,,,,,,5,,,2
+14,LD LTEN / GSS 1,,,,,,4,,,2
+15,LD LANGUAGE 3,,,,,,5,,,3
+16,LD LTEN / GSS 2,,,,,,4,,,3
+17,LD LANGUAGE 4,,,,,,5,,,4
+2,LTWR 8A / 8B / 8C 1,LTWR,8A,10;11,,,4,,,4
+18,LD LANGUAGE 5,,,,,,5,,,5
+19,LTWR 8A / 8B / 8C 2,LTWR,8A,10;11,,,4,,,5
+20,LD LANGUAGE 6,,,,,,5,,,6
+21,LTWR 8A / 8B / 8C 3,LTWR,8A,10;11,,,4,,,6
+3,CRAFT / READING COURSE (LTWR 100C - 129C) 1,LTWR,100C,2,,,4,,,7
+4,LTAM 100 - 190,LTAM,100,,,,4,,,7
+22,CRAFT / READING COURSE (LTWR 100C - 129C) 2,LTWR,100C,2,,,4,,,8
+5,LTEU 100 - 190,LTEU,100,,,,4,,,8
+23,CRAFT / READING COURSE (LTWR 100C - 129C) 3,LTWR,100C,2,,,4,,,9
+6,LTWR 140 - 149,LTWR,140,,,,4,,,9
+7,WORKSHOP COURSE (LTWR 100W - 129W) 1,LTWR,100W,2,,,4,,,10
+8,LTAF 100 - 190 / LTAM 100 - 190 / LTEA 100 - 190 / LTEU 100 - 190 / LTWL 100 - 190,LTAF,100,,,,4,,,10
+24,WORKSHOP COURSE (LTWR 100W - 129W) 2,LTWR,100W,2,,,4,,,11
+9,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 1",LT,100,,,,4,,,11
+25,CRAFT / READING COURSE (LTWR 100C - 129C) 4,LTWR,100C,2,,,4,,,12
+26,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 2",LT,100,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MCWP 40,MCWP,40,,,,4,,,1
+11,MCWP 50,MCWP,50,10,,,4,,,2
+27,MUIR GE 1,,,,,,4,,,3
+28,MUIR GE 2,,,,,,4,,,4
+29,MUIR GE 3,,,,,,4,,,4
+30,MUIR GE 4,,,,,,4,,,5
+31,MUIR GE 5,,,,,,4,,,5
+32,MUIR GE 6,,,,,,4,,,6
+33,MUIR GE 7,,,,,,4,,,6
+34,MUIR GE 8,,,,,,4,,,7
+35,ELECTIVE 1,,,,,,4,,,7
+36,MUIR GE 9,,,,,,4,,,8
+37,ELECTIVE 2,,,,,,4,,,8
+38,MUIR UD ELECTIVE 1,,,,,,4,,,9
+39,ELECTIVE 3,,,,,,4,,,9
+40,MUIR UD ELECTIVE 2,,,,,,4,,,10
+41,JTCCER,,,,,,4,,,10
+42,MUIR UD ELECTIVE 3,,,,,,4,,,11
+43,ELECTIVE 4,,,,,,2,,,11
+44,DEI,,,,,,4,,,12

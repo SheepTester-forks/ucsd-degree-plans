@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,CHEM 120A,CHEM,120A,5;8,,,4,,,8
 20,CHEM 143B,CHEM,143B,12;11,,,4,,,8
 21,CHEM 120B,CHEM,120B,19,,,4,,,9
-22,CHEM 156,CHEM,156,15,,,4,,,9
+22,CHEM 156,CHEM,156,15;19,,,4,,,9
 24,CHEM 126A,CHEM,126A,5;14;7,,,4,,,10
 25,CHEM 143C,CHEM,143C,12;11,,,4,,,10
 23,CHEM 152,CHEM,152,15,,,4,,,10
@@ -45,12 +45,12 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 38,BREADTH GE 2,,,,,,4,,,2
 39,BREADTH GE 3,,,,,,4,,,3
 31,CCE 2,CCE,2,30,,,4,,,4
+40,JTCCER,,,,,,4,,,5
 33,CCE 3,CCE,3,31,,,4,,,6
-40,BREADTH GE 4,,,,,,4,,,7
-41,BREADTH GE 5,,,,,,4,,,7
-42,BREADTH GE 6,,,,,,4,,,8
-43,ELECTIVE 1,,,,,,4,,,8
-34,CCE 120,CCE,120,,,,4,,,9
-44,ELECTIVE 2,,,,,,4,,,10
-45,ELECTIVE 3,,,,,,2,,,11
-46,ELECTIVE 4,,,,,,4,,,12
+41,BREADTH GE 4,,,,,,4,,,7
+42,BREADTH GE 5,,,,,,4,,,7
+43,BREADTH GE 6,,,,,,4,,,8
+44,ELECTIVE 1,,,,,,4,,,8
+34,CCE 120,CCE,120,33,,,4,,,9
+45,ELECTIVE 2,,,,,,2,,,10
+46,ELECTIVE 3,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Japanese Studies,,,,,,,,,
+Degree Plan,Japanese Studies/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0127,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JAPN 10A,JAPN,10A,,,,5,,,1
+2,JAPN 10B,JAPN,10B,1,,,5,,,2
+3,JAPN 10C,JAPN,10C,2,,,5,,,3
+4,JAPN 20A,JAPN,20A,3,,,5,,,4
+5,JAPN 20B,JAPN,20B,4,,,5,,,5
+6,JAPN 20C,JAPN,20C,5,,,5,,,6
+7,UD NON - LANG ELECTIVE (JA25 MAJOR) 1,JA,25,,,,4,,,7
+8,JAPN 130A,JAPN,130A,6,,,4,,,7
+9,JAPN 130B,JAPN,130B,8,,,4,,,8
+10,JAPN 190,JAPN,190,,,,4,,,8
+19,UD NON - LANG ELECTIVE (JA25 MAJOR) 2,JA,25,,,,4,,,9
+11,JAPN 130C,JAPN,130C,9,,,4,,,9
+20,UD NON - LANG ELECTIVE (JA25 MAJOR) 3,JA,25,,,,4,,,10
+12,JAPN 140A,JAPN,140A,11,,,4,,,10
+21,UD NON - LANG ELECTIVE (JA25 MAJOR) 4,JA,25,,,,4,,,11
+13,JAPN 140B,JAPN,140B,12,,,4,,,11
+22,UD NON - LANG ELECTIVE (JA25 MAJOR) 5,JA,25,,,,4,,,12
+14,JAPN 140C,JAPN,140C,13,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,WCWP 10A,WCWP,10A,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+24,GE 2,,,,,,4,,,1
+16,WCWP 10B,WCWP,10B,15,,,4,,,2
+25,GE 3,,,,,,4,,,2
+26,GE 4,,,,,,4,,,2
+17,PHIL 27 / POLI 27,PHIL,27,15;16,,,4,,,3
+27,GE 5,,,,,,4,,,3
+28,ELECTIVE 1,,,,,,4,,,3
+18,PHIL 28 / POLI 28,PHIL,28,17,,,4,,,4
+29,GE 6,,,,,,4,,,4
+30,ELECTIVE 2,,,,,,4,,,4
+31,GE / JTCCER,,,,,,4,,,5
+32,GE 7,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,GE / DEI,,,,,,4,,,6
+35,GE 8,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,6
+37,GE 9,,,,,,4,,,7
+38,GE 10,,,,,,4,,,7
+39,GE 11,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,8
+41,GE 12,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

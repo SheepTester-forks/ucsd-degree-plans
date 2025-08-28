@@ -1,0 +1,50 @@
+Curriculum,International Studies - International Business,,,,,,,,,
+Degree Plan,International Studies - International Business/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+17,LANGUAGE 1,,,,,,5,,,1
+2,MATH 10B / 20B,MATH,10B,1,,,4,,,2
+18,LANGUAGE 2,,,,,,5,,,2
+3,MATH 10C / 20C,MATH,10C,2,,,4,,,3
+19,LANGUAGE 3,,,,,,5,,,3
+20,LANGUAGE 4,,,,,,5,,,4
+4,ECON / MGT 4,MGT,4,,,,4,,,4
+5,INTL100,INTL,100,13,,,4,,,5
+6,MGT 5,MGT,5,,,,4,,,5
+7,INTL 101 / 102 1,INTL,101,5,,,4,,,6
+21,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+22,INTL 101 / 102 2,INTL,101,5,,,4,,,8
+8,DF1 - MGT 103,MGT,103,,,,4,,,8
+9,DF2 - MGT 164,MGT,164,,,,4,,,8
+23,IE / RR1 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,8
+10,DF3 - MGT 181 / 187,MGT,181,1;6;4,,,4,,,9
+24,DF4 - MGT ELECTIVE,,,,,,4,,,9
+11,DF5 - MGT 112,MGT,112,8;10,,,4,,,10
+12,DF6 - MGT 166,MGT,166,,,,4,,,11
+25,DF7 - MGT ELECTIVE,,,,,,4,,,11
+26,IE / RR2 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,11
+27,IE / RR3 - INTERDISCIPLINARY ELECTIVE / REGIONAL REQUIREMENT,,,,,,4,,,12
+28,DF8 - MGT ELECTIVE,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,CAT 1,CAT,1,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+14,CAT 2,CAT,2,13,,,6,,,2
+15,CAT 3,CAT,3,14,,,6,,,3
+30,GE 2,,,,,,4,,,4
+31,GE (DEI),,,,,,4,,,4
+32,GE 3,,,,,,4,,,5
+33,GE 4,,,,,,4,,,5
+34,JTCCER,,,,,,4,,,6
+35,GE 5,,,,,,4,,,6
+36,GE 6,,,,,,4,,,6
+37,ELECTIVE 1,,,,,,4,,,9
+16,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,9
+38,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,10
+39,ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 3,,,,,,4,,,12

@@ -10,7 +10,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,LD PH __,,,,,,4,,,1
 2,BILD 3,BILD,3,,,,4,,,2
 18,LD PH __ (TRENDING TOPICS),,,,,,4,,,2
-12,QUANTITATIVE METHODS (STATS) / MATH 11 / PSYC 60 (MATH GE),MATH,11,,,,4,,,3
+12,QUANTITATIVE METHODS (STATS) / PSYC 60 (MATH GE),PSYC,60,,,,4,,,3
 19,LD BIOLOGY 1,,,,,,4,,,4
 3,PH 110,PH,110,1,,,4,,,5
 4,PH 45,PH,45,1,,,4,,,5

@@ -47,9 +47,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 38,GE / DEI,,,,,,4,,,7
 39,GE / CCER,,,,,,4,,,7
 40,GE 2,,,,,,4,,,8
-41,GE 3,,,,,,4,,,8
-42,GE 4,,,,,,4,,,9
-31,CAT 125,CAT,125,,,,4,,,10
+41,GE 3,,,,,,4,,,9
+31,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,9
+42,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,10
 43,UD ELECTIVE,,,,,,4,,,10
-44,GE 5,,,,,,4,,,11
-45,ELECTIVE,,,,,,4,,,12
+44,GE 4,,,,,,4,,,11
+45,GE 5,,,,,,4,,,12

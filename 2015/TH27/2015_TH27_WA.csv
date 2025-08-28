@@ -12,8 +12,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 6,TDMV XXX 3,,,,,,4,,,2
 2,TDPR 6,TDPR,6,,,,4,,,3
 7,TDMV XXX 4,,,,,,4,,,3
-8,TDMV XXX 5,,,,,,4,,,4
 3,TDCH 40,TDCH,40,1,,,4,,,4
+8,TDMV XXX 5,,,,,,4,,,4
 9,TDTR XXX,,,,,,4,,,5
 10,TDCH XXX 1,,,,,,4,,,5
 11,TDMV XXX 6,,,,,,4,,,6

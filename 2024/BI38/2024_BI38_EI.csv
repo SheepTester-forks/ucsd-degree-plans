@@ -23,13 +23,13 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,PHYS 1BL,PHYS,1BL,6;10;11,,,2,,,5
 14,CHEM 40A,CHEM,40A,4,,,4,,,5
 17,BILD 2,BILD,2,12,,,4,,,5
+31,JTCCER,,,,,,4,,,5
 20,PHYS 1C,PHYS,1C,6;15,,,3,,,6
 21,PHYS 1CL,PHYS,1CL,6;15;16,,,2,,,6
 18,CHEM 40B,CHEM,40B,14,,,4,,,6
 19,BICD 100,BICD,100,12;13,,,4,,,6
 22,BIBC 102 / CHEM 114B,BIBC,102,14;18,,,4,,,7
 23,BIPN 140,BIPN,140,12;17,,,4,,,7
-31,ELECTIVE 1,,,,,,4,,,7
 24,BIPN 100,BIPN,100,12;17,,,4,,,8
 25,BIPN 145,BIPN,145,8;3;17,,,4,,,8
 26,BIMM 100,BIMM,100,12;3;14;18,,,4,,,9
@@ -45,14 +45,14 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 27,CCE 1,CCE,1,,,,4,,,2
 39,BREADTH GE 1,,,,,,4,,,3
 28,CCE 2,CCE,2,27,,,4,,,4
-40,BREADTH GE 2,,,,,,4,,,5
 29,CCE 3,CCE,3,28,,,4,,,6
+40,BREADTH GE 2,,,,,,4,,,7
 41,BREADTH GE 3,,,,,,4,,,7
 42,BREADTH GE 4,,,,,,4,,,8
 43,BREADTH GE 5,,,,,,4,,,8
-30,CCE 120,CCE,120,,,,4,,,9
-44,ELECTIVE 2,,,,,,2,,,10
+30,CCE 120,CCE,120,29,,,4,,,9
+44,ELECTIVE 1,,,,,,2,,,10
 45,BREADTH GE 6,,,,,,4,,,10
 46,UD ELECTIVE 1,,,,,,4,,,11
 47,UD ELECTIVE 2,,,,,,4,,,12
-48,ELECTIVE 3,,,,,,4,,,12
+48,ELECTIVE 2,,,,,,4,,,12

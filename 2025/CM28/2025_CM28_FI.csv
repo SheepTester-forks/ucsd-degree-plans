@@ -1,0 +1,54 @@
+Curriculum,Media Industries and Communication,,,,,,,,,
+Degree Plan,Media Industries and Communication/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,09.0199,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10 (DEI),COMM,10,,,,4,,,4
+2,COMM 20,COMM,20,,,,4,,,5
+3,COMM 100C,COMM,100C,1,,,4,,,6
+4,COMM 100A,COMM,100A,1,,,4,,,7
+5,COMM 106,COMM,106,1,,,4,,,7
+11,COMM 106 INDUSTRY ELECTIVE 1,COMM,106,1,,,4,,,8
+12,COMM ELECTIVE 1,,,,,,4,,,8
+13,COMM 106 INDUSTRY ELECTIVE 2,COMM,106,1,,,4,,,9
+14,COMM ELECTIVE 2,,,,,,4,,,9
+15,COMM ELECTIVE 3,,,,,,4,,,10
+16,COMM ADVANCED ELECTIVE 1,,,,,,4,,,10
+17,COMM PRACTICE COURSE,,,,,,4,,,10
+18,COMM ADVANCED ELECTIVE 2,,,,,,4,,,11
+19,COMM / NON - COMM PRACTICE COURSE,,,,,,4,,,11
+20,COMM ELECTIVE 4,,,,,,4,,,12
+21,COMM ADVANCED ELECTIVE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MMW 11,MMW,11,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,GE 2,,,,,,4,,,1
+7,MMW 12,MMW,12,,,,6,,,2
+24,GE 3,,,,,,4,,,2
+25,GE 4,,,,,,4,,,2
+8,MMW 13,MMW,13,7,,,6,,,3
+26,GE 5,,,,,,4,,,3
+27,GE 6,,,,,,4,,,3
+28,GE 7,,,,,,4,,,4
+29,GE 8,,,,,,4,,,4
+30,GE 9,,,,,,4,,,4
+9,MMW 14,MMW,14,7;8,,,4,,,5
+31,GE 10,,,,,,4,,,5
+32,GE 11,,,,,,4,,,5
+10,MMW 15,MMW,15,7;8,,,4,,,6
+33,GE 12,,,,,,4,,,6
+34,ELECTIVE 1,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,7
+36,ELECTIVE 3,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,8
+38,ELECTIVE 5,,,,,,4,,,8
+39,ELECTIVE 6,,,,,,4,,,9
+40,ELECTIVE 7,,,,,,4,,,9
+41,ELECTIVE 8,,,,,,4,,,10
+42,ELECTIVE 9,,,,,,4,,,11
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

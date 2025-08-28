@@ -22,13 +22,13 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,PROGRAMMING,,,,,,4,,,6
 14,ASTR 101,ASTR,101,3;7;5;10;13;2;8,,,4,,,7
 25,ASTR UD MAJOR 1,,,,,,4,,,7
-15,ASTR 102,ASTR,102,14,,,4,,,8
-16,ASTR 105,ASTR,105,14,,,4,,,8
+15,ASTR 102,ASTR,102,14;3;7;5;10;13,,,4,,,8
+16,ASTR 105,ASTR,105,14;3;7;5;10;13,,,4,,,8
 26,ASTR UD MAJOR 2,,,,,,4,,,8
 17,ASTR 103,ASTR,103,15,,,4,,,9
 18,ASTR 106,ASTR,106,16,,,4,,,9
 27,ASTR UD MAJOR 3,,,,,,4,,,9
-19,ASTR 104,ASTR,104,14,,,4,,,10
+19,ASTR 104,ASTR,104,17,,,4,,,10
 28,ASTR UD MAJOR 4,,,,,,4,,,10
 29,ASTR UD MAJOR 5,,,,,,5,,,11
 30,ASTR UD MAJOR 6,,,,,,4,,,11
@@ -41,15 +41,15 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,CCE 1,CCE,1,,,,4,,,3
 35,BREADTH GE 3,,,,,,4,,,3
 21,CCE 2,CCE,2,20,,,4,,,4
-36,BREADTH GE 4,,,,,,4,,,5
+36,JTCCER,,,,,,4,,,5
 22,CCE 3,CCE,3,21,,,4,,,6
-37,ELECTIVE 1,,,,,,4,,,6
-23,CCE 120,CCE,120,,,,4,,,7
-38,ELECTIVE 2,,,,,,4,,,8
-39,ELECTIVE 3,,,,,,4,,,9
+37,BREADTH GE 4,,,,,,4,,,6
+23,CCE 120,CCE,120,22,,,4,,,7
+38,ELECTIVE 1,,,,,,4,,,8
+39,ELECTIVE 2,,,,,,4,,,9
 40,BREADTH GE 5,,,,,,4,,,10
-41,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 3,,,,,,4,,,10
 42,BREADTH GE 6,,,,,,4,,,11
 43,UD ELECTIVE,,,,,,3,,,11
-44,ELECTIVE 5,,,,,,4,,,12
-45,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 4,,,,,,4,,,12
+45,ELECTIVE 5,,,,,,4,,,12

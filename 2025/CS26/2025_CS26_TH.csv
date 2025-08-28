@@ -1,0 +1,57 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+18,LDE 1,,,,,,2,,,1
+2,CSE 8A / 11,CSE,8A,,,,4,,,1
+19,LDE 2,,,,,,2,,,2
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CSE 11,CSE,11,,,,4,,,2
+5,CSE 12,CSE,12,4,,,4,,,3
+6,MATH 20C,MATH,20C,3,,,4,,,3
+7,CSE 20,CSE,20,2,,,4,,,3
+8,CSE 21,CSE,21,7,,,4,,,4
+9,CSE 29,CSE,29,4,,,4,,,4
+20,CSE GENERAL SCIENCE,,,,,,4,,,4
+10,MATH 18,MATH,18,,,,4,,,5
+11,CSE 30,CSE,30,9,,,4,,,5
+12,CSE 100 / 100R,CSE,100,8;5;9,,,4,,,5
+21,STATISTICS,,,,,,4,,,6
+13,CSE 110,CSE,110,12,,,4,,,6
+14,CSE 101,CSE,101,8;5,,,4,,,6
+22,THEORY / ABSTRACTION ELECTIVE 1,,,,,,4,,,7
+23,APPLICATIONS ELECTIVE 1,,,,,,4,,,7
+24,SYSTEMS ELECTIVE 1,,,,,,4,,,7
+25,SYSTEMS ELECTIVE 2,,,,,,4,,,8
+26,THEORY / ABSTRACTION ELECTIVE 2,,,,,,4,,,8
+27,APPLICATIONS ELECTIVE 2,,,,,,4,,,8
+28,SYSTEMS ELECTIVE 3,,,,,,4,,,9
+29,THEORY / ABSTRACTION ELECTIVE 3,,,,,,4,,,9
+30,APPLICATIONS ELECTIVE 3,,,,,,4,,,9
+31,OPEN CSE ELECTIVE 1,,,,,,4,,,10
+32,OPEN CSE ELECTIVE 2,,,,,,4,,,10
+33,OPEN CSE ELECTIVE 3,,,,,,4,,,11
+34,OPEN CSE ELECTIVE 4,,,,,,4,,,11
+35,OPEN CSE ELECTIVE 5,,,,,,4,,,12
+36,OPEN CSE ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+16,DOC 2,DOC,2,15,,,6,,,2
+17,DOC 3,DOC,3,16,,,6,,,3
+37,TMC LD GE 1,,,,,,4,,,4
+38,TMC LD GE 2,,,,,,4,,,5
+39,TMC LD GE 3,,,,,,4,,,6
+40,TMC LD GE 4,,,,,,4,,,7
+41,TMC LD GE 5,,,,,,4,,,8
+42,TMC LD GE 6,,,,,,4,,,9
+43,TMC LD BREADTH 1,,,,,,4,,,10
+44,TMC LD BREADTH 2,,,,,,4,,,10
+45,TMC UD BREADTH 1,,,,,,4,,,11
+46,JTCCER,,,,,,4,,,11
+47,TMC UD BREADTH 2,,,,,,4,,,12

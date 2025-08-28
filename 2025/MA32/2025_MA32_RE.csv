@@ -1,0 +1,55 @@
+Curriculum,Mathematics/Secondary Education,,,,,,,,,
+Degree Plan,Mathematics/Secondary Education/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.1311,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20D / MATH 109,MATH,20D,4;3,,,4,,,4
+6,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+7,MATH 20E,MATH,20E,3;4,,,4,,,6
+17,UD MAJOR 1,,,,,,4,,,6
+18,UD MAJOR 2,,,,,,4,,,7
+19,UD MAJOR 3,,,,,,4,,,7
+20,UD MAJOR 4,,,,,,4,,,8
+21,UD MAJOR 5,,,,,,4,,,8
+22,UD MAJOR 6,,,,,,4,,,9
+23,UD MAJOR 7,,,,,,4,,,9
+8,EDS 129A,EDS,129A,,,,4,,,10
+24,UD MAJOR 8,,,,,,4,,,10
+10,EDS 129B,EDS,129B,8,,,4,,,11
+25,UD MAJOR 9,,,,,,4,,,11
+11,EDS 129C,EDS,129C,10,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+26,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+27,NATURAL SCIENCE G / JTCCER,,,,,,4,,,1
+12,HUM 1,HUM,1,,,,6,,,2
+28,NATURAL SCIENCE GE,,,,,,4,,,3
+13,HUM 2,HUM,2,,,,6,,,3
+29,BIOLOGY GE,,,,,,4,,,4
+14,HUM 3,HUM,3,12,,,4,,,4
+30,LANGUAGE 1,,,,,,5,,,4
+31,FINE ARTS GE,,,,,,4,,,5
+15,HUM 4,HUM,4,,,,4,,,5
+32,LANGUAGE 2,,,,,,5,,,5
+16,HUM 5,HUM,5,,,,4,,,6
+33,LANGUAGE 3,,,,,,5,,,6
+34,LANGUAGE 4,,,,,,5,,,7
+35,SOCIAL SCIENCE GE,,,,,,4,,,7
+36,PHYSICS GE,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,8
+38,CHEMISTRY GE,,,,,,4,,,9
+39,ELECTIVE 2,,,,,,4,,,9
+9,EDS 139 1,EDS,139,,,,2,,,10
+40,UD ELECTIVE,,,,,,4,,,10
+41,EDS 139 2,EDS,139,,,,2,,,11
+42,ELECTIVE 3,,,,,,4,,,11
+43,EDS 139 3,EDS,139,,,,2,,,12
+44,ELECTIVE 4,,,,,,4,,,12
+45,ELECTIVE 5,,,,,,2,,,12

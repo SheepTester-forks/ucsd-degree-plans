@@ -30,10 +30,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 21,PHYS 130B,PHYS,130B,18;17,,,4,,,10
 28,PHYS UD RE 1,,,,,,4,,,10
 29,PHYS UD RE 2,,,,,,4,,,11
-30,PHYS UD DEPTH 1,,,,,,4,,,11
+30,PHYS UD RE 3,,,,,,4,,,11
 31,PHYS UD LAB,,,,,,4,,,11
-32,PHYS UD DEPTH 2,,,,,,4,,,12
-33,PHYS UD RE 3,,,,,,4,,,12
+32,PHYS UD RE 4,,,,,,4,,,12
+33,PHYS UD RE 5,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 22,MMW 11,MMW,11,,,,4,,,1

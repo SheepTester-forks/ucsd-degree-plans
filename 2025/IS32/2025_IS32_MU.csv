@@ -1,0 +1,54 @@
+Curriculum,International Studies,,,,,,,,,
+Degree Plan,International Studies/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10 / 20A,MATH,10,,,,4,,,1
+17,LANGUAGE 1,,,,,,5,,,1
+18,MATH 10 / 20B,MATH,10,,,,4,,,2
+19,LANGUAGE 2,,,,,,5,,,2
+20,MATH 10 / 20C,MATH,10,,,,4,,,3
+21,LANGUAGE 3,,,,,,5,,,3
+2,ECON1,ECON,1,,,,4,,,4
+22,LANGUAGE 4,,,,,,5,,,4
+3,ECON2,ECON,2,2,,,4,,,5
+23,LANGUAGE 5,,,,,,5,,,5
+4,ECON3,ECON,3,2,,,4,,,6
+24,LANGUAGE 6,,,,,,5,,,6
+25,UD ECON 1,,,,,,4,,,7
+26,POLI / REGIONAL REQUIREMENT 1,,,,,,4,,,7
+27,UD ECON 2,,,,,,4,,,7
+5,INTL 100,INTL,100,15,,,4,,,7
+28,UD ECON 3,,,,,,4,,,8
+6,INTL 101 / 102 1,INTL,101,5,,,4,,,8
+29,UD ECON / REGIONAL REQUIREMENT,,,,,,4,,,8
+30,INTL 101 / 102 2,INTL,101,5,,,4,,,9
+31,UD ECON 4,,,,,,4,,,9
+32,POLI / REGIONAL REQUIREMENT 2,,,,,,4,,,9
+7,GPCO401,GPCO,401,,,,4,,,10
+8,GPCO453,GPCO,453,,,,4,,,10
+9,GPCO412,GPCO,412,,,,4,,,10
+10,GPCO400,GPCO,400,,,,4,,,11
+11,GPCO454,GPCO,454,,,,4,,,11
+12,GPCO415,GPCO,415,,,,4,,,11
+13,GPCO403,GPCO,403,,,,4,,,12
+14,GPCO410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,MCWP 40,MCWP,40,,,,4,,,1
+33,GE 1,,,,,,4,,,1
+16,MCWP 50,MCWP,50,15,,,4,,,2
+34,GE 2,,,,,,4,,,2
+35,GE 3,,,,,,4,,,3
+36,JTCCER,,,,,,4,,,4
+37,GE 4,,,,,,4,,,4
+38,GE 5,,,,,,4,,,5
+39,GE 6,,,,,,4,,,5
+40,GE 7,,,,,,4,,,6
+41,GE 8,,,,,,4,,,6
+42,GE 9,,,,,,4,,,8
+43,ELECTIVE,,,,,,2,,,9
+44,DEI,,,,,,4,,,12

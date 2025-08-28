@@ -12,11 +12,11 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 4,COGS 1,COGS,1,,,,4,,,4
 14,4TH MATH (BS),,,,,,4,,,4
 5,COGS 14A,COGS,14A,,,,4,,,5
-6,COGS 14B (BS),COGS,14B,5,,,4,,,6
-7,CSE 7,CSE,7,,,,4,,,6
+7,COGS 14B (BS),COGS,14B,5,,,4,,,6
+6,CSE 7,CSE,7,,,,4,,,6
 15,COGS CORE 1,,,,,,4,,,7
 16,COGS CORE 2,,,,,,4,,,7
-8,COGS 109,COGS,109,6;7,,,4,,,7
+8,COGS 109,COGS,109,7;6,,,4,,,7
 17,COGS CORE 3,,,,,,4,,,8
 18,COGS CORE 4,,,,,,4,,,8
 19,COGS CORE 5,,,,,,4,,,8

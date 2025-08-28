@@ -46,11 +46,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 37,GE / CCER,,,,,,4,,,5
 38,GE 2,,,,,,4,,,6
 39,GE 3,,,,,,4,,,7
-40,ELECTIVE 1,,,,,,4,,,8
-41,ELECTIVE 2,,,,,,3,,,8
-42,GE 4,,,,,,4,,,9
-43,GE 5,,,,,,4,,,10
-44,ELECTIVE 3,,,,,,2,,,10
-30,CAT 125,CAT,125,,,,4,,,11
-45,GE 6,,,,,,4,,,11
-46,ELECTIVE 4,,,,,,4,,,12
+30,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,8
+40,ELECTIVE 1,,,,,,1,,,8
+41,GE 4,,,,,,4,,,9
+42,GE 5,,,,,,4,,,10
+43,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,11
+44,GE 6,,,,,,4,,,11
+45,ELECTIVE 2,,,,,,4,,,12

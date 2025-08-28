@@ -1,0 +1,54 @@
+Curriculum,Astronomy and Astrophysics,,,,,,,,,
+Degree Plan,Astronomy and Astrophysics/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 18,MATH,18,,,,4,,,2
+3,PHYS 4A,PHYS,4A,1,,,4,,,2
+4,MATH 20B,MATH,20B,1,,,4,,,2
+5,PHYS 4B,PHYS,4B,3;1;4,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 4C,PHYS,4C,3;3;3;5;5;5;1;4;6;2,,,4,,,4
+8,MATH 20E,MATH,20E,2;6,,,4,,,4
+9,ASTR 20A,ASTR,20A,1;4;6;3,,,4,,,4
+10,PHYS 4D,PHYS,4D,3;3;3;5;5;5;7;6;8;2;1;4,,,4,,,5
+11,MATH 20D,MATH,20D,6;2,,,4,,,5
+12,ASTR 20B,ASTR,20B,9,,,4,,,5
+13,PHYS 4E,PHYS,4E,3;5;5;5;7;10;6;11;8;2;1;4,,,4,,,6
+23,PROGRAMMING,,,,,,4,,,6
+14,ASTR 101,ASTR,101,3;7;5;10;13;2;8,,,4,,,7
+24,ASTR UD MAJOR 1,,,,,,4,,,7
+15,ASTR 102,ASTR,102,14;3;7;5;10;13,,,4,,,8
+25,ASTR UD MAJOR 2,,,,,,4,,,8
+16,ASTR 105,ASTR,105,14;3;7;5;10;13,,,4,,,8
+17,ASTR 103,ASTR,103,15,,,4,,,9
+18,ASTR 106,ASTR,106,16,,,4,,,9
+26,ASTR UD MAJOR 3,,,,,,4,,,9
+19,ASTR 104,ASTR,104,17,,,4,,,10
+27,ASTR UD MAJOR 4,,,,,,4,,,10
+28,ASTR UD MAJOR 5,,,,,,5,,,11
+29,ASTR UD MAJOR 6,,,,,,4,,,11
+30,ASTR UD MAJOR 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+31,TMC LD GE 1,,,,,,4,,,1
+32,TMC LD GE 2,,,,,,4,,,1
+21,DOC 2,DOC,2,20,,,6,,,2
+22,DOC 3,DOC,3,21,,,6,,,3
+33,TMC LD GE 3,,,,,,4,,,3
+34,TMC LD GE 4,,,,,,4,,,4
+35,TMC LD GE 5,,,,,,4,,,5
+36,TMC LD BREADTH 1,,,,,,4,,,6
+37,TMC LD BREADTH 2,,,,,,4,,,7
+38,JTCCER,,,,,,4,,,7
+39,TMC UD BREADTH 1,,,,,,4,,,8
+40,TMC UD BREADTH 2,,,,,,4,,,9
+41,ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE 2,,,,,,4,,,11
+43,ELECTIVE 3,,,,,,4,,,12
+44,ELECTIVE 4,,,,,,4,,,12

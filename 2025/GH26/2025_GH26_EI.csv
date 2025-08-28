@@ -1,0 +1,55 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BILD 1,BILD,1,,,,4,,,1
+3,MATH 10A / MATH 20A,MATH,10A,,,,4,,,2
+2,BILD 2,BILD,2,1,,,4,,,2
+5,CHEM 6A,CHEM,6A,3,,,4,,,3
+4,MATH 10B / MATH 20B,MATH,10B,3,,,4,,,3
+6,BILD 3,BILD,3,,,,4,,,4
+7,CHEM 6B,CHEM,6B,5,,,4,,,4
+18,MAJOR LD INTRO CORE 1,,,,,,4,,,4
+8,CHEM 6C,CHEM,6C,7,,,4,,,5
+19,MAJOR LD INTRO CORE 2,,,,,,4,,,5
+10,CHEM 7L,CHEM,7L,7,,,4,,,6
+9,PSYC 60 / MATH 11,PSYC,60,,,,4,,,6
+11,GLBH 148,GLBH,148,,,,4,,,7
+20,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 1,,,,,,4,,,7
+12,GLBH 181,GLBH,181,,,,4,,,8
+21,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 2,,,,,,4,,,8
+13,MGT 173,MGT,173,,,,4,,,9
+22,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 3,,,,,,4,,,9
+23,MAJOR UD ELECTIVE (MEDICAL HUMANITIES),,,,,,4,,,10
+24,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 1,,,,,,4,,,10
+25,MAJOR UD CORE POLICY ANALYSIS,,,,,,4,,,11
+26,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 2,,,,,,4,,,11
+27,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 3,,,,,,4,,,12
+28,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,DEI,,,,,,4,,,1
+30,JTCCER,,,,,,4,,,1
+14,CCE 1,CCE,1,,,,4,,,2
+31,BREADTH GE 1,,,,,,4,,,2
+32,BREADTH GE 2,,,,,,4,,,3
+33,ELECTIVE 1,,,,,,4,,,3
+15,CCE 2,CCE,2,14,,,4,,,4
+34,BREADTH GE 3,,,,,,4,,,5
+35,BREADTH GE 4,,,,,,4,,,5
+16,CCE 3,CCE,3,15,,,4,,,6
+36,ELECTIVE 2,,,,,,4,,,6
+37,ELECTIVE 3,,,,,,4,,,7
+38,ELECTIVE 4,,,,,,4,,,7
+39,ELECTIVE 5,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,8
+17,CCE 120,CCE,120,16,,,4,,,9
+41,UD ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,10
+43,UD ELECTIVE 2,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,11
+45,ELECTIVE 9,,,,,,4,,,12

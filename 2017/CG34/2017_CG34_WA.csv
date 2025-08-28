@@ -47,9 +47,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 37,GE 9,,,,,,4,,,7
 38,GE 10,,,,,,4,,,8
 39,ELECTIVE 5,,,,,,4,,,8
-40,ELECTIVE 6,,,,,,4,,,9
-41,GE 11,,,,,,4,,,9
-42,GE 12,,,,,,4,,,9
+40,GE 11,,,,,,4,,,9
+41,GE 12,,,,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,9
 43,GE 13,,,,,,4,,,10
 44,GE 14,,,,,,4,,,11
 45,GE 15,,,,,,4,,,12

@@ -54,5 +54,5 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 47,BREADTH GE 5,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-32,CCE 120,CCE,120,,,,4,,,9
+32,CCE 120,CCE,120,31,,,4,,,9
 48,BREADTH GE 6,,,,,,4,,,10

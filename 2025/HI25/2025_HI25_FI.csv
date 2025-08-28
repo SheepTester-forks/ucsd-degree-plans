@@ -1,0 +1,54 @@
+Curriculum,History,,,,,,,,,
+Degree Plan,History/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,54.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,HILD 1,,,,,,4,,,1
+2,MMW 11,MMW,11,,,,4,,,1
+8,HILD 2,,,,,,4,,,2
+3,MMW 12,MMW,12,,,,6,,,2
+9,HILD 3,,,,,,4,,,3
+4,MMW 13,MMW,13,3,,,6,,,3
+1,HITO 100 / HIUD 1,HITO,100,,,,4,,,4
+10,HITO 100 / HIUD 2,HITO,100,,,,4,,,5
+11,HITO 100 / HIUD 3,HITO,100,,,,4,,,6
+12,HIUD 1,,,,,,4,,,7
+13,HIUD 2,,,,,,4,,,7
+14,HIUD 3,,,,,,4,,,8
+15,HIUD 4,,,,,,4,,,8
+16,HIUD 5,,,,,,4,,,9
+17,HIUD 6,,,,,,4,,,9
+18,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 1,,,,,,4,,,10
+19,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 2,,,,,,4,,,11
+20,HIUD / COLLOQUIUM COURSE NUMBERED 160 - 190 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+23,GE 3,,,,,,4,,,2
+24,GE 4,,,,,,4,,,2
+25,GE 5,,,,,,4,,,3
+26,ELECTIVE 1,,,,,,4,,,3
+27,GE 6,,,,,,4,,,4
+28,GE 7,,,,,,4,,,4
+29,GE 8,,,,,,4,,,4
+5,MMW 14,MMW,14,3;4,,,4,,,5
+30,GE 9,,,,,,4,,,5
+31,GE 10,,,,,,4,,,5
+6,MMW 15,MMW,15,3;4,,,4,,,6
+32,GE 11,,,,,,4,,,6
+33,GE 12,,,,,,4,,,6
+34,DEI,,,,,,4,,,7
+35,ELECTIVE 2,,,,,,4,,,7
+36,ELECTIVE 3,,,,,,4,,,8
+37,ELECTIVE 4,,,,,,4,,,8
+38,ELECTIVE 5,,,,,,4,,,9
+39,ELECTIVE 6,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,11
+42,UD ELECTIVE 1,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,12
+44,UD ELECTIVE 2,,,,,,4,,,12

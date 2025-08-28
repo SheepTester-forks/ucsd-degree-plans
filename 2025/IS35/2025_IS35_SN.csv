@@ -1,0 +1,54 @@
+Curriculum,International Studies - International Business,,,,,,,,,
+Degree Plan,International Studies - International Business/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,MATH 10A / MATH 20A,MATH,10A,,,,4,,,1
+25,LANGUAGE 1,,,,,,5,,,1
+20,MATH 10B / MATH 20B,MATH,10B,19,,,4,,,2
+26,LANGUAGE 2,,,,,,5,,,2
+21,MATH 10C / MATH 20C,MATH,10C,20,,,4,,,3
+27,LANGUAGE 3,,,,,,5,,,3
+2,MGT / ECON 4,ECON,4,,,,4,,,4
+28,LANGUAGE 4,,,,,,5,,,4
+3,MGT 5,MGT,5,,,,4,,,5
+29,LANGUAGE 5,,,,,,5,,,5
+30,LANGUAGE 6,,,,,,5,,,6
+6,INTL 100,INTL,100,22,,,4,,,7
+5,MGT 103,MGT,103,,,,4,,,7
+4,MGT 164,MGT,164,,,,4,,,7
+31,UD POLI / REGIONAL REQUIREMENT 1,,,,,,4,,,7
+7,INTL 101 / 102 1,INTL,101,6,,,4,,,8
+9,MGT 166,MGT,166,,,,4,,,8
+8,MGT 181,MGT,181,19;3;2,,,4,,,8
+32,INTL 101 / 102 2,INTL,101,6,,,4,,,9
+10,MGT 112,MGT,112,5;8,,,4,,,9
+33,UD POLI / REGIONAL REQUIREMENT 2,,,,,,4,,,9
+11,GPCO 401,GPCO,401,,,,4,,,10
+12,GPCO 453,GPCO,453,,,,4,,,10
+13,GPCO 412,GPCO,412,,,,4,,,10
+14,GPCO 400,GPCO,400,,,,4,,,11
+15,GPCO 454,GPCO,454,,,,4,,,11
+16,GPCO 404,GPCO,404,,,,4,,,11
+17,GPCO 403,GPCO,403,,,,4,,,12
+18,GPCO 410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+34,DEI,,,,,,4,,,1
+35,ALTERNATIVE 1,,,,,,4,,,2
+22,SYN 1 (CCER),SYN,1,,,,4,,,3
+36,ALTERNATIVE 2,,,,,,4,,,3
+23,SYN 2,SYN,2,22,,,4,,,4
+37,ELECTIVE 1,,,,,,4,,,4
+38,ALTERNATIVE 3,,,,,,4,,,5
+39,ELECTIVE 2,,,,,,4,,,5
+40,ALTERNATIVE 4,,,,,,4,,,6
+41,ALTERNATIVE 5,,,,,,4,,,6
+42,ELECTIVE 3,,,,,,4,,,6
+24,SYN 100,SYN,100,22;23,,,4,,,8
+43,HIGH IMPACT,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,2,,,11
+45,ELECTIVE 5,,,,,,4,,,12

@@ -1,0 +1,57 @@
+Curriculum,Economics-Public Policy,,,,,,,,,
+Degree Plan,Economics-Public Policy/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0699,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,ECON 1,ECON,1,,,,4,,,1
+2,MATH 20A (OR 10A),MATH,20A,,,,4,,,1
+3,MATH 20B (OR 10B),MATH,20B,2,,,4,,,2
+4,ECON 3,ECON,3,1,,,4,,,2
+5,MATH 20C (OR 10C),MATH,20C,3,,,4,,,3
+6,ECON 100A,ECON,100A,1;5,,,4,,,4
+7,ECON 120A,ECON,120A,1;5,,,4,,,4
+8,ECON 120B,ECON,120B,7,,,4,,,5
+9,ECON 100B,ECON,100B,6,,,4,,,5
+10,ECON 110A,ECON,110A,1;4;5,,,4,,,6
+11,ECON 120C,ECON,120C,8,,,4,,,6
+21,UD ECON ELECTIVE,,,,,,4,,,7
+12,ECON 110B,ECON,110B,1;4;5,,,4,,,7
+22,ECON UD ELECTIVE 1,,,,,,4,,,8
+23,ECON UD ELECTIVE 2,,,,,,4,,,9
+24,PREP PROGRAM (IF NECESSARY),,,,,,0,,,9
+13,GPCO 408,GPCO,408,,,,4,,,10
+14,GPCO 400,GPCO,400,,,,4,,,11
+15,GPCO 404,GPCO,404,,,,4,,,11
+16,GPCO 406,GPCO,406,,,,4,,,12
+17,GPCO 407,GPCO,407,,,,4,,,12
+25,SUMMER INTERNSHIP,,,,,,0,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+26,TMC LD GE 1,,,,,,4,,,1
+19,DOC 2,DOC,2,18,,,4,,,2
+27,TMC LD GE 2,,,,,,4,,,2
+20,DOC 3,DOC,3,19,,,4,,,3
+28,TMC LD GE 3,,,,,,4,,,3
+29,TMC LD GE 4,,,,,,4,,,3
+30,TMC LD GE 5,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,TMC LD GE 6,,,,,,4,,,5
+33,ELECTIVE 2,,,,,,4,,,5
+34,JTCCER,,,,,,4,,,6
+35,ELECTIVE 3,,,,,,4,,,6
+36,TMC LD BREADTH 1,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+38,TMC LD BREADTH 2,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,4,,,8
+41,TMC UD BREADTH 1,,,,,,4,,,9
+42,ELECTIVE 7,,,,,,4,,,9
+43,ELECTIVE 8,,,,,,4,,,9
+44,TMC UD BREADTH 2,,,,,,4,,,10
+45,ELECTIVE 9,,,,,,4,,,10
+46,ELECTIVE 10,,,,,,4,,,11
+47,ELECTIVE 11,,,,,,4,,,12

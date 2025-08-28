@@ -1,0 +1,55 @@
+Curriculum,Artificial Intelligence,,,,,,,,,
+Degree Plan,Artificial Intelligence/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0102,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CSE 8A / 11,CSE,8A,,,,4,,,1
+24,LDE,,,,,,4,,,1
+3,CSE 11,CSE,11,,,,4,,,2
+4,CSE 25,CSE,25,,,,4,,,2
+5,MATH 20B,MATH,20B,1,,,4,,,2
+6,CSE 20,CSE,20,2,,,4,,,3
+7,CSE 12,CSE,12,3,,,4,,,3
+8,MATH 20C,MATH,20C,5,,,4,,,3
+9,MATH 18,MATH,18,,,,4,,,4
+10,CSE 21,CSE,21,6,,,4,,,4
+11,CSE 29,CSE,29,3,,,4,,,4
+12,CSE 30,CSE,30,11,,,4,,,5
+13,CSE 55,CSE,55,7;4;11;9;8,,,4,,,5
+14,CSE 103,CSE,103,1;5;10,,,4,,,5
+25,GENERAL SCIENCE,,,,,,4,,,6
+15,CSE 101,CSE,101,10;7,,,4,,,6
+16,CSE 100,CSE,100,10;7;11,,,4,,,6
+17,CSE 150A / CSE 150B,CSE,150A,7;11;14;1;9,,,4,,,7
+26,AI ELECTIVE 1,,,,,,4,,,7
+27,SYSTEMS ELECTIVE 1,,,,,,4,,,7
+18,CSE 151A,CSE,151A,7;11;14;9;8,,,4,,,8
+28,AI ELECTIVE 2,,,,,,4,,,8
+19,PHIL 174,PHIL,174,,,,4,,,8
+29,AI ELECTIVE 3,,,,,,4,,,9
+30,THEORY / ABSTRACTION ELECTIVE 1,,,,,,4,,,9
+31,APPLICATIONS ELECTIVE 1,,,,,,4,,,10
+32,OPEN CSE ELECTIVE 1,,,,,,4,,,10
+33,APPLICATIONS ELECTIVE 2,,,,,,4,,,11
+34,OPEN CSE ELECTIVE 2,,,,,,4,,,11
+35,SYSTEMS ELECTIVE 2,,,,,,4,,,12
+36,THEORY / ABSTRACTION ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,WCWP 10A,WCWP,10A,,,,4,,,1
+21,WCWP 10B,WCWP,10B,20,,,4,,,2
+22,POLI 27 / PHIL 27,POLI,27,20;21,,,4,,,3
+23,POLI 28 / PHIL 28,POLI,28,22,,,4,,,4
+37,GE / DEI,,,,,,4,,,5
+38,GE / JTCCER,,,,,,4,,,6
+39,GE 1,,,,,,4,,,7
+40,GE 2,,,,,,4,,,8
+41,GE 3,,,,,,4,,,9
+42,GE 4,,,,,,4,,,9
+43,ELECTIVE 1,,,,,,4,,,10
+44,ELECTIVE 2,,,,,,4,,,11
+45,ELECTIVE 3,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Chicanx and Latinx Studies,,,,,,,,,
+Degree Plan,Chicanx and Latinx Studies/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0203,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,LD MAJOR COURSE 1,,,,,,4,,,1
+5,LD MAJOR COURSE 2,,,,,,4,,,5
+6,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+7,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+8,UD MAJOR ELECTIVE 3,,,,,,4,,,8
+9,UD MAJOR ELECTIVE 4,,,,,,4,,,8
+10,UD MAJOR ELECTIVE 5,,,,,,4,,,9
+11,UD MAJOR ELECTIVE 6,,,,,,4,,,9
+12,UD MAJOR ELECTIVE 7,,,,,,4,,,10
+13,UD MAJOR COURSE 1,,,,,,4,,,10
+14,UD MAJOR ELECTIVE 8,,,,,,4,,,11
+15,UD MAJOR COURSE 2,,,,,,4,,,11
+16,UD MAJOR ELECTIVE 9,,,,,,4,,,12
+17,UD MAJOR COURSE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,DEI,,,,,,4,,,1
+19,ALTERNATIVE 1,,,,,,4,,,1
+20,ALTERNATIVE 2,,,,,,4,,,1
+21,ALTERNATIVE 3,,,,,,4,,,2
+22,ALTERNATIVE 4,,,,,,4,,,2
+23,ELECTIVE 1,,,,,,4,,,2
+24,ELECTIVE 2,,,,,,4,,,2
+1,SYN 1 (CCER),SYN,1,,,,4,,,3
+25,ALTERNATIVE 5,,,,,,4,,,3
+26,ALTERNATIVE 6,,,,,,4,,,3
+27,ELECTIVE 3,,,,,,4,,,3
+2,SYN 2,SYN,2,1,,,4,,,4
+28,ALTERNATIVE 7,,,,,,4,,,4
+29,ELECTIVE 4,,,,,,4,,,4
+30,ELECTIVE 5,,,,,,4,,,4
+31,ALTERNATIVE 8,,,,,,4,,,5
+32,ELECTIVE 6,,,,,,4,,,5
+33,ELECTIVE 7,,,,,,4,,,5
+34,ALTERNATIVE 9,,,,,,4,,,6
+35,ALTERNATIVE 10,,,,,,4,,,6
+36,ELECTIVE 8,,,,,,4,,,6
+37,ELECTIVE 9,,,,,,4,,,6
+3,SYN 100,SYN,100,1;2,,,4,,,7
+38,UD ELECTIVE,,,,,,4,,,7
+39,ELECTIVE 10,,,,,,4,,,8
+40,ELECTIVE 11,,,,,,4,,,8
+41,ELECTIVE 12,,,,,,4,,,9
+42,ELECTIVE 13,,,,,,4,,,9
+43,HIGH - IMPACT,,,,,,4,,,10
+44,ELECTIVE 14,,,,,,4,,,11
+45,ELECTIVE 15,,,,,,4,,,12

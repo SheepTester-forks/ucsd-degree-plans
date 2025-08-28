@@ -1,0 +1,55 @@
+Curriculum,International Studies - International Business,,,,,,,,,
+Degree Plan,International Studies - International Business/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,LANGUAGE 1,,,,,,5,,,1
+19,MATH 10A / MATH 20A,MATH,10A,,,,4,,,1
+28,LANGUAGE 2,,,,,,5,,,2
+21,MATH 10B / MATH 20B,MATH,10B,19,,,4,,,2
+29,LANGUAGE 3,,,,,,5,,,3
+23,MATH 10C / MATH 20C,MATH,10C,21,,,4,,,3
+30,LANGUAGE 4,,,,,,5,,,4
+25,MGT 4 / ECON 4,MGT,4,,,,4,,,4
+31,LANGUAGE 5,,,,,,5,,,5
+3,MGT 5,MGT,5,,,,4,,,5
+32,LANGUAGE 6,,,,,,5,,,6
+6,INTL 100,INTL,100,20,,,4,,,7
+5,MGT 103,MGT,103,,,,4,,,7
+4,MGT 164,MGT,164,,,,4,,,7
+33,POLI / REGIONAL REQUIREMENT 1,,,,,,4,,,7
+7,INTL 101 / 102 1,INTL,101,6,,,4,,,8
+9,MGT 166,MGT,166,,,,4,,,8
+8,MGT 181,MGT,181,19;3;25,,,4,,,8
+34,INTL 101 / 102 2,INTL,101,6,,,4,,,9
+10,MGT 112,MGT,112,5;8,,,4,,,9
+35,POLI / REGIONAL REQUIREMENT 2,,,,,,4,,,9
+11,GPCO401,GPCO,401,,,,4,,,10
+13,GPCO412,GPCO,412,,,,4,,,10
+12,GPCO453,GPCO,453,,,,4,,,10
+14,GPCO400,GPCO,400,,,,4,,,11
+16,GPCO404,GPCO,404,,,,4,,,11
+15,GPCO454,GPCO,454,,,,4,,,11
+17,GPCO403,GPCO,403,,,,4,,,12
+18,GPCO410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,WCWP 10A,WCWP,10A,,,,4,,,1
+36,GE 1,,,,,,4,,,1
+22,WCWP 10B,WCWP,10B,20,,,4,,,2
+37,GE 2,,,,,,4,,,2
+24,PHIL 27 / POLI 27,PHIL,27,20;22,,,4,,,3
+38,GE 3,,,,,,4,,,3
+26,PHIL 28 / POLI 28,PHIL,28,24,,,4,,,4
+39,GE 4,,,,,,4,,,4
+40,GE / JTCCER,,,,,,4,,,5
+41,GE 5,,,,,,4,,,5
+42,GE / DEI,,,,,,4,,,6
+43,GE 6,,,,,,4,,,6
+44,GE 7,,,,,,4,,,6
+45,GE 8,,,,,,4,,,8
+46,GE 9,,,,,,4,,,9
+47,GE 10,,,,,,4,,,12

@@ -30,10 +30,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,PHYS 140A,PHYS,140A,18,,,4,,,10
 27,PHYS UD RE 1,,,,,,4,,,10
 28,PHYS UD RE 2,,,,,,4,,,11
-29,PHYS UD DEPTH 1,,,,,,4,,,11
+29,PHYS UD RE 3,,,,,,4,,,11
 30,PHYS UD LAB,,,,,,4,,,11
-31,PHYS UD DEPTH 2,,,,,,4,,,12
-32,PHYS UD RE 3,,,,,,4,,,12
+31,PHYS UD RE 4,,,,,,4,,,12
+32,PHYS UD RE 5,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 33,DEI,,,,,,4,,,1
@@ -41,16 +41,16 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,BREADTH GE 1,,,,,,4,,,3
 35,ELECTIVE 1,,,,,,4,,,3
 23,CCE 2,CCE,2,22,,,4,,,4
-36,BREADTH GE 2,,,,,,4,,,4
-37,BREADTH GE 3,,,,,,4,,,5
+36,JTCCER,,,,,,4,,,4
+37,BREADTH GE 2,,,,,,4,,,5
 24,CCE 3,CCE,3,23,,,4,,,6
-38,BREADTH GE 4,,,,,,4,,,6
-39,ELECTIVE 2,,,,,,4,,,6
+38,BREADTH GE 3,,,,,,4,,,6
+39,BREADTH GE 4,,,,,,4,,,6
 40,BREADTH GE 5,,,,,,4,,,7
 41,BREADTH GE 6,,,,,,4,,,8
-42,ELECTIVE 3,,,,,,4,,,8
-25,CCE 120,CCE,120,,,,4,,,9
-43,ELECTIVE 4,,,,,,4,,,10
-44,ELECTIVE 5,,,,,,4,,,11
-45,ELECTIVE 6,,,,,,4,,,12
-46,ELECTIVE 7,,,,,,3,,,12
+42,ELECTIVE 2,,,,,,4,,,8
+25,CCE 120,CCE,120,24,,,4,,,9
+43,ELECTIVE 3,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12
+46,ELECTIVE 6,,,,,,3,,,12

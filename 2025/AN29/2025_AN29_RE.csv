@@ -1,0 +1,53 @@
+Curriculum,Biological Anthropology,,,,,,,,,
+Degree Plan,Biological Anthropology/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A - B - C / 20A - B - C 1,MATH,10A,,,,4,,,1
+2,BILD 1,BILD,1,,,,4,,,1
+18,MATH 10A - B - C / 20A - B - C 2,MATH,10A,,,,4,,,2
+3,BILD 2,BILD,2,2,,,4,,,2
+4,ANTH 2,ANTH,2,,,,4,,,3
+5,MATH 11 / PSYC 60,MATH,11,,,,4,,,3
+6,ANTH 43 / ANTH 42 / ANTH 5 / SOCI 70 / PSYC 1,ANTH,43,,,,4,,,4
+7,CHEM 6A,CHEM,6A,1,,,4,,,4
+8,CHEM 6B,CHEM,6B,7,,,4,,,5
+9,CHEM 6C,CHEM,6C,8,,,4,,,6
+10,ANTH 101,ANTH,101,,,,4,,,7
+19,ANBI CONCENTRATION 1,,,,,,4,,,7
+11,ANTH 102,ANTH,102,,,,4,,,8
+20,ANBI CONCENTRATION 2,,,,,,4,,,8
+12,ANTH 103,ANTH,103,,,,4,,,9
+21,ANBI CONCENTRATION 3,,,,,,4,,,9
+22,ANBI SKILLS / METHODS,,,,,,4,,,10
+23,ANBI CONCENTRATION 4,,,,,,4,,,10
+24,ANTH UD ELECTIVE 1,,,,,,4,,,11
+25,ANTH UD ELECTIVE 2,,,,,,4,,,11
+26,ANTH UD ELECTIVE 3,,,,,,4,,,12
+27,ANTH UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+28,DEI,,,,,,4,,,1
+13,HUM 1,HUM,1,,,,6,,,2
+14,HUM 2,HUM,2,,,,6,,,3
+15,HUM 3,HUM,3,13,,,4,,,4
+29,LANGUAGE 1,,,,,,5,,,4
+16,HUM 4,HUM,4,,,,4,,,5
+30,PHYSICS GE,,,,,,4,,,5
+31,LANGUAGE 2,,,,,,5,,,5
+17,HUM 5,HUM,5,,,,4,,,6
+32,LANGUAGE 3,,,,,,5,,,6
+33,LANGUAGE 4,,,,,,5,,,7
+34,FINE ARTS GE,,,,,,4,,,8
+35,ELECTIVE 1,,,,,,4,,,8
+36,ELECTIVE 2,,,,,,4,,,9
+37,ELECTIVE 3,,,,,,4,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,ELECTIVE 4,,,,,,4,,,10
+40,UD ELECTIVE 2,,,,,,4,,,11
+41,JTCCER,,,,,,4,,,11
+42,UD ELECTIVE 3,,,,,,4,,,12
+43,ELECTIVE 5,,,,,,4,,,12

@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 16,BENG 140A,BENG,140A,1;4;5;8;14;10,,,4,,,5
 17,MAE 40,MAE,40,11;8,,,4,,,5
 18,MAE 8,MAE,8,2;3,,,4,,,5
-19,BENG 140B,BENG,140B,16,,,4,,,6
+19,BENG 140B,BENG,140B,1;5;8;10,,,4,,,6
 20,MATH 20E,MATH,20E,11;7,,,4,,,6
 21,MAE 3,MAE,3,5,,,4,,,6
 22,BENG 100,BENG,100,11;7,,,4,,,6
@@ -33,7 +33,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,MAE 170,MAE,170,14;13,,,4,,,7
 26,BENG 130,BENG,130,4;2;3;5;8;15;14,,,4,,,8
 27,BENG 112A,BENG,112A,24,,,4,,,8
-28,BENG 186B,BENG,186B,25,,,4,,,8
+28,BENG 186B,BENG,186B,17,,,4,,,8
 29,BENG 172,BENG,172,25,,,4,,,9
 30,BENG 112B,BENG,112B,27,,,4,,,9
 31,BENG 103B,BENG,103B,27,,,4,,,9
@@ -41,7 +41,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,BENG 187B,BENG,187B,32,,,1,,,10
 43,BENG DE 1,,,,,,3,,,10
 34,MAE 150,MAE,150,21;23;24,,,4,,,10
-35,BENG 122A,BENG,122A,,,,4,,,10
+35,BENG 122A,BENG,122A,17,,,4,,,10
 36,BENG 187C,BENG,187C,33,,,1,,,11
 44,BENG DE 2,,,,,,3,,,11
 45,TE 1,,,,,,4,,,11

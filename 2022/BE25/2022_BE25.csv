@@ -37,7 +37,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,BENG 112B,BENG,112B,26,,,4,,
 31,BENG 172,BENG,172,25,,,4,,
 32,BENG 187A,BENG,187A,26,,,1,,
-33,BENG 122A,BENG,122A,,,,4,,
+33,BENG 122A,BENG,122A,17,,,4,,
 34,BENG 187B,BENG,187B,32,,,1,,
 40,BENG DE 1,,,,,,3,,
 35,MAE 150,MAE,150,20;24;23,,,4,,

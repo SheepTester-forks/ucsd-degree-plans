@@ -10,8 +10,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 2,USP 2,USP,2,,,,4,,,5
 3,USP 3,USP,3,,,,4,,,6
 4,POLI 30,POLI,30,,,,4,,,6
-20,USP UD 1,,,,,,4,,,7
-21,USP RM,,,,,,4,,,7
+20,USP RM,,,,,,4,,,7
+21,USP UD 1,,,,,,4,,,7
 22,USP UD 2,,,,,,4,,,7
 23,USP UD 3,,,,,,4,,,8
 24,USP FD 1,,,,,,4,,,8

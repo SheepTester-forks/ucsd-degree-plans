@@ -26,7 +26,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,MGT 162 / 162R,MGT,162,,,,4,,,8
 18,MGT 164,MGT,164,,,,4,,,9
 25,UD ELECTIVE 2,,,,,,4,,,10
-19,MGT 100,MGT,100,11,,,4,,,11
+19,MGT 100,MGT,100,9,,,4,,,11
 26,UD ELECTIVE 3,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term

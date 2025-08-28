@@ -1,0 +1,53 @@
+Curriculum,Mathematics-Computer Science,,,,,,,,,
+Degree Plan,Mathematics-Computer Science/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.0801,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CSE 11,CSE,11,,,,4,,,1
+4,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+5,MATH 20C,MATH,20C,4,,,4,,,3
+6,CSE 12,CSE,12,2,,,4,,,3
+7,MATH 20D / MATH 109,MATH,20D,5;3,,,4,,,4
+8,CSE 29,CSE,29,2,,,4,,,4
+9,MATH 109 / MATH 20D,MATH,109,3;5,,,4,,,5
+10,MATH 183 / UD MAJOR,MATH,183,5,,,4,,,6
+11,MATH 20E,MATH,20E,3;5,,,4,,,6
+12,MATH 154 / 184,MATH,154,9,,,4,,,7
+18,UD MAJOR 1,,,,,,4,,,7
+19,UD MAJOR 2,,,,,,4,,,8
+20,UD MAJOR 3,,,,,,4,,,8
+21,UD MAJOR 4,,,,,,4,,,9
+22,UD MAJOR 5,,,,,,4,,,9
+23,UD MAJOR 6,,,,,,4,,,10
+24,UD MAJOR 7,,,,,,4,,,10
+25,UD MAJOR 8,,,,,,4,,,11
+26,UD MAJOR 9,,,,,,4,,,11
+27,UD MAJOR 10,,,,,,4,,,12
+28,UD MAJOR 11,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+13,HUM 1,HUM,1,,,,6,,,2
+14,HUM 2,HUM,2,,,,6,,,3
+15,HUM 3,HUM,3,13,,,4,,,4
+30,LANGUAGE 1,,,,,,5,,,4
+31,FINE ARTS GE,,,,,,4,,,5
+16,HUM 4,HUM,4,,,,4,,,5
+32,LANGUAGE 2,,,,,,5,,,5
+17,HUM 5,HUM,5,,,,4,,,6
+33,LANGUAGE 3,,,,,,5,,,6
+34,BIOLOGY GE,,,,,,4,,,7
+35,LANGUAGE 4,,,,,,5,,,7
+36,CHEMISTRY GE,,,,,,4,,,8
+37,SOCIAL SCIENCE GE,,,,,,4,,,8
+38,PHYSICS GE,,,,,,4,,,9
+39,JTCCER,,,,,,4,,,9
+40,NATURAL SCIENCE GE 1,,,,,,4,,,10
+41,ELECTIVE,,,,,,4,,,10
+42,NATURAL SCIENCE GE 2,,,,,,4,,,11
+43,UD ELECTIVE,,,,,,4,,,12

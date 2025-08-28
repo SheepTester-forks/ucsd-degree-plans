@@ -34,9 +34,9 @@ Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 11,CAT 1,CAT,1,,,,4,,,1
 29,GE / DEI,,,,,,4,,,1
-12,CAT 2,CAT,2,11,,,4,,,2
+12,CAT 2,CAT,2,11,,,6,,,2
 30,GE 1,,,,,,4,,,2
-13,CAT 3,CAT,3,12,,,4,,,3
+13,CAT 3,CAT,3,12,,,6,,,3
 31,GE 2,,,,,,4,,,3
 32,GE 3,,,,,,4,,,4
 33,ELECTIVE 1,,,,,,4,,,4
@@ -50,6 +50,5 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 41,ELECTIVE 7,,,,,,4,,,9
 42,ELECTIVE 8,,,,,,4,,,9
 14,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,10
-43,ELECTIVE 9,,,,,,4,,,10
-44,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,11
-45,ELECTIVE 10,,,,,,4,,,12
+43,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,11
+44,ELECTIVE 9,,,,,,4,,,12

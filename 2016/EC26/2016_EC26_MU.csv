@@ -27,9 +27,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,ECE 109,ECE,109,1;5;7;13,,,4,,,6
 19,CSE 110,CSE,110,3;10,,,4,,,6
 20,ECE 65,ECE,65,11,,,4,,,6
+23,ECE 101,ECE,101,16,,,4,,,7
 21,CSE 140L,CSE,140L,8;9,,,2,,,7
 22,CSE 140,CSE,140,8;9,,,4,,,7
-23,ECE 101,ECE,101,16,,,4,,,7
 24,CSE 141L,CSE,141L,9;19;22;21,,,2,,,8
 25,CSE 141,CSE,141,9;22;21,,,4,,,8
 26,CSE 101,CSE,101,15,,,4,,,8

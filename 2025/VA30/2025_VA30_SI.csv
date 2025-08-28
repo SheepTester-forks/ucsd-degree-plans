@@ -1,0 +1,53 @@
+Curriculum,Speculative Design,,,,,,,,,
+Degree Plan,Speculative Design/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0401,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 30,VIS,30,,,,4,,,1
+10,FOUNDATION ELECTIVE 1,,,,,,4,,,1
+2,VIS 11,VIS,11,,,,4,,,2
+11,FOUNDATION ELECTIVE 2,,,,,,4,,,2
+3,VIS 41,VIS,41,,,,4,,,3
+12,FOUNDATION HISTORY,,,,,,4,,,3
+13,HISTORY & THEORY 1,,,,,,4,,,4
+14,INTERMEDIATE LECTURE 1,,,,,,4,,,4
+4,VIS 135,VIS,135,1;3,,,4,,,5
+15,INTERMEDIATE LECTURE 2,,,,,,4,,,5
+16,INTERMEDIATE LECTURE 3,,,,,,4,,,6
+17,HISTORY & THEORY 2,,,,,,4,,,6
+18,INTERMEDIATE STUDIO 1,,,,,,4,,,7
+19,INTERMEDIATE STUDIO 2,,,,,,4,,,8
+20,ADVANCED ELECTIVE 1,,,,,,4,,,9
+21,ADVANCED ELECTIVE 2,,,,,,4,,,10
+22,ADVANCED ELECTIVE 3,,,,,,4,,,11
+5,VIS 190,VIS,190,4,,,8,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,CAT 1,CAT,1,,,,4,,,1
+23,ELECTIVE 1,,,,,,4,,,1
+7,CAT 2,CAT,2,6,,,6,,,2
+8,CAT 3,CAT,3,7,,,6,,,3
+24,GE (DEI),,,,,,4,,,4
+25,ELECTIVE 2,,,,,,4,,,4
+26,JTCCER,,,,,,4,,,5
+27,GE 1,,,,,,4,,,5
+28,GE 2,,,,,,4,,,6
+29,ELECTIVE 3,,,,,,4,,,6
+30,GE 3,,,,,,4,,,7
+31,ELECTIVE 4,,,,,,4,,,7
+32,ELECTIVE 5,,,,,,4,,,7
+33,GE 4,,,,,,4,,,8
+34,ELECTIVE 6,,,,,,4,,,8
+35,ELECTIVE 7,,,,,,4,,,8
+9,CAT 125,CAT,125,,,,4,,,9
+36,ELECTIVE 8,,,,,,4,,,9
+37,ELECTIVE 9,,,,,,4,,,9
+38,GE 5,,,,,,4,,,10
+39,UD ELECTIVE 1,,,,,,4,,,10
+40,ELECTIVE 10,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,GE 6,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,12

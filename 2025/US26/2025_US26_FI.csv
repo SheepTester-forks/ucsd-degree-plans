@@ -1,0 +1,54 @@
+Curriculum,Urban Studies and Planning,,,,,,,,,
+Degree Plan,Urban Studies and Planning/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 4 INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS,USP,4,,,,4,,,4
+2,USP 1: HISTORY OF US URBAN COMMUNITIES,USP,1,,,,4,,,4
+3,USP 30 URBAN STUDIES AND PLANNING COLLOQUIUM,USP,30,,,,2,,,5
+4,USP 2 URBAN WORLD SYSTEM / USP 6 INTRODUCTION TO GLOBAL ARCHITECTURE,USP,2,,,,4,,,5
+5,USP 3 THE CITY AND SOCIAL THEORY / USP 5 INTRODUCTION TO REAL ESTATE AND DEVELOPMENT PROCESS,USP,3,,,,4,,,6
+6,USP 60 THE PRACTICE OF PLANNING RESEARCH,USP,60,,,,4,,,6
+7,USP 124 LAND USE PLANNING,USP,124,,,,4,,,7
+16,USP THIRD FOUNDATION,,,,,,4,,,7
+8,USP 173 HISTORY OF URBAN PLANNING AND DESIGN,USP,173,,,,4,,,8
+17,USP TECHNICAL ELECTIVE,,,,,,4,,,8
+18,USP RESEARCH METHODS,,,,,,4,,,9
+19,USP UPPER DIVISION ELECTIVE 1,,,,,,4,,,9
+20,USP UPPER DIVISION ELECTIVE 2,,,,,,4,,,10
+9,USP 186 SENIOR SEQUENCE RESEARCH PROPOSAL (FALL ONLY),USP,186,7;6;3,,,6,,,10
+21,USP UPPER DIVISION ELECTIVE 3,,,,,,4,,,11
+10,USP 187 SENIOR SEQUENCE RESEARCH PROJECT (WINTER ONLY),USP,187,9,,,6,,,11
+22,USP UPPER DIVISION ELECTIVE 4,,,,,,4,,,12
+23,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,MMW 11,MMW,11,,,,4,,,1
+24,GE 1,,,,,,4,,,1
+25,GE 2,,,,,,4,,,1
+26,GE 3,,,,,,4,,,1
+12,MMW 12,MMW,12,,,,6,,,2
+27,GE 4,,,,,,4,,,2
+28,GE 5,,,,,,4,,,2
+13,MMW 13,MMW,13,12,,,6,,,3
+29,GE 6,,,,,,4,,,3
+30,GE 7,,,,,,4,,,3
+31,GE 8,,,,,,4,,,4
+32,GE 9,,,,,,4,,,4
+14,MMW 14,MMW,14,12;13,,,4,,,5
+33,GE 10,,,,,,4,,,5
+15,MMW 15,MMW,15,12;13,,,4,,,6
+34,ELECTIVE 1,,,,,,4,,,6
+35,DEI,,,,,,4,,,7
+36,ELECTIVE 2,,,,,,4,,,7
+37,GE 11,,,,,,4,,,8
+38,ELECTIVE 3,,,,,,4,,,8
+39,GE 12,,,,,,4,,,9
+40,ELECTIVE 4,,,,,,4,,,9
+41,ELECTIVE 5,,,,,,4,,,10
+42,UD ELECTIVE,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,2,,,12

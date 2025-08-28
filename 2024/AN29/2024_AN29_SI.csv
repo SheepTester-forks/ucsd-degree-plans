@@ -6,11 +6,10 @@ System Type,Quarter,,,,,,,,,
 CIP,45.0299,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-1,CHEM 6A 1,CHEM,6A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
 2,MATH 10A - B - C / 20A - B - C 1,MATH,10A,,,,4,,,1
-3,CHEM 6B 1,CHEM,6B,1;2,,,4,,,2
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
 17,MATH 10A - B - C / 20A - B - C 2,MATH,10A,,,,4,,,2
-4,CHEM 6C 1,CHEM,6C,3,,,4,,,3
 5,BILD 1,BILD,1,,,,4,,,4
 6,ANTH 2,ANTH,2,,,,4,,,4
 7,MATH 11 / PSYC 60,MATH,11,,,,4,,,5
@@ -31,24 +30,25 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 13,CAT 1,CAT,1,,,,4,,,1
-27,ELECTIVE 1,,,,,,4,,,1
 14,CAT 2,CAT,2,13,,,6,,,2
 15,CAT 3,CAT,3,14,,,6,,,3
+27,ELECTIVE 1,,,,,,4,,,3
 28,ELECTIVE 2,,,,,,4,,,3
-29,CHEM 6A 2,CHEM,6A,2,,,4,,,4
-30,GE / DEI,,,,,,4,,,4
-31,CHEM 6B 2,CHEM,6B,1;2,,,4,,,5
-32,GE / CCER,,,,,,4,,,5
-33,CHEM 6C 2,CHEM,6C,3,,,4,,,6
-34,GE 1,,,,,,4,,,6
-35,GE 2,,,,,,4,,,6
-36,ELECTIVE 3,,,,,,4,,,7
-37,ELECTIVE 4,,,,,,4,,,7
-38,GE 3,,,,,,4,,,8
-39,ELECTIVE 5,,,,,,4,,,8
-40,ELECTIVE 6,,,,,,4,,,9
+29,GE / DEI,,,,,,4,,,4
+30,ELECTIVE 3,,,,,,4,,,4
+31,GE / CCER,,,,,,4,,,5
+32,ELECTIVE 4,,,,,,4,,,5
+33,GE 1,,,,,,4,,,6
+34,GE 2,,,,,,4,,,6
+35,ELECTIVE 5,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,7
+37,GE 3,,,,,,4,,,8
+38,ELECTIVE 7,,,,,,4,,,8
+39,ELECTIVE 8,,,,,,4,,,9
+40,ELECTIVE 9,,,,,,4,,,9
 16,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,10
-41,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,10
 42,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,11
-43,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,11
 44,UD ELECTIVE,,,,,,4,,,12
+45,ELECTIVE 12,,,,,,4,,,12

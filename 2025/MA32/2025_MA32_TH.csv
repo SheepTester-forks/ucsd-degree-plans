@@ -1,0 +1,58 @@
+Curriculum,Mathematics/Secondary Education,,,,,,,,,
+Degree Plan,Mathematics/Secondary Education/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.1311,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,MATH 20B,MATH,20B,1,,,4,,,2
+3,MATH 18,MATH,18,,,,4,,,2
+4,MATH 20C,MATH,20C,2,,,4,,,3
+5,MATH 20D / MATH 109,MATH,20D,4;3,,,4,,,4
+6,MATH 109 / MATH 20D,MATH,109,3;4,,,4,,,5
+15,UD MAJOR 1,,,,,,4,,,6
+7,MATH 20E,MATH,20E,3;4,,,4,,,6
+16,UD MAJOR 2,,,,,,4,,,7
+17,UD MAJOR 3,,,,,,4,,,7
+18,UD MAJOR 4,,,,,,4,,,8
+19,UD MAJOR 5,,,,,,4,,,8
+20,UD MAJOR 6,,,,,,4,,,9
+21,UD MAJOR 7,,,,,,4,,,9
+22,UD MAJOR 8,,,,,,4,,,10
+8,EDS 129A,EDS,129A,,,,4,,,10
+9,EDS 139 1,EDS,139,,,,2,,,10
+23,UD MAJOR 9,,,,,,4,,,11
+10,EDS 129B,EDS,129B,8,,,4,,,11
+24,EDS 139 2,EDS,139,,,,2,,,11
+11,EDS 129C,EDS,129C,10,,,4,,,12
+25,EDS 139 3,EDS,139,,,,2,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+12,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+26,TMC LD GE 1,,,,,,4,,,1
+27,TMC LD GE 2,,,,,,4,,,1
+13,DOC 2,DOC,2,12,,,4,,,2
+28,TMC LD GE 3,,,,,,4,,,2
+14,DOC 3,DOC,3,13,,,4,,,3
+29,TMC LD GE 4,,,,,,4,,,3
+30,TMC LD GE 5,,,,,,4,,,3
+31,TMC LD GE 6,,,,,,4,,,4
+32,ELECTIVE 1,,,,,,4,,,4
+33,ELECTIVE 2,,,,,,4,,,4
+34,JTCCER,,,,,,4,,,5
+35,ELECTIVE 3,,,,,,4,,,5
+36,ELECTIVE 4,,,,,,4,,,5
+37,TMC LD BREADTH 1,,,,,,4,,,6
+38,ELECTIVE 5,,,,,,4,,,6
+39,TMC LD BREADTH 2,,,,,,4,,,7
+40,ELECTIVE 6,,,,,,4,,,7
+41,TMC UD BREADTH 1,,,,,,4,,,8
+42,ELECTIVE 7,,,,,,4,,,8
+43,TMC UD BREADTH 2,,,,,,4,,,9
+44,ELECTIVE 8,,,,,,4,,,9
+45,ELECTIVE 9,,,,,,4,,,10
+46,ELECTIVE 10,,,,,,4,,,11
+47,ELECTIVE 11,,,,,,4,,,12
+48,ELECTIVE 12,,,,,,4,,,12

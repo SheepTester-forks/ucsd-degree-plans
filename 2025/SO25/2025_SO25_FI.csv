@@ -1,0 +1,54 @@
+Curriculum,Sociology,,,,,,,,,
+Degree Plan,Sociology/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SOCI 1,SOCI,1,,,,4,,,1
+2,SOCI 2 (DEI),SOCI,2,,,,4,,,2
+3,SOCI 60,SOCI,60,,,,4,,,4
+4,"SOCI 10, 20, 30, 40, 50 / 70",SOCI,10,,,,4,,,5
+5,SOCI 100 (THEORY),SOCI,100,,,,4,,,7
+11,SOCI UD ELECTIVE 1,,,,,,4,,,7
+12,SOCI UD METHODS (102 - 110),,,,,,4,,,8
+13,SOCI UD ELECTIVE 2,,,,,,4,,,8
+14,SOCI UD ELECTIVE 3,,,,,,4,,,9
+15,SOCI UD ELECTIVE 4,,,,,,4,,,10
+16,SOCI UD ELECTIVE 5,,,,,,4,,,10
+17,SOCI UD ELECTIVE 6,,,,,,4,,,11
+18,SOCI UD ELECTIVE 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MMW 11,MMW,11,,,,4,,,1
+19,GE 1,,,,,,4,,,1
+7,MMW 12,MMW,12,,,,6,,,2
+20,GE 2,,,,,,4,,,2
+8,MMW 13,MMW,13,7,,,6,,,3
+21,GE 3,,,,,,4,,,3
+22,GE 4,,,,,,4,,,3
+23,GE 5,,,,,,4,,,4
+24,GE 6,,,,,,4,,,4
+25,GE 7,,,,,,4,,,4
+9,MMW 14,MMW,14,7;8,,,4,,,5
+26,GE 8,,,,,,4,,,5
+10,MMW 15,MMW,15,7;8,,,4,,,6
+27,GE 9,,,,,,4,,,6
+28,GE 10,,,,,,4,,,6
+29,ELECTIVE 1,,,,,,4,,,6
+30,GE 11,,,,,,4,,,7
+31,ELECTIVE 2,,,,,,4,,,7
+32,ELECTIVE 3,,,,,,4,,,8
+33,ELECTIVE 4,,,,,,4,,,8
+34,SOCI UD ELECTIVE 8,,,,,,4,,,9
+35,ELECTIVE 5,,,,,,4,,,9
+36,ELECTIVE 6,,,,,,4,,,9
+37,UD ELECTIVE,,,,,,4,,,10
+38,ELECTIVE 7,,,,,,4,,,10
+39,SOCI UD ELECTIVE 9,,,,,,4,,,11
+40,ELECTIVE 8,,,,,,4,,,11
+41,ELECTIVE 9,,,,,,4,,,11
+42,SOCI UD ELECTIVE 10,,,,,,4,,,12
+43,ELECTIVE 10,,,,,,4,,,12
+44,ELECTIVE 11,,,,,,4,,,12

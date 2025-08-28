@@ -1,0 +1,53 @@
+Curriculum,Literary Arts,,,,,,,,,
+Degree Plan,Literary Arts/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,23.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,LD LANGUAGE 1,,,,,,5,,,1
+1,LTEN 25,LTEN,25,,,,4,,,1
+16,LD LANGUAGE 2,,,,,,5,,,2
+17,LD LTEN / GSS 1,,,,,,4,,,2
+18,LD LANGUAGE 3,,,,,,5,,,3
+19,LD LTEN / GSS 2,,,,,,4,,,3
+20,LD LANGUAGE 4,,,,,,5,,,4
+2,LTWR 8A / 8B / 8C 1,LTWR,8A,11;12,,,4,,,4
+21,LD LANGUAGE 5,,,,,,5,,,5
+22,LTWR 8A / 8B / 8C 2,LTWR,8A,11;12,,,4,,,5
+23,LD LANGUAGE 6,,,,,,5,,,6
+24,LTWR 8A / 8B / 8C 3,LTWR,8A,11;12,,,4,,,6
+3,CRAFT / READING COURSE (LTWR 100C - 129C) 1,LTWR,100C,2,,,4,,,7
+4,LTAM 100 - 190,LTAM,100,,,,4,,,7
+25,CRAFT / READING COURSE (LTWR 100C - 129C) 2,LTWR,100C,2,,,4,,,8
+5,LTEU 100 - 190,LTEU,100,,,,4,,,8
+26,CRAFT / READING COURSE (LTWR 100C - 129C) 3,LTWR,100C,2,,,4,,,9
+6,LTWR 140 - 149,LTWR,140,,,,4,,,9
+7,WORKSHOP COURSE (LTWR 100W - 129W) 1,LTWR,100W,2,,,4,,,10
+8,LTAF 100 - 190 / LTAM 100 - 190 / LTEA 100 - 190 / LTEU 100 - 190 / LTWL 100 - 190,LTAF,100,,,,4,,,10
+27,WORKSHOP COURSE (LTWR 100W - 129W) 2,LTWR,100W,2,,,4,,,11
+9,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 1",LT,100,,,,4,,,11
+28,CRAFT / READING COURSE (LTWR 100C - 129C) 4,LTWR,100C,2,,,4,,,12
+29,"LITERATURE ELECTIVE (LT 100 - 190, BUT NOT LTWR) 2",LT,100,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,MMW 11,MMW,11,,,,4,,,1
+11,MMW 12,MMW,12,,,,6,,,2
+12,MMW 13,MMW,13,11,,,6,,,3
+30,GE 1,,,,,,4,,,4
+13,MMW 14,MMW,14,11;12,,,4,,,5
+14,MMW 15,MMW,15,11;12,,,4,,,6
+31,ELECTIVE 1,,,,,,2,,,6
+32,GE 2,,,,,,4,,,7
+33,GE 3,,,,,,4,,,7
+34,GE 4,,,,,,4,,,8
+35,GE 5,,,,,,4,,,8
+36,GE 6,,,,,,4,,,9
+37,GE 7,,,,,,4,,,9
+38,GE 8,,,,,,4,,,10
+39,ELECTIVE 2,,,,,,4,,,10
+40,DEI,,,,,,4,,,11
+41,ELECTIVE 3,,,,,,4,,,11
+42,ELECTIVE 4,,,,,,4,,,12
+43,UD ELECTIVE,,,,,,4,,,12

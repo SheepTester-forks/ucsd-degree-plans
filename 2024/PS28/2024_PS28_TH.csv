@@ -7,29 +7,29 @@ CIP,45.1099,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,POLI 12D,POLI,12D,,,,4,,,1
-6,LD POLI 1,,,,,,4,,,2
-2,DOC 2,DOC,2,5,,,6,,,2
-3,POLI 30D,POLI,30D,,,,4,,,3
-4,DOC 3,DOC,3,2,,,6,,,3
-7,LD POLI 2,,,,,,4,,,4
-8,UD POLI 1,,,,,,4,,,5
-9,UD POLI 2,,,,,,4,,,5
-10,UD POLI / INTERNATIONAL RELATIONS 1,,,,,,4,,,6
-11,UD POLI / INTERNATIONAL RELATIONS 2,,,,,,4,,,7
-12,UD POLI 3,,,,,,4,,,7
-13,UD POLI / INTERNATIONAL RELATIONS 3,,,,,,4,,,8
-14,UD POLI / INTERNATIONAL RELATIONS 4,,,,,,4,,,9
-15,UD POLI 4,,,,,,4,,,9
-16,UD POLI / INTERNATIONAL RELATIONS 5,,,,,,4,,,10
-17,UD POLI 5,,,,,,4,,,10
-18,UD POLI 6,,,,,,4,,,11
-19,UD POLI 7,,,,,,4,,,12
+5,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+6,LD POLI 2,,,,,,4,,,4
+7,UD POLI 1,,,,,,4,,,5
+8,UD POLI 2,,,,,,4,,,5
+9,UD POLI / INTERNATIONAL RELATIONS 1,,,,,,4,,,6
+10,UD POLI / INTERNATIONAL RELATIONS 2,,,,,,4,,,7
+11,UD POLI 3,,,,,,4,,,7
+12,UD POLI / INTERNATIONAL RELATIONS 3,,,,,,4,,,8
+13,UD POLI / INTERNATIONAL RELATIONS 4,,,,,,4,,,9
+14,UD POLI 4,,,,,,4,,,9
+15,UD POLI / INTERNATIONAL RELATIONS 5,,,,,,4,,,10
+16,UD POLI 5,,,,,,4,,,10
+17,UD POLI 6,,,,,,4,,,11
+18,UD POLI 7,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-5,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
-20,TMC LD GE 1,,,,,,4,,,1
-21,ELECTIVE 1,,,,,,4,,,2
-22,TMC LD GE 2,,,,,,4,,,2
+3,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+19,TMC LD GE 1,,,,,,4,,,1
+4,DOC 2 1,DOC,2,3,,,6,,,2
+20,ELECTIVE 1,,,,,,4,,,2
+21,TMC LD GE 2,,,,,,4,,,2
+22,DOC 2 2,DOC,2,3,,,6,,,3
 23,ELECTIVE 2,,,,,,4,,,3
 24,TMC LD GE 3,,,,,,4,,,3
 25,TMC LD GE 4,,,,,,4,,,4

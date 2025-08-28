@@ -1,0 +1,55 @@
+Curriculum,Cognitive Science with a Specialization in Machine Learning and Neural Computation,,,,,,,,,
+Degree Plan,Cognitive Science with a Specialization in Machine Learning and Neural Computation/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+2,MATH 20A,MATH,20A,,,,4,,,1
+3,COGS 13,COGS,13,,,,4,,,2
+4,MATH 20B,MATH,20B,2,,,4,,,2
+5,COGS 1,COGS,1,,,,4,,,3
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,COGS 17,COGS,17,,,,4,,,4
+8,COGS 18 / CSE (6R / 8A / 11) / BILD 62,COGS,18,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+10,MATH 20E,MATH,20E,6,,,4,,,5
+12,COGS 14B,COGS,14B,9,,,4,,,6
+11,MATH 18,MATH,18,,,,4,,,6
+13,COGS 101A / 101B / 101C 1,COGS,101A,5,,,4,,,7
+14,COGS 107A,COGS,107A,7,,,4,,,7
+23,COGS 101A / 101B / 101C 2,COGS,101A,5,,,4,,,8
+15,COGS 107B,COGS,107B,14,,,4,,,8
+16,COGS 100,COGS,100,1,,,4,,,9
+17,COGS 108,COGS,108,8,,,4,,,9
+18,MATH 180A,MATH,180A,6,,,4,,,10
+24,COGS UD ELECTIVE 1,,,,,,4,,,10
+25,COGS UD ELECTIVE 2,,,,,,4,,,11
+26,COGS UD ELECTIVE 3,,,,,,4,,,11
+27,COGS UD ELECTIVE 4,,,,,,4,,,12
+28,COGS UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,DEI,,,,,,4,,,1
+19,CCE 1,CCE,1,,,,4,,,2
+30,BREADTH GE 1,,,,,,4,,,2
+31,BREADTH GE 2,,,,,,4,,,3
+32,BREADTH GE 3,,,,,,4,,,3
+20,CCE 2,CCE,2,19,,,4,,,4
+33,JTCCER,,,,,,4,,,4
+34,BREADTH GE 4,,,,,,4,,,5
+35,BREADTH GE 5,,,,,,4,,,5
+21,CCE 3,CCE,3,20,,,4,,,6
+36,BREADTH GE 6,,,,,,4,,,6
+37,BREADTH GE 7,,,,,,4,,,7
+38,ELECTIVE 1,,,,,,4,,,7
+39,BREADTH GE 8,,,,,,4,,,8
+40,ELECTIVE 2,,,,,,4,,,8
+22,CCE 120,CCE,120,21,,,4,,,9
+41,UD ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE 3,,,,,,4,,,10
+43,UD ELECTIVE 2,,,,,,4,,,11
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12

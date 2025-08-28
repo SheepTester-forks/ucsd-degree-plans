@@ -30,7 +30,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,DSC 140B,DSC,140B,12;14,,,4,,,9
 30,UD MAJOR ELECTIVE 1 (IF MATH 180A NOT TAKEN),,,,,,4,,,10
 20,DSC 148,DSC,148,11;12;14,,,4,,,10
-21,DSC 180A,DSC,180A,17;16;18,,,4,,,10
+21,DSC 180A,DSC,180A,17;16;15;18,,,4,,,10
 22,DSC 180B,DSC,180B,21,,,4,,,11
 31,UD MAJOR ELECTIVE 2,,,,,,4,,,11
 32,UD MAJOR ELECTIVE 3,,,,,,4,,,11
@@ -41,16 +41,16 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 23,CCE 1,CCE,1,,,,4,,,2
 35,DEI,,,,,,4,,,3
 24,CCE 2,CCE,2,23,,,4,,,4
-36,BREADTH GE 1,,,,,,4,,,4
-37,BREADTH GE 2,,,,,,4,,,5
-38,BREADTH GE 3,,,,,,4,,,5
+36,JTCCER,,,,,,4,,,4
+37,BREADTH GE 1,,,,,,4,,,5
+38,BREADTH GE 2,,,,,,4,,,5
 25,CCE 3,CCE,3,24,,,4,,,6
-39,BREADTH GE 4,,,,,,4,,,6
-40,BREADTH GE 5,,,,,,4,,,6
-41,BREADTH GE 6,,,,,,4,,,7
-42,BREADTH GE 7,,,,,,4,,,7
-43,BREADTH GE 8,,,,,,4,,,8
-26,CCE 120,CCE,120,,,,4,,,9
-44,ELECTIVE 1,,,,,,4,,,10
-45,ELECTIVE 2,,,,,,2,,,11
-46,ELECTIVE 3,,,,,,4,,,12
+39,BREADTH GE 3,,,,,,4,,,6
+40,BREADTH GE 4,,,,,,4,,,6
+41,BREADTH GE 5,,,,,,4,,,7
+42,BREADTH GE 6,,,,,,4,,,7
+43,BREADTH GE 7,,,,,,4,,,8
+26,CCE 120,CCE,120,25,,,4,,,9
+44,BREADTH GE 8,,,,,,4,,,10
+45,ELECTIVE 1,,,,,,2,,,11
+46,ELECTIVE 2,,,,,,4,,,12

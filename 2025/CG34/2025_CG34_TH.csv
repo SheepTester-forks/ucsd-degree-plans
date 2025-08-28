@@ -1,0 +1,54 @@
+Curriculum,Cognitive Science with a Specialization in Language and Culture,,,,,,,,,
+Degree Plan,Cognitive Science with a Specialization in Language and Culture/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COGS 10 / DSGN 1,COGS,10,,,,4,,,1
+2,MATH 10A / 20A,MATH,10A,,,,4,,,1
+3,MATH 10B / 20B,MATH,10B,2,,,4,,,2
+4,COGS 13,COGS,13,,,,4,,,2
+5,COGS 1,COGS,1,,,,4,,,3
+6,MATH 10C IF CHOOSING THE MATH 10 SERIES,MATH,10C,3,,,4,,,3
+7,MATH 18,MATH,18,,,,4,,,4
+8,COGS 17,COGS,17,,,,4,,,4
+9,COGS 14A,COGS,14A,,,,4,,,5
+10,COGS 14B,COGS,14B,9,,,4,,,6
+11,COGS 18 / CSE (6R / 8A / 11) / BILD 62,COGS,18,,,,4,,,6
+12,COGS 107A,COGS,107A,8,,,4,,,7
+13,COGS 101A / 101B / 101C 1,COGS,101A,5,,,4,,,7
+20,COGS 101A / 101B / 101C 2,COGS,101A,5,,,4,,,8
+14,COGS 107B,COGS,107B,12,,,4,,,8
+15,COGS 108,COGS,108,11,,,4,,,9
+16,COGS 100,COGS,100,1,,,4,,,9
+21,COGS UD ELECTIVE 1,,,,,,4,,,10
+22,COGS UD ELECTIVE 2,,,,,,4,,,10
+23,COGS UD ELECTIVE 3,,,,,,4,,,11
+24,COGS UD ELECTIVE 4,,,,,,4,,,11
+25,COGS UD ELECTIVE 5,,,,,,4,,,12
+26,COGS UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+17,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+27,TMC LD GE 1,,,,,,4,,,1
+18,DOC 2,DOC,2,17,,,6,,,2
+28,TMC LD GE 2,,,,,,4,,,2
+19,DOC 3,DOC,3,18,,,6,,,3
+29,TMC LD GE 3,,,,,,4,,,3
+30,TMC LD GE 4,,,,,,4,,,4
+31,ELECTIVE 1,,,,,,4,,,4
+32,TMC LD GE 5,,,,,,4,,,5
+33,TMC LD BREADTH 1,,,,,,4,,,5
+34,ELECTIVE 2,,,,,,4,,,5
+35,TMC LD BREADTH 2,,,,,,4,,,6
+36,ELECTIVE 3,,,,,,4,,,6
+37,TMC UD BREADTH 1,,,,,,4,,,7
+38,JTCCER,,,,,,4,,,7
+39,TMC UD BREADTH 2,,,,,,4,,,8
+40,UD ELECTIVE 1,,,,,,4,,,9
+41,UD ELECTIVE 2,,,,,,4,,,9
+42,ELECTIVE 4,,,,,,4,,,10
+43,ELECTIVE 5,,,,,,4,,,11
+44,ELECTIVE 6,,,,,,4,,,12

@@ -28,7 +28,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 19,CHEM 120A,CHEM,120A,5;8,,,4,,,8
 20,CHEM 143B,CHEM,143B,12;11,,,4,,,8
 21,CHEM 120B,CHEM,120B,19,,,4,,,9
-22,CHEM 156,CHEM,156,15,,,4,,,9
+22,CHEM 156,CHEM,156,15;19,,,4,,,9
 23,CHEM 152,CHEM,152,15,,,4,,,10
 24,CHEM 126A,CHEM,126A,5;14;7,,,4,,,10
 25,CHEM 143C,CHEM,143C,12;11,,,4,,,10
@@ -48,9 +48,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,GE 2,,,,,,4,,,7
 40,GE 3,,,,,,4,,,7
 41,GE 4,,,,,,4,,,8
-42,ELECTIVE 1,,,,,,2,,,8
-43,GE 5,,,,,,4,,,9
-44,ELECTIVE 2,,,,,,4,,,9
-45,GE 6,,,,,,4,,,10
-34,CAT 125,CAT,125,,,,4,,,11
-46,ELECTIVE 3,,,,,,4,,,12
+42,ELECTIVE,,,,,,2,,,8
+34,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,9
+43,GE 5,,,,,,4,,,10
+44,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,11
+45,GE 6,,,,,,4,,,12

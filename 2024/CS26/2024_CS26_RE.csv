@@ -7,11 +7,9 @@ CIP,11.0701,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,MATH 20A,MATH,20A,,,,4,,,1
-15,HUM 1,HUM,1,,,,6,,,1
 2,CSE 8A / CSE 11,CSE,8A,,,,4,,,1
 20,LDE (MAJOR),,,,,,2,,,1
 4,MATH 20B,MATH,20B,1,,,4,,,2
-16,HUM 2,HUM,2,,,,6,,,2
 3,CSE 8B,CSE,8B,2,,,4,,,2
 21,SOCIAL SCIENCE GE / DEI / CCER,,,,,,4,,,2
 6,MATH 20C,MATH,20C,4,,,4,,,3
@@ -44,6 +42,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 39,OPEN CSE ELECTIVE 6,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,HUM 1,HUM,1,,,,6,,,1
+16,HUM 2,HUM,2,,,,6,,,2
 40,BIOLOGY GE,,,,,,4,,,3
 41,CHEMISTRY GE,,,,,,4,,,3
 17,HUM 3,HUM,3,15,,,4,,,4

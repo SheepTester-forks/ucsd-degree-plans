@@ -1,0 +1,54 @@
+Curriculum,International Studies - International Business,,,,,,,,,
+Degree Plan,International Studies - International Business/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+22,LANGUAGE 1,,,,,,4,,,1
+1,MATH 10 / 20A,MATH,10,,,,4,,,1
+23,MATH 10 / 20B,MATH,10,,,,4,,,2
+24,LANGUAGE 2,,,,,,4,,,2
+25,MATH 10 / 20C,MATH,10,,,,4,,,3
+26,LANGUAGE 3,,,,,,4,,,3
+2,MGT / ECON 4,ECON,4,,,,4,,,4
+27,LANGUAGE 4,,,,,,4,,,4
+3,MGT 5,MGT,5,,,,4,,,5
+28,LANGUAGE 5,,,,,,4,,,5
+29,LANGUAGE 6,,,,,,4,,,6
+30,POLI / REGIONAL REQUIREMENT 1,,,,,,4,,,7
+4,MGT 164,MGT,164,,,,4,,,7
+5,MGT 103,MGT,103,,,,4,,,7
+6,INTL 100,INTL,100,19,,,4,,,7
+7,INTL 101 / 102 1,INTL,101,6,,,4,,,8
+8,MGT 181,MGT,181,3;2,,,4,,,8
+9,MGT 166,MGT,166,,,,4,,,8
+31,INTL 101 / 102 2,INTL,101,6,,,4,,,9
+10,MGT 112,MGT,112,5;8,,,4,,,9
+32,POLI / REGIONAL REQUIREMENT 2,,,,,,4,,,9
+11,GPCO401,GPCO,401,,,,4,,,10
+12,GPCO453,GPCO,453,,,,4,,,10
+13,GPCO412,GPCO,412,,,,4,,,10
+14,GPCO400,GPCO,400,,,,4,,,11
+15,GPCO454,GPCO,454,,,,4,,,11
+16,GPCO404,GPCO,404,,,,4,,,11
+17,GPCO403,GPCO,403,,,,4,,,12
+18,GPCO410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+19,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+33,TMC LD GE 1,,,,,,4,,,1
+20,DOC 2,DOC,2,19,,,6,,,2
+21,DOC 3,DOC,3,20,,,6,,,3
+34,TMC LD GE 2,,,,,,4,,,4
+35,JTCCER,,,,,,4,,,4
+36,TMC LD GE 3,,,,,,4,,,5
+37,TMC LD GE 4,,,,,,4,,,5
+38,TMC LD GE 5,,,,,,4,,,6
+39,TMC LD GE 6,,,,,,4,,,6
+40,TMC LD BREADTH 1,,,,,,4,,,6
+41,TMC LD BREADTH 2,,,,,,4,,,8
+42,TMC UD BREADTH 1,,,,,,4,,,9
+43,TMC UD BREADTH 2,,,,,,4,,,10
+44,ELECTIVE,,,,,,4,,,12

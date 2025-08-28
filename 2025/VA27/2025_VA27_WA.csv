@@ -1,0 +1,55 @@
+Curriculum,Visual Arts (Media),,,,,,,,,
+Degree Plan,Visual Arts (Media)/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 60,VIS,60,,,,4,,,1
+9,FOUNDATION ART MAKING 1,,,,,,4,,,1
+10,FOUNDATION MEDIA STUDIES 1,,,,,,4,,,2
+11,FOUNDATION ART MAKING 2,,,,,,4,,,2
+2,VIS 70N,VIS,70N,,,,4,,,3
+12,FOUNDATION MEDIA STUDIES 2,,,,,,4,,,3
+3,VIS 174,VIS,174,2,,,4,,,4
+13,FOUNDATION HISTORY,,,,,,4,,,4
+14,INTERMEDIATE MEDIA STUDIES 1,,,,,,4,,,5
+4,VIS 164,VIS,164,1,,,4,,,5
+15,INTERMEDIATE MEDIA PRACTICE 1,,,,,,4,,,6
+16,INTERMEDIATE MEDIA STUDIES 2,,,,,,4,,,6
+17,INTERMEDIATE MEDIA PRACTICE 2,,,,,,4,,,7
+18,INTERMEDIATE MEDIA STUDIES 3,,,,,,4,,,7
+19,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,8
+20,ADVANCED MEDIA PRACTICE 1,,,,,,4,,,8
+21,ADVANCED MEDIA PRACTICE 2,,,,,,4,,,9
+22,SENIOR MEDIA PRACTICE 1,,,,,,4,,,10
+23,SENIOR MEDIA PRACTICE 2,,,,,,4,,,11
+24,SENIOR INTERDISCIPLINARY,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+6,WCWP 10B,WCWP,10B,5,,,4,,,2
+26,GE 2,,,,,,4,,,2
+7,PHIL 27 / POLI 27,PHIL,27,5;6,,,4,,,3
+27,GE 3,,,,,,4,,,3
+8,PHIL 28 / POLI 28,PHIL,28,7,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,GE / JTCCER,,,,,,4,,,5
+30,GE 5,,,,,,4,,,5
+31,GE / DEI,,,,,,4,,,6
+32,GE 6,,,,,,4,,,6
+33,GE 7,,,,,,4,,,7
+34,GE 8,,,,,,4,,,7
+35,GE 9,,,,,,4,,,8
+36,GE 10,,,,,,4,,,8
+37,UD ELECTIVE 1,,,,,,4,,,9
+38,GE 11,,,,,,4,,,9
+39,GE 12,,,,,,4,,,9
+40,UD ELECTIVE 2,,,,,,4,,,10
+41,ELECTIVE 1,,,,,,4,,,10
+42,ELECTIVE 2,,,,,,4,,,11
+43,ELECTIVE 3,,,,,,4,,,11
+44,ELECTIVE 4,,,,,,4,,,12
+45,ELECTIVE 5,,,,,,4,,,12

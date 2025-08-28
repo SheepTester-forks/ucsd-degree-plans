@@ -43,7 +43,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 34,BREADTH GE 7,,,,,,4,,,8
 35,BREADTH GE 8,,,,,,4,,,8
 36,ELECTIVE 5,,,,,,4,,,8
-9,CCE 120,CCE,120,,,,4,,,9
+9,CCE 120,CCE,120,8,,,4,,,9
 37,BREADTH GE 9,,,,,,4,,,9
 38,UD ELECTIVE,,,,,,4,,,10
 39,ELECTIVE 6,,,,,,4,,,10

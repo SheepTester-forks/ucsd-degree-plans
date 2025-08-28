@@ -32,23 +32,23 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,BREADTH GE 2,,,,,,4,,,3
 26,ELECTIVE 1,,,,,,4,,,3
 7,CCE 2,CCE,2,6,,,4,,,4
-27,ELECTIVE 2,,,,,,4,,,4
+27,JTCCER,,,,,,4,,,4
 28,BREADTH GE 3,,,,,,4,,,5
 29,BREADTH GE 4,,,,,,4,,,5
 8,CCE 3,CCE,3,7,,,4,,,6
-30,ELECTIVE 3,,,,,,4,,,6
+30,ELECTIVE 2,,,,,,4,,,6
 31,BREADTH GE 5,,,,,,4,,,7
 32,BREADTH GE 6,,,,,,4,,,7
-33,ELECTIVE 4,,,,,,4,,,7
+33,ELECTIVE 3,,,,,,4,,,7
 34,BREADTH GE 7,,,,,,4,,,8
 35,BREADTH GE 8,,,,,,4,,,8
-36,ELECTIVE 5,,,,,,4,,,8
-9,CCE 120,CCE,120,,,,4,,,9
+36,ELECTIVE 4,,,,,,4,,,8
+9,CCE 120,CCE,120,8,,,4,,,9
 37,BREADTH GE 9,,,,,,4,,,9
 38,UD ELECTIVE,,,,,,4,,,10
-39,ELECTIVE 6,,,,,,4,,,10
-40,ELECTIVE 7,,,,,,4,,,10
-41,ELECTIVE 8,,,,,,4,,,11
-42,ELECTIVE 9,,,,,,4,,,11
-43,ELECTIVE 10,,,,,,4,,,12
-44,ELECTIVE 11,,,,,,4,,,12
+39,ELECTIVE 5,,,,,,4,,,10
+40,ELECTIVE 6,,,,,,4,,,10
+41,ELECTIVE 7,,,,,,4,,,11
+42,ELECTIVE 8,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,12
+44,ELECTIVE 10,,,,,,4,,,12

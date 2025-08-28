@@ -1,0 +1,54 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GLBH 20,GLBH,20,,,,4,,,1
+8,MAJOR LD CORE,,,,,,4,,,3
+9,MAJOR LD STATISTICS,,,,,,4,,,5
+10,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 1,,,,,,4,,,7
+2,GLBH 148,GLBH,148,,,,4,,,7
+3,GLBH 181,GLBH,181,,,,4,,,8
+11,MAJOR CORE UD POLICY ANALYSIS,,,,,,4,,,8
+12,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 2,,,,,,4,,,8
+4,MGT 173,MGT,173,,,,4,,,9
+13,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 1,,,,,,4,,,9
+14,MAJOR UD ELECTIVE (SIGNIFICANT WRITING),,,,,,4,,,9
+15,MAJOR UD ELECTIVE (MEDICAL HUMANITIES),,,,,,4,,,10
+16,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 2,,,,,,4,,,10
+17,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 3,,,,,,4,,,11
+18,MAJOR UD ELECTIVE (GLOBAL PROCESSES),,,,,,4,,,11
+19,MAJOR UD ELECTIVE (ADDITIONAL),,,,,,4,,,12
+20,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+21,TMC LD GE 1,,,,,,4,,,1
+22,ELECTIVE 1,,,,,,4,,,1
+6,DOC 2,DOC,2,5,,,6,,,2
+23,TMC LD GE 2,,,,,,4,,,2
+24,TMC LD GE 3,,,,,,4,,,2
+25,ELECTIVE 2,,,,,,4,,,2
+7,DOC 3,DOC,3,6,,,6,,,3
+26,TMC LD GE 4,,,,,,4,,,3
+27,ELECTIVE 3,,,,,,4,,,3
+28,TMC LD GE 5,,,,,,4,,,4
+29,TMC LD GE 6,,,,,,4,,,4
+30,ELECTIVE 4,,,,,,4,,,4
+31,ELECTIVE 5,,,,,,4,,,4
+32,TMC LD GE 7,,,,,,4,,,5
+33,TMC LD GE 8,,,,,,4,,,5
+34,ELECTIVE 6,,,,,,4,,,5
+35,TMC LD BREADTH 1,,,,,,4,,,6
+36,JTCCER,,,,,,4,,,6
+37,ELECTIVE 7,,,,,,4,,,6
+38,ELECTIVE 8,,,,,,4,,,6
+39,TMC LD BREADTH 2,,,,,,4,,,7
+40,TMC UD BREADTH 1,,,,,,4,,,7
+41,TMC UD BREADTH 2,,,,,,4,,,8
+42,ELECTIVE 9,,,,,,4,,,10
+43,ELECTIVE 10,,,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

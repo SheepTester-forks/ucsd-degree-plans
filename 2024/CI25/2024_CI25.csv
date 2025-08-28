@@ -23,4 +23,4 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,UD MAJOR PRODUCTION COURSE 3,,,,,,4,,
 6,FILM 184A,FILM,184A,,,,4,,
 19,UD MAJOR PRODUCTION COURSE 4,,,,,,4,,
-7,FILM 184B,FILM,184B,,,,4,,
+7,FILM 184B,FILM,184B,6,,,4,,

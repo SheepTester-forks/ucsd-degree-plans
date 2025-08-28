@@ -1,0 +1,56 @@
+Curriculum,Molecular Synthesis,,,,,,,,,
+Degree Plan,Molecular Synthesis/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0599,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+4,MATH 20B,MATH,20B,2,,,4,,,2
+3,CHEM 6B,CHEM,6B,1;2,,,4,,,2
+7,MATH 20C,MATH,20C,4,,,4,,,3
+5,CHEM 6C,CHEM,6C,3,,,4,,,3
+6,CHEM 7LM / 7L,CHEM,7LM,3,,,4,,,3
+8,MATH 18,MATH,18,,,,4,,,4
+9,CHEM 41A,CHEM,41A,3,,,4,,,4
+10,PHYS 2A,PHYS,2A,2;2,,,4,,,4
+11,CHEM 41B,CHEM,41B,9,,,4,,,5
+12,CHEM 43A,CHEM,43A,6;9,,,4,,,5
+13,PHYS 2B,PHYS,2B,10;4,,,4,,,5
+14,MATH 20D,MATH,20D,7;8,,,4,,,6
+16,CHEM 41C,CHEM,41C,11,,,4,,,6
+17,PHYS 2C / 2D,PHYS,2C,10;7,,,4,,,6
+15,PHYS 2BL / 2CL,PHYS,2BL,10,,,2,,,6
+18,CHEM 100A,CHEM,100A,5;6,,,4,,,7
+19,CHEM 114A,CHEM,114A,9,,,4,,,7
+20,CHEM 120A,CHEM,120A,5;9,,,4,,,8
+21,CHEM 143B,CHEM,143B,12;11,,,4,,,8
+22,CHEM 120B,CHEM,120B,20,,,4,,,9
+23,CHEM 156,CHEM,156,16;20,,,4,,,9
+25,CHEM 126A,CHEM,126A,5;17;7,,,4,,,10
+26,CHEM 143C,CHEM,143C,12;11,,,4,,,10
+24,CHEM 152,CHEM,152,16,,,4,,,10
+28,CHEM 105A,CHEM,105A,18;15;25,,,4,,,11
+27,CHEM 126B,CHEM,126B,25,,,4,,,11
+35,MOLECULAR SYNTHESIS ELECTIVE,,,,,,4,,,11
+30,CHEM 123,CHEM,123,20;12;22,,,4,,,12
+29,CHEM 157,CHEM,157,16,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+36,BREADTH GE 1,,,,,,4,,,1
+37,DEI,,,,,,4,,,1
+31,CCE 1,CCE,1,,,,4,,,2
+38,BREADTH GE 2,,,,,,4,,,2
+39,BREADTH GE 3,,,,,,4,,,3
+32,CCE 2,CCE,2,31,,,4,,,4
+40,JTCCER,,,,,,4,,,5
+33,CCE 3,CCE,3,32,,,4,,,6
+41,BREADTH GE 4,,,,,,4,,,7
+42,BREADTH GE 5,,,,,,4,,,7
+43,BREADTH GE 6,,,,,,4,,,8
+44,ELECTIVE 1,,,,,,4,,,8
+34,CCE 120,CCE,120,33,,,4,,,9
+45,ELECTIVE 2,,,,,,2,,,10
+46,ELECTIVE 3,,,,,,4,,,12

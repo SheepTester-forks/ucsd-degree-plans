@@ -1,0 +1,55 @@
+Curriculum,Dance,,,,,,,,,
+Degree Plan,Dance/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0301,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD STUDIES 1,,,,,,4,,,1
+6,LD TDMV 1,,,,,,4,,,1
+1,TDPR 6,TDPR,6,,,,4,,,2
+7,LD TDMV 2,,,,,,4,,,3
+8,UD TDMV 1,,,,,,4,,,4
+9,LD STUDIES 2,,,,,,4,,,4
+10,UD TDPF,,,,,,4,,,5
+11,UD TDTR,,,,,,4,,,5
+12,UD TDHD 1,,,,,,4,,,6
+13,UD TDHD 2,,,,,,4,,,7
+14,UD TDMV 2,,,,,,4,,,7
+15,UD TDMV 3,,,,,,4,,,8
+2,TDDM 1,TDDM,1,,,,4,,,8
+16,UD TDDM,,,,,,4,,,9
+17,UD TDMV 4,,,,,,4,,,9
+18,UD TDMV 5,,,,,,4,,,10
+19,UD TDMV 6,,,,,,4,,,11
+20,UD TDMV 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MCWP 40,MCWP,40,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+4,MCWP 50,MCWP,50,3,,,4,,,2
+22,DEI,,,,,,4,,,2
+23,GE 2,,,,,,4,,,2
+24,GE 3,,,,,,4,,,3
+25,GE 4,,,,,,4,,,3
+26,JTCCER,,,,,,4,,,4
+27,GE 5,,,,,,4,,,4
+28,GE 6,,,,,,4,,,5
+29,GE 7,,,,,,4,,,5
+30,GE 8,,,,,,4,,,6
+31,GE 9,,,,,,4,,,6
+32,ELECTIVE 1,,,,,,4,,,6
+33,ELECTIVE 2,,,,,,4,,,7
+34,ELECTIVE 3,,,,,,4,,,7
+35,ELECTIVE 4,,,,,,4,,,8
+36,ELECTIVE 5,,,,,,4,,,8
+37,MUIR UPPER DIV ELECTIVE 1,,,,,,4,,,9
+38,ELECTIVE 6,,,,,,4,,,9
+39,MUIR UPPER DIV ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 7,,,,,,4,,,10
+41,ELECTIVE 8,,,,,,4,,,10
+42,MUIR UPPER DIV ELECTIVE 3,,,,,,4,,,11
+43,ELECTIVE 9,,,,,,4,,,11
+44,ELECTIVE 10,,,,,,4,,,12
+45,ELECTIVE 11,,,,,,4,,,12

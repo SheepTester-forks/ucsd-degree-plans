@@ -1,0 +1,54 @@
+Curriculum,Jewish Studies,,,,,,,,,
+Degree Plan,Jewish Studies/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0206,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,JWSP 1,JWSP,1,,,,5,,,1
+2,JWSP 2,JWSP,2,1,,,5,,,2
+3,JWSP 3,JWSP,3,2,,,5,,,3
+4,JWSP 104 1,JWSP,104,,,,4,,,4
+9,UD MAJOR ELECTIVE 1,,,,,,4,,,5
+10,UD MAJOR ELECTIVE 2,,,,,,4,,,5
+11,UD MAJOR ELECTIVE 3,,,,,,4,,,6
+12,UD MAJOR ELECTIVE 4,,,,,,4,,,6
+13,JWSP 104 2,JWSP,104,,,,4,,,7
+14,UD MAJOR ELECTIVE 5,,,,,,4,,,7
+15,UD MAJOR ELECTIVE 6,,,,,,4,,,8
+16,UD MAJOR ELECTIVE 7,,,,,,4,,,9
+17,JWSP 104 3,JWSP,104,,,,4,,,10
+18,UD MAJOR ELECTIVE 8,,,,,,4,,,11
+19,UD MAJOR ELECTIVE 9,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,CAT 1,CAT,1,,,,4,,,1
+20,GE 1,,,,,,4,,,1
+21,GE 2,,,,,,4,,,1
+6,CAT 2,CAT,2,5,,,6,,,2
+22,GE 3,,,,,,4,,,2
+7,CAT 3,CAT,3,6,,,6,,,3
+23,GE (DEI),,,,,,4,,,3
+24,GE 4,,,,,,4,,,4
+25,GE 5,,,,,,4,,,4
+26,GE 6,,,,,,4,,,4
+27,GE 7,,,,,,4,,,5
+28,ELECTIVE 1,,,,,,1,,,5
+29,GE 8,,,,,,4,,,6
+30,JTCCER,,,,,,4,,,6
+31,UD ELECTIVE,,,,,,4,,,7
+32,ELECTIVE 2,,,,,,4,,,7
+8,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,8
+33,ELECTIVE 3,,,,,,4,,,8
+34,ELECTIVE 4,,,,,,4,,,8
+35,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,9
+36,ELECTIVE 5,,,,,,4,,,9
+37,ELECTIVE 6,,,,,,4,,,9
+38,ELECTIVE 7,,,,,,4,,,10
+39,ELECTIVE 8,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,10
+41,ELECTIVE 10,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

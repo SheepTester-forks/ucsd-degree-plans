@@ -1,0 +1,55 @@
+Curriculum,Political Science/International Affairs,,,,,,,,,
+Degree Plan,Political Science/International Affairs/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0901,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,POLI 5D,POLI,5D,,,,4,,,1
+2,POLI 11D,POLI,11D,,,,4,,,2
+3,POLI 12D,POLI,12D,,,,4,,,3
+4,POLI 30D,POLI,30D,,,,4,,,4
+16,UD POLI INTERNATIONAL POLITICAL ECONOMY 1,,,,,,4,,,4
+17,GPS LANGUAGE 1,,,,,,4,,,4
+18,UD POLI INTERNATIONAL POLITICAL ECONOMY 2,,,,,,4,,,5
+19,UD POLI AMERICAN POLITICS 1,,,,,,4,,,5
+20,GPS LANGUAGE 2,,,,,,4,,,5
+21,UD POLI 1,,,,,,4,,,6
+22,UD POLI AMERICAN POLITICS 2,,,,,,4,,,6
+23,GPS LANGUAGE 3,,,,,,4,,,6
+24,UD POLI IR / CP 1,,,,,,4,,,7
+25,UD POLI 2,,,,,,4,,,7
+26,GPS LANGUAGE 4,,,,,,4,,,7
+27,UD POLI IR / CP 2,,,,,,4,,,8
+28,UD POLI 3,,,,,,4,,,8
+29,GPS LANGUAGE 5,,,,,,4,,,8
+30,GPS LANGUAGE 6,,,,,,4,,,9
+5,GPCO 401,GPCO,401,,,,4,,,10
+7,GPCO 412,GPCO,412,,,,4,,,10
+6,GPCO 453,GPCO,453,,,,4,,,10
+8,GPCO 400,GPCO,400,,,,4,,,11
+9,GPCO 415,GPCO,415,,,,4,,,11
+10,GPCO 454,GPCO,454,,,,4,,,11
+12,GPCO 403,GPCO,403,,,,4,,,12
+11,GPCO 410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+31,DEI,,,,,,4,,,1
+32,ALTERNATIVE 1,,,,,,4,,,1
+33,ELECTIVE 1,,,,,,4,,,1
+34,ALTERNATIVE 2,,,,,,4,,,2
+35,ALTERNATIVE 3,,,,,,4,,,2
+36,ELECTIVE 2,,,,,,4,,,2
+13,SYN 1 (CCER),SYN,1,,,,4,,,3
+37,ALTERNATIVE 4,,,,,,4,,,3
+38,ELECTIVE 3,,,,,,4,,,3
+14,SYN 2,SYN,2,13,,,4,,,4
+39,ELECTIVE 4,,,,,,4,,,5
+40,ELECTIVE 5,,,,,,4,,,6
+15,SYN 100,SYN,100,13;14,,,4,,,7
+41,ELECTIVE 6,,,,,,4,,,8
+42,ELECTIVE 7,,,,,,4,,,9
+43,ELECTIVE 8,,,,,,4,,,9
+44,HIGH - IMPACT,,,,,,4,,,10
+45,ELECTIVE 9,,,,,,4,,,12

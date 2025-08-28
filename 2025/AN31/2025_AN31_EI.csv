@@ -1,0 +1,55 @@
+Curriculum,Environmental Anthropology,,,,,,,,,
+Degree Plan,Environmental Anthropology/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,BILD 1,BILD,1,,,,4,,,1
+1,MATH / CS / CSS 1,CSS,1,,,,4,,,1
+4,BILD 2 / BILD 3,BILD,2,2,,,4,,,2
+3,MATH / CS / CSS 2,CSS,2,1,,,4,,,2
+15,LD ANTH COURSE 1,,,,,,4,,,3
+16,LD STATISTICS,,,,,,4,,,3
+5,CHEM 6A / SIO COURSE,CHEM,6A,,,,4,,,4
+17,LD ANTH COURSE 2,,,,,,4,,,4
+6,CHEM 6B / SIO COURSE,CHEM,6B,5,,,4,,,5
+7,CHEM 6C / SIO COURSE,CHEM,6C,6,,,4,,,6
+8,ANTH 101,ANTH,101,,,,4,,,7
+18,ENVIRONMENTAL CONCENTRATION 1,,,,,,4,,,7
+9,ANTH 102,ANTH,102,,,,4,,,8
+19,ENVIRONMENTAL CONCENTRATION 2,,,,,,4,,,8
+10,ANTH 103,ANTH,103,,,,4,,,9
+20,ENVIRONMENTAL CONCENTRATION 3,,,,,,4,,,9
+21,ANTH UD ELECTIVE 1,,,,,,4,,,10
+22,ANTH UD ELECTIVE 2,,,,,,4,,,10
+23,ENVIRONMENTAL SKILLS / METHODS 1,,,,,,4,,,10
+24,ANTH UD ELECTIVE 3,,,,,,4,,,11
+25,ENVIRONMENTAL SKILLS / METHODS 2,,,,,,4,,,11
+26,ANTH UD ELECTIVE 4,,,,,,4,,,12
+27,ANTH UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+28,DEI,,,,,,4,,,1
+11,CCE 1,CCE,1,,,,4,,,2
+29,JTCCER,,,,,,4,,,2
+30,BREADTH GE 1,,,,,,4,,,3
+31,ELECTIVE 1,,,,,,4,,,3
+12,CCE 2,CCE,2,11,,,4,,,4
+32,BREADTH GE 2,,,,,,4,,,4
+33,BREADTH GE 3,,,,,,4,,,5
+34,BREADTH GE 4,,,,,,4,,,5
+35,ELECTIVE 2,,,,,,4,,,5
+13,CCE 3,CCE,3,12,,,4,,,6
+36,BREADTH GE 5,,,,,,4,,,6
+37,ELECTIVE 3,,,,,,4,,,6
+38,BREADTH GE 6,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,7
+40,BREADTH GE 7,,,,,,4,,,8
+41,ELECTIVE 5,,,,,,4,,,8
+14,CCE 120,CCE,120,13,,,4,,,9
+42,ELECTIVE 6,,,,,,4,,,10
+43,UD ELECTIVE,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,11
+45,ELECTIVE 8,,,,,,4,,,12

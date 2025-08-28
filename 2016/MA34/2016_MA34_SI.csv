@@ -12,8 +12,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 3,MATH 20B,MATH,20B,1,,,4,,,2
 6,CSE 12,CSE,12,4,,,4,,,3
 5,MATH 20C,MATH,20C,3,,,4,,,3
-8,MATH 109,MATH,109,2;5,,,4,,,4
-7,ECE 15,ECE,15,,,,4,,,4
+7,MATH 109,MATH,109,2;5,,,4,,,4
+8,ECE 15,ECE,15,,,,4,,,4
 17,GE / DEI,,,,,,4,,,4
 9,CSE 20,CSE,20,4,,,4,,,5
 10,MATH 20D,MATH,20D,5,,,4,,,5

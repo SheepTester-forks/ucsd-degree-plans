@@ -32,7 +32,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 29,UD GEOSCIENCES ELECTIVE 7,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-18,MWW 11,MWW,11,,,,4,,,1
+18,MMW 11,MMW,11,,,,4,,,1
 30,GE 1,,,,,,4,,,1
 19,MMW 12,MMW,12,,,,6,,,2
 20,MMW 13,MMW,13,19,,,6,,,3

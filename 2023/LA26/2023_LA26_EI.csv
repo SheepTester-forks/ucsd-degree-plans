@@ -50,7 +50,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 41,ELECTIVE 7,,,,,,4,,,7
 42,ELECTIVE 8,,,,,,4,,,7
 43,ELECTIVE 9,,,,,,4,,,8
-16,CCE 120,CCE,120,,,,4,,,9
+16,CCE 120,CCE,120,15,,,4,,,9
 44,UD ELECTIVE 1,,,,,,4,,,10
 45,ELECTIVE 10,,,,,,4,,,10
 46,UD ELECTIVE 2,,,,,,4,,,11

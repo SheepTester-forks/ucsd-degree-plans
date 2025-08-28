@@ -1,0 +1,54 @@
+Curriculum,Urban Studies and Planning,,,,,,,,,
+Degree Plan,Urban Studies and Planning/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.1201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,USP 4 INTRODUCTION TO GEOGRAPHIC INFORMATION SYSTEMS,USP,4,,,,4,,,4
+2,USP 1: HISTORY OF US URBAN COMMUNITIES,USP,1,,,,4,,,4
+3,USP 30 URBAN STUDIES AND PLANNING COLLOQUIUM,USP,30,,,,2,,,5
+4,USP 2 URBAN WORLD SYSTEM / USP 6 INTRODUCTION TO GLOBAL ARCHITECTURE,USP,2,,,,4,,,5
+5,USP 3 THE CITY AND SOCIAL THEORY / USP 5 INTRODUCTION TO REAL ESTATE AND DEVELOPMENT PROCESS,USP,3,,,,4,,,6
+6,USP 60 THE PRACTICE OF PLANNING RESEARCH,USP,60,,,,4,,,6
+7,USP 124 LAND USE PLANNING,USP,124,,,,4,,,7
+14,USP THIRD FOUNDATION,,,,,,4,,,7
+8,USP 173 HISTORY OF URBAN PLANNING AND DESIGN,USP,173,,,,4,,,8
+15,USP TECHNICAL ELECTIVE,,,,,,4,,,8
+16,USP RESEARCH METHODS,,,,,,4,,,9
+17,USP UPPER DIVISION ELECTIVE 1,,,,,,4,,,9
+18,USP UPPER DIVISION ELECTIVE 2,,,,,,4,,,10
+9,USP 186 SENIOR SEQUENCE RESEARCH PROPOSAL (FALL ONLY),USP,186,7;6;3,,,6,,,10
+19,USP UPPER DIVISION ELECTIVE 3,,,,,,4,,,11
+10,USP 187 SENIOR SEQUENCE RESEARCH PROJECT (WINTER ONLY),USP,187,9,,,6,,,11
+20,USP UPPER DIVISION ELECTIVE 4,,,,,,4,,,12
+21,USP UPPER DIVISION ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+22,TMC LD GE 1,,,,,,4,,,1
+23,TMC LD GE 2,,,,,,4,,,1
+24,ELECTIVE 1,,,,,,4,,,1
+12,DOC 2,DOC,2,11,,,6,,,2
+25,TMC LD GE 3,,,,,,4,,,2
+26,TMC LD GE 4,,,,,,4,,,2
+27,ELECTIVE 2,,,,,,4,,,2
+13,DOC 3,DOC,3,12,,,6,,,3
+28,TMC LD GE 5,,,,,,4,,,3
+29,TMC LD GE 6,,,,,,4,,,3
+30,ELECTIVE 3,,,,,,4,,,3
+31,TMC LD GE 7,,,,,,4,,,4
+32,JTCCER,,,,,,4,,,4
+33,TMC LD GE 8,,,,,,4,,,5
+34,TMC LD BREADTH 1,,,,,,4,,,5
+35,TMC LD BREADTH 2,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,6
+37,TMC UD BREADTH 1,,,,,,4,,,7
+38,ELECTIVE 5,,,,,,4,,,7
+39,TMC UD BREADTH 2,,,,,,4,,,8
+40,ELECTIVE 6,,,,,,2,,,8
+41,UD ELECTIVE,,,,,,4,,,9
+42,ELECTIVE 7,,,,,,4,,,10
+43,ELECTIVE 8,,,,,,4,,,11
+44,ELECTIVE 9,,,,,,4,,,12

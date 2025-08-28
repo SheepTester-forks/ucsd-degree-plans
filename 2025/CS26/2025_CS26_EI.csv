@@ -1,0 +1,57 @@
+Curriculum,Computer Science,,,,,,,,,
+Degree Plan,Computer Science/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CSE 8A / 11,CSE,8A,,,,4,,,1
+19,CSE LD ELECTIVE 1,,,,,,2,,,1
+3,MATH 20B,MATH,20B,1,,,4,,,2
+4,CSE 11,CSE,11,,,,4,,,2
+20,CSE LD ELECTIVE 2,,,,,,2,,,2
+6,MATH 20C,MATH,20C,3,,,4,,,3
+5,CSE 12,CSE,12,4,,,4,,,3
+7,CSE 20,CSE,20,2,,,4,,,3
+8,CSE 21,CSE,21,7,,,4,,,4
+9,CSE 29,CSE,29,4,,,4,,,4
+21,CSE GENERAL SCIENCE,,,,,,4,,,4
+10,MATH 18,MATH,18,,,,4,,,5
+11,CSE 30,CSE,30,9,,,4,,,5
+12,CSE 100 / 100R,CSE,100,8;5;9,,,4,,,5
+14,CSE 101,CSE,101,8;5,,,4,,,6
+13,CSE 110,CSE,110,12,,,4,,,6
+22,CSE STATISTICS,,,,,,4,,,6
+23,CSE THEORY / ABSTRACTION UD ELECTIVE 1,,,,,,4,,,7
+24,CSE APPLICATIONS UD ELECTIVE 1,,,,,,4,,,7
+25,CSE SYSTEMS UD ELECTIVE 1,,,,,,4,,,7
+26,CSE THEORY / ABSTRACTION UD ELECTIVE 2,,,,,,4,,,8
+27,CSE APPLICATIONS UD ELECTIVE 2,,,,,,4,,,8
+28,CSE SYSTEMS UD ELECTIVE 2,,,,,,4,,,8
+29,CSE THEORY / ABSTRACTION UD ELECTIVE 3,,,,,,4,,,9
+30,CSE APPLICATIONS UD ELECTIVE 3,,,,,,4,,,9
+31,CSE SYSTEMS UD ELECTIVE 3,,,,,,4,,,9
+32,CSE OPEN UD ELECTIVE 1,,,,,,4,,,10
+33,CSE OPEN UD ELECTIVE 2,,,,,,4,,,10
+34,CSE OPEN UD ELECTIVE 3,,,,,,4,,,11
+35,CSE OPEN UD ELECTIVE 4,,,,,,4,,,11
+36,CSE OPEN UD ELECTIVE 5,,,,,,4,,,12
+37,CSE OPEN UD ELECTIVE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+38,DEI,,,,,,4,,,1
+15,CCE 1,CCE,1,,,,4,,,2
+39,BREADTH GE 1,,,,,,4,,,3
+16,CCE 2,CCE,2,15,,,4,,,4
+40,JTCCER,,,,,,4,,,5
+17,CCE 3,CCE,3,16,,,4,,,6
+41,BREADTH GE 2,,,,,,4,,,7
+42,BREADTH GE 3,,,,,,4,,,8
+18,CCE 120,CCE,120,17,,,4,,,9
+43,BREADTH GE 4,,,,,,4,,,10
+44,BREADTH GE 5,,,,,,4,,,10
+45,BREADTH GE 6,,,,,,4,,,11
+46,BREADTH GE 7,,,,,,4,,,11
+47,BREADTH GE 8,,,,,,4,,,12

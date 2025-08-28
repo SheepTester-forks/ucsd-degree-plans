@@ -1,0 +1,54 @@
+Curriculum,Biological Anthropology,,,,,,,,,
+Degree Plan,Biological Anthropology/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,45.0299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A - B - C / 20A - B - C 1,MATH,10A,,,,4,,,1
+2,BILD 1,BILD,1,,,,4,,,1
+16,MATH 10A - B - C / 20A - B - C 2,MATH,10A,,,,4,,,2
+3,BILD 2,BILD,2,2,,,4,,,2
+4,ANTH 2,ANTH,2,,,,4,,,3
+5,MATH 11 / PSYC 60,MATH,11,,,,4,,,3
+6,ANTH 43 / ANTH 42 / ANTH 5 / SOCI 70 / PSYC 1,ANTH,43,,,,4,,,4
+7,CHEM 6A,CHEM,6A,1,,,4,,,4
+8,CHEM 6B,CHEM,6B,7,,,4,,,5
+9,CHEM 6C,CHEM,6C,8,,,4,,,6
+10,ANTH 101,ANTH,101,,,,4,,,7
+17,ANBI CONCENTRATION 1,,,,,,4,,,7
+11,ANTH 102,ANTH,102,,,,4,,,8
+18,ANBI CONCENTRATION 2,,,,,,4,,,8
+19,ANBI CONCENTRATION 3,,,,,,4,,,9
+12,ANTH 103,ANTH,103,,,,4,,,9
+20,ANBI SKILLS / METHODS,,,,,,4,,,10
+21,ANBI CONCENTRATION 4,,,,,,4,,,10
+22,ANTH UD ELECTIVE 1,,,,,,4,,,11
+23,ANTH UD ELECTIVE 2,,,,,,4,,,11
+24,ANTH UD ELECTIVE 3,,,,,,4,,,12
+25,ANTH UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+26,TMC LD GE 1,,,,,,4,,,1
+14,DOC 2,DOC,2,13,,,6,,,2
+27,TMC LD GE 2,,,,,,4,,,2
+15,DOC 3,DOC,3,14,,,6,,,3
+28,TMC LD GE 3,,,,,,4,,,3
+29,TMC LD GE 4,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,4
+31,TMC LD BREADTH 1,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,TMC LD BREADTH 2,,,,,,4,,,6
+35,ELECTIVE 4,,,,,,4,,,6
+36,ELECTIVE 5,,,,,,4,,,6
+37,TMC UD BREADTH 1,,,,,,4,,,7
+38,JTCCER,,,,,,4,,,7
+39,TMC UD BREADTH 2,,,,,,4,,,8
+40,UD ELECTIVE,,,,,,4,,,9
+41,ELECTIVE 6,,,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,11
+43,ELECTIVE 8,,,,,,4,,,12
+44,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,57 @@
+Curriculum,Neurobiology,,,,,,,,,
+Degree Plan,Neurobiology/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1599,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,BILD 4,BILD,4,,,,2,,,1
+3,MATH 10A / MATH 20A,MATH,10A,,,,4,,,1
+4,CHEM 6B,CHEM,6B,1;3,,,4,,,2
+5,BILD 5,BILD,5,,,,4,,,2
+6,MATH 10B / MATH 20B,MATH,10B,3,,,4,,,2
+7,CHEM 6C,CHEM,6C,4,,,4,,,3
+8,MATH 11,MATH,11,6,,,5,,,3
+9,CHEM 7L,CHEM,7L,4,,,4,,,3
+10,PHYS 1A,PHYS,1A,3,,,3,,,4
+11,PHYS 1AL,PHYS,1AL,3,,,2,,,4
+12,BILD 3,BILD,3,,,,4,,,4
+13,BILD 1,BILD,1,,,,4,,,4
+14,CHEM 40A,CHEM,40A,4,,,4,,,5
+15,BILD 2,BILD,2,13,,,4,,,5
+16,PHYS 1B,PHYS,1B,6;10,,,3,,,5
+17,PHYS 1BL,PHYS,1BL,6;10;11,,,2,,,5
+18,PHYS 1C,PHYS,1C,6;16,,,3,,,6
+19,PHYS 1CL,PHYS,1CL,6;16;17,,,2,,,6
+20,BICD 100,BICD,100,13;12,,,4,,,6
+21,CHEM 40B,CHEM,40B,14,,,4,,,6
+22,BIBC 102 / CHEM 114B,BIBC,102,14;21,,,4,,,7
+23,BIPN 140,BIPN,140,13;15,,,4,,,7
+24,BIPN 100,BIPN,100,13;15,,,4,,,8
+25,BIPN 145,BIPN,145,8;2;15,,,4,,,8
+26,BIMM 100,BIMM,100,13;2;14;21,,,4,,,9
+30,UD BIOLOGY LAB,,,,,,4,,,9
+31,UD NEURO CORE 1,,,,,,4,,,10
+32,UD NEURO CORE 2,,,,,,4,,,10
+33,UD NEURO CORE 3,,,,,,4,,,11
+34,UD BIOLOGY ELECTIVE 1,,,,,,4,,,11
+35,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+27,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+28,DOC 2,DOC,2,27,,,6,,,2
+29,DOC 3,DOC,3,28,,,6,,,3
+36,TMC LD GE 1,,,,,,4,,,4
+37,TMC LD GE 2,,,,,,4,,,5
+38,TMC LD GE 3,,,,,,4,,,6
+39,TMC LD BREADTH 1,,,,,,4,,,7
+40,ELECTIVE 1,,,,,,4,,,7
+41,TMC LD BREADTH 2,,,,,,4,,,8
+42,ELECTIVE 2,,,,,,4,,,8
+43,JTCCER,,,,,,4,,,9
+44,TMC UD BREADTH 1,,,,,,4,,,10
+45,TMC UD BREADTH 2,,,,,,4,,,11
+46,ELECTIVE 3,,,,,,4,,,12
+47,ELECTIVE 4,,,,,,4,,,12

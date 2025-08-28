@@ -1,0 +1,54 @@
+Curriculum,Dance,,,,,,,,,
+Degree Plan,Dance/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0301,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,LD STUDIES 1,,,,,,4,,,1
+7,LD TDMV 1,,,,,,4,,,1
+1,TDPR 6,TDPR,6,,,,4,,,2
+8,LD TDMV 2,,,,,,4,,,3
+9,UD TDMV 1,,,,,,4,,,4
+10,LD STUDIES 2,,,,,,4,,,4
+11,UD TDPF,,,,,,4,,,5
+12,UD TDTR,,,,,,4,,,5
+13,UD TDHD 1,,,,,,4,,,6
+14,UD TDHD 2,,,,,,4,,,7
+15,UD TDMV 2,,,,,,4,,,7
+16,UD TDMV 3,,,,,,4,,,8
+2,TDDM 1,TDDM,1,,,,4,,,8
+17,UD TDDM,,,,,,4,,,9
+18,UD TDMV 4,,,,,,4,,,9
+19,UD TDMV 5,,,,,,4,,,10
+20,UD TDMV 6,,,,,,4,,,11
+21,UD TDMV 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+22,TMC LD GE 1,,,,,,4,,,1
+4,DOC 2,DOC,2,3,,,6,,,2
+23,TMC LD GE 2,,,,,,4,,,2
+24,TMC LD GE 3,,,,,,4,,,2
+5,DOC 3,DOC,3,4,,,6,,,3
+25,TMC LD GE 4,,,,,,4,,,3
+26,TMC LD GE 5,,,,,,4,,,3
+27,TMC LD GE 6,,,,,,4,,,4
+28,ELECTIVE 1,,,,,,4,,,4
+29,TMC LD GE 7,,,,,,4,,,5
+30,ELECTIVE 2,,,,,,4,,,5
+31,TMC LD GE 8,,,,,,4,,,6
+32,TMC LD BREADTH 1,,,,,,4,,,6
+33,ELECTIVE 3,,,,,,4,,,6
+34,TMC LD BREADTH 2,,,,,,4,,,7
+35,JTCCER,,,,,,4,,,7
+36,TMC UD BREADTH 1,,,,,,4,,,8
+37,ELECTIVE 4,,,,,,4,,,8
+38,TMC UD BREADTH 2,,,,,,4,,,9
+39,UD ELECTIVE,,,,,,4,,,10
+40,ELECTIVE 5,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,11
+42,ELECTIVE 7,,,,,,4,,,11
+43,ELECTIVE 8,,,,,,4,,,12
+44,ELECTIVE 9,,,,,,4,,,12

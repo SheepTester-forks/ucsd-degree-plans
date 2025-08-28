@@ -9,45 +9,45 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 1,JWSP 1,JWSP,1,,,,4,,,1
 16,GE 1,,,,,,4,,,1
 17,GE 2,,,,,,4,,,1
-2,JWSP 2,JWSP,2,,,,4,,,2
 18,GE 3,,,,,,4,,,2
 19,GE 4,,,,,,4,,,2
+2,JWSP 2,JWSP,2,,,,4,,,2
 3,JWSP 3,JWSP,3,,,,4,,,3
 20,GE 5,,,,,,4,,,3
 21,GE 6,,,,,,4,,,3
-4,JWSP 101,JWSP,101,3,,,4,,,4
 22,GE 7,,,,,,4,,,4
 23,ELECTIVE 1,,,,,,4,,,4
 24,ELECTIVE 2,,,,,,4,,,4
+4,JWSP 101,JWSP,101,3,,,4,,,4
 5,JWSP 102,JWSP,102,,,,4,,,5
 6,SOCI 188I,SOCI,188I,,,,4,,,5
 25,GE 8,,,,,,4,,,5
 26,ELECTIVE 3,,,,,,4,,,5
-7,JWSP 103,JWSP,103,5,,,4,,,6
-8,LTRU 110C,LTRU,110C,,,,4,,,6
 27,GE 9,,,,,,4,,,6
 28,ELECTIVE 4,,,,,,4,,,6
+7,JWSP 103,JWSP,103,5,,,4,,,6
+8,LTRU 110C,LTRU,110C,,,,4,,,6
 9,HINE 100,HINE,100,,,,4,,,7
 29,MUIR UD ELECTIVE 1,,,,,,4,,,7
 30,ELECTIVE 5,,,,,,4,,,7
 31,ELECTIVE 6,,,,,,4,,,7
-10,ANAR 103,ANAR,103,,,,4,,,8
 32,MUIR UD ELECTIVE 2,,,,,,4,,,8
 33,ELECTIVE 7,,,,,,4,,,8
 34,ELECTIVE 8,,,,,,4,,,8
+10,ANAR 103,ANAR,103,,,,4,,,8
 11,HINE 115,HINE,115,,,,4,,,9
 35,MUIR UD ELECTIVE 3,,,,,,4,,,9
 36,ELECTIVE 9,,,,,,4,,,9
 37,ELECTIVE 10,,,,,,4,,,9
+38,ELECTIVE 11,,,,,,4,,,10
 12,HIEU 145,HIEU,145,,,,4,,,10
 13,HINE 104,HINE,104,,,,4,,,10
-38,ELECTIVE 11,,,,,,4,,,10
 14,LTWL 148,LTWL,148,,,,4,,,11
 39,ELECTIVE 12,,,,,,4,,,11
 40,ELECTIVE 13,,,,,,4,,,11
-15,ANAR 143,ANAR,143,,,,4,,,12
 41,ELECTIVE 14,,,,,,4,,,12
 42,ELECTIVE 15,,,,,,4,,,12
+15,ANAR 143,ANAR,143,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 43,GE / WRITING 1,,,,,,4,,,1

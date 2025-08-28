@@ -1,0 +1,58 @@
+Curriculum,Interdisciplinary Computing and the Arts,,,,,,,,,
+Degree Plan,Interdisciplinary Computing and the Arts/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,VIS 41,VIS,41,,,,4,,,1
+12,LD THEORY AND HISTORY,,,,,,4,,,2
+2,CSE 11,CSE,11,,,,4,,,2
+3,MUS 43 1,MUS,43,,,,1,,,3
+13,LD RESTRICTED ELECTIVE,,,,,,4,,,3
+14,MUS 43 2,MUS,43,,,,1,,,4
+4,MATH 20A,MATH,20A,,,,4,,,4
+15,LD RESTRICTIVE ELECTIVE,,,,,,4,,,4
+16,MUS 43 3,MUS,43,,,,1,,,5
+5,MATH 20B,MATH,20B,4,,,4,,,5
+17,LD BEGINNING PRACTICE,,,,,,4,,,5
+18,MUS 43 4,MUS,43,,,,1,,,6
+19,MUS UD HISTORY,,,,,,4,,,6
+20,MUS UD FOUNDATION 1,,,,,,4,,,7
+21,MUS UD FOUNDATION 2,,,,,,4,,,8
+22,MUS UD THEORY & HISTORY,,,,,,4,,,8
+23,MUS UD FOUNDATION 3,,,,,,4,,,9
+24,MUS UD PRACTICE 1,,,,,,4,,,9
+25,MUS UD ADVANCED PRACTICE,,,,,,4,,,10
+26,MUS UD PRACTICE 2,,,,,,4,,,10
+6,MUS 160A,MUS,160A,,,,4,,,11
+27,MUS UD ELECTIVE 1,,,,,,4,,,11
+7,MUS 160B,MUS,160B,6,,,4,,,12
+28,MUS UD ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,WCWP 10A,WCWP,10A,,,,4,,,1
+29,GE 1,,,,,,4,,,1
+30,ELECTIVE 1,,,,,,4,,,1
+9,WCWP 10B,WCWP,10B,8,,,4,,,2
+31,GE 2,,,,,,4,,,2
+10,PHIL 27 / POLI 27,PHIL,27,8;9,,,4,,,3
+32,GE 3,,,,,,4,,,3
+11,PHIL 28 / POLI 28,PHIL,28,10,,,4,,,4
+33,GE / JTCCER,,,,,,4,,,5
+34,GE / DEI,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,GE 4,,,,,,4,,,7
+37,GE 5,,,,,,4,,,7
+38,ELECTIVE 3,,,,,,4,,,7
+39,GE 6,,,,,,4,,,8
+40,ELECTIVE 4,,,,,,4,,,8
+41,GE 7,,,,,,4,,,9
+42,ELECTIVE 5,,,,,,4,,,9
+43,GE 8,,,,,,4,,,10
+44,ELECTIVE 6,,,,,,4,,,10
+45,GE 9,,,,,,4,,,11
+46,ELECTIVE 7,,,,,,4,,,11
+47,GE 10,,,,,,4,,,12
+48,ELECTIVE 8,,,,,,4,,,12

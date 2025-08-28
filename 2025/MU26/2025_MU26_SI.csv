@@ -1,0 +1,64 @@
+Curriculum,Music Humanities,,,,,,,,,
+Degree Plan,Music Humanities/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MUS 43 1,MUS,43,,,,1,,,1
+2,MUS 1A / 2A,MUS,1A,,,,4,,,1
+12,MUS 43 2,MUS,43,,,,1,,,2
+3,MUS 1B / 2B,MUS,1B,2,,,4,,,2
+13,MUS 43 3,MUS,43,,,,1,,,3
+4,MUS 1C / 2C,MUS,1C,3,,,4,,,3
+14,ENSEMBLE 1,,,,,,4,,,4
+15,MUS 43 4,MUS,43,,,,1,,,4
+5,MUS 120A,MUS,120A,4,,,4,,,4
+16,ENSEMBLE 2,,,,,,4,,,5
+17,MUS 43 5,MUS,43,,,,1,,,5
+6,MUS 120B,MUS,120B,5,,,4,,,5
+18,ENSEMBLE 3,,,,,,4,,,6
+19,MUS 43 6,MUS,43,,,,1,,,6
+7,MUS 120C,MUS,120C,6,,,4,,,6
+20,MUS 43 7,MUS,43,,,,1,,,7
+21,MUS UD FOCUS COURSE 1,,,,,,4,,,7
+22,MUS 43 8,MUS,43,,,,1,,,8
+23,MUS UD FOCUS COURSE 2,,,,,,4,,,8
+24,MUS 43 9,MUS,43,,,,1,,,9
+25,MUS UD FOCUS COURSE 3,,,,,,4,,,9
+26,MUS 43 10,MUS,43,,,,1,,,10
+27,MUS UD FOCUS COURSE 4,,,,,,4,,,10
+28,MUS UD ELECTIVE 1,,,,,,4,,,10
+29,MUS 43 11,MUS,43,,,,1,,,11
+30,MUS UD ELECTIVE 2,,,,,,4,,,11
+31,MUS UD FOCUS COURSE 5,,,,,,4,,,11
+32,MUS 43 12,MUS,43,,,,1,,,12
+33,MUS UD ELECTIVE 3,,,,,,4,,,12
+34,MUS UD FOCUS COURSE 6,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,CAT 1,CAT,1,,,,4,,,1
+35,GE 1,,,,,,4,,,1
+9,CAT 2,CAT,2,8,,,6,,,2
+36,GE 2,,,,,,4,,,2
+10,CAT 3,CAT,3,9,,,6,,,3
+37,GE 3,,,,,,4,,,3
+38,GE 4,,,,,,4,,,4
+39,ELECTIVE 1,,,,,,4,,,4
+40,GE 5,,,,,,4,,,5
+41,ELECTIVE 2,,,,,,2,,,5
+42,ELECTIVE 3,,,,,,4,,,6
+43,GE (DEI),,,,,,4,,,7
+44,GE 6,,,,,,4,,,7
+45,ELECTIVE 4,,,,,,2,,,7
+11,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,8
+46,GE 7,,,,,,4,,,8
+47,ELECTIVE 5,,,,,,4,,,8
+48,JTCCER,,,,,,4,,,9
+49,GE 8,,,,,,4,,,9
+50,UD ELECTIVE,,,,,,4,,,9
+51,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,10
+52,ELECTIVE 6,,,,,,4,,,10
+53,ELECTIVE 7,,,,,,4,,,11
+54,ELECTIVE 8,,,,,,4,,,12

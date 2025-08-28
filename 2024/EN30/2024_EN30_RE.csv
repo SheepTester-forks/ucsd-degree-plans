@@ -21,7 +21,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 14,MGT 45,MGT,45,,,,4,,,6
 15,MGT 71,MGT,71,,,,4,,,6
 18,MGT 164,MGT,164,,,,4,,,7
-19,MGT 100,MGT,100,11,,,4,,,7
+19,MGT 100,MGT,100,9,,,4,,,7
 16,MGT 160,MGT,160,9;1,,,4,,,8
 25,UD MAJOR ELECTIVE 1,,,,,,4,,,8
 17,MGT 162 / 162R,MGT,162,,,,4,,,9

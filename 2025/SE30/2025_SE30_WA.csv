@@ -1,0 +1,57 @@
+Curriculum,Structural Engineering with a Specialization in Geotechnical Engineering,,,,,,,,,
+Degree Plan,Structural Engineering with a Specialization in Geotechnical Engineering/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0803,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,SE 1,SE,1,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,MATH 20A,MATH,20A,,,,4,,,1
+4,MATH 20B,MATH,20B,3,,,4,,,2
+5,PHYS 2A,PHYS,2A,3;3,,,4,,,2
+6,MATH 18,MATH,18,,,,4,,,2
+7,PHYS 2BL,PHYS,2BL,5,,,2,,,3
+8,PHYS 2B,PHYS,2B,5;4,,,4,,,3
+9,SE 3,SE,3,,,,4,,,3
+10,MATH 20C,MATH,20C,4,,,4,,,3
+11,MATH 20D,MATH,20D,10;6,,,4,,,4
+12,SE 101A,SE,101A,5;10,,,4,,,4
+13,PHYS 2C,PHYS,2C,5;10,,,4,,,4
+14,PHYS 2CL,PHYS,2CL,5;8,,,2,,,4
+15,SE 9,SE,9,3;4,,,4,,,5
+16,SE 101B,SE,101B,12,,,4,,,5
+17,SE 110A,SE,110A,12;11,,,4,,,5
+18,SE 105,SE,105,1;12,,,5,,,6
+19,SE 110B,SE,110B,17,,,4,,,6
+20,MATH 20E,MATH,20E,6;10,,,4,,,6
+21,SE 101C,SE,101C,16;6,,,4,,,7
+22,SE 130A,SE,130A,17,,,4,,,7
+23,SE 125,SE,125,11;6,,,4,,,7
+41,GE 1,,,,,,4,,,7
+24,SE 102,SE,102,15;12,,,4,,,8
+25,SE 103 AS TECHNICAL ELECTIVE,SE,103,15;12;18;9,,,4,,,8
+26,SE 115,SE,115,5;11,,,4,,,8
+42,GE / JTCCER,,,,,,4,,,8
+27,SE 131A,SE,131A,20;19;9,,,4,,,9
+28,SE 150A AS TECHNICAL ELECTIVE,SE,150A,22;19,,,4,,,9
+29,SE 130B,SE,130B,22;6,,,4,,,9
+43,GE / DEI,,,,,,4,,,9
+30,SE 131B,SE,131B,27;21;29,,,4,,,10
+31,SE 181 (FS),SE,181,17,,,4,,,10
+44,TECHNICAL ELECTIVE,,,,,,4,,,10
+45,GE 2,,,,,,4,,,10
+32,SE 140A,SE,140A,29;28,,,4,,,11
+33,SE 182 (FS),SE,182,31,,,4,,,11
+34,SE 151A (FS),SE,151A,22,,,4,,,11
+46,GE 3,,,,,,4,,,11
+35,SE 140B,SE,140B,32;34;31,,,4,,,12
+36,SE 184 (FS),SE,184,31,,,4,,,12
+47,GE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,WCWP 10A,WCWP,10A,,,,4,,,1
+38,WCWP 10B,WCWP,10B,37,,,4,,,2
+39,PHIL 27 / POLI 27,PHIL,27,37;38,,,4,,,5
+40,PHIL 28 / POLI 28,PHIL,28,39,,,4,,,6

@@ -23,10 +23,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,PHYS 1BL,PHYS,1BL,6;11;12,,,2,,,5
 14,CHEM 40B,CHEM,40B,10,,,4,,,5
 15,BILD 3,BILD,3,,,,4,,,5
+30,JTCCER,,,,,,4,,,5
 18,PHYS 1C,PHYS,1C,6;16,,,3,,,6
 19,PHYS 1CL,PHYS,1CL,6;16;17,,,2,,,6
 20,BICD 100,BICD,100,13;15,,,4,,,6
-30,ELECTIVE 1,,,,,,4,,,6
 21,BIBC 100 / CHEM 114A,BIBC,100,10;14,,,4,,,7
 31,UD MCB CORE 1,,,,,,4,,,7
 22,BIBC 102 / CHEM 114B,BIBC,102,10;14,,,4,,,8
@@ -44,15 +44,15 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 26,CCE 1,CCE,1,,,,4,,,2
 38,BREADTH GE 1,,,,,,4,,,3
 27,CCE 2,CCE,2,26,,,4,,,4
-39,BREADTH GE 2,,,,,,4,,,5
 28,CCE 3,CCE,3,27,,,4,,,6
+39,BREADTH GE 2,,,,,,4,,,6
 40,BREADTH GE 3,,,,,,4,,,7
 41,BREADTH GE 4,,,,,,4,,,7
 42,BREADTH GE 5,,,,,,4,,,8
-43,ELECTIVE 2,,,,,,4,,,8
-29,CCE 120,CCE,120,,,,4,,,9
+43,ELECTIVE 1,,,,,,4,,,8
+29,CCE 120,CCE,120,28,,,4,,,9
 44,BREADTH GE 6,,,,,,4,,,10
-45,ELECTIVE 3,,,,,,2,,,10
+45,ELECTIVE 2,,,,,,2,,,10
 46,UD ELECTIVE 1,,,,,,4,,,11
 47,UD ELECTIVE 2,,,,,,4,,,12
-48,ELECTIVE 4,,,,,,4,,,12
+48,ELECTIVE 3,,,,,,4,,,12

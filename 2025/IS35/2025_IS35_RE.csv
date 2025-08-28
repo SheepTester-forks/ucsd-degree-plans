@@ -1,0 +1,53 @@
+Curriculum,International Studies - International Business,,,,,,,,,
+Degree Plan,International Studies - International Business/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10 / 20A,MATH,10,,,,4,,,1
+24,LANGUAGE 1,,,,,,5,,,1
+25,MATH 10 / 20B,MATH,10,,,,4,,,2
+26,LANGUAGE 2,,,,,,5,,,2
+27,MATH 10 / 20C,MATH,10,,,,4,,,3
+28,LANGUAGE 3,,,,,,5,,,3
+2,MGT / ECON 4,ECON,4,,,,4,,,4
+29,LANGUAGE 4,,,,,,5,,,4
+3,MGT 5,MGT,5,,,,4,,,5
+30,LANGUAGE 5,,,,,,4,,,5
+31,LANGUAGE 6,,,,,,4,,,6
+6,INTL 100,INTL,100,19,,,4,,,7
+5,MGT 103,MGT,103,,,,4,,,7
+4,MGT 164,MGT,164,,,,4,,,7
+32,POLI / REGIONAL REQUIREMENT 1,,,,,,4,,,7
+7,INTL 101 / 102 1,INTL,101,6,,,4,,,8
+9,MGT 166,MGT,166,,,,4,,,8
+8,MGT 181,MGT,181,3;2,,,4,,,8
+33,INTL 101 / 102 2,INTL,101,6,,,4,,,9
+10,MGT 112,MGT,112,5;8,,,4,,,9
+34,POLI / REGIONAL REQUIREMENT 2,,,,,,4,,,9
+11,GPCO401,GPCO,401,,,,4,,,10
+12,GPCO453,GPCO,453,,,,4,,,10
+13,GPCO412,GPCO,412,,,,4,,,10
+14,GPCO400,GPCO,400,,,,4,,,11
+15,GPCO454,GPCO,454,,,,4,,,11
+16,GPCO404,GPCO,404,,,,4,,,11
+17,GPCO403,GPCO,403,,,,4,,,12
+18,GPCO410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+35,BIOLOGY GE,,,,,,4,,,1
+19,HUM 1,HUM,1,,,,6,,,2
+36,CHEMISTRY GE,,,,,,4,,,2
+20,HUM 2,HUM,2,,,,6,,,3
+37,PHYSICS GE,,,,,,4,,,3
+21,HUM 3,HUM,3,19,,,4,,,4
+22,HUM 4,HUM,4,,,,4,,,5
+38,NATURAL SCIENCE GE / JTCCER,,,,,,4,,,5
+23,HUM 5,HUM,5,,,,4,,,6
+39,NATURAL SCIENCE GE,,,,,,4,,,6
+40,SOCIAL SCIENCE GE / DEI,,,,,,4,,,6
+41,ELECTIVE 1,,,,,,4,,,10
+42,FINE ARTS GE,,,,,,4,,,12
+43,ELECTIVE 2,,,,,,4,,,12

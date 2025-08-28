@@ -1,0 +1,54 @@
+Curriculum,Cinematic Arts,,,,,,,,,
+Degree Plan,Cinematic Arts/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0601,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,LD MAJOR CORE COURSE 1,,,,,,4,,,1
+11,LD MAJOR CORE COURSE 2,,,,,,4,,,2
+1,VIS 84,VIS,84,,,,4,,,3
+12,LD MAJOR CORE COURSE 3,,,,,,4,,,3
+13,LD MAJOR ELECTIVE 1,,,,,,4,,,4
+14,LD MAJOR ELECTIVE 2,,,,,,4,,,5
+15,LD MAJOR ELECTIVE 3,,,,,,4,,,6
+16,UD MAJOR STUDIES AND HISTORY COURSE 1,,,,,,4,,,7
+17,UD MAJOR PRODUCTION COURSE 1,,,,,,4,,,7
+18,UD MAJOR STUDIES AND HISTORY COURSE 2,,,,,,4,,,7
+19,UD MAJOR PRODUCTION COURSE 2,,,,,,4,,,8
+20,UD MAJOR STUDIES AND HISTORY COURSE 3,,,,,,4,,,8
+21,UD MAJOR STUDIES AND HISTORY COURSE 4,,,,,,4,,,8
+22,UD MAJOR PRODUCTION COURSE 3,,,,,,4,,,9
+23,UD MAJOR PRODUCTION COURSE 4,,,,,,4,,,9
+24,UD MAJOR STUDIES AND HISTORY COURSE 5,,,,,,4,,,9
+2,FILM 170,FILM,170,,,,4,,,10
+3,FILM 184A,FILM,184A,,,,4,,,11
+4,FILM 184B,FILM,184B,3,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,MMW 11,MMW,11,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+26,GE 2,,,,,,4,,,1
+6,MMW 12,MMW,12,,,,6,,,2
+27,GE 3,,,,,,4,,,2
+7,MMW 13,MMW,13,6,,,6,,,3
+28,GE 4,,,,,,4,,,4
+29,GE 5,,,,,,4,,,4
+30,GE 6,,,,,,4,,,4
+8,MMW 14,MMW,14,6;7,,,4,,,5
+31,GE 7,,,,,,4,,,5
+32,GE 8,,,,,,4,,,5
+9,MMW 15,MMW,15,6;7,,,4,,,6
+33,GE 9,,,,,,4,,,6
+34,GE 10,,,,,,4,,,6
+35,GE 11,,,,,,4,,,7
+36,DEI,,,,,,4,,,8
+37,ELECTIVE 1,,,,,,4,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,ELECTIVE 2,,,,,,4,,,10
+40,ELECTIVE 3,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,UD ELECTIVE 3,,,,,,4,,,11
+43,UD ELECTIVE 4,,,,,,4,,,12
+44,UD ELECTIVE 5,,,,,,4,,,12

@@ -1,0 +1,54 @@
+Curriculum,Chicanx and Latinx Studies,,,,,,,,,
+Degree Plan,Chicanx and Latinx Studies/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,05.0203,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+4,LD MAJOR COURSE 1,,,,,,4,,,1
+5,LD MAJOR COURSE 2,,,,,,4,,,5
+6,UD MAJOR ELECTIVE 1,,,,,,4,,,7
+7,UD MAJOR ELECTIVE 2,,,,,,4,,,7
+8,UD MAJOR ELECTIVE 3,,,,,,4,,,8
+9,UD MAJOR ELECTIVE 4,,,,,,4,,,8
+10,UD MAJOR ELECTIVE 5,,,,,,4,,,9
+11,UD MAJOR ELECTIVE 6,,,,,,4,,,9
+12,UD MAJOR ELECTIVE 7,,,,,,4,,,10
+13,UD MAJOR COURSE 1,,,,,,4,,,10
+14,UD MAJOR ELECTIVE 8,,,,,,4,,,11
+15,UD MAJOR COURSE 2,,,,,,4,,,11
+16,UD MAJOR ELECTIVE 9,,,,,,4,,,12
+17,UD MAJOR COURSE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+18,TMC LD GE 1,,,,,,4,,,1
+19,ELECTIVE 1,,,,,,4,,,1
+2,DOC 2,DOC,2,1,,,6,,,2
+20,TMC LD GE 2,,,,,,4,,,2
+21,TMC LD GE 3,,,,,,4,,,2
+22,ELECTIVE 2,,,,,,4,,,2
+3,DOC 3,DOC,3,2,,,6,,,3
+23,TMC LD GE 4,,,,,,4,,,3
+24,TMC LD GE 5,,,,,,4,,,3
+25,ELECTIVE 3,,,,,,4,,,3
+26,TMC LD GE 6,,,,,,4,,,4
+27,TMC LD GE 7,,,,,,4,,,4
+28,ELECTIVE 4,,,,,,4,,,4
+29,ELECTIVE 5,,,,,,4,,,4
+30,TMC LD GE 8,,,,,,4,,,5
+31,JTCCER,,,,,,4,,,5
+32,ELECTIVE 6,,,,,,4,,,5
+33,TMC LD BREADTH 1,,,,,,4,,,6
+34,TMC LD BREADTH 2,,,,,,4,,,6
+35,ELECTIVE 7,,,,,,4,,,6
+36,ELECTIVE 8,,,,,,4,,,6
+37,TMC UD BREADTH 1,,,,,,4,,,7
+38,ELECTIVE 9,,,,,,4,,,7
+39,TMC UD BREADTH 2,,,,,,4,,,8
+40,ELECTIVE 10,,,,,,4,,,8
+41,UD ELECTIVE,,,,,,4,,,9
+42,ELECTIVE 11,,,,,,4,,,10
+43,ELECTIVE 12,,,,,,4,,,11
+44,ELECTIVE 13,,,,,,4,,,12

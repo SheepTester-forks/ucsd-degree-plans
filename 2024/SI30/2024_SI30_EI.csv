@@ -39,18 +39,18 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,DEI,,,,,,4,,,1
 20,CCE 1,CCE,1,,,,4,,,2
 21,CCE 2,CCE,2,20,,,4,,,4
-34,BREADTH GE 1,,,,,,4,,,5
+34,JTCCER,,,,,,4,,,5
 22,CCE 3,CCE,3,21,,,4,,,6
-35,ELECTIVE 1,,,,,,4,,,6
+35,BREADTH GE 1,,,,,,4,,,6
 36,BREADTH GE 2,,,,,,4,,,7
 37,BREADTH GE 3,,,,,,4,,,7
 38,BREADTH GE 4,,,,,,4,,,8
-39,ELECTIVE 2,,,,,,4,,,8
-23,CCE 120,CCE,120,,,,4,,,9
+39,ELECTIVE 1,,,,,,4,,,8
+23,CCE 120,CCE,120,22,,,4,,,9
 40,BREADTH GE 5,,,,,,4,,,9
 41,BREADTH GE 6,,,,,,4,,,10
-42,ELECTIVE 3,,,,,,4,,,10
+42,ELECTIVE 2,,,,,,4,,,10
 43,UD ELECTIVE 1,,,,,,4,,,11
-44,ELECTIVE 4,,,,,,4,,,11
+44,ELECTIVE 3,,,,,,4,,,11
 45,UD ELECTIVE 2,,,,,,4,,,12
-46,ELECTIVE 5,,,,,,4,,,12
+46,ELECTIVE 4,,,,,,4,,,12

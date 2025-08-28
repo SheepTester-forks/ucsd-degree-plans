@@ -26,32 +26,32 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 18,PHYS 1CL,PHYS,1CL,4;14;15,,,2,,,6
 19,CHEM 43A,CHEM,43A,9;12,,,4,,,6
 20,BIBC 100 / CHEM 114A,BIBC,100,12;16,,,4,,,7
-21,BICD 100 1,BICD,100,13;5,,,4,,,7
+21,BICD 100,BICD,100,13;5,,,4,,,7
 22,BIBC 102 / CHEM 114B,BIBC,102,12;16,,,4,,,8
 23,BIBC 103 / BIMM 101,BIBC,103,13,,,4,,,8
 24,BIMM 100,BIMM,100,13;2;12;16,,,4,,,9
 31,UD BIOLOGY LAB,,,,,,4,,,9
-32,BICD 100 2,BICD,100,13;5,,,4,,,10
-33,UD MCB CORE 1,,,,,,4,,,10
-34,UD MCB CORE 2,,,,,,4,,,11
-35,UD MCB CORE 3,,,,,,4,,,11
-36,UD BIOLOGY ELECTIVE 1,,,,,,4,,,12
-37,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
+25,BICD 110,BICD,110,20,,,4,,,10
+32,UD MCB CORE 1,,,,,,4,,,10
+33,UD MCB CORE 2,,,,,,4,,,11
+34,UD MCB CORE 3,,,,,,4,,,11
+35,UD BIOLOGY ELECTIVE 1,,,,,,4,,,12
+36,UD BIOLOGY ELECTIVE 2,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,MMW 11,MMW,11,,,,4,,,1
 27,MMW 12,MMW,12,,,,6,,,2
 28,MMW 13,MMW,13,27,,,6,,,3
 29,MMW 14 / GE 1,MMW,14,27;28,,,4,,,4
-38,MMW 14 / GE 2,MMW,14,27;28,,,4,,,5
-39,GE 1,,,,,,4,,,5
+37,MMW 14 / GE 2,MMW,14,27;28,,,4,,,5
+38,GE 1,,,,,,4,,,5
 30,MMW 15,MMW,15,27;28,,,4,,,6
-40,GE 2,,,,,,4,,,6
-41,UD ELECTIVE,,,,,,4,,,7
-42,GE 3,,,,,,4,,,7
-43,DEI,,,,,,4,,,8
-44,GE 4,,,,,,4,,,8
-45,GE 5,,,,,,4,,,9
-46,GE 6,,,,,,4,,,10
-47,GE 7,,,,,,4,,,11
-48,ELECTIVE,,,,,,4,,,12
+39,GE 2,,,,,,4,,,6
+40,UD ELECTIVE,,,,,,4,,,7
+41,GE 3,,,,,,4,,,7
+42,DEI,,,,,,4,,,8
+43,GE 4,,,,,,4,,,8
+44,GE 5,,,,,,4,,,9
+45,GE 6,,,,,,4,,,10
+46,GE 7,,,,,,4,,,11
+47,ELECTIVE,,,,,,4,,,12

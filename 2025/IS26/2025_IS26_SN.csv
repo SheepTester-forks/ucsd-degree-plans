@@ -1,0 +1,51 @@
+Curriculum,International Studies-Economics,,,,,,,,,
+Degree Plan,International Studies-Economics/ Seventh,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / MATH 20A,MATH,10A,,,,4,,,1
+12,LANGUAGE 1,,,,,,5,,,1
+2,MATH 10B / MATH 20B,MATH,10B,1,,,4,,,2
+13,LANGUAGE 2,,,,,,5,,,2
+3,MATH 10C / MATH 20C,MATH,10C,2,,,4,,,3
+14,LANGUAGE 3,,,,,,5,,,3
+15,LANGUAGE 4,,,,,,5,,,4
+4,ECON 1,ECON,1,,,,4,,,4
+5,ECON 2,ECON,2,4,,,4,,,5
+6,INTL 100,INTL,100,9,,,4,,,5
+7,INTL 101 / 102 1,INTL,101,6,,,4,,,6
+8,ECON 3,ECON,3,4,,,4,,,6
+16,EAP / OAP (RECOMMENDED),,,,,,16,,,7
+17,INTL 101 / 102 2,INTL,101,6,,,4,,,8
+18,IE1 - UD INTERDISC ELECTIVE (RR1),,,,,,4,,,8
+19,DF1 - UD ECONOMICS,,,,,,4,,,8
+20,DF2 - UD ECONOMICS,,,,,,4,,,8
+21,DF3 - UD ECONOMICS,,,,,,4,,,9
+22,DF4 - UD ECONOMICS,,,,,,4,,,9
+23,IE2 - UD INTERDISC ELECTIVE (RR2),,,,,,4,,,9
+24,DF5 - UD ECONOMICS,,,,,,4,,,10
+25,DF6 - UD ECONOMICS,,,,,,4,,,11
+26,DF7 - UD ECONOMICS,,,,,,4,,,11
+27,IE3 - UD INTERDISC ELECTIVE (RR3),,,,,,4,,,12
+28,DF8 - UD ECONOMICS,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+29,DEI,,,,,,4,,,1
+30,ALTERNATIVE 1,,,,,,4,,,1
+31,ALTERNATIVE 2,,,,,,4,,,2
+32,ELECTIVE 1,,,,,,4,,,2
+9,SYN 1 (CCER),SYN,1,,,,4,,,3
+33,ELECTIVE 2,,,,,,4,,,3
+10,SYN 2,SYN,2,9,,,4,,,4
+34,ALTERNATIVE 3,,,,,,4,,,5
+35,ELECTIVE 3,,,,,,4,,,5
+36,ALTERNATIVE 4,,,,,,4,,,6
+11,SYN 100,SYN,100,9;10,,,4,,,9
+37,ELECTIVE 4,,,,,,4,,,10
+38,ELECTIVE 5,,,,,,4,,,10
+39,ELECTIVE 6,,,,,,4,,,11
+40,ELECTIVE 7,,,,,,4,,,11
+41,ELECTIVE 8,,,,,,4,,,12

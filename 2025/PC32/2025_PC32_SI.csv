@@ -1,0 +1,54 @@
+Curriculum,Psychology with a Specialization in Sensation and Perception,,,,,,,,,
+Degree Plan,Psychology with a Specialization in Sensation and Perception/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.2701,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,NATURAL SCIENCE 1,,,,,,4,,,1
+11,NATURAL SCIENCE 2,,,,,,4,,,2
+1,MATH 10A / MATH 20A,MATH,10A,,,,4,,,2
+12,NATURAL SCIENCE 3,,,,,,4,,,3
+2,MATH 10B / MATH 20B,MATH,10B,1,,,4,,,3
+3,PSYC 60,PSYC,60,,,,4,,,4
+4,PSYC 70,PSYC,70,3,,,4,,,5
+13,COMPUTER PROGRAMMING,,,,,,4,,,6
+5,PSYC 102,PSYC,102,,,,4,,,7
+14,PSYC CORE 1,,,,,,4,,,7
+15,PSYC CORE 2,,,,,,4,,,8
+16,PSYC CORE 3,,,,,,4,,,8
+17,PSYC UD ELECTIVE 1,,,,,,4,,,9
+18,PSYC UD ELECTIVE 2,,,,,,4,,,9
+19,PSYC RESEARCH 1,,,,,,4,,,10
+20,PSYC UD SPECIALIZATION 1,,,,,,4,,,10
+21,PSYC UD ELECTIVE 3,,,,,,4,,,10
+22,PSYC RESEARCH 2,,,,,,4,,,11
+23,PSYC UD SPECIALIZATION 2,,,,,,4,,,11
+24,PSYC UD ELECTIVE 4,,,,,,4,,,11
+25,PSYC UD SPECIALIZATION 3,,,,,,4,,,12
+26,PSYC UD ELECTIVE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,CAT 1,CAT,1,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+7,CAT 2,CAT,2,6,,,6,,,2
+8,CAT 3,CAT,3,7,,,6,,,3
+28,GE 2,,,,,,4,,,4
+29,ELECTIVE 1,,,,,,4,,,4
+30,ELECTIVE 2,,,,,,4,,,4
+31,GE 3,,,,,,4,,,5
+32,JTCCER,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,GE (DEI),,,,,,4,,,6
+35,GE 4,,,,,,4,,,6
+36,ELECTIVE 4,,,,,,4,,,6
+37,ELECTIVE 5,,,,,,4,,,7
+38,ELECTIVE 6,,,,,,4,,,7
+39,ELECTIVE 7,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,8
+41,ELECTIVE 9,,,,,,4,,,9
+42,ELECTIVE 10,,,,,,4,,,9
+9,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,10
+43,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,11
+44,ELECTIVE 11,,,,,,4,,,12

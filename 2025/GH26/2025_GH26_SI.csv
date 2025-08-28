@@ -1,0 +1,54 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BILD 1,BILD,1,,,,4,,,1
+2,BILD 2,BILD,2,1,,,4,,,2
+3,MATH 10A / MATH 20A,MATH,10A,,,,4,,,2
+4,MATH 10B / MATH 20B,MATH,10B,3,,,4,,,3
+5,CHEM 6A,CHEM,6A,3,,,4,,,3
+6,BILD 3,BILD,3,,,,4,,,4
+7,CHEM 6B,CHEM,6B,5,,,4,,,4
+18,MAJOR LD INTRO CORE 1,,,,,,4,,,4
+8,CHEM 6C,CHEM,6C,7,,,4,,,5
+19,MAJOR LD INTRO CORE 2,,,,,,4,,,5
+9,PSYC 60 / MATH 11,PSYC,60,,,,4,,,6
+10,CHEM 7L,CHEM,7L,7,,,4,,,6
+11,GLBH 148,GLBH,148,,,,4,,,7
+20,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 1,,,,,,4,,,7
+12,GLBH 181,GLBH,181,,,,4,,,8
+21,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 2,,,,,,4,,,8
+13,MGT 173,MGT,173,,,,4,,,9
+22,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 3,,,,,,4,,,9
+23,MAJOR UD ELECTIVE (MEDICAL HUMANITIES),,,,,,4,,,10
+24,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 1,,,,,,4,,,10
+25,MAJOR UD CORE POLICY ANALYSIS,,,,,,4,,,11
+26,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 2,,,,,,4,,,11
+27,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 3,,,,,,4,,,12
+28,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,CAT 1,CAT,1,,,,4,,,1
+29,GE (DEI),,,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+15,CAT 2,CAT,2,14,,,6,,,2
+16,CAT 3,CAT,3,15,,,6,,,3
+31,GE 2,,,,,,4,,,4
+32,JTCCER,,,,,,4,,,5
+33,ELECTIVE 1,,,,,,4,,,5
+34,GE 3,,,,,,4,,,6
+35,ELECTIVE 2,,,,,,4,,,6
+36,GE 4,,,,,,4,,,7
+37,ELECTIVE 3,,,,,,4,,,7
+38,UD ELECTIVE,,,,,,4,,,8
+39,ELECTIVE 4,,,,,,4,,,8
+40,ELECTIVE 5,,,,,,4,,,9
+41,ELECTIVE 6,,,,,,4,,,9
+17,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,10
+42,ELECTIVE 7,,,,,,4,,,10
+43,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12

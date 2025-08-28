@@ -24,7 +24,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 24,UD MAJOR PRODUCTION COURSE 3,,,,,,4,,,11
 6,FILM 184A,FILM,184A,,,,4,,,11
 25,UD MAJOR PRODUCTION COURSE 4,,,,,,4,,,12
-7,FILM 184B,FILM,184B,,,,4,,,12
+7,FILM 184B,FILM,184B,6,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 26,SOCIAL SCIENCE GE 1,,,,,,4,,,1

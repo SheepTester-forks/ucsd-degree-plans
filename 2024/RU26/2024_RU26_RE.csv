@@ -40,13 +40,14 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 30,BIOLOGY GE,,,,,,4,,,6
 31,CCER,,,,,,4,,,6
 32,SOCIAL SCIENCE GE / DEI,,,,,,4,,,7
-33,LANGUAGE 1,,,,,,5,,,7
-34,NATURAL SCIENCE GE 1,,,,,,4,,,8
-35,LANGUAGE 2,,,,,,5,,,8
-36,NATURAL SCIENCE GE 2,,,,,,4,,,9
-37,LANGUAGE 3,,,,,,5,,,9
-38,UD ELECTIVE 1,,,,,,4,,,10
-39,LANGUAGE 4,,,,,,5,,,10
-40,UD ELECTIVE 2,,,,,,4,,,11
+33,NATURAL SCIENCE GE 1,,,,,,4,,,8
+34,ELECTIVE 1,,,,,,4,,,8
+35,NATURAL SCIENCE GE 2,,,,,,4,,,9
+36,ELECTIVE 2,,,,,,4,,,9
+37,UD ELECTIVE 1,,,,,,4,,,10
+38,ELECTIVE 3,,,,,,4,,,10
+39,UD ELECTIVE 2,,,,,,4,,,11
+40,ELECTIVE 4,,,,,,4,,,11
 41,UD ELECTIVE 3,,,,,,4,,,12
 42,AHI / ELECTIVE,,,,,,4,,,12
+43,ELECTIVE 5,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Psychology,,,,,,,,,
+Degree Plan,Psychology/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,NATURAL SCIENCE 1,,,,,,4,,,1
+6,NATURAL SCIENCE 2,,,,,,4,,,2
+7,FORMAL SKILLS,,,,,,4,,,3
+1,PSYC 60,PSYC,60,,,,4,,,4
+2,PSYC 70,PSYC,70,1,,,4,,,5
+8,COMPUTER PROGRAMMING,,,,,,4,,,6
+9,PSYC CORE 1,,,,,,4,,,7
+10,PSYC CORE 2,,,,,,4,,,7
+11,PSYC CORE 3,,,,,,4,,,8
+12,PSYC CORE 4,,,,,,4,,,8
+13,PSYC UD ELECTIVE 1,,,,,,4,,,9
+14,PSYC UD ELECTIVE 2,,,,,,4,,,9
+15,PSYC UD ELECTIVE 3,,,,,,4,,,10
+16,PSYC UD ELECTIVE 4,,,,,,4,,,10
+17,PSYC UD ELECTIVE 5,,,,,,4,,,11
+18,PSYC UD ELECTIVE 6,,,,,,4,,,11
+19,PSYC UD ELECTIVE 7,,,,,,4,,,12
+20,PSYC UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MCWP 40,MCWP,40,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+4,MCWP 50,MCWP,50,3,,,4,,,2
+23,GE 3,,,,,,4,,,2
+24,DEI,,,,,,4,,,2
+25,GE 4,,,,,,4,,,3
+26,GE 5,,,,,,4,,,3
+27,JTCCER,,,,,,4,,,3
+28,GE 6,,,,,,4,,,4
+29,GE 7,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,4
+31,GE 8,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,ELECTIVE 3,,,,,,4,,,5
+34,GE 9,,,,,,4,,,6
+35,ELECTIVE 4,,,,,,4,,,6
+36,ELECTIVE 5,,,,,,4,,,6
+37,ELECTIVE 6,,,,,,4,,,7
+38,ELECTIVE 7,,,,,,4,,,7
+39,MUIR UD ELECTIVE 1,,,,,,4,,,8
+40,ELECTIVE 8,,,,,,4,,,8
+41,MUIR UD ELECTIVE 2,,,,,,4,,,9
+42,ELECTIVE 9,,,,,,4,,,9
+43,MUIR UD ELECTIVE 3,,,,,,4,,,10
+44,ELECTIVE 10,,,,,,4,,,11
+45,ELECTIVE 11,,,,,,4,,,12

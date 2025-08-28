@@ -1,0 +1,54 @@
+Curriculum,Geosciences,,,,,,,,,
+Degree Plan,Geosciences/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,40.0601,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,MATH 20A,MATH,20A,,,,4,,,1
+1,SIO 50,SIO,50,,,,6,,,1
+3,MATH 20B,MATH,20B,2,,,4,,,2
+4,PHYS 2A,PHYS,2A,2;2,,,4,,,2
+5,SIO 65,SIO,65,,,,2,,,2
+6,MATH 20C,MATH,20C,3,,,4,,,3
+7,PHYS 2B,PHYS,2B,4;3,,,4,,,3
+8,SIO 75,SIO,75,1,,,4,,,3
+9,SIO 100,SIO,100,1,,,4,,,4
+10,CHEM 6A,CHEM,6A,2,,,4,,,4
+11,PHYS 2C,PHYS,2C,4;6,,,4,,,4
+12,CHEM 6B,CHEM,6B,10,,,4,,,5
+13,SIO 120,SIO,120,1,,,4,,,5
+14,CHEM 6C,CHEM,6C,12,,,4,,,6
+15,SIO 103,SIO,103,6;11;1,,,4,,,7
+16,SIO 102,SIO,102,1;10;12;14,,,4,,,8
+17,SIO 113,SIO,113,1,,,4,,,9
+23,UD GEOSCIENCES ELECTIVE 1,,,,,,4,,,9
+24,UD GEOSCIENCES ELECTIVE 2,,,,,,4,,,10
+25,UD GEOSCIENCES ELECTIVE 3,,,,,,4,,,10
+26,UD GEOSCIENCES ELECTIVE 4,,,,,,4,,,11
+27,UD GEOSCIENCES ELECTIVE 5,,,,,,4,,,11
+28,UD GEOSCIENCES ELECTIVE 6,,,,,,4,,,12
+29,UD GEOSCIENCES ELECTIVE 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,MMW 11,MMW,11,,,,4,,,1
+30,GE 1,,,,,,4,,,1
+19,MMW 12,MMW,12,,,,6,,,2
+20,MMW 13,MMW,13,19,,,6,,,3
+31,GE 2,,,,,,4,,,4
+21,MMW 14,MMW,14,19;20,,,4,,,5
+32,GE 3,,,,,,4,,,5
+22,MMW 15,MMW,15,19;20,,,4,,,6
+33,ELECTIVE 1,,,,,,4,,,6
+34,ELECTIVE 2,,,,,,4,,,6
+35,GE 4,,,,,,4,,,7
+36,GE 5,,,,,,4,,,7
+37,ELECTIVE 3,,,,,,4,,,7
+38,GE 6,,,,,,4,,,8
+39,GE 7,,,,,,4,,,8
+40,ELECTIVE 4,,,,,,4,,,8
+41,GE 8,,,,,,4,,,9
+42,UD ELECTIVE,,,,,,4,,,10
+43,DEI,,,,,,4,,,11
+44,ELECTIVE 5,,,,,,4,,,12

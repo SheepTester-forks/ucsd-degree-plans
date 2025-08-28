@@ -1,0 +1,55 @@
+Curriculum,Interdisciplinary Computing and the Arts,,,,,,,,,
+Degree Plan,Interdisciplinary Computing and the Arts/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.9999,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+13,FOUNDATION ART MAKING,,,,,,4,,,1
+1,VIS 41,VIS,41,,,,4,,,1
+14,FOUNDATION MATH,,,,,,4,,,2
+2,VIS 22,VIS,22,,,,4,,,2
+3,VIS 10,VIS,10,,,,4,,,3
+4,VIS 70N,VIS,70N,,,,4,,,3
+15,FOUNDATION CSE,,,,,,4,,,4
+16,FOUNDATION INTERDISCIPLINARY,,,,,,4,,,4
+17,HISTORY & THEORY,,,,,,4,,,5
+5,VIS 159,VIS,159,,,,4,,,6
+6,VIS 142,VIS,142,,,,4,,,7
+18,INTERMEDIATE ART MAKING,,,,,,4,,,7
+19,INTERMEDIATE COMPUTING 1,,,,,,4,,,8
+7,VIS 145A,VIS,145A,6,,,4,,,8
+20,ADVANCED COMPUTING 1,,,,,,4,,,9
+21,INTERMEDIATE COMPUTING 2,,,,,,4,,,9
+22,INTERMEDIATE INTERDISCIPLINARY,,,,,,4,,,10
+23,ADVANCED INTERDISCIPLINARY,,,,,,4,,,11
+24,ADVANCED COMPUTING 2,,,,,,4,,,11
+8,VIS 160,VIS,160,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+9,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+10,WCWP 10B,WCWP,10B,9,,,4,,,2
+26,GE 2,,,,,,4,,,2
+11,PHIL 27 / POLI 27,PHIL,27,9;10,,,4,,,3
+27,GE 3,,,,,,4,,,3
+12,PHIL 28 / POLI 28,PHIL,28,11,,,4,,,4
+28,GE 4,,,,,,4,,,4
+29,GE / JTCCER,,,,,,4,,,5
+30,GE 5,,,,,,4,,,5
+31,GE 6,,,,,,4,,,5
+32,GE / DEI,,,,,,4,,,6
+33,GE 7,,,,,,4,,,6
+34,GE 8,,,,,,4,,,6
+35,GE 9,,,,,,4,,,7
+36,GE 10,,,,,,4,,,7
+37,GE 11,,,,,,4,,,8
+38,GE 12,,,,,,4,,,8
+39,ELECTIVE 1,,,,,,4,,,9
+40,ELECTIVE 2,,,,,,4,,,9
+41,ELECTIVE 3,,,,,,4,,,10
+42,ELECTIVE 4,,,,,,4,,,10
+43,ELECTIVE 5,,,,,,4,,,11
+44,ELECTIVE 6,,,,,,4,,,12
+45,ELECTIVE 7,,,,,,4,,,12

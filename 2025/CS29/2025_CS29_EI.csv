@@ -1,0 +1,56 @@
+Curriculum,Artificial Intelligence,,,,,,,,,
+Degree Plan,Artificial Intelligence/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,11.0102,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 20A,MATH,20A,,,,4,,,1
+2,CSE 8A / 11,CSE,8A,,,,4,,,1
+24,CSE LD ELECTIVE,,,,,,4,,,1
+5,MATH 20B,MATH,20B,1,,,4,,,2
+3,CSE 11,CSE,11,,,,4,,,2
+4,CSE 25,CSE,25,,,,4,,,2
+8,MATH 20C,MATH,20C,5,,,4,,,3
+7,CSE 12,CSE,12,3,,,4,,,3
+6,CSE 20,CSE,20,2,,,4,,,3
+9,MATH 18,MATH,18,,,,4,,,4
+10,CSE 21,CSE,21,6,,,4,,,4
+11,CSE 29,CSE,29,3,,,4,,,4
+12,CSE 30,CSE,30,11,,,4,,,5
+13,CSE 55,CSE,55,7;4;11;9;8,,,4,,,5
+14,CSE 103,CSE,103,1;5;10,,,4,,,5
+25,CSE GENERAL SCIENCE,,,,,,4,,,6
+16,CSE 100,CSE,100,10;7;11,,,4,,,6
+15,CSE 101,CSE,101,10;7,,,4,,,6
+17,CSE 150A / CSE 150B,CSE,150A,7;11;14;1;9,,,4,,,7
+26,CSE AI UD ELECTIVE 1,,,,,,4,,,7
+27,CSE SYSTEMS UD ELECTIVE 1,,,,,,4,,,7
+18,CSE 151A,CSE,151A,7;11;14;9;8,,,4,,,8
+19,PHIL 174,PHIL,174,,,,4,,,8
+28,CSE AI UD ELECTIVE 2,,,,,,4,,,8
+29,CSE AI UD ELECTIVE 3,,,,,,4,,,9
+30,CSE THEORY / ABSTRACTION UD ELECTIVE 1,,,,,,4,,,9
+31,CSE APPLICATIONS UD ELECTIVE 1,,,,,,4,,,10
+32,CSE OPEN UD ELECTIVE 1,,,,,,4,,,10
+33,CSE APPLICATIONS UD ELECTIVE 2,,,,,,4,,,11
+34,CSE OPEN UD ELECTIVE 2,,,,,,4,,,11
+35,CSE SYSTEMS UD ELECTIVE 2,,,,,,4,,,12
+36,CSE THEORY / ABSTRACTION UD ELECTIVE 2,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+37,DEI,,,,,,4,,,1
+20,CCE 1,CCE,1,,,,4,,,2
+38,BREADTH GE 1,,,,,,4,,,3
+21,CCE 2,CCE,2,20,,,4,,,4
+39,JTCCER,,,,,,4,,,5
+22,CCE 3,CCE,3,21,,,4,,,6
+40,BREADTH GE 2,,,,,,4,,,7
+41,BREADTH GE 3,,,,,,4,,,8
+23,CCE 120,CCE,120,22,,,4,,,9
+42,BREADTH GE 4,,,,,,4,,,10
+43,BREADTH GE 5,,,,,,4,,,10
+44,BREADTH GE 6,,,,,,4,,,11
+45,BREADTH GE 7,,,,,,4,,,11
+46,BREADTH GE 8,,,,,,4,,,12

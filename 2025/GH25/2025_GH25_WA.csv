@@ -1,0 +1,55 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,GLBH 20,GLBH,20,,,,4,,,1
+9,MAJOR LD CORE,,,,,,4,,,3
+10,MAJOR LD STATISTICS,,,,,,4,,,5
+11,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 1,,,,,,4,,,7
+2,GLBH 148,GLBH,148,,,,4,,,7
+3,GLBH 181,GLBH,181,,,,4,,,8
+12,MAJOR CORE UD POLICY ANALYSIS,,,,,,4,,,8
+13,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 2,,,,,,4,,,8
+4,MGT 173,MGT,173,,,,4,,,9
+14,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 1,,,,,,4,,,9
+15,MAJOR UD ELECTIVE (SIGNIFICANT WRITING),,,,,,4,,,9
+16,MAJOR UD ELECTIVE (MEDICAL HUMANITIES),,,,,,4,,,10
+17,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 2,,,,,,4,,,10
+18,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 3,,,,,,4,,,11
+19,MAJOR UD ELECTIVE (GLOBAL PROCESSES),,,,,,4,,,11
+20,MAJOR UD ELECTIVE (ADDITIONAL),,,,,,4,,,12
+21,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,WCWP 10A,WCWP,10A,,,,4,,,1
+22,GE 1,,,,,,4,,,1
+23,ELECTIVE 1,,,,,,4,,,1
+6,WCWP 10B,WCWP,10B,5,,,4,,,2
+24,GE 2,,,,,,4,,,2
+25,ELECTIVE 2,,,,,,4,,,2
+26,ELECTIVE 3,,,,,,4,,,2
+7,PHIL 27 / POLI 27,PHIL,27,5;6,,,4,,,3
+27,GE 3,,,,,,4,,,3
+28,ELECTIVE 4,,,,,,4,,,3
+8,PHIL 28 / POLI 28,PHIL,28,7,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,ELECTIVE 5,,,,,,4,,,4
+31,ELECTIVE 6,,,,,,4,,,4
+32,GE / JTCCER,,,,,,4,,,5
+33,GE 5,,,,,,4,,,5
+34,ELECTIVE 7,,,,,,4,,,5
+35,GE / DEI,,,,,,4,,,6
+36,GE 6,,,,,,4,,,6
+37,GE 7,,,,,,4,,,6
+38,ELECTIVE 8,,,,,,4,,,6
+39,GE 8,,,,,,4,,,7
+40,GE 9,,,,,,4,,,7
+41,GE 10,,,,,,4,,,8
+42,ELECTIVE 9,,,,,,4,,,9
+43,GE 11,,,,,,4,,,10
+44,ELECTIVE 10,,,,,,4,,,11
+45,ELECTIVE 11,,,,,,4,,,12

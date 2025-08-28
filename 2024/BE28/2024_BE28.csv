@@ -42,7 +42,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,BENG 187C,BENG,187C,31,,,1,,
 40,BENG DE COURSE (ASSIGNED) 2,,,,,,3,,
 34,MATH 186,MATH,186,8,,,4,,
-35,BENG 168,BENG,168,10;21,,,4,,
+35,BENG 168,BENG,168,10,,,4,,
 36,BENG 187D,BENG,187D,33,,,1,,
 41,TECHNICAL ELECTIVE 2,,,,,,4,,
 37,BENG 125,BENG,125,26,,,4,,

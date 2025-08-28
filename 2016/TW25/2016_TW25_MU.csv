@@ -30,10 +30,10 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 20,GE 3,,,,,,4,,,2
 21,GE 4,,,,,,4,,,2
 22,ELECTIVE 1,,,,,,4,,,2
-23,ELECTIVE 2,,,,,,4,,,3
-24,GE 5,,,,,,4,,,3
-25,GE 6,,,,,,4,,,3
-26,GE 7,,,,,,4,,,3
+23,GE 5,,,,,,4,,,3
+24,GE 6,,,,,,4,,,3
+25,GE 7,,,,,,4,,,3
+26,ELECTIVE 2,,,,,,4,,,3
 27,ELECTIVE 3,,,,,,4,,,4
 28,GE 8,,,,,,4,,,4
 29,ELECTIVE 4,,,,,,4,,,4

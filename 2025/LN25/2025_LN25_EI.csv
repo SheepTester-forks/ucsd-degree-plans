@@ -1,0 +1,54 @@
+Curriculum,Linguistics,,,,,,,,,
+Degree Plan,Linguistics/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2501,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+11,LANGUAGE REQUIREMENT 1,,,,,,5,,,1
+1,LIGN 101,LIGN,101,,,,4,,,2
+12,LANGUAGE REQUIREMENT 2,,,,,,5,,,2
+13,LANGUAGE REQUIREMENT 3,,,,,,5,,,3
+14,LANGUAGE REQUIREMENT 4,,,,,,5,,,4
+2,LIGN 110,LIGN,110,1,,,4,,,4
+3,LIGN 111,LIGN,111,2,,,4,,,5
+4,LIGN 120,LIGN,120,1,,,4,,,6
+15,UD LIGN ELECTIVE 1,,,,,,4,,,7
+16,UD LIGN ELECTIVE 2,,,,,,4,,,8
+5,LIGN 121,LIGN,121,1,,,4,,,8
+17,UD LIGN ELECTIVE 3,,,,,,4,,,9
+6,LIGN 130,LIGN,130,1,,,4,,,9
+18,UD LIGN ELECTIVE 4,,,,,,4,,,10
+19,UD LIGN ELECTIVE 5,,,,,,4,,,11
+20,LIGN ELECTIVE / OTHER,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,BREADTH GE 1,,,,,,4,,,1
+22,DEI,,,,,,4,,,1
+7,CCE 1,CCE,1,,,,4,,,2
+23,BREADTH GE 2,,,,,,4,,,2
+24,BREADTH GE 3,,,,,,4,,,3
+25,BREADTH GE 4,,,,,,4,,,3
+26,ELECTIVE 1,,,,,,4,,,3
+8,CCE 2,CCE,2,7,,,4,,,4
+27,JTCCER,,,,,,4,,,4
+28,BREADTH GE 5,,,,,,4,,,5
+29,BREADTH GE 6,,,,,,4,,,5
+30,ELECTIVE 2,,,,,,4,,,5
+9,CCE 3,CCE,3,8,,,4,,,6
+31,BREADTH GE 7,,,,,,4,,,6
+32,ELECTIVE 3,,,,,,4,,,6
+33,BREADTH GE 8,,,,,,4,,,7
+34,ELECTIVE 4,,,,,,4,,,7
+35,ELECTIVE 5,,,,,,4,,,7
+36,ELECTIVE 6,,,,,,4,,,8
+37,ELECTIVE 7,,,,,,4,,,8
+10,CCE 120,CCE,120,9,,,4,,,9
+38,UD ELECTIVE 1,,,,,,4,,,10
+39,ELECTIVE 8,,,,,,4,,,10
+40,ELECTIVE 9,,,,,,4,,,10
+41,UD ELECTIVE 2,,,,,,4,,,11
+42,ELECTIVE 10,,,,,,4,,,11
+43,ELECTIVE 11,,,,,,4,,,12
+44,ELECTIVE 12,,,,,,4,,,12

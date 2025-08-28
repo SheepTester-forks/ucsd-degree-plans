@@ -44,9 +44,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 35,ELECTIVE 8,,,,,,4,,,8
 36,ELECTIVE 9,,,,,,4,,,9
 37,ELECTIVE 10,,,,,,4,,,9
-8,CAT 125,CAT,125,,,,4,,,10
-38,UD ELECTIVE 1,,,,,,4,,,10
-39,UD ELECTIVE 2,,,,,,4,,,11
+8,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,10
+38,UD ELECTIVE,,,,,,4,,,10
+39,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,11
 40,ELECTIVE 11,,,,,,4,,,11
 41,ELECTIVE 12,,,,,,4,,,11
 42,ELECTIVE 13,,,,,,4,,,12

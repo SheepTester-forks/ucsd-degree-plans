@@ -1,0 +1,55 @@
+Curriculum,Classical Studies,,,,,,,,,
+Degree Plan,Classical Studies/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,16.1200,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD MAJOR COURSE 1,,,,,,4,,,1
+6,LD MAJOR COURSE 2,,,,,,4,,,2
+7,LD MAJOR COURSE (LANGUAGE TRACK ONLY) 1,,,,,,4,,,2
+8,LD MAJOR COURSE (LANGUAGE TRACK ONLY) 2,,,,,,4,,,3
+9,LD MAJOR COURSE 3,,,,,,4,,,3
+10,LD MAJOR COURSE (LANGUAGE TRACK ONLY) 3,,,,,,4,,,4
+11,UD MAJOR COURSE 1,,,,,,4,,,4
+12,UD MAJOR COURSE 2,,,,,,4,,,5
+13,LD MAJOR COURSE (LANGUAGE TRACK ONLY) 4,,,,,,4,,,5
+14,UD MAJOR COURSE 3,,,,,,4,,,6
+15,LD MAJOR COURSE (LANGUAGE TRACK ONLY) 5,,,,,,4,,,6
+16,UD MAJOR COURSE 4,,,,,,4,,,7
+17,UD MAJOR COURSE 5,,,,,,4,,,7
+18,UD MAJOR COURSE 6,,,,,,4,,,8
+19,UD MAJOR COURSE 7,,,,,,4,,,8
+20,UD MAJOR COURSE 8,,,,,,4,,,9
+21,UD MAJOR COURSE 9,,,,,,4,,,9
+22,UD MAJOR COURSE 10,,,,,,4,,,10
+23,UD MAJOR COURSE 11,,,,,,4,,,11
+24,UD MAJOR COURSE 12,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,WCWP 10A,WCWP,10A,,,,4,,,1
+25,GE 1,,,,,,4,,,1
+2,WCWP 10B,WCWP,10B,1,,,4,,,2
+26,GE 2,,,,,,4,,,2
+3,PHIL 27 / POLI 27,PHIL,27,1;2,,,4,,,3
+4,PHIL 28 / POLI 28,PHIL,28,3,,,4,,,4
+27,GE 3,,,,,,4,,,4
+28,ELECTIVE 1,,,,,,4,,,4
+29,GE / JTCCER,,,,,,4,,,5
+30,GE 4,,,,,,4,,,5
+31,ELECTIVE 2,,,,,,4,,,5
+32,GE / DEI,,,,,,4,,,6
+33,GE 5,,,,,,4,,,6
+34,GE 6,,,,,,4,,,7
+35,GE 7,,,,,,4,,,7
+36,GE 8,,,,,,4,,,8
+37,ELECTIVE 3,,,,,,4,,,8
+38,GE 9,,,,,,4,,,9
+39,ELECTIVE 4,,,,,,4,,,9
+40,ELECTIVE 5,,,,,,4,,,10
+41,GE 10,,,,,,4,,,10
+42,ELECTIVE 6,,,,,,4,,,11
+43,GE 11,,,,,,4,,,11
+44,ELECTIVE 7,,,,,,4,,,12
+45,GE 12,,,,,,4,,,12

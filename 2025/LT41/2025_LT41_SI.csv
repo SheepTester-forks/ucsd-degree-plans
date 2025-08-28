@@ -1,0 +1,53 @@
+Curriculum,World Literature and Culture,,,,,,,,,
+Degree Plan,World Literature and Culture/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,24.0199,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+5,LD LANGUAGE 1,,,,,,5,,,1
+6,LD LANGUAGE 2,,,,,,5,,,2
+7,LD LANGUAGE 3,,,,,,5,,,3
+8,LD LANGUAGE 4,,,,,,5,,,4
+9,LD LIT SEQUENCE 1,,,,,,4,,,4
+10,LD LANGUAGE 5,,,,,,5,,,5
+11,LD LIT SEQUENCE 2,,,,,,4,,,5
+12,LD LANGUAGE 6,,,,,,5,,,6
+13,LD LIT SEQUENCE 3,,,,,,4,,,6
+14,UD LIT COURSE (CONCENTRATION) 1,,,,,,4,,,7
+15,UD LTAM,,,,,,4,,,7
+16,UD LIT COURSE (CONCENTRATION) 2,,,,,,4,,,8
+17,UD LTEU,,,,,,4,,,8
+18,UD LIT COURSE (CONCENTRATION) 3,,,,,,4,,,9
+19,UD LTAF / UD LTAM / UD LTEA / UD LTEU / UD LTWL,,,,,,4,,,9
+20,UD LIT COURSE (CONCENTRATION) 4,,,,,,4,,,10
+21,UD LIT COURSE (CONCENTRATION) 5,,,,,,4,,,10
+22,UD LIT COURSE (CONCENTRATION) 6,,,,,,4,,,11
+23,UD LIT ELECTIVE 1,,,,,,4,,,11
+24,UD LIT ELECTIVE 2,,,,,,4,,,12
+25,UD LIT ELECTIVE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,CAT 1,CAT,1,,,,4,,,1
+26,GE 1,,,,,,4,,,1
+27,GE 2,,,,,,4,,,1
+2,CAT 2,CAT,2,1,,,6,,,2
+28,GE 3,,,,,,4,,,2
+29,GE 4,,,,,,4,,,2
+3,CAT 3,CAT,3,2,,,6,,,3
+30,GE 5,,,,,,4,,,3
+31,GE 6,,,,,,4,,,3
+32,GE 7,,,,,,4,,,4
+33,GE 8,,,,,,4,,,4
+34,GE (DEI),,,,,,4,,,5
+35,ELECTIVE 1,,,,,,4,,,5
+36,JTCCER,,,,,,4,,,6
+37,ELECTIVE 2,,,,,,4,,,6
+38,ELECTIVE 3,,,,,,4,,,7
+39,ELECTIVE 4,,,,,,4,,,8
+4,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,9
+40,ELECTIVE 5,,,,,,2,,,9
+41,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,10
+42,UD ELECTIVE,,,,,,4,,,11
+43,ELECTIVE 6,,,,,,4,,,12

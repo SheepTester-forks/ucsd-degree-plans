@@ -1,0 +1,60 @@
+Curriculum,Aerospace Engineering with a Specialization in Astrodynamics and Space Applications,,,,,,,,,
+Degree Plan,Aerospace Engineering with a Specialization in Astrodynamics and Space Applications/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,14.0201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 20A,MATH,20A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+1,MAE 02,MAE,2,,,,4,,,1
+4,MATH 20B,MATH,20B,3,,,4,,,2
+5,PHYS 2A,PHYS,2A,3;3,,,4,,,2
+6,MATH 20C,MATH,20C,4,,,4,,,3
+7,PHYS 2B,PHYS,2B,5;4,,,4,,,3
+10,MATH 18,MATH,18,,,,4,,,4
+9,PHYS 2C,PHYS,2C,5;6,,,4,,,4
+11,PHYS 2CL,PHYS,2CL,5;7,,,2,,,4
+8,MAE 21,MAE,21,5;2;4,,,4,,,4
+14,MATH 20D,MATH,20D,6;10,,,4,,,5
+12,MAE 08,MAE,8,3;4,,,4,,,5
+13,MAE 30A,MAE,30A,5;6,,,4,,,5
+15,MATH 20E,MATH,20E,10;6,,,4,,,6
+16,MAE 131A,MAE,131A,13;14,,,4,,,6
+17,MAE 30B,MAE,30B,13,,,4,,,6
+38,TE 1,,,,,,4,,,6
+18,MAE 11,MAE,11,9;2,,,4,,,7
+19,MAE 107,MAE,107,12;10,,,4,,,7
+20,MAE 105,MAE,105,5;7;14,,,4,,,7
+21,MAE 101A,MAE,101A,5;14;15,,,4,,,7
+22,MAE 101B,MAE,101B,21;18,,,4,,,8
+24,MAE 143A,MAE,143A,14;15;10,,,4,,,8
+23,SE 160A,SE,160A,8;17;16,,,4,,,8
+39,TE 2,,,,,,4,,,8
+25,MAE 104,MAE,104,21;22,,,4,,,9
+27,MAE 143B,MAE,143B,24,,,4,,,9
+26,MAE 170,MAE,170,9;11,,,4,,,9
+28,MAE 113,MAE,113,18;21;22,,,4,,,10
+29,MAE 142,MAE,142,25;27,,,4,,,10
+40,TE 3,,,,,,4,,,10
+30,MAE 155A,MAE,155A,1;8;25;17;23,,,4,,,11
+31,MAE 175A,MAE,175A,27;26,,,4,,,11
+41,TE 4,,,,,,4,,,11
+32,MAE 155B,MAE,155B,28;29;30;26,,,4,,,12
+42,TE 5,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+43,SOCIAL SCIENCE GE / DEI,,,,,,4,,,1
+33,HUM 1,HUM,1,,,,6,,,2
+44,FINE ARTS GE,,,,,,2,,,3
+34,HUM 2,HUM,2,,,,6,,,3
+35,HUM 3,HUM,3,33,,,4,,,4
+36,HUM 4,HUM,4,,,,4,,,5
+37,HUM 5,HUM,5,,,,4,,,6
+45,LANGUAGE 1,,,,,,5,,,7
+46,LANGUAGE 2,,,,,,5,,,8
+47,LANGUAGE 3,,,,,,5,,,9
+48,LANGUAGE 4,,,,,,5,,,10
+49,SOCIAL SCIENCE GE / JTCCER,,,,,,4,,,11
+50,BIOLOGY GE,,,,,,4,,,12

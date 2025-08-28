@@ -1,0 +1,54 @@
+Curriculum,International Studies,,,,,,,,,
+Degree Plan,International Studies/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,30.2001,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10 / 20A,MATH,10,,,,4,,,1
+2,ECON 1,ECON,1,,,,4,,,1
+19,LANGUAGE 1,,,,,,5,,,1
+20,MATH 10 / 20B,MATH,10,,,,4,,,2
+3,ECON 2,ECON,2,2,,,4,,,2
+21,LANGUAGE 2,,,,,,5,,,2
+22,MATH 10 / 20C,MATH,10,,,,4,,,3
+4,ECON 3,ECON,3,2,,,4,,,3
+23,LANGUAGE 3,,,,,,5,,,3
+5,INTL 100,INTL,100,,,,4,,,4
+24,LANGUAGE 4,,,,,,5,,,4
+6,INTL 101 / 102 1,INTL,101,5,,,4,,,5
+25,LANGUAGE 5,,,,,,5,,,5
+26,INTL 101 / 102 2,INTL,101,5,,,4,,,6
+27,LANGUAGE 6,,,,,,5,,,6
+28,UD POLI / REGIONAL REQUIREMENT 1,,,,,,4,,,7
+29,UD POLI 1,,,,,,4,,,7
+30,UD ECON,,,,,,4,,,7
+31,UD POLI / REGIONAL REQUIREMENT 2,,,,,,4,,,8
+32,UD POLI 2,,,,,,4,,,8
+33,UD ECON / REGIONAL REQUIREMENT,,,,,,4,,,9
+34,UD POLI 3,,,,,,4,,,9
+7,GPCO 401,GPCO,401,,,,4,,,10
+8,GPCO 453,GPCO,453,,,,4,,,10
+9,GPCO 412,GPCO,412,,,,4,,,10
+10,GPCO 400,GPCO,400,,,,4,,,11
+11,GPCO 454,GPCO,454,,,,4,,,11
+12,GPCO 415,GPCO,415,,,,4,,,11
+13,GPCO 403,GPCO,403,,,,4,,,12
+14,GPCO 410,GPCO,410,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+15,CCE 1,CCE,1,,,,4,,,2
+35,DEI,,,,,,4,,,3
+16,CCE 2,CCE,2,15,,,4,,,4
+36,BREADTH GE 1,,,,,,4,,,4
+37,JTCCER,,,,,,4,,,5
+38,ELECTIVE 1,,,,,,4,,,5
+17,CCE 3,CCE,3,16,,,4,,,6
+39,BREADTH GE 2,,,,,,4,,,6
+40,BREADTH GE 3,,,,,,4,,,7
+41,BREADTH GE 4,,,,,,4,,,8
+18,CCE 120,CCE,120,17,,,4,,,9
+42,ELECTIVE 2,,,,,,4,,,10
+43,ELECTIVE 3,,,,,,2,,,11
+44,ELECTIVE 4,,,,,,4,,,12

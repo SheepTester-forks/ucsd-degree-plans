@@ -48,9 +48,8 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 40,GE 2,,,,,,4,,,7
 41,GE 3,,,,,,4,,,7
 42,GE 4,,,,,,4,,,8
-43,GE 5,,,,,,4,,,9
-44,ELECTIVE 1,,,,,,2,,,9
-31,CAT 125,CAT,125,,,,4,,,10
-45,ELECTIVE 2,,,,,,4,,,10
-46,GE 6,,,,,,4,,,11
-47,ELECTIVE 3,,,,,,4,,,12
+31,CAT 125 / EXPERIENTIAL LEARNING 1,CAT,125,,,,4,,,9
+43,CAT 125 / EXPERIENTIAL LEARNING 2,CAT,125,,,,4,,,10
+44,ELECTIVE,,,,,,2,,,10
+45,GE 5,,,,,,4,,,11
+46,GE 6,,,,,,4,,,12

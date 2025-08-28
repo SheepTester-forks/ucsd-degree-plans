@@ -1,0 +1,54 @@
+Curriculum,Philosophy,,,,,,,,,
+Degree Plan,Philosophy/ Marshall,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,38.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PHIL 10,PHIL,10,,,,4,,,1
+9,LD PHIL ELECTIVE 1,,,,,,4,,,2
+10,LD PHIL ELECTIVE 2,,,,,,4,,,3
+11,UD PHIL ELECTIVE,,,,,,4,,,6
+2,PHIL 110,PHIL,110,,,,4,,,7
+12,"PHIL CORE REQUIREMENT AREA IV, V, / VI 1",,,,,,4,,,7
+3,PHIL 111,PHIL,111,2,,,4,,,8
+13,"PHIL CORE REQUIREMENT AREA IV, V, / VI 2",,,,,,4,,,8
+4,PHIL 112,PHIL,112,3,,,4,,,9
+5,PHIL 120,PHIL,120,1,,,4,,,9
+14,PHIL UD ELECTIVE 1,,,,,,4,,,10
+15,"PHIL CORE REQUIREMENT AREA IV, V, / VI 3",,,,,,4,,,10
+16,PHIL UD ELECTIVE 2,,,,,,4,,,11
+17,PHIL UD ELECTIVE 3,,,,,,4,,,11
+18,PHIL UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,DOC 1 / UCSD DEI,DOC,1,,,,4,,,1
+19,TMC LD GE 1,,,,,,4,,,1
+20,TMC LD GE 2,,,,,,4,,,1
+7,DOC 2,DOC,2,6,,,6,,,2
+21,TMC LD GE 3,,,,,,4,,,2
+22,TMC LD GE 4,,,,,,4,,,2
+8,DOC 3,DOC,3,7,,,6,,,3
+23,TMC LD GE 5,,,,,,4,,,3
+24,TMC LD GE 6,,,,,,4,,,3
+25,TMC LD GE 7,,,,,,4,,,4
+26,JTCCER,,,,,,4,,,4
+27,ELECTIVE 1,,,,,,4,,,4
+28,ELECTIVE 2,,,,,,4,,,4
+29,TMC LD BREADTH 1,,,,,,4,,,5
+30,ELECTIVE 3,,,,,,4,,,5
+31,ELECTIVE 4,,,,,,4,,,5
+32,ELECTIVE 5,,,,,,4,,,5
+33,TMC LD BREADTH 2,,,,,,4,,,6
+34,ELECTIVE 6,,,,,,4,,,6
+35,ELECTIVE 7,,,,,,4,,,6
+36,TMC UD BREADTH 1,,,,,,4,,,7
+37,ELECTIVE 8,,,,,,4,,,7
+38,TMC UD BREADTH 2,,,,,,4,,,8
+39,ELECTIVE 9,,,,,,4,,,8
+40,UD ELECTIVE,,,,,,4,,,9
+41,ELECTIVE 10,,,,,,4,,,10
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

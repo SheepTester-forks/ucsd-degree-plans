@@ -1,0 +1,54 @@
+Curriculum,Psychology,,,,,,,,,
+Degree Plan,Psychology/ Sixth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,42.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,NATURAL SCIENCE 1,,,,,,4,,,1
+8,NATURAL SCIENCE 2,,,,,,4,,,2
+9,FORMAL SKILLS,,,,,,4,,,3
+1,PSYC 60,PSYC,60,,,,4,,,4
+2,PSYC 70,PSYC,70,1,,,4,,,5
+10,COMPUTER PROGRAMMING,,,,,,4,,,6
+11,PSYC CORE 1,,,,,,4,,,7
+12,PSYC CORE 2,,,,,,4,,,7
+13,PSYC CORE 3,,,,,,4,,,8
+14,PSYC CORE 4,,,,,,4,,,8
+15,PSYC UD ELECTIVE 1,,,,,,4,,,9
+16,PSYC UD ELECTIVE 2,,,,,,4,,,9
+17,PSYC UD ELECTIVE 3,,,,,,4,,,10
+18,PSYC UD ELECTIVE 4,,,,,,4,,,10
+19,PSYC UD ELECTIVE 5,,,,,,4,,,11
+20,PSYC UD ELECTIVE 6,,,,,,4,,,11
+21,PSYC UD ELECTIVE 7,,,,,,4,,,12
+22,PSYC UD ELECTIVE 8,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,CAT 1,CAT,1,,,,4,,,1
+23,GE 1,,,,,,4,,,1
+4,CAT 2,CAT,2,3,,,6,,,2
+24,GE 2,,,,,,4,,,2
+5,CAT 3,CAT,3,4,,,6,,,3
+25,GE (DEI),,,,,,4,,,3
+26,JTCCER,,,,,,4,,,4
+27,GE 3,,,,,,4,,,4
+28,ELECTIVE 1,,,,,,4,,,4
+29,GE 4,,,,,,4,,,5
+30,GE 5,,,,,,4,,,5
+31,ELECTIVE 2,,,,,,4,,,5
+32,ELECTIVE 3,,,,,,4,,,6
+33,ELECTIVE 4,,,,,,4,,,6
+34,ELECTIVE 5,,,,,,4,,,6
+35,ELECTIVE 6,,,,,,4,,,7
+36,ELECTIVE 7,,,,,,4,,,7
+6,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,8
+37,ELECTIVE 8,,,,,,4,,,8
+38,ELECTIVE 9,,,,,,4,,,9
+39,ELECTIVE 10,,,,,,4,,,9
+40,ELECTIVE 11,,,,,,4,,,10
+41,ELECTIVE 12,,,,,,4,,,10
+42,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,11
+43,ELECTIVE 13,,,,,,4,,,11
+44,UD ELECTIVE,,,,,,4,,,12

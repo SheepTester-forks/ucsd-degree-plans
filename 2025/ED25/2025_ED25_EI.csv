@@ -1,0 +1,57 @@
+Curriculum,Education Sciences,,,,,,,,,
+Degree Plan,Education Sciences/ Eighth,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,13.0101,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+8,EDS LOWER - DIVISION,,,,,,2,,,4
+9,EDS UD - DIVERSE SOCIETY,,,,,,4,,,7
+10,EDS UD - LEARNING DEV 1,,,,,,4,,,7
+1,EDS 103,EDS,103,,,,4,,,8
+11,EDS UD - LEARNING DEV 2,,,,,,4,,,8
+2,EDS 102,EDS,102,,,,4,,,9
+12,EDS UD ELECTIVE 1,,,,,,4,,,9
+13,EDS UD: INTRODUCTION TO LEARNING CONTEXTS,,,,,,4,,,10
+3,EDS 139 1,EDS,139,,,,2,,,10
+14,EDS UD ELECTIVE 2,,,,,,4,,,10
+15,EDS CAPSTONE 1,,,,,,4,,,11
+16,EDS 139 2,EDS,139,,,,2,,,11
+17,EDS UD ELECTIVE 3,,,,,,4,,,11
+18,EDS CAPSTONE 2,,,,,,4,,,12
+19,EDS 139 3,EDS,139,,,,2,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+20,BREADTH GE 1,,,,,,4,,,1
+21,BREADTH GE 2,,,,,,4,,,1
+22,DEI,,,,,,4,,,1
+4,CCE 1,CCE,1,,,,4,,,2
+23,BREADTH GE 3,,,,,,4,,,2
+24,ELECTIVE 1,,,,,,4,,,2
+25,ELECTIVE 2,,,,,,4,,,2
+26,BREADTH GE 4,,,,,,4,,,3
+27,ELECTIVE 3,,,,,,4,,,3
+28,ELECTIVE 4,,,,,,4,,,3
+29,ELECTIVE 5,,,,,,4,,,3
+5,CCE 2,CCE,2,4,,,4,,,4
+30,BREADTH GE 5,,,,,,4,,,4
+31,JTCCER,,,,,,4,,,4
+32,BREADTH GE 6,,,,,,4,,,5
+33,ELECTIVE 6,,,,,,4,,,5
+34,ELECTIVE 7,,,,,,4,,,5
+35,ELECTIVE 8,,,,,,4,,,5
+6,CCE 3,CCE,3,5,,,4,,,6
+36,BREADTH GE 7,,,,,,4,,,6
+37,ELECTIVE 9,,,,,,4,,,6
+38,ELECTIVE 10,,,,,,4,,,6
+39,BREADTH GE 8,,,,,,4,,,7
+40,BREADTH GE 9,,,,,,4,,,7
+41,ELECTIVE 11,,,,,,4,,,8
+42,ELECTIVE 12,,,,,,4,,,8
+7,CCE 120,CCE,120,6,,,4,,,9
+43,ELECTIVE 13,,,,,,4,,,9
+44,ELECTIVE 14,,,,,,4,,,10
+45,ELECTIVE 15,,,,,,4,,,11
+46,UD ELECTIVE 1,,,,,,4,,,12
+47,UD ELECTIVE 2,,,,,,4,,,12

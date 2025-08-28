@@ -44,15 +44,15 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 25,CCE 1,CCE,1,,,,4,,,2
 38,BREADTH GE 1,,,,,,4,,,3
 26,CCE 2,CCE,2,25,,,4,,,4
-39,BREADTH GE 2,,,,,,4,,,5
+39,JTCCER,,,,,,4,,,5
 27,CCE 3,CCE,3,26,,,4,,,6
-40,BREADTH GE 3,,,,,,4,,,7
-41,BREADTH GE 4,,,,,,4,,,7
-42,BREADTH GE 5,,,,,,4,,,8
-43,ELECTIVE 1,,,,,,4,,,8
-28,CCE 120,CCE,120,,,,4,,,9
+40,BREADTH GE 2,,,,,,4,,,7
+41,BREADTH GE 3,,,,,,4,,,7
+42,BREADTH GE 4,,,,,,4,,,8
+43,BREADTH GE 5,,,,,,4,,,8
+28,CCE 120,CCE,120,27,,,4,,,9
 44,BREADTH GE 6,,,,,,4,,,10
-45,ELECTIVE 2,,,,,,2,,,10
+45,ELECTIVE 1,,,,,,2,,,10
 46,UD ELECTIVE 1,,,,,,4,,,11
 47,UD ELECTIVE 2,,,,,,4,,,12
-48,ELECTIVE 3,,,,,,4,,,12
+48,ELECTIVE 2,,,,,,4,,,12

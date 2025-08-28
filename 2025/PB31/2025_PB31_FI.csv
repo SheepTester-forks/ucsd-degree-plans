@@ -1,0 +1,54 @@
+Curriculum,Public Health with Concentration in Medicine Sciences,,,,,,,,,
+Degree Plan,Public Health with Concentration in Medicine Sciences/ ERC,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,MATH 10A / 20A,MATH,10A,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+2,PH 40,PH,40,,,,4,,,1
+4,BILD 1,BILD,1,,,,4,,,1
+7,MATH 10B / 20B,MATH,10B,3,,,4,,,2
+6,CHEM 6B,CHEM,6B,1;3,,,4,,,2
+5,BILD 2,BILD,2,4,,,4,,,2
+8,BILD 3,BILD,3,,,,4,,,3
+9,CHEM 6C,CHEM,6C,6,,,4,,,3
+10,CHEM 7L,CHEM,7L,6,,,4,,,3
+23,QUANTITATIVE METHODS (STATS),,,,,,4,,,4
+24,LD PH __,,,,,,4,,,4
+25,NATURAL SCIENCE 1,,,,,,4,,,4
+26,LD PH __ (TRENDING TOPICS),,,,,,4,,,5
+27,NATURAL SCIENCE 2,,,,,,4,,,5
+11,PH 45,PH,45,2,,,4,,,5
+12,PH 110,PH,110,2,,,4,,,6
+28,NATURAL SCIENCE 3,,,,,,4,,,6
+13,PH 101 / PH 102 1,PH,101,2,,,4,,,7
+29,PH UDE 1,,,,,,4,,,7
+30,PH 101 / PH 102 2,PH,101,2,,,4,,,8
+14,USP 143,USP,143,,,,4,,,8
+15,PH 120 / PH 130 1,PH,120,2,,,4,,,9
+31,PH UDE 2,,,,,,4,,,9
+32,CONCENTRATION UDE 1,,,,,,4,,,10
+33,PH 120 / PH 130 2,PH,120,2,,,4,,,10
+34,CONCENTRATION UDE 2,,,,,,4,,,11
+16,PH 193,PH,193,2;11;13;12;15,,,4,,,11
+17,PH 194,PH,194,2;11;13;12;15;16,,,4,,,12
+35,CONCENTRATION UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,MMW 11,MMW,11,,,,4,,,1
+19,MMW 12,MMW,12,,,,6,,,2
+20,MMW 13,MMW,13,19,,,6,,,3
+36,GE 1,,,,,,4,,,4
+21,MMW 14,MMW,14,19;20,,,4,,,5
+22,MMW 15,MMW,15,19;20,,,4,,,6
+37,GE 2,,,,,,4,,,6
+38,GE 3,,,,,,4,,,7
+39,GE 4,,,,,,4,,,7
+40,GE 5,,,,,,4,,,8
+41,GE 6,,,,,,4,,,9
+42,GE / DEI,,,,,,4,,,10
+43,GE 7,,,,,,4,,,11
+44,ELECTIVE,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Global Health,,,,,,,,,
+Degree Plan,Global Health/ Muir,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2210,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,BILD 1,BILD,1,,,,4,,,1
+2,BILD 2,BILD,2,1,,,4,,,2
+3,MATH 10A / MATH 20A,MATH,10A,,,,4,,,2
+4,MATH 10B / MATH 20B,MATH,10B,3,,,4,,,3
+5,CHEM 6A,CHEM,6A,3,,,4,,,3
+6,BILD 3,BILD,3,,,,4,,,4
+7,CHEM 6B,CHEM,6B,5,,,4,,,4
+16,MAJOR LD INTRO CORE 1,,,,,,4,,,4
+8,CHEM 6C,CHEM,6C,7,,,4,,,5
+17,MAJOR LD INTRO CORE 2,,,,,,4,,,5
+9,PSYC 60 / MATH 11,PSYC,60,,,,4,,,6
+10,CHEM 7L,CHEM,7L,7,,,4,,,6
+11,GLBH 148,GLBH,148,,,,4,,,7
+18,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 1,,,,,,4,,,7
+19,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 2,,,,,,4,,,8
+12,GLBH 181,GLBH,181,,,,4,,,8
+13,MGT 173,MGT,173,,,,4,,,9
+20,MAJOR UD ELECTIVE (BIOLOGICAL SCIENCE) 3,,,,,,4,,,9
+21,MAJOR UD ELECTIVE (MEDICAL HUMANITIES),,,,,,4,,,10
+22,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 1,,,,,,4,,,10
+23,MAJOR UD CORE POLICY ANALYSIS,,,,,,4,,,11
+24,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 2,,,,,,4,,,11
+25,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 3,,,,,,4,,,12
+26,MAJOR UD ELECTIVE (MEDICAL SOCIAL SCIENCE) 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+14,MCWP 40,MCWP,40,,,,4,,,1
+27,GE 1,,,,,,4,,,1
+28,GE 2,,,,,,4,,,1
+15,MCWP 50,MCWP,50,14,,,4,,,2
+29,GE 3,,,,,,4,,,2
+30,GE 4,,,,,,4,,,3
+31,GE 5,,,,,,4,,,3
+32,GE 6,,,,,,4,,,4
+33,GE 7,,,,,,4,,,5
+34,GE 8,,,,,,4,,,5
+35,GE 9,,,,,,4,,,6
+36,JTCCER,,,,,,4,,,6
+37,MUIR UD ELECTIVE 1,,,,,,4,,,7
+38,DEI,,,,,,4,,,7
+39,MUIR UD ELECTIVE 2,,,,,,4,,,8
+40,ELECTIVE 1,,,,,,4,,,8
+41,MUIR UD ELECTIVE 3,,,,,,4,,,9
+42,ELECTIVE 2,,,,,,4,,,9
+43,ELECTIVE 3,,,,,,4,,,10
+44,ELECTIVE 4,,,,,,4,,,11
+45,ELECTIVE 5,,,,,,4,,,12

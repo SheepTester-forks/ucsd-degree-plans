@@ -7,48 +7,48 @@ CIP,45.1099,,,,,,,,,
 Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
 1,POLI 12D,POLI,12D,,,,4,,,1
-9,LD POLI 1,,,,,,4,,,2
-3,POLI 30D,POLI,30D,,,,4,,,3
-10,LD POLI 2,,,,,,4,,,4
-11,UD POLI 1,,,,,,4,,,5
-12,UD POLI / INTERNATIONAL RELATIONS 1,,,,,,4,,,6
-13,UD POLI / INTERNATIONAL RELATIONS 2,,,,,,4,,,7
-14,UD POLI 2,,,,,,4,,,7
-15,UD POLI / INTERNATIONAL RELATIONS 3,,,,,,4,,,8
-16,UD POLI 3,,,,,,4,,,8
-17,UD POLI / INTERNATIONAL RELATIONS 4,,,,,,4,,,9
-18,UD POLI 4,,,,,,4,,,9
-19,UD POLI 5,,,,,,4,,,10
-20,UD POLI / INTERNATIONAL RELATIONS 5,,,,,,4,,,10
-21,UD POLI 6,,,,,,4,,,11
-22,UD POLI 7,,,,,,4,,,12
+7,LD POLI 1,,,,,,4,,,2
+2,POLI 30D,POLI,30D,,,,4,,,3
+8,LD POLI 2,,,,,,4,,,4
+9,UD POLI 1,,,,,,4,,,5
+10,UD POLI / INTERNATIONAL RELATIONS 1,,,,,,4,,,6
+11,UD POLI / INTERNATIONAL RELATIONS 2,,,,,,4,,,7
+12,UD POLI 2,,,,,,4,,,7
+13,UD POLI / INTERNATIONAL RELATIONS 3,,,,,,4,,,8
+14,UD POLI 3,,,,,,4,,,8
+15,UD POLI / INTERNATIONAL RELATIONS 4,,,,,,4,,,9
+16,UD POLI 4,,,,,,4,,,9
+17,UD POLI 5,,,,,,4,,,10
+18,UD POLI / INTERNATIONAL RELATIONS 5,,,,,,4,,,10
+19,UD POLI 6,,,,,,4,,,11
+20,UD POLI 7,,,,,,4,,,12
 Additional Courses,,,,,,,,,,
 Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
-5,CAT 1,CAT,1,,,,4,,,1
-23,GE 1,,,,,,4,,,1
-24,GE 2,,,,,,4,,,1
-6,CAT 2,CAT,2,5,,,6,,,2
-25,GE 3,,,,,,4,,,2
-26,ELECTIVE 1,,,,,,4,,,2
-7,CAT 3,CAT,3,6,,,6,,,3
-27,GE / DEI,,,,,,4,,,3
-28,ELECTIVE 2,,,,,,4,,,3
-29,GE / CCER,,,,,,4,,,4
-30,ELECTIVE 3,,,,,,4,,,4
-31,ELECTIVE 4,,,,,,4,,,4
-32,GE 4,,,,,,4,,,5
-33,ELECTIVE 5,,,,,,4,,,5
-34,ELECTIVE 6,,,,,,4,,,5
-35,GE 5,,,,,,4,,,6
-36,ELECTIVE 7,,,,,,4,,,6
-37,ELECTIVE 8,,,,,,4,,,6
-38,GE 6,,,,,,4,,,7
-39,ELECTIVE 9,,,,,,4,,,7
-40,GE 7,,,,,,4,,,8
-41,ELECTIVE 10,,,,,,4,,,8
-8,CAT 125 / EXPERIENTIAL LEARNING,CAT,125,,,,4,,,9
-42,EXPERIENTIAL LEARNING / CAT 125,CAT,125,,,,4,,,10
-43,UD ELECTIVE,,,,,,4,,,11
-44,ELECTIVE 11,,,,,,4,,,11
-45,ELECTIVE 12,,,,,,4,,,12
-46,ELECTIVE 13,,,,,,4,,,12
+3,CAT 1,CAT,1,,,,4,,,1
+21,GE 1,,,,,,4,,,1
+22,GE 2,,,,,,4,,,1
+4,CAT 2,CAT,2,3,,,6,,,2
+23,GE 3,,,,,,4,,,2
+24,ELECTIVE 1,,,,,,4,,,2
+5,CAT 3,CAT,3,4,,,6,,,3
+25,GE / DEI,,,,,,4,,,3
+26,ELECTIVE 2,,,,,,4,,,3
+27,GE / CCER,,,,,,4,,,4
+28,ELECTIVE 3,,,,,,4,,,4
+29,ELECTIVE 4,,,,,,4,,,4
+30,GE 4,,,,,,4,,,5
+31,ELECTIVE 5,,,,,,4,,,5
+32,ELECTIVE 6,,,,,,4,,,5
+33,GE 5,,,,,,4,,,6
+34,ELECTIVE 7,,,,,,4,,,6
+35,ELECTIVE 8,,,,,,4,,,6
+36,GE 6,,,,,,4,,,7
+37,ELECTIVE 9,,,,,,4,,,7
+38,GE 7,,,,,,4,,,8
+39,ELECTIVE 10,,,,,,4,,,8
+6,CAT 125 / EXPERIENTIAL LEARNING,CAT,125,,,,4,,,9
+40,EXPERIENTIAL LEARNING / CAT 125,CAT,125,,,,4,,,10
+41,UD ELECTIVE,,,,,,4,,,11
+42,ELECTIVE 11,,,,,,4,,,11
+43,ELECTIVE 12,,,,,,4,,,12
+44,ELECTIVE 13,,,,,,4,,,12

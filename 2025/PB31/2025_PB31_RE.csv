@@ -1,0 +1,53 @@
+Curriculum,Public Health with Concentration in Medicine Sciences,,,,,,,,,
+Degree Plan,Public Health with Concentration in Medicine Sciences/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2299,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+2,PH 40,PH,40,,,,4,,,1
+3,MATH 10A / 20A,MATH,10A,,,,4,,,1
+4,BILD 1,BILD,1,,,,4,,,1
+1,CHEM 6A,CHEM,6A,,,,4,,,1
+7,MATH 10B / 20B,MATH,10B,3,,,4,,,2
+5,BILD 2,BILD,2,4,,,4,,,2
+6,CHEM 6B,CHEM,6B,1;3,,,4,,,2
+8,BILD 3,BILD,3,,,,4,,,3
+9,CHEM 6C,CHEM,6C,6,,,4,,,3
+10,CHEM 7L,CHEM,7L,6,,,4,,,3
+24,LD PH __,,,,,,4,,,4
+25,PH NATURAL SCIENCE / PHYSICS GE,,,,,,4,,,4
+20,PH QUANTITATIVE METHODS / MATH GE (PSYC 60 / MATH 11),PSYC,60,,,,4,,,4
+11,PH 45,PH,45,2,,,4,,,5
+26,PH NATURAL SCIENCE 1,,,,,,4,,,5
+27,LD PH __ (TRENDING TOPICS),,,,,,4,,,5
+12,PH 110,PH,110,2,,,4,,,6
+28,PH NATURAL SCIENCE 2,,,,,,4,,,6
+13,PH 101 / PH 102 1,PH,101,2;20,,,4,,,7
+29,PH UDE 1,,,,,,4,,,7
+30,PH 101 / PH 102 2,PH,101,2;20,,,4,,,8
+14,USP 143,USP,143,,,,4,,,8
+15,PH 120 / PH 130 1,PH,120,2,,,4,,,9
+31,PH UDE 2,,,,,,4,,,9
+32,PH 120 / PH 130 2,PH,120,2,,,4,,,10
+33,PH CONCENTRATION UDE 1,,,,,,4,,,10
+16,PH 193,PH,193,2;11;13;12;15,,,4,,,11
+34,PH CONCENTRATION UDE 2,,,,,,4,,,11
+17,PH 194,PH,194,2;11;13;12;15;16,,,4,,,12
+35,PH CONCENTRATION UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+18,HUM 1,HUM,1,,,,6,,,2
+19,HUM 2,HUM,2,,,,6,,,3
+21,HUM 3,HUM,3,18,,,4,,,4
+22,HUM 4,HUM,4,,,,4,,,5
+23,HUM 5,HUM,5,,,,4,,,6
+36,SOCIAL SCIENCE GE / DEI,,,,,,4,,,6
+37,LANGUAGE 1,,,,,,5,,,7
+38,LANGUAGE 2,,,,,,5,,,8
+39,LANGUAGE 3,,,,,,5,,,9
+40,LANGUAGE 4,,,,,,5,,,10
+41,SOCIAL SCIENCE GE / JTCCER,,,,,,4,,,11
+42,UD FINE ARTS GE,,,,,,4,,,11
+43,UD ELECTIVE,,,,,,4,,,12

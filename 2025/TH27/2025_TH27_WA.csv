@@ -1,0 +1,55 @@
+Curriculum,Dance,,,,,,,,,
+Degree Plan,Dance/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,50.0301,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+7,LD STUDIES 1,,,,,,4,,,1
+8,LD TDMV 1,,,,,,4,,,1
+1,TDPR 6,TDPR,6,,,,4,,,2
+9,LD TDMV 2,,,,,,4,,,3
+10,UD TDMV 1,,,,,,4,,,4
+11,LD STUDIES 2,,,,,,4,,,4
+12,UD TDPF,,,,,,4,,,5
+13,UD TDTR,,,,,,4,,,5
+14,UD TDHD 1,,,,,,4,,,6
+15,UD TDHD 2,,,,,,4,,,7
+16,UD TDMV 2,,,,,,4,,,7
+17,UD TDMV 3,,,,,,4,,,8
+2,TDDM 1,TDDM,1,,,,4,,,8
+18,UD TDDM,,,,,,4,,,9
+19,UD TDMV 4,,,,,,4,,,9
+20,UD TDMV 5,,,,,,4,,,10
+21,UD TDMV 6,,,,,,4,,,11
+22,UD TDMV 7,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+3,WCWP 10A,WCWP,10A,,,,4,,,1
+4,WCWP 10B,WCWP,10B,3,,,4,,,2
+23,GE 1,,,,,,4,,,2
+5,PHIL 27 / POLI 27,PHIL,27,3;4,,,4,,,3
+24,GE 2,,,,,,4,,,3
+25,GE 3,,,,,,4,,,3
+6,PHIL 28 / POLI 28,PHIL,28,5,,,4,,,4
+26,GE 4,,,,,,4,,,4
+27,GE / JTCCER,,,,,,4,,,5
+28,GE 5,,,,,,4,,,5
+29,GE / DEI,,,,,,4,,,6
+30,GE 6,,,,,,4,,,6
+31,GE 7,,,,,,4,,,6
+32,GE 8,,,,,,4,,,7
+33,GE 9,,,,,,4,,,7
+34,GE 10,,,,,,4,,,8
+35,GE 11,,,,,,4,,,8
+36,GE 12,,,,,,4,,,9
+37,ELECTIVE 1,,,,,,4,,,9
+38,ELECTIVE 2,,,,,,4,,,10
+39,ELECTIVE 3,,,,,,4,,,10
+40,ELECTIVE 4,,,,,,4,,,10
+41,ELECTIVE 5,,,,,,4,,,11
+42,ELECTIVE 6,,,,,,4,,,11
+43,ELECTIVE 7,,,,,,4,,,11
+44,ELECTIVE 8,,,,,,4,,,12
+45,ELECTIVE 9,,,,,,4,,,12

@@ -1,0 +1,53 @@
+Curriculum,Media Industries and Communication,,,,,,,,,
+Degree Plan,Media Industries and Communication/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BA,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,09.0199,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,COMM 10 (DEI),COMM,10,,,,4,,,4
+2,COMM 20,COMM,20,,,,4,,,5
+3,COMM 100C,COMM,100C,1,,,4,,,6
+4,COMM 100A,COMM,100A,1,,,4,,,7
+5,COMM 106,COMM,106,1,,,4,,,7
+12,COMM 106 INDUSTRY ELECTIVE 1,COMM,106,1,,,4,,,8
+13,COMM UD ELECTIVE 1,,,,,,4,,,8
+14,COMM 106 INDUSTRY ELECTIVE 2,COMM,106,1,,,4,,,9
+15,COMM UD ELECTIVE 2,,,,,,4,,,9
+16,COMM PRACTICE COURSE,,,,,,4,,,10
+17,COMM ADVANCED ELECTIVE 1,,,,,,4,,,10
+18,COMM UD ELECTIVE 3,,,,,,4,,,10
+19,COMM / NON - COMM PRACTICE COURSE,,,,,,4,,,11
+20,COMM ADVANCED ELECTIVE 2,,,,,,4,,,11
+21,COMM ADVANCED ELECTIVE 3,,,,,,4,,,12
+22,COMM UD ELECTIVE 4,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+6,MATH 10A / 20A,MATH,10A,,,,4,,,1
+23,BIOLOGY GE,,,,,,4,,,1
+24,FINE ARTS GE,,,,,,4,,,1
+25,JTCCER,,,,,,4,,,1
+7,HUM 1,HUM,1,,,,6,,,2
+26,MATH GE 1,,,,,,4,,,2
+27,CHEMISTRY GE,,,,,,4,,,2
+8,HUM 2,HUM,2,,,,6,,,3
+28,MATH GE 2,,,,,,4,,,3
+29,PHYSICS GE,,,,,,4,,,3
+9,HUM 3,HUM,3,7,,,4,,,4
+30,LANGUAGE 1,,,,,,5,,,4
+10,HUM 4,HUM,4,,,,4,,,5
+31,LANGUAGE 2,,,,,,5,,,5
+32,ELECTIVE 1,,,,,,4,,,5
+11,HUM 5,HUM,5,,,,4,,,6
+33,LANGUAGE 3,,,,,,5,,,6
+34,ELECTIVE 2,,,,,,4,,,6
+35,LANGUAGE 4,,,,,,5,,,7
+36,NATURAL SCIENCE GE 1,,,,,,4,,,8
+37,ELECTIVE 3,,,,,,4,,,8
+38,NATURAL SCIENCE GE 2,,,,,,4,,,9
+39,ELECTIVE 4,,,,,,4,,,9
+40,ELECTIVE 5,,,,,,4,,,10
+41,ELECTIVE 6,,,,,,4,,,11
+42,UD ELECTIVE,,,,,,4,,,12
+43,ELECTIVE 7,,,,,,4,,,12

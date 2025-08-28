@@ -1,0 +1,53 @@
+Curriculum,,,,,,,,,,
+Degree Plan,/ Revelle,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,24.0103,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / 20A,MATH,10A,,,,4,,,1
+7,BIOLOGY GE,,,,,,4,,,1
+8,SOCIAL SCIENCE GE 1,,,,,,4,,,1
+2,HUM 1,HUM,1,,,,6,,,2
+9,MATH GE 1,,,,,,4,,,2
+10,SOCIAL SCIENCE GE 2,,,,,,4,,,2
+3,HUM 2,HUM,2,,,,6,,,3
+11,MATH GE 2,,,,,,4,,,3
+12,NATURAL SCIENCE GE,,,,,,4,,,3
+4,HUM 3,HUM,3,2,,,4,,,4
+13,LANGUAGE 1,,,,,,5,,,4
+14,CHEMISTRY GE,,,,,,4,,,4
+5,HUM 4,HUM,4,,,,4,,,5
+15,LANGUAGE 2,,,,,,5,,,5
+16,NATURAL SCIENCE GE / JTCCER,,,,,,4,,,5
+6,HUM 5,HUM,5,,,,4,,,6
+17,LANGUAGE 3,,,,,,5,,,6
+18,PHYSICS GE,,,,,,4,,,6
+19,FINE ARTS GE,,,,,,4,,,6
+20,UD MAJOR 1,,,,,,4,,,7
+21,LANGUAGE 4,,,,,,5,,,7
+22,ELECTIVE 1,,,,,,4,,,7
+23,ELECTIVE 2,,,,,,4,,,7
+24,UD MAJOR 2,,,,,,4,,,8
+25,UD MAJOR 3,,,,,,4,,,8
+26,DEI,,,,,,4,,,8
+27,ELECTIVE 3,,,,,,4,,,8
+28,UD MAJOR 4,,,,,,4,,,9
+29,UD MAJOR 5,,,,,,4,,,9
+30,UD ELECTIVE 1,,,,,,4,,,9
+31,ELECTIVE 4,,,,,,4,,,9
+32,UD MAJOR 6,,,,,,4,,,10
+33,UD MAJOR 7,,,,,,4,,,10
+34,UD ELECTIVE 2,,,,,,4,,,10
+35,ELECTIVE 5,,,,,,4,,,10
+36,UD MAJOR 8,,,,,,4,,,11
+37,UD MAJOR 9,,,,,,4,,,11
+38,UD ELECTIVE 3,,,,,,4,,,11
+39,ELECTIVE 6,,,,,,4,,,11
+40,UD MAJOR 10,,,,,,4,,,12
+41,UD MAJOR 11,,,,,,4,,,12
+42,UD MAJOR 12,,,,,,4,,,12
+43,ELECTIVE 7,,,,,,4,,,12

@@ -1,0 +1,55 @@
+Curriculum,Public Health,,,,,,,,,
+Degree Plan,Public Health/ Warren,,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,51.2201,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,PH 40,PH,40,,,,4,,,1
+14,LD PH __,,,,,,4,,,1
+2,BILD 3,BILD,3,,,,4,,,2
+15,LD PH __ (TRENDING TOPICS),,,,,,4,,,2
+16,QUANTITATIVE METHODS (STATS),,,,,,4,,,3
+17,LD BIOLOGY 1,,,,,,4,,,4
+4,PH 45,PH,45,1,,,4,,,5
+3,PH 110,PH,110,1,,,4,,,5
+18,LD BIOLOGY 2,,,,,,4,,,6
+5,PH 101 / PH 102 1,PH,101,1,,,4,,,7
+19,PH UDE 1,,,,,,4,,,7
+20,PH 101 / PH 102 2,PH,101,1,,,4,,,8
+6,USP 143,USP,143,,,,4,,,8
+7,PH 120 / PH 130 1,PH,120,1,,,4,,,9
+21,PH UDE 2,,,,,,4,,,9
+22,PH 120 / PH 130 2,PH,120,1,,,4,,,10
+23,UDE 1,,,,,,4,,,10
+8,PH 193,PH,193,1;4;5;3;7,,,4,,,11
+24,UDE 2,,,,,,4,,,11
+9,PH 194,PH,194,1;4;5;3;7;8,,,4,,,12
+25,UDE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+10,WCWP 10A,WCWP,10A,,,,4,,,1
+11,WCWP 10B,WCWP,10B,10,,,4,,,2
+26,GE 1,,,,,,4,,,2
+12,PHIL 27 / POLI 27,PHIL,27,10;11,,,4,,,3
+27,GE 2,,,,,,4,,,3
+28,GE 3,,,,,,4,,,3
+13,PHIL 28 / POLI 28,PHIL,28,12,,,4,,,4
+29,GE 4,,,,,,4,,,4
+30,ELECTIVE 1,,,,,,4,,,4
+31,GE / JTCCER,,,,,,4,,,5
+32,ELECTIVE 2,,,,,,4,,,5
+33,GE / DEI,,,,,,4,,,6
+34,GE 5,,,,,,4,,,6
+35,ELECTIVE 3,,,,,,4,,,6
+36,GE 6,,,,,,4,,,7
+37,ELECTIVE 4,,,,,,4,,,7
+38,GE 7,,,,,,4,,,8
+39,ELECTIVE 5,,,,,,4,,,8
+40,GE 8,,,,,,4,,,9
+41,ELECTIVE 6,,,,,,4,,,9
+42,GE 9,,,,,,4,,,10
+43,ELECTIVE 7,,,,,,4,,,10
+44,GE 10,,,,,,4,,,11
+45,GE 11,,,,,,4,,,12

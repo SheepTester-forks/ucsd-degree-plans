@@ -1,0 +1,57 @@
+Curriculum,"Ecology, Behavior and Evolution",,,,,,,,,
+Degree Plan,"Ecology, Behavior and Evolution/ Sixth",,,,,,,,,
+Institution,"University of California, San Diego",,,,,,,,,
+Degree Type,BS,,,,,,,,,
+System Type,Quarter,,,,,,,,,
+CIP,26.1399,,,,,,,,,
+Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+1,MATH 10A / MATH 20A,MATH,10A,,,,4,,,1
+2,CHEM 6A,CHEM,6A,,,,4,,,1
+3,BILD 4,BILD,4,,,,2,,,1
+5,MATH 10B / MATH 20B,MATH,10B,1,,,4,,,2
+6,CHEM 6B,CHEM,6B,2;1,,,4,,,2
+4,BILD 5,BILD,5,,,,4,,,2
+7,MATH 11,MATH,11,5,,,5,,,3
+9,CHEM 6C,CHEM,6C,6,,,4,,,3
+8,BILD 3,BILD,3,,,,4,,,3
+10,BILD 1,BILD,1,,,,4,,,4
+11,PHYS 1A,PHYS,1A,1,,,3,,,4
+12,PHYS 1AL,PHYS,1AL,1,,,2,,,4
+13,PHYS 1B,PHYS,1B,5;11,,,3,,,5
+14,PHYS 1BL,PHYS,1BL,5;11;12,,,2,,,5
+15,BIEB 102,BIEB,102,8,,,4,,,5
+16,BILD 2,BILD,2,10,,,4,,,5
+17,PHYS 1C,PHYS,1C,5;13,,,3,,,6
+18,PHYS 1CL,PHYS,1CL,5;13;14,,,2,,,6
+19,BICD 100,BICD,100,10;8,,,4,,,6
+20,BIEB 150,BIEB,150,8;10,,,4,,,7
+25,UD EBE LAB,,,,,,4,,,7
+26,UD BIOLOGY LAB,,,,,,4,,,8
+27,UD EBE CORE 1,,,,,,4,,,8
+28,UD BIOLOGY ELECTIVE 1,,,,,,4,,,9
+29,UD EBE CORE 2,,,,,,4,,,9
+30,UD EBE CORE 3,,,,,,4,,,10
+31,UD EBE CORE 4,,,,,,4,,,10
+32,UD BIOLOGY ELECTIVE 2,,,,,,4,,,11
+33,UD BIOLOGY ELECTIVE 3,,,,,,4,,,12
+Additional Courses,,,,,,,,,,
+Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisites,Credit Hours,Institution,Canonical Name,Term
+21,CAT 1,CAT,1,,,,4,,,1
+22,CAT 2,CAT,2,21,,,6,,,2
+23,CAT 3,CAT,3,22,,,6,,,3
+34,GE (DEI),,,,,,4,,,4
+35,JTCCER,,,,,,4,,,4
+36,GE 1,,,,,,4,,,5
+37,GE 2,,,,,,4,,,6
+38,GE 3,,,,,,4,,,6
+39,GE 4,,,,,,4,,,7
+40,GE 5,,,,,,4,,,7
+41,GE 6,,,,,,4,,,8
+24,EXPERIENTIAL LEARNING / CAT 125 1,CAT,125,,,,4,,,9
+42,EXPERIENTIAL LEARNING / CAT 125 2,CAT,125,,,,4,,,10
+43,ELECTIVE 1,,,,,,2,,,10
+44,UD ELECTIVE,,,,,,4,,,11
+45,ELECTIVE 2,,,,,,4,,,11
+46,ELECTIVE 3,,,,,,4,,,12
+47,ELECTIVE 4,,,,,,4,,,12

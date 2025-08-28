@@ -22,9 +22,9 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 14,PHYS 1B,PHYS,1B,4;10;11,,,3,,,5
 15,PHYS 1BL,PHYS,1BL,4;10;11,,,2,,,5
 16,BIEB 150,BIEB,150,6;9,,,4,,,5
-24,UD BIEB LAB,,,,,,4,,,6
 17,PHYS 1C,PHYS,1C,7;14;15,,,3,,,6
 18,PHYS 1CL,PHYS,1CL,7;14;15,,,2,,,6
+24,UD BIEB LAB,,,,,,4,,,6
 19,BIEB 102,BIEB,102,6,,,4,,,7
 25,UD BIEB CORE 1,,,,,,4,,,7
 20,BICD 100,BICD,100,9,,,4,,,8

@@ -49,7 +49,7 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 17,CCE 3,CCE,3,,,,4,,,6
 41,BREADTH GE 3,,,,,,4,,,7
 42,BREADTH GE 4,,,,,,4,,,8
-18,CCE 120,CCE,120,,,,4,,,9
+18,CCE 120,CCE,120,17,,,4,,,9
 43,BREADTH GE 5,,,,,,4,,,10
 44,BREADTH GE 6,,,,,,4,,,10
 45,BREADTH GE 7,,,,,,4,,,12

@@ -42,13 +42,13 @@ Course ID,Course Name,Prefix,Number,Prerequisites,Corequisites,Strict-Corequisit
 33,GE 9,,,,,,4,,,5
 34,GE 10,,,,,,4,,,5
 15,MMW 15,MMW,15,12;13,,,4,,,6
-35,ELECTIVE 1,,,,,,4,,,7
-36,ELECTIVE 2,,,,,,4,,,7
-37,ELECTIVE 3,,,,,,4,,,8
-38,ELECTIVE 4,,,,,,4,,,8
-39,ELECTIVE 5,,,,,,4,,,9
-40,ELECTIVE 6,,,,,,4,,,9
+35,DEI,,,,,,4,,,7
+36,ELECTIVE 1,,,,,,4,,,7
+37,ELECTIVE 2,,,,,,4,,,8
+38,ELECTIVE 3,,,,,,4,,,8
+39,ELECTIVE 4,,,,,,4,,,9
+40,ELECTIVE 5,,,,,,4,,,9
 41,GE 11,,,,,,4,,,10
 42,UD ELECTIVE,,,,,,4,,,11
-43,ELECTIVE 7,,,,,,4,,,12
-44,ELECTIVE 8,,,,,,2,,,12
+43,ELECTIVE 6,,,,,,4,,,12
+44,ELECTIVE 7,,,,,,2,,,12
